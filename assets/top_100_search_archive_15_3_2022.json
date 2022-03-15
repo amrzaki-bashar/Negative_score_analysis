@@ -1,0 +1,227 @@
+{
+    "took" : 959,
+    "timed_out" : false,
+    "_shards" : {
+      "total" : 1,
+      "successful" : 1,
+      "skipped" : 0,
+      "failed" : 0
+    },
+    "hits" : {
+      "total" : {
+        "value" : 10000,
+        "relation" : "gte"
+      },
+      "max_score" : null,
+      "hits" : [ ]
+    },
+    "aggregations" : {
+      "search_query" : {
+        "doc_count_error_upper_bound" : 0,
+        "sum_other_doc_count" : 6373595,
+        "buckets" : [
+          {
+            "key" : "accountant",
+            "doc_count" : 226568
+          },
+          {
+            "key" : "hr",
+            "doc_count" : 205901
+          },
+          {
+            "key" : "work from home",
+            "doc_count" : 111720
+          },
+          {
+            "key" : "mechanical engineer",
+            "doc_count" : 105404
+          },
+          {
+            "key" : "electrical engineer",
+            "doc_count" : 101225
+          },
+          {
+            "key" : "civil engineer",
+            "doc_count" : 98772
+          },
+          {
+            "key" : "sales",
+            "doc_count" : 96869
+          },
+          {
+            "key" : "graphic designer",
+            "doc_count" : 96382
+          },
+          {
+            "key" : "it",
+            "doc_count" : 91149
+          },
+          {
+            "key" : "marketing",
+            "doc_count" : 90843
+          },
+          {
+            "key" : "engineer",
+            "doc_count" : 85709
+          },
+          {
+            "key" : "customer service",
+            "doc_count" : 70501
+          },
+          {
+            "key" : "supply chain",
+            "doc_count" : 69254
+          },
+          {
+            "key" : "logistics",
+            "doc_count" : 61836
+          },
+          {
+            "key" : "internship",
+            "doc_count" : 58724
+          },
+          {
+            "key" : "data entry",
+            "doc_count" : 58367
+          },
+          {
+            "key" : "quality",
+            "doc_count" : 57601
+          },
+          {
+            "key" : "office manager",
+            "doc_count" : 48886
+          },
+          {
+            "key" : "human resources",
+            "doc_count" : 48398
+          },
+          {
+            "key" : "procurement",
+            "doc_count" : 47779
+          },
+          {
+            "key" : "call center",
+            "doc_count" : 43363
+          },
+          {
+            "key" : "automotive",
+            "doc_count" : 41716
+          },
+          {
+            "key" : "production engineer",
+            "doc_count" : 39897
+          },
+          {
+            "key" : "real estate",
+            "doc_count" : 39406
+          },
+          {
+            "key" : "mechanical",
+            "doc_count" : 38993
+          },
+          {
+            "key" : "warehouse",
+            "doc_count" : 38125
+          },
+          {
+            "key" : "electrical",
+            "doc_count" : 37659
+          },
+          {
+            "key" : "php",
+            "doc_count" : 36901
+          },
+          {
+            "key" : "production",
+            "doc_count" : 36870
+          },
+          {
+            "key" : "flutter",
+            "doc_count" : 36211
+          },
+          {
+            "key" : "manager",
+            "doc_count" : 35210
+          },
+          {
+            "key" : "receptionist",
+            "doc_count" : 33653
+          },
+          {
+            "key" : "digital marketing",
+            "doc_count" : 33643
+          },
+          {
+            "key" : "purchasing",
+            "doc_count" : 33359
+          },
+          {
+            "key" : "accounting",
+            "doc_count" : 33343
+          },
+          {
+            "key" : "sales manager",
+            "doc_count" : 31264
+          },
+          {
+            "key" : "hse",
+            "doc_count" : 30093
+          },
+          {
+            "key" : "it manager",
+            "doc_count" : 29889
+          },
+          {
+            "key" : "finance",
+            "doc_count" : 29620
+          },
+          {
+            "key" : "android",
+            "doc_count" : 29518
+          },
+          {
+            "key" : "sales engineer",
+            "doc_count" : 29183
+          },
+          {
+            "key" : "pharmaceutical",
+            "doc_count" : 29118
+          },
+          {
+            "key" : "legal",
+            "doc_count" : 28987
+          },
+          {
+            "key" : "secretary",
+            "doc_count" : 28849
+          },
+          {
+            "key" : "planning",
+            "doc_count" : 28522
+          },
+          {
+            "key" : "maintenance",
+            "doc_count" : 28185
+          },
+          {
+            "key" : "accounting manager",
+            "doc_count" : 27951
+          },
+          {
+            "key" : "project manager",
+            "doc_count" : 27919
+          },
+          {
+            "key" : "maadi",
+            "doc_count" : 27913
+          },
+          {
+            "key" : "safety",
+            "doc_count" : 27776
+          }
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,3870 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "UCMAS Academy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin Assistant - <em class=\"search-highlight\">Maadi</em>/ Helwan"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "819c4ce5-3669-4e78-b0ec-d6a65cd9b222",
+            "links": {},
+            "meta": {
+                "score": 8.580892
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TEBCOM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experiance in <em class=\"search-highlight\">Maadi</em> Area, Fresh graduate also welcome.Having a car is preferred.Medical Background (Pharmacy"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Medical Representative (<em class=\"search-highlight\">Maadi</em>)"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "b60be603-66de-46ec-be3b-b368a90da3b1",
+            "links": {},
+            "meta": {
+                "score": 8.568434
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "The Translation Gate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Online Recruiter - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "8b95de6d-9da9-4678-8213-656e2760c02e",
+            "links": {},
+            "meta": {
+                "score": 8.565403
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pro Grow"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Secretary - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "ade6b31e-667d-43bc-97d5-1d18e0c03d7e",
+            "links": {},
+            "meta": {
+                "score": 8.550168
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Digital Essence "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Advertising Account Manager - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "8c19aaea-941f-4007-a28b-6921a63da10d",
+            "links": {},
+            "meta": {
+                "score": 8.346766
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SYE English Community"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior English Instructor (Online or/and <em class=\"search-highlight\">Maadi</em>)"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "85d512d1-73fa-4e1c-9261-cf9e0c8c6fc4",
+            "links": {},
+            "meta": {
+                "score": 8.310676
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "UCMAS Academy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin Assistant / <em class=\"search-highlight\">Maadi</em> / Heliopolis"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "2a1fb93b-8cd0-47fa-966b-5f3b6870e512",
+            "links": {},
+            "meta": {
+                "score": 8.306199
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "UCMAS Academy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Course Instructor / <em class=\"search-highlight\">Maadi</em> / Helwan / Haram / shubra"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "bdb603d4-2625-46f3-9d47-a47ca7ea3e8a",
+            "links": {},
+            "meta": {
+                "score": 7.7101235
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Berlitz Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "time management skills.Hiring process& training would take place either in Ain Shams University or in <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "tests, and do lesson planning.Classes are 3 or 5 days a week  (from 10 a.m. to 6 p.m.)Work location: <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Part-Time English Instructor- <em class=\"search-highlight\">Maadi</em> (Project's Division)"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "dd5fb922-efad-4989-aa85-ca944684d5ce",
+            "links": {},
+            "meta": {
+                "score": 7.657845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Speakup"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Online English Instructor - Full Time - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "844b6930-b19f-4534-9606-7402b22eb8f0",
+            "links": {},
+            "meta": {
+                "score": 7.553501
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Under 5 International Preschool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "French Teacher - (<em class=\"search-highlight\">Maadi</em>)"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "424e8234-39c3-44ca-baf8-e35c8b18051d",
+            "links": {},
+            "meta": {
+                "score": 7.5416164
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Aray international"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Laravel Developer - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "04294691-cb75-4e45-8ed3-6f52de772680",
+            "links": {},
+            "meta": {
+                "score": 7.283789
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Aray international"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Human Resource Advisor - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "54715c43-d596-498a-9301-3d3febe2be2b",
+            "links": {},
+            "meta": {
+                "score": 7.2787533
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Under 5 International Preschool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Academic coordinator - (<em class=\"search-highlight\">Maadi</em>)"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "01de179d-7c46-42c5-8e9f-e4c76549f8e3",
+            "links": {},
+            "meta": {
+                "score": 7.1570864
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Under 5 International Preschool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "English Teacher - (<em class=\"search-highlight\">Maadi</em>)"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "4c3c043d-16b8-4c05-ac3a-6553acc5d81e",
+            "links": {},
+            "meta": {
+                "score": 7.15674
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Splendid Pharma"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Medical Representative - <em class=\"search-highlight\">Maadi</em> - Pedia"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "b2a9c9db-c7e6-4829-b570-59f5c65e7346",
+            "links": {},
+            "meta": {
+                "score": 7.013138
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Call Center Executive - <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "c19a1092-240a-41a5-8a54-83906458c71f",
+            "links": {},
+            "meta": {
+                "score": 7.010608
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Designy "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Technical Office Engineer- Furniture -<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "a35276c7-1205-47a1-ad21-e56beed5da7f",
+            "links": {},
+            "meta": {
+                "score": 6.9952393
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "UCMAS Academy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin Assistant - New Cairo / <em class=\"search-highlight\">Maadi</em>/ october"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "87095ac0-f827-46cd-8251-457ae80ad834",
+            "links": {},
+            "meta": {
+                "score": 5.730438
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SYE English Community"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "English Instructor For Kids ( Nasr City - <em class=\"search-highlight\">Maadi</em> branches )"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "12aacb4d-b27f-4441-9cd0-06d2ec1b1346",
+            "links": {},
+            "meta": {
+                "score": 5.596279
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Andalusia Maadi Hospital "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "Andalusia <em class=\"search-highlight\">Maadi</em> Hospital"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "2f980501-4a2b-4a8b-affe-fa9f2877efce",
+            "links": {},
+            "meta": {
+                "score": 5.114095
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nsafer.com"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            " Junior travel consultant is needed for a travel agency in <em class=\"search-highlight\">Maadi</em>, to book hotels, flight tickets and"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "d6d10f73-7aaf-41e6-8931-7ec1bab3d565",
+            "links": {},
+            "meta": {
+                "score": 5.0565114
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "FemalesExcellent English Speakers.Gross Salary 5.3K + Bonuses.Career progression.Great Benefits.Location: <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "39ec4d81-d723-4963-8948-81f61e7eecc6",
+            "links": {},
+            "meta": {
+                "score": 5.0560427
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Professional Connection for Consulting"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "genders are welcomed.6 K + commission.Medical & social insurance post probation period.Office in New <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "closing sales deals over the phone and maintaining good customer relationships.The office is in New <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "812dc48f-0fad-4cbf-89be-4a4dd2a0e121",
+            "links": {},
+            "meta": {
+                "score": 5.054974
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Age 28Giza Cairo_Residents is a MustWork Location (<em class=\"search-highlight\">Maadi</em>-Nasr City-5th Settlement-october ) 2 day off"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "bac9d467-145f-4122-9ff7-abbba134ee6f",
+            "links": {},
+            "meta": {
+                "score": 5.0524807
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "is hiring Excellent English speakers for a customer service representative position .Work location: <em class=\"search-highlight\">Maadi</em>",
+                            "Technology park.Working condition: Rotational shifts    Benefits:Transportation to Thaknat el <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "c85dc973-ed23-4d34-886c-b1735335e1bf",
+            "links": {},
+            "meta": {
+                "score": 5.050972
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Speakup"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "0500ff87-0ec1-4ac9-884d-d17a96f3efad",
+            "links": {},
+            "meta": {
+                "score": 5.0448074
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "9166be76-9fbf-40bd-b560-19f8193831ad",
+            "links": {},
+            "meta": {
+                "score": 5.0362473
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sykes Enterprises"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "fbc12f15-a402-404b-9be4-4f6e3be65bb0",
+            "links": {},
+            "meta": {
+                "score": 5.0362473
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Etisalat Misr"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "a9aca40b-c78f-4e7d-88aa-2a163c994a5a",
+            "links": {},
+            "meta": {
+                "score": 5.036247
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MAAP Electromechanical Engineers"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "29ad9870-8bf5-4c78-8636-be7b895d09f9",
+            "links": {},
+            "meta": {
+                "score": 5.036244
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MAAP Electromechanical Engineers"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "532697ad-0aee-4617-b959-cc5ab4563abb",
+            "links": {},
+            "meta": {
+                "score": 5.0362434
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Artemis"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "1dbf5e58-be19-41b0-9762-47ebadfab30e",
+            "links": {},
+            "meta": {
+                "score": 5.0362425
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sceel.io"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "256cb41c-660b-4e86-91ec-f9a4d6f1da63",
+            "links": {},
+            "meta": {
+                "score": 5.036241
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TurnDigital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "d64bbd04-cef5-44c6-b3ec-91ec97f7566f",
+            "links": {},
+            "meta": {
+                "score": 5.036233
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "87ba8646-7765-4a33-9adb-35dc6be4869f",
+            "links": {},
+            "meta": {
+                "score": 5.0362325
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECS - Energy & Contracting Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "18015e98-ba47-44ad-8815-95a5df96de45",
+            "links": {},
+            "meta": {
+                "score": 5.036231
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Centro CDX"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "0fdf4f6b-1364-49c8-8468-35100081fc01",
+            "links": {},
+            "meta": {
+                "score": 5.0362277
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "almentor"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "51f8f593-e62c-4ace-af4f-f7614a65822a",
+            "links": {},
+            "meta": {
+                "score": 5.0362244
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "7372c88d-eea6-4c0a-a04f-6745b6625f16",
+            "links": {},
+            "meta": {
+                "score": 5.0362206
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "QuadraTech for Information Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "94b01e8a-dde6-4a3f-8755-eb55117bf8be",
+            "links": {},
+            "meta": {
+                "score": 5.0362206
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Azentio Software"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "1e836d58-5e3f-425b-bf3b-18a93346077d",
+            "links": {},
+            "meta": {
+                "score": 5.0362186
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Azentio Software"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "24b0dab1-d7ce-4e8f-8614-9dc6055d3fb9",
+            "links": {},
+            "meta": {
+                "score": 5.0362186
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Softec Technologies"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "351a261a-fda8-4efe-a233-ce967146be3e",
+            "links": {},
+            "meta": {
+                "score": 5.036196
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Dexef"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "0b9ac8af-4223-42fb-a6ba-1ccc2c9ac6ee",
+            "links": {},
+            "meta": {
+                "score": 5.036186
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "0311542d-2b0f-45e3-9006-78db0a6cc2c9",
+            "links": {},
+            "meta": {
+                "score": 5.036183
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "71da11ce-4954-4f07-a63b-713379741778",
+            "links": {},
+            "meta": {
+                "score": 5.036183
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "2f9913ba-a2bf-4324-a146-fa4ff4d1b865",
+            "links": {},
+            "meta": {
+                "score": 5.0361824
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "e3e2da05-5f4b-4482-863e-51fb43b33a2b",
+            "links": {},
+            "meta": {
+                "score": 5.0361824
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "8979a0f3-d608-4434-a6f0-5fe91c3c450d",
+            "links": {},
+            "meta": {
+                "score": 5.036182
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "db09128a-d224-4bb1-8da5-a1ea223f19f3",
+            "links": {},
+            "meta": {
+                "score": 5.036182
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "E3mel Business for Financial & Managerial Consultancy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "f8296b34-3efe-48d1-96c1-aa918e3b76dc",
+            "links": {},
+            "meta": {
+                "score": 5.036177
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Helm Organization"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "8710b979-a53a-4c9b-a3f5-a9b4fbe361cd",
+            "links": {},
+            "meta": {
+                "score": 5.036172
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Cashcall"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "338251ca-8627-4dee-8eaa-279ee3507f78",
+            "links": {},
+            "meta": {
+                "score": 5.036164
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "62cd3c07-078e-4ad3-a1a6-0f36bf0d6c6a",
+            "links": {},
+            "meta": {
+                "score": 5.036151
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "9bf71e14-e53c-4172-a163-ea4e6fe9f4d9",
+            "links": {},
+            "meta": {
+                "score": 5.0361495
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "596e5696-2e16-45bc-b438-3f02cb5c6cc0",
+            "links": {},
+            "meta": {
+                "score": 5.0361485
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "a37ca6cc-4ad7-426e-bb5d-5a7226145d9c",
+            "links": {},
+            "meta": {
+                "score": 5.036147
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "f3e86143-bfd4-4964-8686-e46b1c3770a7",
+            "links": {},
+            "meta": {
+                "score": 5.0361466
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sceel.io"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "5ee3f14e-61b9-4fbe-8ed7-21e16e073894",
+            "links": {},
+            "meta": {
+                "score": 5.036144
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Centro CDX"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "b98efb9e-d21f-4996-86d3-f8ef52405d2a",
+            "links": {},
+            "meta": {
+                "score": 5.0361314
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Telda.app"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "bc8fbc92-0fb9-4cf7-939d-2d2d5cd62bd9",
+            "links": {},
+            "meta": {
+                "score": 5.0361123
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "KB Architects "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "139d410c-8750-4cb4-9733-617618df0cb3",
+            "links": {},
+            "meta": {
+                "score": 5.0360975
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "John Snow InC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "bcac0910-f3d3-4e20-96b7-769db3d882af",
+            "links": {},
+            "meta": {
+                "score": 5.036087
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Medecins Sans Frontieres"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "2039fafd-da8e-418d-9099-8f9e1691cbe7",
+            "links": {},
+            "meta": {
+                "score": 5.0360312
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TMentors"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "dd5c426c-e04a-4963-ab38-d5853d85037c",
+            "links": {},
+            "meta": {
+                "score": 5.035839
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Gulf Data International "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "93f85043-b7b5-4c70-8eed-677e27e37174",
+            "links": {},
+            "meta": {
+                "score": 5.0357275
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ashtar.app"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "5dd569d2-bebf-4646-9186-a5c32cb5c8d7",
+            "links": {},
+            "meta": {
+                "score": 5.03561
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "8a4084c4-60a2-4476-88e4-6c40de0ee595",
+            "links": {},
+            "meta": {
+                "score": 5.0354486
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "WUZZUF"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "1651c6f7-6b52-47b4-b229-4b030548db26",
+            "links": {},
+            "meta": {
+                "score": 5.035435
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "WUZZUF"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "d1c03240-bb94-47ce-b6bb-4746f27fe891",
+            "links": {},
+            "meta": {
+                "score": 5.0354333
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Telecom "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "d5b2c4aa-bbd3-4b00-bc11-eb49381e7efc",
+            "links": {},
+            "meta": {
+                "score": 5.0353813
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Vodafone Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "be5ceb29-cd47-40b4-86af-45a90b918987",
+            "links": {},
+            "meta": {
+                "score": 5.035328
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sceel.io"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "473e2f59-b98a-4d3e-902c-8dee185a89bc",
+            "links": {},
+            "meta": {
+                "score": 5.035219
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sceel.io"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "cdab2285-6976-4afd-9f94-262948729e3b",
+            "links": {},
+            "meta": {
+                "score": 5.03521
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sceel.io"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "bdff1922-152b-44fa-aa41-309f5da65815",
+            "links": {},
+            "meta": {
+                "score": 5.035173
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nova Media"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "e695615c-4d67-4f6b-aaec-8ef31b094b97",
+            "links": {},
+            "meta": {
+                "score": 5.0351295
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "WellGrow Training and  Consulting "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "78ef9f6c-f609-4656-a921-f7e10614137f",
+            "links": {},
+            "meta": {
+                "score": 5.03509
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "KB Architects "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "a6b4bcb9-30d2-460a-8a71-15fdff25d95f",
+            "links": {},
+            "meta": {
+                "score": 5.0350637
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Softec Technologies"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "1b60893e-e2ad-4190-9827-aafcc5da842e",
+            "links": {},
+            "meta": {
+                "score": 5.0350204
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Genius System"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "4dc13d9c-626c-430a-8608-8e56ca0905fc",
+            "links": {},
+            "meta": {
+                "score": 5.034957
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Bayt El Khebra"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "dccc215f-a182-43f6-821c-b419066125fb",
+            "links": {},
+            "meta": {
+                "score": 5.0349197
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "831efd75-a16d-475f-9a97-f943e0ef8be6",
+            "links": {},
+            "meta": {
+                "score": 5.0349193
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Windrose Academy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "275631f5-4a92-4af7-bd21-bf28551990e7",
+            "links": {},
+            "meta": {
+                "score": 5.034916
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Centro CDX"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "49e1dc7d-11e7-49a5-88cf-f797612838bb",
+            "links": {},
+            "meta": {
+                "score": 5.0349092
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "7eb08cfa-560a-4e8b-9e7f-99c68b9be798",
+            "links": {},
+            "meta": {
+                "score": 5.034876
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Thiqa Co."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "7da7a14e-bde9-45af-813d-b7f867b7ef88",
+            "links": {},
+            "meta": {
+                "score": 5.034845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LINK Development"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "63d47c4b-a03a-4203-bacd-0b2fe7ba3fc6",
+            "links": {},
+            "meta": {
+                "score": 5.0348377
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "0e6604ff-5c60-45a7-936c-53c8abff3911",
+            "links": {},
+            "meta": {
+                "score": 5.0348234
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Comet Architects "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "3c23ebcb-d2fe-4886-8d2d-50cb12ee2dcc",
+            "links": {},
+            "meta": {
+                "score": 5.034778
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "As-Salam International Hospital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "9e329a60-5b6b-4c73-b2ef-3f198665217a",
+            "links": {},
+            "meta": {
+                "score": 5.034752
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Telda.app"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "b73f2a04-b7fe-47a9-b068-d6910b3590ea",
+            "links": {},
+            "meta": {
+                "score": 5.034704
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Human Quality"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "547aa9b5-d102-4826-95fd-1f976c494cdb",
+            "links": {},
+            "meta": {
+                "score": 5.0346355
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "feb4d6b2-0c79-4d94-af9b-45f014c72fa0",
+            "links": {},
+            "meta": {
+                "score": 5.0346103
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Rashideen Egypt for Trade "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "3588814c-c973-4842-ae38-bd0f2562931a",
+            "links": {},
+            "meta": {
+                "score": 5.0345535
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "73b69c1e-eb84-4c7e-943c-5b8060aef88c",
+            "links": {},
+            "meta": {
+                "score": 5.034515
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "is hiring Excellent English speakers for a customer service representative position .Work location: <em class=\"search-highlight\">Maadi</em>",
+                            "Technology park.Working condition: Rotational shifts    Benefits:Transportation to Thaknat el <em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "1d3eb5d0-885b-4683-af00-c9391dddf492",
+            "links": {},
+            "meta": {
+                "score": 5.0328965
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "PyramidBITS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "1dd9b1d8-a55a-4ebd-bd98-e544c1d60765",
+            "links": {},
+            "meta": {
+                "score": 5.03276
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Colortek Egypt / Epdc"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "fb37c0a0-7b72-4b79-a549-d3eb61dc0dee",
+            "links": {},
+            "meta": {
+                "score": 5.0323796
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mrsool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "area",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maadi</em>"
+                        ],
+                        "value": [
+                            "Maadi"
+                        ]
+                    }
+                ]
+            },
+            "id": "7d584aae-9184-4f43-935d-6d52a20f62c0",
+            "links": {},
+            "meta": {
+                "score": 5.032283
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        }
+    ],
+    "meta": {
+        "totalResultsCount": 1182
+    }
+}

@@ -1,0 +1,3300 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GLC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Engineering Bachelor's degree or relevant.<em class=\"search-highlight\">Flutter</em> experience is a must2 to 3 years of experience in same"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Have two or more iOS/Android apps developed with <em class=\"search-highlight\">Flutter</em>."
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "c28bb471-cf0d-443c-9761-bcfd01a8c3c1",
+            "links": {},
+            "meta": {
+                "score": 16.558437
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Aphrie"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "in Computer Science/Engineering or related field.1+ years of experience (1+ years of experience in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Designing, building and maintaining iOS and Android applications using <em class=\"search-highlight\">flutter</em>.Understand business needs"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "cb3ba5b6-d255-4dfc-a815-a1a20ba3b86f",
+            "links": {},
+            "meta": {
+                "score": 16.259409
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Venu Apps"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>",
+                            "<em class=\"search-highlight\">flutter</em> developer"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Skills and QualificationsMinimum 5 years work experience in mobile development including 3 years in <em class=\"search-highlight\">Flutter</em>.Web",
+                            "applications using <em class=\"search-highlight\">Flutter</em> web.Experience in state management using BLoC.Online payment.Excellent in",
+                            "using <em class=\"search-highlight\">Flutter</em> animations.Push notification using Firebase.Image Caching, Firebase, Crashlytics, Analytics"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Objectives of this RoleBuilding, testing, and deploying a moderately complex <em class=\"search-highlight\">Flutter</em> Android/IOS app.Build"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer + Angular"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ab4fd4a8-4d39-4632-a1f4-07d699c87327",
+            "links": {},
+            "meta": {
+                "score": 16.16201
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Flojics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "at least one programming language like Swift and JavaExperience with cross-platform frameworks (like <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mobile Developer (Hybrid / Cross-Platform <em class=\"search-highlight\">Flutter</em> Or Ionic)"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "1a541f61-393d-4568-a5c4-a7e1b257e435",
+            "links": {},
+            "meta": {
+                "score": 16.053762
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Vooom"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "discipline.Must have 4+ years of experience working with mobile development.Must have 2+ years of experience in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Build multi-platform apps for iOS and Android using Google's <em class=\"search-highlight\">Flutter</em> development framework.Design and"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "e1fa984d-451f-4e97-a38b-0ffc18525734",
+            "links": {},
+            "meta": {
+                "score": 16.006876
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Fawry Banking & Payment Technology Services"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>",
+                            "<em class=\"search-highlight\">flutter</em> development"
+                        ],
+                        "value": [
+                            "flutter",
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience in Mobile Applications Development: +4 yearsExperience: + 2 years in <em class=\"search-highlight\">Flutter</em> Development.Familiarity",
+                            "Developers.Familiar with Mobile App Security practicesWrite unit tests for the App.Published at least 2 apps with <em class=\"search-highlight\">flutter</em>.Native"
+                        ],
+                        "value": [
+                            "flutter",
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Design and Build sophisticated and highly scalable apps using <em class=\"search-highlight\">Flutter</em>.Build custom packages in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "37fd27a3-8112-45a5-b826-d97e2b9d20c9",
+            "links": {},
+            "meta": {
+                "score": 15.986982
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Troylab"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Technical Certificate: Have Certificate with <em class=\"search-highlight\">Flutter</em> for both iOS and Android.Soft Skills:Excellent communication",
+                            "clients per second.Business Skills:Must have contributed with at least three Android, iOS, apps with <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job Summary:<em class=\"search-highlight\">Flutter</em> is commonly used to design mobile apps and their Web counterparts, which often involves",
+                            "development paradigms.Responsibility:You will create multi-platform apps for iOS and Android using Google's <em class=\"search-highlight\">Flutter</em>",
+                            "focus will be on creating new experiences.Tasks:Develop and maintain iOS and Android applications using <em class=\"search-highlight\">Flutter</em>.Maintain"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "cd435853-d23b-4c9f-8303-d433a685833d",
+            "links": {},
+            "meta": {
+                "score": 15.980434
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ashtar.app"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "code versioning tools.Solid understanding of mobile application design patterns.Have experience with <em class=\"search-highlight\">Flutter</em>",
+                            "Firestore.Proficient understanding of code versioning tools, such as Git.Has been involved in at least 3 <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "48fbc86b-bd01-4e4a-ad64-5e8cd8bd8752",
+            "links": {},
+            "meta": {
+                "score": 15.918355
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Caelum Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Information Technology, Engineering, or equivalent discipline.A minimum of 3 years of experience in <em class=\"search-highlight\">flutter</em>",
+                            " cross-platform mobile development.Strong knowledge of the <em class=\"search-highlight\">flutter</em> plugins/packages and have experience",
+                            "for networking.Experience with profiling and debugging mobile applications.Strong knowledge of the <em class=\"search-highlight\">flutter</em>",
+                            "state management and architectural patterns: <em class=\"search-highlight\">flutter</em> BLoC, Provider, Redux, MobX, MVP, MVVM, and TDD"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "9a6015bf-0326-45b1-8da8-4736d8c20fa1",
+            "links": {},
+            "meta": {
+                "score": 15.889762
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LavaLoon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "the full mobile development lifecycleSolid knowledge in building and deploying moderate to complex <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "featuresWrite readable, concise, and well-documented codeWrite clean, and optimized codeBuild custom <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mobile Developer - <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "6ccc16f7-37ad-489c-91b7-ffd276f2c07a",
+            "links": {},
+            "meta": {
+                "score": 15.887255
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "microtec"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience in <em class=\"search-highlight\">Flutter</em> Mobile Development Platform.  "
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "5991d684-c296-432b-b27a-046f5c78a7ed",
+            "links": {},
+            "meta": {
+                "score": 15.869124
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Maxycode"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Min 1+ year experience in <em class=\"search-highlight\">Flutter</em> Development & 1+ years of experience working with mobile developmentExperience",
+                            "with Kotlin - JavaDeployed at least 3 apps & Has been involved in at least 1 <em class=\"search-highlight\">Flutter</em> App projectHave",
+                            "experience with <em class=\"search-highlight\">Flutter</em> for both iOS and AndroidFamiliarity with RESTful APIs.Knowledge of modern authorization"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "45b6f58f-39ea-4cde-a79a-87b4658505df",
+            "links": {},
+            "meta": {
+                "score": 15.817265
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Victory Link"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "and APIsExperience with Integrating Restful APIsExperience working with App Store ConnectKnowledge of <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mid-level <em class=\"search-highlight\">Flutter</em> & IOS Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "eb03508c-2988-4c87-aa06-f326f1b43fb8",
+            "links": {},
+            "meta": {
+                "score": 15.508814
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Victory Link"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "degree in Computer Science or related fieldStrong knowledge of Dart and FlutterStrong knowledge of <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mid-level <em class=\"search-highlight\">Flutter</em> & Android Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "8515f3b3-bf87-4b62-b61f-3f6048562740",
+            "links": {},
+            "meta": {
+                "score": 15.508317
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Innovent Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>",
+                            "<em class=\"search-highlight\">Flutter</em> UI"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "in mobile developmentMinimum of 2 years experience with firebase and firestoreSolid understanding of <em class=\"search-highlight\">Flutter</em>",
+                            ", Dart, <em class=\"search-highlight\">Flutter</em> UI and animations.Experienced in working with remote data via REST and JSONHave a solid"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mobile Developer - <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "95290dc5-771f-4df5-a880-447129da4915",
+            "links": {},
+            "meta": {
+                "score": 15.405931
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Keyframe"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Computer Science / Software Engineer bachelor  Degree is must  2+ year <em class=\"search-highlight\">Flutter</em> mobile experience.Solid"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "e8bc933c-996c-438d-976c-ad9ac9b0c6ad",
+            "links": {},
+            "meta": {
+                "score": 15.36869
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGIC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Knowledge of CRM (content management system) would be big plus.Developed and published at least 2 APPS with <em class=\"search-highlight\">flutter</em>.Hands-On",
+                            "concepts.Deep understanding of design patterns.Experience building and deploying a moderately complex <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter",
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "EGIC is looking for a <em class=\"search-highlight\">Flutter</em> Developer with the following Description and Requirements:Translating UI"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "4cf36a74-9944-4a20-9cf7-a52a754b1b31",
+            "links": {},
+            "meta": {
+                "score": 15.339262
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "BAWQ TELECOMM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a <em class=\"search-highlight\">Flutter</em> Developer to be responsible for developing high performance and high-quality"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "1d3e0ab9-c444-4258-9fdd-db21330e852a",
+            "links": {},
+            "meta": {
+                "score": 14.309762
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Link"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for an experienced <em class=\"search-highlight\">Flutter</em> Developer who will join our talented software team that works",
+                            "Your duties will include managing <em class=\"search-highlight\">Flutter</em> (Android, iOS) application development while providing expertise"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "aacbb0fc-7fb7-48b9-bd3e-ec6bbe4da535",
+            "links": {},
+            "meta": {
+                "score": 13.744724
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Marsa Alam for Touristic Development"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "the general mobile landscape, architectures, trends, and emerging technologies.Have experience with <em class=\"search-highlight\">Flutter</em>",
+                            "different screen sizes.Very comfortable learning new technologies, tools, and platforms.Experience with <em class=\"search-highlight\">Flutter</em>.Good"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            " We are looking for an experienced <em class=\"search-highlight\">Flutter</em> Developer who will join our talented software team that works",
+                            "Your duties will include managing <em class=\"search-highlight\">Flutter</em> (Android, iOS) application development while providing expertise",
+                            "building software and perform well working in a team, along with developers, engineers, and web designers.<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "e2ff2fff-aa9a-46d7-a030-f984ca336df6",
+            "links": {},
+            "meta": {
+                "score": 13.737908
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Job Requirements 3+ years <em class=\"search-highlight\">Flutter</em> mobile experience.Solid understanding of mobile application design"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job brief We are looking for an outstanding <em class=\"search-highlight\">Flutter</em> Developer to be responsible for the coding, innovative"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "e4c4b324-02ba-4765-8d1f-3a22d5a58030",
+            "links": {},
+            "meta": {
+                "score": 13.58609
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Clavis Business Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Cross-platform mobile developer (<em class=\"search-highlight\">Flutter</em>) is required urgently for immediate startRequired skills: BS",
+                            "/MS degree in Computer Science, Engineering or a related subject.2+ years of hands-on experience in <em class=\"search-highlight\">Flutter</em>",
+                            "(Work samples for <em class=\"search-highlight\">flutter</em> apps uploaded to store is a mandatory). 3+ years of experience as mobile developer"
+                        ],
+                        "value": [
+                            "flutter",
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Mobile Application Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "fe4227da-9580-40dd-b3bf-8e0524b240f6",
+            "links": {},
+            "meta": {
+                "score": 13.5641
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "jump in to help get a project doneRequired experience:Have two or more iOS/Android apps developed with <em class=\"search-highlight\">Flutter</em>",
+                            "Either deployed on the App Store/Google Play or available on GitHub.3+ years of <em class=\"search-highlight\">Flutter</em> experienceStrong"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Mobile Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "fe059a23-dcd4-4925-99af-9c8c08844d5e",
+            "links": {},
+            "meta": {
+                "score": 13.448956
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Icity"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "equivalent.Work experience in a professional environment with Android and iOS development.Working as a <em class=\"search-highlight\">Flutter</em>",
+                            "Developer for 1+ years of professional experience.Experience with <em class=\"search-highlight\">Flutter</em>, JSON, Restful APIs, Push"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "As a <em class=\"search-highlight\">Flutter</em> Developer, you will create multi-platform apps for iOS and Android using Google's <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "d61c4c04-cf9f-490e-bdf4-c6be9475280d",
+            "links": {},
+            "meta": {
+                "score": 13.330845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Inovatian Inc."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Computer Science or equivalent.Minimum 5 years work experience.Must have 3+ years of experience in <em class=\"search-highlight\">Flutter</em>",
+                            "Architecture) architecture patterns.Can deal with new algorithms.Familiar with web and desktop using <em class=\"search-highlight\">flutter.Ability</em>"
+                        ],
+                        "value": [
+                            "flutter.Ability",
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Inovatian are hiring a Senior <em class=\"search-highlight\">Flutter</em> developer to engineer applications that will run across Android"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "e1ceb8d1-cfd5-4afa-82d4-efd64e0b70f4",
+            "links": {},
+            "meta": {
+                "score": 13.236267
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Obeikan Digital Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "in Computer Science/Engineering or related field.3+ years of experience (1+ years of experience in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Designing, building and maintaining iOS and Android applications using <em class=\"search-highlight\">flutter</em>.Understand business needs"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Mobile Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "130d2300-1a0f-4b5c-b1f6-03a7a1f0f92a",
+            "links": {},
+            "meta": {
+                "score": 13.048101
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Squadio"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "already published either in the app store or self-hosted.Have two or more iOS/Android apps developed with <em class=\"search-highlight\">Flutter</em>",
+                            "Google Play or available on Github;5+ years in mobile software development;Over one year’s developing <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Become an IbtikarianSquadio is hiring a senior <em class=\"search-highlight\">Flutter</em> developer to engineer applications that will run"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "30fddd30-8421-4342-af6f-f94ed4808ae9",
+            "links": {},
+            "meta": {
+                "score": 12.9937525
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nebras Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Have two or more iOS/Android apps developed with <em class=\"search-highlight\">Flutter</em>.",
+                            "Google Play or available on Github;4+ years in mobile software development;Over one year’s developing <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Nebras technology are hiring a senior <em class=\"search-highlight\">Flutter</em> developer to engineer applications that will run across"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "7baa2c81-28be-406b-b294-b24c178b3c6b",
+            "links": {},
+            "meta": {
+                "score": 12.599199
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DEVOPSolution"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>",
+                            "<em class=\"search-highlight\">Flutter</em> Development"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Qualifications:Experience:+ 2 years in <em class=\"search-highlight\">Flutter</em> Development.Familiarity with RESTful APIs.Excellent in",
+                            "Developer.Understanding of Material design Guidelines - Android Developers.Published at least 2 apps with <em class=\"search-highlight\">flutter</em>.Skills"
+                        ],
+                        "value": [
+                            "flutter",
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Our candidate will be Responsible For:Design and Build sophisticated and highly scalable apps using <em class=\"search-highlight\">Flutter</em>.Build",
+                            "custom packages in <em class=\"search-highlight\">Flutter</em> using the functionalities and APIs already available in native Android and"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "d018a583-00df-4fa5-ba60-8c41184f29be",
+            "links": {},
+            "meta": {
+                "score": 12.588667
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Procrew"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Design and Build sophisticated and highly scalable apps using <em class=\"search-highlight\">Flutter</em>.Build custom packages in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "0dea36e3-c93f-4590-bd9c-b9926d542d0e",
+            "links": {},
+            "meta": {
+                "score": 12.576174
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            " Ebtikar IT"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Full Stack Mobile Application Developer (IOS, Android & <em class=\"search-highlight\">Flutter</em>)"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "aeceb53c-6b77-45ac-80de-ce73c9e533d4",
+            "links": {},
+            "meta": {
+                "score": 12.364664
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Working as a <em class=\"search-highlight\">Flutter</em> Developer for 1+ years of professional experience in software companies.Have online"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "If you are a Talented <em class=\"search-highlight\">Flutter</em> Developer, then we are looking for you to join our team, so you can :Developing",
+                            "user interface components and implement them using <em class=\"search-highlight\">Flutter</em>.Ensuring that, app components and the overall"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Mobile Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "6a2525fb-dc1c-433a-82e2-95a73527d8f3",
+            "links": {},
+            "meta": {
+                "score": 12.131513
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elite Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We need to open a vacancy for <em class=\"search-highlight\">Flutter</em>/IOS developer who is:Mid-level (3-4 years) experience in both <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>/IOS Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "9992e7ee-3290-4d99-aa40-9d0192213eb4",
+            "links": {},
+            "meta": {
+                "score": 11.889072
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Webbingstone"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mobile Cross Platform Ionic Developer & <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "5768f338-1953-4d06-9975-325d91ffa7e0",
+            "links": {},
+            "meta": {
+                "score": 11.344753
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Open Source "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Design and Build sophisticated and highly salable apps using <em class=\"search-highlight\">Flutter</em>.Translate and Build the designs"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for an experienced <em class=\"search-highlight\">Flutter</em> Developer who will join our talented software team that works",
+                            "Your duties will include managing <em class=\"search-highlight\">Flutter</em> (Android, iOS) application development while providing expertise",
+                            ", along with developers, engineers, and web designers.You supposed to be an individual who uses the <em class=\"search-highlight\">Flutter</em>",
+                            "native language like java, swift and kotlen, may give you an advantage over a person who only knows <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "f2812255-0091-4454-9bc2-2540e07b1ecb",
+            "links": {},
+            "meta": {
+                "score": 10.668078
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Rasan"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "experience4-6 years of experience in designing and building applicationsMust have 2+ years of experience in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Mobile Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ee26f9fd-ea54-44ac-bba0-233d413d90e9",
+            "links": {},
+            "meta": {
+                "score": 9.855422
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "BBI-Consultancy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "4+ years in mobile software development.Strong experience building mobile apps with <em class=\"search-highlight\">Flutter</em>.Strong OOP",
+                            "existing code, and refactoring previously written codeHave two or more iOS/Android apps developed with <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "7f799914-d3d5-4085-84e0-8b39a6072f1a",
+            "links": {},
+            "meta": {
+                "score": 9.768071
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "iSchool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".. etc).Experience in working with c# and unity game engine.Experience with WordPress.familiar with <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "45301d3e-d21e-4e67-b4b6-4cdf16633f94",
+            "links": {},
+            "meta": {
+                "score": 9.665886
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "iSchool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".. etc).Experience in working with c# and unity game engine.Experience with WordPress.familiar with <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ca58e650-5111-4623-a7c6-c5cb00a769e0",
+            "links": {},
+            "meta": {
+                "score": 9.665886
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "iSchool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "0a27acd5-85e9-498f-97c3-c301ee9733fe",
+            "links": {},
+            "meta": {
+                "score": 9.634409
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ctopya"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "developerProfessional experience with expert-level knowledge of two or more languages (react-native or <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "86977086-aa56-4c50-80a3-856fe6d67868",
+            "links": {},
+            "meta": {
+                "score": 9.562173
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "khadamaty"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "If you are a Talented <em class=\"search-highlight\">Flutter</em> Developer, then we are looking for you to join our team, so you can :Developing",
+                            "user interface components and implement them using <em class=\"search-highlight\">Flutter</em>.Ensuring that, app components and the overall"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "3c0017b7-f990-44c6-9ef6-972b775b634b",
+            "links": {},
+            "meta": {
+                "score": 9.516407
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGIC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ce787c1c-9ba0-4f27-a210-ce68a4ce1676",
+            "links": {},
+            "meta": {
+                "score": 9.497945
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Venu Apps"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "payment.Familiar with DevOps (CI/CD), TDD and test automation.Basic knowledge  about front end frame work <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "88307b8d-68e2-4a7f-bdb1-de87da8b54e3",
+            "links": {},
+            "meta": {
+                "score": 9.403343
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SmartTech Systems"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "discipline.Must have 4+ years of experience working with mobile development.Must have 2+ years of experience in <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "applications following industry best practices.Build multi-platform apps for iOS and Android using Google's <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "9c451b65-e623-4fc2-97e5-c9c42cbc473e",
+            "links": {},
+            "meta": {
+                "score": 9.359895
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Our Education"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "ensuring that the application will adhere to them.Cross-platform mobile development (react native or <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "56945644-38fd-41cd-970c-49b1fc912391",
+            "links": {},
+            "meta": {
+                "score": 9.290155
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Learnovia"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "3+ years experience with <em class=\"search-highlight\">Flutter</em> framework and Proficiency in the Dart languageSolid knowledge of the",
+                            "Mobile apps development lifecycleFamiliar with Design patternsFamiliar with <em class=\"search-highlight\">Flutter</em> state managements"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "04a72052-272c-4a66-95d6-1a8742a1a109",
+            "links": {},
+            "meta": {
+                "score": 8.992178
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Learnovia"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "5e09aac2-e92b-4c11-a3df-77bc402fe641",
+            "links": {},
+            "meta": {
+                "score": 8.5679455
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "BlankPage"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Be available to work from 9 AM to 5 PM Working with <em class=\"search-highlight\">Flutter</em> or similar technologies Experience with Native"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for someone with at least 3 experience in <em class=\"search-highlight\">Flutter</em> or similar and have some experience"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "9ceaf6a3-1b0e-4a96-bb6e-1a5fadd01441",
+            "links": {},
+            "meta": {
+                "score": 8.256421
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Div Systems"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "d11a3e58-e1a2-4cea-a49f-a1cc18a35d63",
+            "links": {},
+            "meta": {
+                "score": 7.8126287
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TurnDigital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "User Interface, Responsive Programming, Web Performance, Browsers CompatibilityExperience in Vue and <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "4dd6d9d5-82ad-43c4-b61b-4da0e991b66a",
+            "links": {},
+            "meta": {
+                "score": 7.0614696
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ogoul Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "developer should know Git Repository and Jira.Integration of data storage solutions [RDBMS, NoSQL DB]<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "b9ef0f56-a1ed-486b-bdd4-69ffc8e8212e",
+            "links": {},
+            "meta": {
+                "score": 5.5720286
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Learnovia"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "4ab6bdf4-cb01-4bea-a021-52ce1454cd9c",
+            "links": {},
+            "meta": {
+                "score": 5.244467
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Future Valleys For Software Solution"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer.Familiar with bloc state managment.Previous production experience is a must.Alexandria"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "dae3a8f6-a1b3-4803-be1a-19059ce1db69",
+            "links": {},
+            "meta": {
+                "score": 1.6508133
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Integrated Technology Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience in (<em class=\"search-highlight\">Flutter</em> and android & IOS)Bachelor's degree in Computer Science or equivalent.Minimum"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "dcc88d6d-a042-4282-bfc0-56873dbfb7be",
+            "links": {},
+            "meta": {
+                "score": 1.0190911
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Appgain"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "knowledge of iOS Native Development using SwiftIn-depth knowledge of Cross-Platform Development using <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "To Work with Senior Mobile Engineers in the iOS and <em class=\"search-highlight\">flutter</em>  development To  Work with Senior Mobile"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "4c2c650a-6118-4132-b139-6b00786fd5ac",
+            "links": {},
+            "meta": {
+                "score": 1.0071687
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Recovery franchise marketing services "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".  Has experience in a <em class=\"search-highlight\">flutter</em> application.  Working knowledge of test management software (e.g. qTest"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "22b3db90-274e-45f4-99b9-a0d2c3eecefb",
+            "links": {},
+            "meta": {
+                "score": 0.88080126
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "WEmng"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".  Has experience in a <em class=\"search-highlight\">flutter</em> application.  "
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "fc9cd5ef-73d5-41ed-99d0-de7079947530",
+            "links": {},
+            "meta": {
+                "score": 0.84295857
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Paxerahealth Corp"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Familiarity with OOP design principles.Experience with Cross-platform mobile apps developments framework like <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "e495aa72-ef30-440e-9f33-eb3248d215da",
+            "links": {},
+            "meta": {
+                "score": 0.6767542
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Innuva IT Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "motivated candidate:Candidate should be familiar with one or more of these technologies:Mobile Development (<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "b3262b28-4289-439e-9c90-8b28006c4724",
+            "links": {},
+            "meta": {
+                "score": 0.61380386
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mozare3"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven experience with native mobile developmentProficient in Java, Swift, and/or Kotlin.Experience with <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "4a5ff163-f758-4eb0-8e49-f2b815365755",
+            "links": {},
+            "meta": {
+                "score": 0.5268589
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nile Bits, LLC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are using the latest technologies to build robust and quality apps using native iOS & Android and <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "64844eab-a6b7-407b-95ff-525072df7153",
+            "links": {},
+            "meta": {
+                "score": 0.46865407
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Advanced "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "development environment in Cairo, Our main stack consists of the following: Ruby on Rails, React, and <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ca487132-f026-43a1-a718-a909f3cd1537",
+            "links": {},
+            "meta": {
+                "score": 0.45352596
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mishkat Nour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "of our existing apps.Build and maintain both web and mobile applications for our organization.Using <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "3edf814c-846c-44dd-8598-bd537f0d3892",
+            "links": {},
+            "meta": {
+                "score": 0.41173354
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nile Bits, LLC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are using the latest technologies to build robust and quality apps using native iOS & Android and <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ae321570-ecc0-483d-ab9c-03175ca18d13",
+            "links": {},
+            "meta": {
+                "score": 0.38230267
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        }
+    ],
+    "meta": {
+        "totalResultsCount": 65
+    }
+}

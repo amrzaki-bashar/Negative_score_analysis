@@ -1,0 +1,4229 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Engosoft"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor of Mechanical engineeringHave a very good presentation skill.More than 2 years' experience as an <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Mechanic Instructor"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "817e4d7b-6e26-4cca-a356-d7e50b1d59d0",
+            "links": {},
+            "meta": {
+                "score": 16.048092
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Teriak Industrial Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts",
+                            "<em class=\"search-highlight\">Automotive</em> paints"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "development experienceDemonstrated leadership experienceStrong knowledge and experience 12 – 15 years of <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "other sales tools for the introduction and promotion of new products.Provide customer assistance on <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Technical Support Manager - (<em class=\"search-highlight\">Automotive</em> Paints)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "509645ef-8e7a-4d8e-980c-a3b5829372d1",
+            "links": {},
+            "meta": {
+                "score": 16.043182
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Teriak Industrial Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Paints Experience is a MustPrevious background in chemical industry & Paintings Is an absolute"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Full understanding of the <em class=\"search-highlight\">automotive</em>/commercial vehicles  paints systemdaily routine visits.Provide onsite"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Technical Support Specialist - (<em class=\"search-highlight\">Automotive</em> Paints)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "c9dd679c-7ea8-4c96-8afd-67eeaf264b73",
+            "links": {},
+            "meta": {
+                "score": 15.780664
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Financial Planning Manager - (<em class=\"search-highlight\">Automotive</em> Background) -6th October"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "2ecec8d6-2dde-498c-96a4-7607f95dc218",
+            "links": {},
+            "meta": {
+                "score": 15.375762
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Marketing Director - <em class=\"search-highlight\">Automotive</em> Background- Giza"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "1cd3a941-357f-4338-952d-72d2d7e03ff4",
+            "links": {},
+            "meta": {
+                "score": 15.151618
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nour Eldin Elsherif for Trading vehicles"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Admin Coordinator"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "4f2b5f32-1300-4cc9-8fcd-8d9d0b7056ec",
+            "links": {},
+            "meta": {
+                "score": 15.043235
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elbadry Auto"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Body & Paint Engineer"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "f93c975e-389e-4d47-a4e4-df8da2fa941a",
+            "links": {},
+            "meta": {
+                "score": 14.992836
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECTC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>",
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts",
+                            "<em class=\"search-highlight\">Automotive</em> Sales"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Knowledge and experience in <em class=\"search-highlight\">automotive</em> Engineering Especially Publics sectors/fleet ownersExperience"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "customers and maximize company’s business, with long term win-win partnership as the foundation.Understand <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Sales Manager (<em class=\"search-highlight\">Automotive</em> Spare Parts (Experienced))"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "bf6dc5e1-d76f-43e3-851c-78d367e154f5",
+            "links": {},
+            "meta": {
+                "score": 14.936982
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "performance optimizationVery good understanding of the software development process, preferably in the <em class=\"search-highlight\">automotive</em>",
+                            "Bazel, gdb, gcc, memory&CPU profiling;Experience with embedded and/or real-time systemsExperience in <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "C++ Software Engineer (<em class=\"search-highlight\">Automotive</em> Industry)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "0404d341-3ef0-4b90-872a-d67fd1de6c04",
+            "links": {},
+            "meta": {
+                "score": 14.691265
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "performance optimizationVery good understanding of the software development process, preferably in the <em class=\"search-highlight\">automotive</em>",
+                            "Bazel, gdb, gcc, memory&CPU profilingExperience with embedded and/or real-time systemsExperience in <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior C++ Software Developer (<em class=\"search-highlight\">Automotive</em>)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "878986f5-fe14-4515-8f57-0e7051eeaa68",
+            "links": {},
+            "meta": {
+                "score": 14.690993
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kasrawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Service Advisor <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "f2a8e0d6-d30d-4b49-8bae-a2042700c0d2",
+            "links": {},
+            "meta": {
+                "score": 14.683975
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nile Projects & Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".+10 years experience in Car Caring or <em class=\"search-highlight\">Automotive</em> Services or Tires /Batteries Technical Services.Car"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "rebranding and repositioning message in the market to drive profitable growth and increase market share for <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Retail Sales Operations Director - <em class=\"search-highlight\">Automotive</em> Background"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "b53859a8-ee37-47e9-9bbe-a60c0a689327",
+            "links": {},
+            "meta": {
+                "score": 14.080905
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nile Projects & Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">automotive</em> engineering",
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc. of <em class=\"search-highlight\">Automotive</em> Engineering.Good in the English languageExcellent MS office.Excellent communication"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Workshop Engineer - Alexandria - (For Fit & Fix Shops)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "e96a0ec6-a34a-4e3b-bb56-10281491fcea",
+            "links": {},
+            "meta": {
+                "score": 14.055881
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nacita"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Sales Representative"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "86aaf335-bf96-4941-afe2-fada1e52077d",
+            "links": {},
+            "meta": {
+                "score": 13.826481
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Avis Budget Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Quality Assurance Specialist (<em class=\"search-highlight\">Automotive</em>)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "cc0d1010-c827-4a2c-bf5c-e74ccc42e927",
+            "links": {},
+            "meta": {
+                "score": 12.832722
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            " We are looking for a Sales engineer - outdoor - ( OSRAM distributer in Egypt )Sell <em class=\"search-highlight\">Automotive</em> Parts"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Sales Engineer - (<em class=\"search-highlight\">Automotive</em> Parts)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "5080b68d-4ce8-49cc-8ff8-7fc6afc52f9a",
+            "links": {},
+            "meta": {
+                "score": 11.69
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Marketing Director - <em class=\"search-highlight\">Automotive</em> Background - 6th Of October"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "47ff4dd4-09bd-4e70-8971-4297adfe61f5",
+            "links": {},
+            "meta": {
+                "score": 11.373013
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kasrawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Operations Engineer (<em class=\"search-highlight\">Automotive</em>)"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "557fa3d4-9b08-4f5e-b2a5-e28162ffbe29",
+            "links": {},
+            "meta": {
+                "score": 10.14415
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECTC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>",
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts",
+                            "<em class=\"search-highlight\">Automotive</em> Sales"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Knowledge and experience in <em class=\"search-highlight\">automotive</em> Engineering Especially Publics sectors/fleet ownersExperience"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Understand <em class=\"search-highlight\">automotive</em> requirements and actively involve different departments to fulfill customer needs"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Sales Account Manager ( <em class=\"search-highlight\">Automotive</em> Spare Parts (M/F))"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "bde37353-4070-451b-8c03-a2693326339d",
+            "links": {},
+            "meta": {
+                "score": 9.884669
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Rizk Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>",
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor DegreeExperience in <em class=\"search-highlight\">automotive</em>2-4 years in the <em class=\"search-highlight\">Automotive</em> spare parts field.Experience in purchasing"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Responsible for sales in Egypt for all kinds of <em class=\"search-highlight\">automotive</em> spare parts.Identify and develop sales leads"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "39f979d9-1e5d-4273-b44d-cdd5f7d11a1c",
+            "links": {},
+            "meta": {
+                "score": 9.649866
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kasrawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>",
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor degree in <em class=\"search-highlight\">automotive</em> engineering is preferable.Minimum 3 years of experience in spare parts"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "6761eae0-460d-4192-ad0e-89524adb8d31",
+            "links": {},
+            "meta": {
+                "score": 9.54079
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Shift EV"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "4 Years of Experience Excellent knowledge and working with Microsoft ExcelERP userFamiliar with the <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "19665a81-6c20-41b1-a4c2-539c2e9b4fd8",
+            "links": {},
+            "meta": {
+                "score": 9.538897
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Avis Budget Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Industry",
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Account Manager experience requiredCar Rental experience preferred <em class=\"search-highlight\">Automotive</em> Industry knowledgeCommunicationStrong"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "5223bdac-7996-4e7c-a93e-efd8738d73df",
+            "links": {},
+            "meta": {
+                "score": 9.533296
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Avis Budget Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "6773580a-df4d-4569-b056-99f97cb3d9e3",
+            "links": {},
+            "meta": {
+                "score": 9.509153
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "NATCO Mercedes-Benz"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Education: University Degree.Experience: At least 3 years in the same field ( <em class=\"search-highlight\">AUTOMOTIVE</em> )Good Command"
+                        ],
+                        "value": [
+                            "AUTOMOTIVE"
+                        ]
+                    }
+                ]
+            },
+            "id": "0f691029-1ebc-4c13-b200-797afca24aeb",
+            "links": {},
+            "meta": {
+                "score": 9.493855
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sky logistics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Office and ERP Systems preferredKnowledge Of:Operating and repair characteristics of a variety of heavy <em class=\"search-highlight\">automotive</em>",
+                            "mechanics.Develop a comprehensive equipment maintenance program.Diagnose defects and repair a wide variety of heavy <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "9e0f5a4a-a709-4ad6-af78-df84c4489e7d",
+            "links": {},
+            "meta": {
+                "score": 9.46212
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Arabiat"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Minimum 1 year of experience in the <em class=\"search-highlight\">automotive</em> industry (Ex.",
+                            "<em class=\"search-highlight\">Automotive</em> is a MUST).Good command of English is a must.Bachelor degree.Presentable.High communication"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "94ce1d8d-522d-49c1-a875-14c6d14c0ee5",
+            "links": {},
+            "meta": {
+                "score": 9.460018
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Rizk Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree.1-2 years of experience in Corporate Sales.<em class=\"search-highlight\">Automotive</em> LoverNear from smouha"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "dfff7545-1be7-43cd-ab91-219557ced9b5",
+            "links": {},
+            "meta": {
+                "score": 9.434226
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Arabiat"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Minimum 1 year of experience in the <em class=\"search-highlight\">automotive</em> industry (Ex.",
+                            "<em class=\"search-highlight\">Automotive</em> is a MUST).Good command of English is a must.Bachelor degree.Presentable.High communication"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "b22103b6-1aeb-40ec-a217-5830d9202614",
+            "links": {},
+            "meta": {
+                "score": 9.429214
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Abou El Yazeed "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts",
+                            "<em class=\"search-highlight\">Automotive</em> Sales",
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Engineering DegreeHaving a 3 years of experience in <em class=\"search-highlight\">automotive</em> spare parts sales at leastExcellent communication"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "34ff7230-783e-4fc8-8cd6-3aa712151c7d",
+            "links": {},
+            "meta": {
+                "score": 9.401411
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SAVOLA"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree in Mechanical Engineering (<em class=\"search-highlight\">Automotive</em>- Mechatronics )Very good  computer skills Very"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "4204b23b-8b2d-4258-a606-b478e794ba39",
+            "links": {},
+            "meta": {
+                "score": 9.39985
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>",
+                            "<em class=\"search-highlight\">Automotive</em> Sales"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "7b6ef09a-cd34-4153-9f6e-88af01dfc760",
+            "links": {},
+            "meta": {
+                "score": 9.3822565
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Target Recruitment  & HR Solutions "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Minimum 3-5 years experience - <em class=\"search-highlight\">Automotive</em> Quality Background.Fluent English.Degree in engineering, equivalent",
+                            "Certified VDA 6.3 auditor (preferred).All MS Office applications.Experience in WH business / development; <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "0c8a57cb-eae0-4620-94ff-df03059302f6",
+            "links": {},
+            "meta": {
+                "score": 9.375361
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "f444ef93-b29b-4929-9f5e-7881cd47d32d",
+            "links": {},
+            "meta": {
+                "score": 9.318824
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tawzef"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Must have:<em class=\"search-highlight\">Automotive</em> SPICEQA ProcessProcess Automation (scripting, Excel, ...)Nice to have:Cybersecurity"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "b0b05070-2e4d-4745-9771-6322cb0c37f6",
+            "links": {},
+            "meta": {
+                "score": 9.310629
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Background is preferable.\nNasr city/Masr El gedida Residency is preferable."
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "8e889adf-8170-427b-8f97-98d8de2a218a",
+            "links": {},
+            "meta": {
+                "score": 9.22562
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Rizk Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "806464e3-79cb-4fb0-819c-e1bde6979900",
+            "links": {},
+            "meta": {
+                "score": 9.222138
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "must (Mechanical, Electrical, Power engineering)Minimum Experience:Minimum two years of experience in <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "8547ea86-7986-40d5-81e9-2972bedbee38",
+            "links": {},
+            "meta": {
+                "score": 9.18118
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Rizk Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> FieldExcellent communication skills.Bachelor Degree Holder"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "7d089535-7581-48c9-b733-158b8377912e",
+            "links": {},
+            "meta": {
+                "score": 9.178516
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Target Recruitment  & HR Solutions "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Maintenance",
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "manufacturing companies; managing 500+ people personnel; knowledge in shifts type of working – preferred <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "da4a46bd-5428-4d7f-a915-516b5ffdaa5e",
+            "links": {},
+            "meta": {
+                "score": 9.125037
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Rizk Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "84e67a11-58b4-4821-b7ca-c0e7df49f6a1",
+            "links": {},
+            "meta": {
+                "score": 8.972433
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Not less than 10 years of experience in same field and strong background in the manufacturing / <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "18a41f63-9aa0-4b03-9d57-689dde58d318",
+            "links": {},
+            "meta": {
+                "score": 8.840669
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ISLUB"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Years of Related Experience in: Industrial Sales, Lubricants, Petrochemicals, Steel, Metalworking, <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "3042d95b-edfa-458e-bfe0-38fcb24900c5",
+            "links": {},
+            "meta": {
+                "score": 8.7095
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Marketing Manager - <em class=\"search-highlight\">Automotive</em> Background - Giza"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "8eabb61e-959e-4bda-84bd-119f77c3c6e9",
+            "links": {},
+            "meta": {
+                "score": 8.689727
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MATGR For Engineering And Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BS degree in <em class=\"search-highlight\">Automotive</em> or Mechanical Engineering.<em class=\"search-highlight\">Automotive</em> Field and Cairo resident is a MUST.Males"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "23e31bb2-faff-4ede-9014-aae9c8e6e592",
+            "links": {},
+            "meta": {
+                "score": 8.688503
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Shift EV"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Educational Background: Electrical power and automationExperience: Automation, <em class=\"search-highlight\">Automotive</em>, or Oil & GasYears"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "91b922db-68a2-4c71-9f00-c514b8a74ec2",
+            "links": {},
+            "meta": {
+                "score": 8.661643
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Shift EV"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "business administration is preferable10+ years of a senior leadership role in the manufacturing field and <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "3fe2a5de-bc6f-47a4-87f3-8b16c820a1cd",
+            "links": {},
+            "meta": {
+                "score": 8.597483
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Samaya Electronics Egypt LTD"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "a0b95111-afcd-4c9e-b8f0-972ec599e9ad",
+            "links": {},
+            "meta": {
+                "score": 8.563174
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nour Eldin Elsherif for Trading vehicles"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "a68c72e1-8984-4bac-b18d-e5c5b3211bf2",
+            "links": {},
+            "meta": {
+                "score": 8.3036995
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "A-part Auto"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience: 3-6 years in product development field for <em class=\"search-highlight\">automotive</em> spare parts.Education: Mechanical Engineer",
+                            "( <em class=\"search-highlight\">Automotive</em> major is preferred).SAP User.English is a must."
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "aa7df57a-49a3-4272-8def-f45afd5ded72",
+            "links": {},
+            "meta": {
+                "score": 8.289595
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Oriental Weavers"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "36616fec-15b6-41bc-a4e7-b372c664ad46",
+            "links": {},
+            "meta": {
+                "score": 8.066347
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Car Care, <em class=\"search-highlight\">Automotive</em> Services"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".+10 years experience in Car Caring or <em class=\"search-highlight\">Automotive</em> Services or Tires /Batteries Technical Services.Car"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "rebranding and repositioning message in the market to drive profitable growth and increase market share for <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "af55e665-1035-4c22-a7da-2d1614d3d65b",
+            "links": {},
+            "meta": {
+                "score": 7.9669404
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "experienceGood communication skillsHave the ability to lead team of technicians & laborsSolid experience in <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "1055bca2-b335-4bc9-b119-d2a9c225d6d2",
+            "links": {},
+            "meta": {
+                "score": 7.9052305
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Services"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "rebranding and repositioning message in the market to drive profitable growth and increase market share for <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "9bbf8150-0468-45e7-ac15-fdf08675b5d0",
+            "links": {},
+            "meta": {
+                "score": 7.791245
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "54755e93-af6a-453c-a72c-7a10eddd4051",
+            "links": {},
+            "meta": {
+                "score": 7.4581203
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MTI Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "MTI <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "662ad397-64f9-43e3-9ce9-5a092d1f3e36",
+            "links": {},
+            "meta": {
+                "score": 7.408476
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RAYA Auto"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "VisualizationMinitabFMEA, and Control PlansTotal Quality Management (TQM)MS-Office AdvancedPreferable : <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "389d11f7-f30c-419b-8722-126766da406c",
+            "links": {},
+            "meta": {
+                "score": 7.156264
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elsaba AutoService"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Maintenance"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "c43edb62-9473-49d7-99df-0ced29203bc4",
+            "links": {},
+            "meta": {
+                "score": 6.990408
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Nasser "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "c2c5597d-82fb-4f95-96d0-a9cf6c3b4d5f",
+            "links": {},
+            "meta": {
+                "score": 6.9058747
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ghabbour Auto"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "d2ac0c24-b0a7-4f9c-bf05-9badb81b71f7",
+            "links": {},
+            "meta": {
+                "score": 6.7020917
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kasrawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em> Marketing",
+                            "<em class=\"search-highlight\">Automotive</em> Spare Parts",
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Requirements :5-7 years of <em class=\"search-highlight\">Automotive</em> experience is a must.",
+                            "(Sales, Marketing and Engineering) <em class=\"search-highlight\">Automotive</em> back ground are welcome to apply. "
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "83912b4b-16d8-4b07-b204-7c33cbe16a0c",
+            "links": {},
+            "meta": {
+                "score": 6.2481737
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Prometeon Tyres Group – Egypt  (Ex-Pirelli Tyres Egypt)"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Administration/ Commerce is preferred1-4 Years Experience in B2B Sales OR B2B After Sales Tyres or <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "442bf72b-5490-445d-a87a-afa3467fb8ef",
+            "links": {},
+            "meta": {
+                "score": 6.2408295
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Prometeon Tyres Group – Egypt  (Ex-Pirelli Tyres Egypt)"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Administration/ Commerce is preferred.4-8 Years' Experience in B2B Sales OR B2B After Sales Tyres or <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "f7c71c41-36e0-42f8-b756-5df41daec409",
+            "links": {},
+            "meta": {
+                "score": 6.236883
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "c5b1ca76-424c-4cdd-925f-e98024f24bfd",
+            "links": {},
+            "meta": {
+                "score": 6.091301
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Business Corporation - IBC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "in business to business .Experience and working knowledge in the field of sales (Logistics/shipping/<em class=\"search-highlight\">automotive</em>",
+                            "techniques.Familiar with CRM systems.Experience and working knowledge in the field of sales (Logistics/shipping/<em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "3e7930c1-0f29-470a-b736-b7402ab78946",
+            "links": {},
+            "meta": {
+                "score": 6.0195365
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "must (Mechanical, Electrical, Power engineering)Minimum Experience:Minimum two years of experience in <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "4dfcea00-5b09-49eb-923e-4108a93ad4e8",
+            "links": {},
+            "meta": {
+                "score": 5.807489
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MATGR For Engineering And Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "b08df5f7-7718-47ad-a320-177c9916fa23",
+            "links": {},
+            "meta": {
+                "score": 5.2641616
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Adwords, etc.)Well-organized and detail-orientedExceptional communication and writing skillsExperience in <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "254524fd-eeac-42d0-af3a-632d2718a321",
+            "links": {},
+            "meta": {
+                "score": 4.51543
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Shift EV"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "over-the-air flashing experience.With a solid background in product testing levels.With a solid background in <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "a7c9a147-92f8-44cf-8c61-0b36af290ce8",
+            "links": {},
+            "meta": {
+                "score": 4.2864404
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            " Si-Vision"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "projects:The next-generation complex wireless connectivity protocols for commercial, Enterprise, and <em class=\"search-highlight\">Automotive</em>",
+                            "applications.The next-generation Ethernet and PAM-based SerDes protocols for commercial, Enterprise, and <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "59296505-7724-475d-bc11-ccf1651468fa",
+            "links": {},
+            "meta": {
+                "score": 4.265516
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LEONI Wiring System Egypt S.A.E"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "degree.HR Certificate/Diploma is a plusAt least 2 years of recruitment experience in (Manufacturing or <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "e02a70e2-3337-4269-9b92-ead3c28cdbd1",
+            "links": {},
+            "meta": {
+                "score": 4.2600784
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kasrawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc of <em class=\"search-highlight\">Automotive</em> or Mechanical engineering.6 to 8 years’ experience with 3 years in similar position.Males"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "e318b611-a9e7-4575-90f9-0aafef0994f3",
+            "links": {},
+            "meta": {
+                "score": 4.248406
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Target Recruitment  & HR Solutions "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Years of experience.Fluent English.Experience in international manufacturing companies – preferred <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "dfb5e0df-ba96-41b5-9357-47dbca528e02",
+            "links": {},
+            "meta": {
+                "score": 4.100925
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "marketing analysis.Teamwork abilities, proactive, creative with good interpersonal relationships.Background <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "dab4c557-7e32-4d50-b480-0cf5e4d198d0",
+            "links": {},
+            "meta": {
+                "score": 4.089054
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "fbe29e3a-0c45-4335-88b1-574a91023255",
+            "links": {},
+            "meta": {
+                "score": 3.8995166
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillars"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "of laws, regulations, and guidelines within legal and market environment in Egypt; Knowledge in the <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "ae1c221b-1748-4844-8b23-092223094538",
+            "links": {},
+            "meta": {
+                "score": 3.843386
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "3dc1bc96-aeef-4fff-b3a1-ed8c7da8d991",
+            "links": {},
+            "meta": {
+                "score": 3.8157353
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "0300ea21-38d8-4fd0-873d-2fea6fc2bb72",
+            "links": {},
+            "meta": {
+                "score": 3.80264
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "6d46392a-c0e0-4f74-a6fe-a51638495049",
+            "links": {},
+            "meta": {
+                "score": 3.80171
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            " Si-Vision"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "allow fast, efficient, robust, and secure end-to-end communication for commercial, enterprise, and <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "196c3f9b-336e-4bea-8b53-94878e153bba",
+            "links": {},
+            "meta": {
+                "score": 3.7656705
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Mansour"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "acc395c2-1d1e-4452-81ad-ccc58b342485",
+            "links": {},
+            "meta": {
+                "score": 3.694659
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "50de6f61-5dda-48ba-b148-7db1ebd3ef7e",
+            "links": {},
+            "meta": {
+                "score": 3.6079783
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillars"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "performance optimizationVery good understanding of the software development process, preferably in the <em class=\"search-highlight\">automotive</em>",
+                            "Bazel, gdb, gcc, memory&CPU profilingExperience with embedded and/or real-time systemsExperience in <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We deliver professional software services in multiple business verticals such as finance, <em class=\"search-highlight\">automotive</em>,",
+                            "Turin and develop software for an entire driver assistance area of future vehicles of a renowned German <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "766b9073-4ddf-4575-9dab-b3d0e30755c3",
+            "links": {},
+            "meta": {
+                "score": 3.5499327
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "168ab5ae-dac5-4f42-8e5f-4e56d28da289",
+            "links": {},
+            "meta": {
+                "score": 3.4651914
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Saba Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "El Saba <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "4266898c-7844-496e-ae5e-c1f184837600",
+            "links": {},
+            "meta": {
+                "score": 3.43983
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "8c5b68c0-b8e6-4a3e-9c61-241dff37dbc6",
+            "links": {},
+            "meta": {
+                "score": 3.338971
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "132005ad-1606-4e17-a862-c3d2ac7d16ce",
+            "links": {},
+            "meta": {
+                "score": 3.3388467
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "9f744eb5-6224-424b-801a-5bf7b2d20b43",
+            "links": {},
+            "meta": {
+                "score": 3.3386967
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "17979d45-8469-4046-8efc-77704f5565c1",
+            "links": {},
+            "meta": {
+                "score": 3.3386152
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "7986cd39-a38f-4ca1-9e4c-f1aa1e3502bb",
+            "links": {},
+            "meta": {
+                "score": 3.3383927
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElTarek Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "ElTarek <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "ac8b2131-6e28-4dc8-ac5b-350d4eb0f700",
+            "links": {},
+            "meta": {
+                "score": 3.3380234
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillars"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Years)Decent experience in SW Development (5+ Years)Test Management systemsNice to haveTesting within <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We deliver professional software services in multiple business verticals such as Finance, <em class=\"search-highlight\">Automotive</em>,",
+                            "How to surpass all the benchmarks in <em class=\"search-highlight\">automotive</em> SW development.We believe that Software is the driving"
+                        ],
+                        "value": [
+                            "automotive",
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "1c9ad449-0fc1-4582-91b1-b21c63af5661",
+            "links": {},
+            "meta": {
+                "score": 3.2908986
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Shift EV"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "hardware safety qualification standards: IEC61508, ISO26262.With a background in wiring/cables design for <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "product casing design.Optimizing existing hardware designs.Following hardware design standards for <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "9142782f-bb51-4bff-be07-0b1edd4b4b42",
+            "links": {},
+            "meta": {
+                "score": 3.2822912
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Samaya Electronics Egypt LTD"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "busbars, battery harnesses)Involve in the CAD design of power products (plastic/copper) that go into <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "dcd75d38-a750-4cf7-a1fd-41fba8227999",
+            "links": {},
+            "meta": {
+                "score": 3.1219182
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SMG Engineering Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "SMG Engineering <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "55edacf4-1786-41f5-95f9-ef33ecd4d9d8",
+            "links": {},
+            "meta": {
+                "score": 3.1158378
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Samaya Electronics Egypt LTD"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Will be responsible  for  designing PCBAs and hardware concept for costumed  products  in  the  <em class=\"search-highlight\">automotive</em>"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "66974cf0-b6e2-40fe-882d-dce61e38ab47",
+            "links": {},
+            "meta": {
+                "score": 3.0180733
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tashkeel"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Social Media (<em class=\"search-highlight\">Automotive</em>) Specialist is needed for immediate hiring, work is full-time. "
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "751fbfc0-46f5-4eaa-be66-a97348e381e4",
+            "links": {},
+            "meta": {
+                "score": 2.836818
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MTI Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "MTI <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "a9ffb7e3-2ec9-4838-a738-93358380fef7",
+            "links": {},
+            "meta": {
+                "score": 2.830503
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AKL Auto Feeding Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "AKL AUTO FEEDING INDUSTRIES,A leading <em class=\"search-highlight\">automotive</em> spare parts manufacturer in MENA region since 1992,Are"
+                        ],
+                        "value": [
+                            "automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "4265fd52-450f-4161-aff8-661ced47ef7d",
+            "links": {},
+            "meta": {
+                "score": 2.8237896
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MTI Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "MTI <em class=\"search-highlight\">Automotive</em>"
+                        ],
+                        "value": [
+                            "Automotive"
+                        ]
+                    }
+                ]
+            },
+            "id": "912e4893-2f2f-4a3e-b105-621db336fc0b",
+            "links": {},
+            "meta": {
+                "score": 2.5268147
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        }
+    ],
+    "meta": {
+        "totalResultsCount": 104
+    }
+}
