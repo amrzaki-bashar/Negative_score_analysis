@@ -58,7 +58,138 @@
             "id": "509626c4-e950-4bb0-9a2b-d2aaf5209a71",
             "links": {},
             "meta": {
-                "score": 8.825297
+                "score": 8.708154
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Supervise and lead all <em class=\"search-highlight\">maintenance</em> processes and operations.Track expenses and oversee the budget for",
+                            "<em class=\"search-highlight\">maintenance</em>.Maintain all machinery to ensure it’s at working standards.Create and implement <em class=\"search-highlight\">maintenance</em>",
+                            "repair schedules and evaluate repair cost estimates.Document and prepare daily progress reports and <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em> Manager"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "a278e5c8-005f-442a-a0c1-edc117729592",
+            "links": {},
+            "meta": {
+                "score": 8.694135
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TechnoBit Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">Maintenance</em> Engineer Candidates with other relevant industry experience may"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em> Engineer Responsibilities:Maintain all machinery to ensure it’s at working standards.Create",
+                            "and implement <em class=\"search-highlight\">maintenance</em> procedures.Conduct regular inspections of the facilities to detect and resolve",
+                            "budgetsMaintaining statistical and financial recordsManaging stocks of supplies and equipment.Controlling <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance",
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mechanical <em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "f1846be4-ad1a-466a-b45c-211847bc0ec0",
+            "links": {},
+            "meta": {
+                "score": 8.680306
             },
             "relationships": {},
             "type": "talentSearch"
@@ -134,138 +265,7 @@
             "id": "3d8071b4-5fc6-4784-b2aa-02bd8a319a81",
             "links": {},
             "meta": {
-                "score": 8.819492
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "TechnoBit Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Proven work experience as a <em class=\"search-highlight\">Maintenance</em> Engineer Candidates with other relevant industry experience may"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Engineer Responsibilities:Maintain all machinery to ensure it’s at working standards.Create",
-                            "and implement <em class=\"search-highlight\">maintenance</em> procedures.Conduct regular inspections of the facilities to detect and resolve",
-                            "budgetsMaintaining statistical and financial recordsManaging stocks of supplies and equipment.Controlling <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Mechanical <em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "f1846be4-ad1a-466a-b45c-211847bc0ec0",
-            "links": {},
-            "meta": {
-                "score": 8.801619
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Supervise and lead all <em class=\"search-highlight\">maintenance</em> processes and operations.Track expenses and oversee the budget for",
-                            "<em class=\"search-highlight\">maintenance</em>.Maintain all machinery to ensure it’s at working standards.Create and implement <em class=\"search-highlight\">maintenance</em>",
-                            "repair schedules and evaluate repair cost estimates.Document and prepare daily progress reports and <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Manager"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "a278e5c8-005f-442a-a0c1-edc117729592",
-            "links": {},
-            "meta": {
-                "score": 8.786014
+                "score": 8.678294
             },
             "relationships": {},
             "type": "talentSearch"
@@ -313,8 +313,8 @@
                             "equipment/parts audits.Performing periodic inspections on machinery and automated systems.Documenting <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -331,7 +331,277 @@
             "id": "c757cfb6-b17b-4b31-9e7b-2f1651cd96c5",
             "links": {},
             "meta": {
-                "score": 8.783509
+                "score": 8.666337
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "and technical staff performing development-related services.Support for customer service/operations, <em class=\"search-highlight\">maintenance</em>",
+                            "project start-up plans and required documentation are completed and coordinated with operations and <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "ee815e02-c09a-40de-a855-943a1d405f8d",
+            "links": {},
+            "meta": {
+                "score": 8.658878
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "the coordination, management, and safe effective & efficient delivery of scheduled key inspection & <em class=\"search-highlight\">maintenance</em>",
+                            "Oversee routine <em class=\"search-highlight\">maintenance</em> and organize repairs.Monitors all equipment’s on the production line makes",
+                            "program, recommends any additional needs not included in the preventive <em class=\"search-highlight\">maintenance</em> programs.Reviewing",
+                            "may cause production lines stoppage.Review the daily malfunction report submitted by the mechanical <em class=\"search-highlight\">maintenance</em>",
+                            "<em class=\"search-highlight\">Maintenance</em> reports daily, weekly, and monthly and reports the technical Dept. preset KPIs to the management"
+                        ],
+                        "value": [
+                            "Maintenance",
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em> Engineer (Ain Sokhna)"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "88322dd7-6bca-41a8-91a8-d63b638a0e69",
+            "links": {},
+            "meta": {
+                "score": 8.656351
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kandil Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Plan and execute <em class=\"search-highlight\">maintenance</em> shutdown focused on minimizing operational impact and disruption.Responsible",
+                            "with high efficiency of the machine.Establish and maintain comprehensive preventive and predictive <em class=\"search-highlight\">maintenance</em>",
+                            "modification on our accessories & improvement to get better efficiency.Perform day to day total productive <em class=\"search-highlight\">maintenance</em>.Complete"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mechanical <em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "ec2c2645-3804-4d1d-8de6-a3a137b0aa2f",
+            "links": {},
+            "meta": {
+                "score": 8.6350975
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree of Electrical/Mechatronics EngineeringMinimum 5 years of experience in <em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "assigns their duties, monitors, evaluates, and keeps records of their performance.Manage Corrective <em class=\"search-highlight\">Maintenance</em>",
+                            "and Emergency <em class=\"search-highlight\">Maintenance</em> activities for all machines.Plan and manage the Preventive <em class=\"search-highlight\">Maintenance</em> activities.Manage"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "32ce3eec-6619-4edc-8150-b80358b476d5",
+            "links": {},
+            "meta": {
+                "score": 8.570141
             },
             "relationships": {},
             "type": "talentSearch"
@@ -405,277 +675,7 @@
             "id": "fbeba76c-c89e-4239-8f71-c26fd6bea16c",
             "links": {},
             "meta": {
-                "score": 8.779128
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "the coordination, management, and safe effective & efficient delivery of scheduled key inspection & <em class=\"search-highlight\">maintenance</em>",
-                            "Oversee routine <em class=\"search-highlight\">maintenance</em> and organize repairs.Monitors all equipment’s on the production line makes",
-                            "program, recommends any additional needs not included in the preventive <em class=\"search-highlight\">maintenance</em> programs.Reviewing",
-                            "may cause production lines stoppage.Review the daily malfunction report submitted by the mechanical <em class=\"search-highlight\">maintenance</em>",
-                            "<em class=\"search-highlight\">Maintenance</em> reports daily, weekly, and monthly and reports the technical Dept. preset KPIs to the management"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Engineer (Ain Sokhna)"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "88322dd7-6bca-41a8-91a8-d63b638a0e69",
-            "links": {},
-            "meta": {
-                "score": 8.778322
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "and technical staff performing development-related services.Support for customer service/operations, <em class=\"search-highlight\">maintenance</em>",
-                            "project start-up plans and required documentation are completed and coordinated with operations and <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "ee815e02-c09a-40de-a855-943a1d405f8d",
-            "links": {},
-            "meta": {
-                "score": 8.778305
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Kandil Industries"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Plan and execute <em class=\"search-highlight\">maintenance</em> shutdown focused on minimizing operational impact and disruption.Responsible",
-                            "with high efficiency of the machine.Establish and maintain comprehensive preventive and predictive <em class=\"search-highlight\">maintenance</em>",
-                            "modification on our accessories & improvement to get better efficiency.Perform day to day total productive <em class=\"search-highlight\">maintenance</em>.Complete"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Mechanical <em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "ec2c2645-3804-4d1d-8de6-a3a137b0aa2f",
-            "links": {},
-            "meta": {
-                "score": 8.777942
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree of Electrical/Mechatronics EngineeringMinimum 5 years of experience in <em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "assigns their duties, monitors, evaluates, and keeps records of their performance.Manage Corrective <em class=\"search-highlight\">Maintenance</em>",
-                            "and Emergency <em class=\"search-highlight\">Maintenance</em> activities for all machines.Plan and manage the Preventive <em class=\"search-highlight\">Maintenance</em> activities.Manage"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "32ce3eec-6619-4edc-8150-b80358b476d5",
-            "links": {},
-            "meta": {
-                "score": 8.7769575
+                "score": 8.568089
             },
             "relationships": {},
             "type": "talentSearch"
@@ -741,7 +741,7 @@
             "id": "3cc71f56-b89c-4d93-9b7a-6fd6915dbe40",
             "links": {},
             "meta": {
-                "score": 8.746099
+                "score": 8.535883
             },
             "relationships": {},
             "type": "talentSearch"
@@ -797,7 +797,7 @@
             "id": "3624948c-4c62-4007-9cba-ff46d4950a39",
             "links": {},
             "meta": {
-                "score": 8.740521
+                "score": 8.530363
             },
             "relationships": {},
             "type": "talentSearch"
@@ -847,8 +847,8 @@
                             "operations without any lack of understanding.Follow-up the planning procedures of <em class=\"search-highlight\">maintenance</em> complying"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -865,88 +865,7 @@
             "id": "bdfc10fb-84a2-4a25-85da-4aa839233846",
             "links": {},
             "meta": {
-                "score": 8.729732
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al Watania Poultry"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>",
-                            "<em class=\"search-highlight\">maintenance</em> planning",
-                            "<em class=\"search-highlight\">Maintenance</em> Engineering",
-                            "<em class=\"search-highlight\">maintenance</em> planner"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Five years of professional experience in a facilities management, manufacturing, or <em class=\"search-highlight\">maintenance</em> planning"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Plan and schedule corrective and preventive <em class=\"search-highlight\">maintenance</em> activities by task and priority level.Manage",
-                            "spare parts and alignment between the <em class=\"search-highlight\">maintenance</em> department and stock room.Each work order has adequate",
-                            "Provide ERP System data and reports.High level of Preventative and Planned Corrective <em class=\"search-highlight\">Maintenance</em> compliance",
-                            "that leads to better plant reliability & <em class=\"search-highlight\">Maintenance</em> PracticesDevelop Annual <em class=\"search-highlight\">Maintenance</em> Plan that aligns",
-                            "to production requirements.Yearly Budget Tracking Establish, maintain and improve the <em class=\"search-highlight\">Maintenance</em> Planning"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Planner - Beheira"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "8935b7ed-10ab-4005-8377-86a357eef047",
-            "links": {},
-            "meta": {
-                "score": 8.709652
+                "score": 8.508921
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1013,7 +932,7 @@
             "id": "efe93105-a695-4d48-a423-00e4886695f5",
             "links": {},
             "meta": {
-                "score": 8.705862
+                "score": 8.455481
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1082,7 +1001,7 @@
             "id": "9eb8d65a-1833-44c6-8135-282346bccece",
             "links": {},
             "meta": {
-                "score": 8.705803
+                "score": 8.455361
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1147,7 +1066,88 @@
             "id": "47dfcc4b-3eaf-43d8-9d39-ff97d8b229fc",
             "links": {},
             "meta": {
-                "score": 8.704216
+                "score": 8.451818
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al Watania Poultry"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>",
+                            "<em class=\"search-highlight\">maintenance</em> planning",
+                            "<em class=\"search-highlight\">Maintenance</em> Engineering",
+                            "<em class=\"search-highlight\">maintenance</em> planner"
+                        ],
+                        "value": [
+                            "Maintenance",
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Five years of professional experience in a facilities management, manufacturing, or <em class=\"search-highlight\">maintenance</em> planning"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Plan and schedule corrective and preventive <em class=\"search-highlight\">maintenance</em> activities by task and priority level.Manage",
+                            "spare parts and alignment between the <em class=\"search-highlight\">maintenance</em> department and stock room.Each work order has adequate",
+                            "Provide ERP System data and reports.High level of Preventative and Planned Corrective <em class=\"search-highlight\">Maintenance</em> compliance",
+                            "that leads to better plant reliability & <em class=\"search-highlight\">Maintenance</em> PracticesDevelop Annual <em class=\"search-highlight\">Maintenance</em> Plan that aligns",
+                            "to production requirements.Yearly Budget Tracking Establish, maintain and improve the <em class=\"search-highlight\">Maintenance</em> Planning"
+                        ],
+                        "value": [
+                            "Maintenance",
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em> Planner - Beheira"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "8935b7ed-10ab-4005-8377-86a357eef047",
+            "links": {},
+            "meta": {
+                "score": 8.432832
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1189,8 +1189,8 @@
                             "heavy automotive equipment.Principles and practices of supervision, coaching and training.Equipment <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -1229,7 +1229,7 @@
             "id": "9e0f5a4a-a709-4ad6-af78-df84c4489e7d",
             "links": {},
             "meta": {
-                "score": 8.697154
+                "score": 8.425631
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1296,7 +1296,7 @@
             "id": "8a157df9-6bd7-4408-a27e-9d6bda3c6c25",
             "links": {},
             "meta": {
-                "score": 8.679546
+                "score": 8.404048
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1344,8 +1344,8 @@
                             "Safe and hygienic <em class=\"search-highlight\">maintenance</em> and <em class=\"search-highlight\">Maintenance</em> plan\nUse equipment properly and follow safety features."
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -1362,7 +1362,7 @@
             "id": "cc575164-9113-4aef-af2b-4b91db5f7756",
             "links": {},
             "meta": {
-                "score": 8.679483
+                "score": 8.403611
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1412,8 +1412,8 @@
                             "condition  report  to ensure implementing the <em class=\"search-highlight\">maintenance</em> procedureExecute the Preventive <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -1430,7 +1430,65 @@
             "id": "4204b23b-8b2d-4258-a606-b478e794ba39",
             "links": {},
             "meta": {
-                "score": 8.652001
+                "score": 8.354548
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "UFM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "From 6:9 years of experience in <em class=\"search-highlight\">Maintenance</em>.HVAC & Electromechanical experience.Good Leadership skills.Excellent"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Manage <em class=\"search-highlight\">maintenance</em> HVAC Equipment, Electrical Equipment, firefighting, fire alarm system, all the plumping",
+                            "activities, and the carpentry activities as well.Plan, coordinate, and lead the operation and <em class=\"search-highlight\">maintenance</em>",
+                            "increase is carried out.Provide the spare parts and tools to execute the corrective and preventive <em class=\"search-highlight\">maintenance</em>",
+                            "and the safety equipment as well.Ensure that <em class=\"search-highlight\">maintenance</em> activities and installations are performed",
+                            "activities.Coordinate and supervise installation and <em class=\"search-highlight\">maintenance</em> by contractors or outside vendors for"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mechanical <em class=\"search-highlight\">Maintenance</em> Site Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "edbb67fc-c5e2-4019-bbb2-2a28242a022d",
+            "links": {},
+            "meta": {
+                "score": 8.332396
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1496,7 +1554,7 @@
             "id": "5e191819-305f-4026-b8d1-8a5fed365d05",
             "links": {},
             "meta": {
-                "score": 8.607381
+                "score": 8.278877
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1563,7 +1621,7 @@
             "id": "a129d208-bf04-40f0-83d4-04ff198bf035",
             "links": {},
             "meta": {
-                "score": 8.562459
+                "score": 8.208067
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1639,7 +1697,7 @@
             "id": "5645b41e-ca9d-454f-a32b-f4b06a28ccbe",
             "links": {},
             "meta": {
-                "score": 8.554893
+                "score": 8.1770315
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1689,8 +1747,8 @@
                             "for the assembly shop <em class=\"search-highlight\">maintenance</em> in the manufacture .Will work in rotational shifts in the passenger"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -1707,7 +1765,7 @@
             "id": "3cc514fa-f99f-4571-868b-f621751082be",
             "links": {},
             "meta": {
-                "score": 8.540789
+                "score": 8.169316
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1770,65 +1828,7 @@
             "id": "f869376a-8171-42dd-aba1-ee3fad4b2505",
             "links": {},
             "meta": {
-                "score": 8.532291
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "UFM"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "From 6:9 years of experience in <em class=\"search-highlight\">Maintenance</em>.HVAC & Electromechanical experience.Good Leadership skills.Excellent"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Manage <em class=\"search-highlight\">maintenance</em> HVAC Equipment, Electrical Equipment, firefighting, fire alarm system, all the plumping",
-                            "activities, and the carpentry activities as well.Plan, coordinate, and lead the operation and <em class=\"search-highlight\">maintenance</em>",
-                            "increase is carried out.Provide the spare parts and tools to execute the corrective and preventive <em class=\"search-highlight\">maintenance</em>",
-                            "and the safety equipment as well.Ensure that <em class=\"search-highlight\">maintenance</em> activities and installations are performed",
-                            "activities.Coordinate and supervise installation and <em class=\"search-highlight\">maintenance</em> by contractors or outside vendors for"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Mechanical <em class=\"search-highlight\">Maintenance</em> Site Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "edbb67fc-c5e2-4019-bbb2-2a28242a022d",
-            "links": {},
-            "meta": {
-                "score": 8.52489
+                "score": 8.155534
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1885,8 +1885,8 @@
                             "place orders when necessary to make sure that all the required partsare available upon request.Keep <em class=\"search-highlight\">Maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -1903,7 +1903,7 @@
             "id": "2d61197b-6f7e-4c94-b5fe-1a10558126da",
             "links": {},
             "meta": {
-                "score": 8.51066
+                "score": 8.110584
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1962,8 +1962,8 @@
                             "services as required & the adherence of contractor / vendor tointernal policies and procedures.Keep <em class=\"search-highlight\">Maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -1980,7 +1980,7 @@
             "id": "90efdf74-7b06-4249-afb3-b9c5b8913660",
             "links": {},
             "meta": {
-                "score": 8.508459
+                "score": 8.108223
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2039,8 +2039,8 @@
                             "services as required & the adherence of contractor / vendor tointernal policies and procedures.Keep <em class=\"search-highlight\">Maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -2057,7 +2057,73 @@
             "id": "3f04b7ae-aee4-4867-a513-79a6a79a126d",
             "links": {},
             "meta": {
-                "score": 8.506829
+                "score": 8.106753
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "CompuGeorge"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Have you got the enough experience in Security System Installation, <em class=\"search-highlight\">Maintenance</em> and Technologies?",
+                            "Job Description Responsible for Security Systems Installations, <em class=\"search-highlight\">Maintenance</em> and Technical Support including",
+                            "of installation and implementation time frames and fulfilling those plans.Do preventive & predictive <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance",
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Installation & <em class=\"search-highlight\">Maintenance</em> Sr. Engineer - Security Systems"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "48e124c7-c768-48f6-98b9-7461a9baccbd",
+            "links": {},
+            "meta": {
+                "score": 8.032552
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2120,73 +2186,7 @@
             "id": "69acd8f9-80bf-49b9-bd6a-2f4c2c6c7f6d",
             "links": {},
             "meta": {
-                "score": 8.449482
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "CompuGeorge"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Have you got the enough experience in Security System Installation, <em class=\"search-highlight\">Maintenance</em> and Technologies?",
-                            "Job Description Responsible for Security Systems Installations, <em class=\"search-highlight\">Maintenance</em> and Technical Support including",
-                            "of installation and implementation time frames and fulfilling those plans.Do preventive & predictive <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Installation & <em class=\"search-highlight\">Maintenance</em> Sr. Engineer - Security Systems"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "48e124c7-c768-48f6-98b9-7461a9baccbd",
-            "links": {},
-            "meta": {
-                "score": 8.446405
+                "score": 8.031064
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2236,8 +2236,8 @@
                             "and safety.Assist in training technicians whenever required to increase work efficiency.Review daily <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -2254,7 +2254,7 @@
             "id": "2a13b8be-b74b-4613-9300-cb3d03894193",
             "links": {},
             "meta": {
-                "score": 8.405286
+                "score": 7.972787
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2320,7 +2320,7 @@
             "id": "081a362d-8f06-41e5-a292-342237b7de56",
             "links": {},
             "meta": {
-                "score": 8.355829
+                "score": 7.903813
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2386,7 +2386,7 @@
             "id": "f45b9410-b1a3-4029-bbb0-1e7aac6ecb88",
             "links": {},
             "meta": {
-                "score": 8.32519
+                "score": 7.8619843
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2449,7 +2449,7 @@
             "id": "3eca6b16-2e9a-40f3-8340-0ff03b564e1c",
             "links": {},
             "meta": {
-                "score": 8.253736
+                "score": 7.766526
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2514,7 +2514,7 @@
             "id": "e37dcdb8-2527-45f6-87b0-1a218f7ab8ab",
             "links": {},
             "meta": {
-                "score": 8.247169
+                "score": 7.758514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2561,8 +2561,8 @@
                             "chillers and air compressors house.Coordinating with the production department to perform periodic <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -2579,7 +2579,61 @@
             "id": "8e3b879e-9106-4fa3-8435-e35a3218b0e8",
             "links": {},
             "meta": {
-                "score": 8.216478
+                "score": 7.718045
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Inkall"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Installation and <em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "c71ffea2-0c4a-475c-a0a8-549f00e29532",
+            "links": {},
+            "meta": {
+                "score": 7.7064543
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2656,61 +2710,7 @@
             "id": "92c6583c-eaf8-46f8-b14b-c6adb4f7d5df",
             "links": {},
             "meta": {
-                "score": 8.209352
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Inkall"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Installation and <em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "c71ffea2-0c4a-475c-a0a8-549f00e29532",
-            "links": {},
-            "meta": {
-                "score": 8.209199
+                "score": 7.7041974
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2768,8 +2768,8 @@
                             "rates within the station.Prepare the daily/ weekly/ monthly reports related to consumption, production, <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -2786,7 +2786,7 @@
             "id": "792d51a4-f664-45de-81ad-608afb9c7dcb",
             "links": {},
             "meta": {
-                "score": 8.175972
+                "score": 7.6547246
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2844,8 +2844,8 @@
                             "rates within the station.Prepare the daily/ weekly/ monthly reports related to consumption, production, <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -2862,7 +2862,7 @@
             "id": "b41c5748-9af7-44ae-879a-b9bd3993a2d7",
             "links": {},
             "meta": {
-                "score": 8.175639
+                "score": 7.6542983
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2928,7 +2928,7 @@
             "id": "9d3009b4-0cbc-484d-a5bb-80d069e83022",
             "links": {},
             "meta": {
-                "score": 8.161557
+                "score": 7.64589
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2982,7 +2982,7 @@
             "id": "f2e05742-124b-49b4-8ce8-1cac91935476",
             "links": {},
             "meta": {
-                "score": 8.134152
+                "score": 7.6120925
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3029,8 +3029,8 @@
                             "systems.Sourcing or fabricating replacement parts for electronic systems.Carrying out scheduled preventative <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -3047,7 +3047,7 @@
             "id": "f04969bf-7db4-4e9c-a9a6-1b7a974a1cbc",
             "links": {},
             "meta": {
-                "score": 8.0713005
+                "score": 7.5302444
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3116,7 +3116,7 @@
             "id": "b5f9a93b-c86e-4a1b-b2c5-b54c36337aec",
             "links": {},
             "meta": {
-                "score": 8.068102
+                "score": 7.528265
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3155,8 +3155,8 @@
                             "Engineering “for Electrical <em class=\"search-highlight\">Maintenance</em> Engineer”  Min 5 years of experience as <em class=\"search-highlight\">maintenance</em> engineer"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -3194,7 +3194,7 @@
             "id": "823a7ee5-d916-43a1-9845-894924de1c11",
             "links": {},
             "meta": {
-                "score": 8.042861
+                "score": 7.488628
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3254,8 +3254,8 @@
                             ", routine <em class=\"search-highlight\">maintenance</em> and preventive <em class=\"search-highlight\">maintenance</em> in conjunction with the <em class=\"search-highlight\">Maintenance</em> ManagerTraining"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -3272,7 +3272,7 @@
             "id": "2a8be54c-3fea-4b16-81ef-23e7a817cf5e",
             "links": {},
             "meta": {
-                "score": 7.853283
+                "score": 7.2602262
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3336,7 +3336,7 @@
             "id": "9f748138-ca62-4c6d-95cf-981f4aa1281e",
             "links": {},
             "meta": {
-                "score": 7.8489094
+                "score": 7.248792
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3390,7 +3390,7 @@
             "id": "75949335-2163-421f-ab88-02fe35b65152",
             "links": {},
             "meta": {
-                "score": 7.8392982
+                "score": 7.238064
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3447,8 +3447,8 @@
                             "Responsible for providing coverage in the absence of other <em class=\"search-highlight\">Maintenance</em> Technicians. "
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -3465,7 +3465,7 @@
             "id": "0b056513-a67a-4387-930c-43d576b777c1",
             "links": {},
             "meta": {
-                "score": 7.8256063
+                "score": 7.226799
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3524,8 +3524,8 @@
                             "expenses, miscellaneous expenses, depreciation and amortization) in the district reporting all that to the <em class=\"search-highlight\">Maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -3542,7 +3542,7 @@
             "id": "81357f45-ab4c-4f64-96ab-78d34c6cd93d",
             "links": {},
             "meta": {
-                "score": 7.7844644
+                "score": 7.173321
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3614,7 +3614,7 @@
             "id": "b1e19acf-360b-4914-ab42-1b9187185b66",
             "links": {},
             "meta": {
-                "score": 7.701379
+                "score": 7.07651
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3677,7 +3677,7 @@
             "id": "08a7a248-23a0-4946-82f1-5e0284bbaab3",
             "links": {},
             "meta": {
-                "score": 7.6914234
+                "score": 7.069969
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3727,8 +3727,8 @@
                             "manager as delegated and take responsibility for large <em class=\"search-highlight\">maintenance</em> projects"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -3745,7 +3745,7 @@
             "id": "4e612747-a1d0-4929-963e-4ec3ccc65517",
             "links": {},
             "meta": {
-                "score": 7.675938
+                "score": 7.0529876
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3808,7 +3808,7 @@
             "id": "d15d750e-1f5a-471c-943c-8532248a9cda",
             "links": {},
             "meta": {
-                "score": 7.668474
+                "score": 7.043326
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3875,7 +3875,7 @@
             "id": "8eb9fd89-9553-4508-84f7-361ef480ff5f",
             "links": {},
             "meta": {
-                "score": 7.6075215
+                "score": 6.973543
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3939,7 +3939,7 @@
             "id": "a20432b2-5b87-4410-aa48-5a114d6c9caa",
             "links": {},
             "meta": {
-                "score": 7.563917
+                "score": 6.9148316
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4004,7 +4004,7 @@
             "id": "cf2da71b-b19f-4053-9a4a-24db2855560b",
             "links": {},
             "meta": {
-                "score": 7.5282702
+                "score": 6.8816614
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4071,7 +4071,7 @@
             "id": "7b678672-fbcd-4c29-986e-31189c136320",
             "links": {},
             "meta": {
-                "score": 7.3675485
+                "score": 6.6984973
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4121,8 +4121,8 @@
                             "operation of all networks of water, sewage, fire, electricity and irrigation in the district.<em class=\"search-highlight\">Maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -4139,7 +4139,7 @@
             "id": "f92fd7d4-1239-4fc9-a89e-7bf079b0caab",
             "links": {},
             "meta": {
-                "score": 7.298637
+                "score": 6.6218324
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4214,7 +4214,7 @@
             "id": "c1f56049-57e6-46ff-a69f-1bc54073f9e2",
             "links": {},
             "meta": {
-                "score": 7.298455
+                "score": 6.6159296
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4264,8 +4264,8 @@
                             "the asset(s) / component(s) after finishing the corrective <em class=\"search-highlight\">maintenance</em> work to ensure its working properly"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -4282,7 +4282,7 @@
             "id": "3f3c5889-8bf3-4c71-bde0-97bd7aaa7023",
             "links": {},
             "meta": {
-                "score": 7.2866855
+                "score": 6.608178
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4350,7 +4350,7 @@
             "id": "1055bca2-b335-4bc9-b119-d2a9c225d6d2",
             "links": {},
             "meta": {
-                "score": 7.2758403
+                "score": 6.5958886
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4423,7 +4423,7 @@
             "id": "35cdba11-f2aa-40f7-b3a5-3d6116592fb2",
             "links": {},
             "meta": {
-                "score": 7.232257
+                "score": 6.542991
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4486,7 +4486,7 @@
             "id": "d7c68e1e-947c-43fb-8875-61152e8898fd",
             "links": {},
             "meta": {
-                "score": 7.207761
+                "score": 6.519871
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4552,7 +4552,7 @@
             "id": "36749a11-6fc4-4168-9d23-66adaf9fc413",
             "links": {},
             "meta": {
-                "score": 7.207503
+                "score": 6.5193276
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4607,7 +4607,7 @@
             "id": "86634da5-a264-4539-9c05-d429f8dd3be6",
             "links": {},
             "meta": {
-                "score": 7.136362
+                "score": 6.4405107
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4657,8 +4657,8 @@
                             "Providing technical support to mechanical <em class=\"search-highlight\">maintenance</em> technicians and diagnose and troubleshoot major"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -4675,7 +4675,7 @@
             "id": "b1e7ac29-9a16-4fc5-a085-0740b4884f0c",
             "links": {},
             "meta": {
-                "score": 7.0461555
+                "score": 6.3418584
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4752,7 +4752,7 @@
             "id": "886c0507-53f8-4179-96f7-b643c025b0c6",
             "links": {},
             "meta": {
-                "score": 6.9640307
+                "score": 6.248165
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4815,7 +4815,7 @@
             "id": "a72d401f-6b36-46df-ac6b-8956a125fdbc",
             "links": {},
             "meta": {
-                "score": 6.69868
+                "score": 5.96628
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4874,8 +4874,8 @@
                             "proceduresSet actions for corrective & preventive <em class=\"search-highlight\">maintenance</em> for machines as per RCA.Develop the root"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -4892,7 +4892,7 @@
             "id": "eff66d01-5c4f-4dc7-9210-d6acbdce2ee0",
             "links": {},
             "meta": {
-                "score": 6.6128683
+                "score": 5.8727303
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4950,8 +4950,8 @@
                             "electrical drawings, and other control system software.Develop and conduct training programs with operation, <em class=\"search-highlight\">maintenance</em>"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -4968,7 +4968,7 @@
             "id": "3a0bd32f-be1d-4bae-b5b5-23127eb3f2da",
             "links": {},
             "meta": {
-                "score": 6.603581
+                "score": 5.8613462
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5032,7 +5032,7 @@
             "id": "7ff309ee-450e-41e5-b17e-cd0d7a25f751",
             "links": {},
             "meta": {
-                "score": 6.591204
+                "score": 5.8527265
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5086,7 +5086,7 @@
             "id": "c01b5ee7-34cc-4fd9-b38c-04d5df709776",
             "links": {},
             "meta": {
-                "score": 6.5845156
+                "score": 5.8452053
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5164,7 +5164,7 @@
             "id": "29f067b5-08b0-4936-bf53-486c1343fac7",
             "links": {},
             "meta": {
-                "score": 6.5305834
+                "score": 5.784021
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5241,7 +5241,7 @@
             "id": "f739a52d-7f9d-4230-a00f-50b97bb808e6",
             "links": {},
             "meta": {
-                "score": 6.519972
+                "score": 5.775569
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5279,8 +5279,8 @@
                             "Field.Experience in <em class=\"search-highlight\">maintenance</em> of manufacturingGiza Residents"
                         ],
                         "value": [
-                            "maintenance",
-                            "Maintenance"
+                            "Maintenance",
+                            "maintenance"
                         ]
                     },
                     {
@@ -5316,7 +5316,7 @@
             "id": "8b2564e9-8aec-4621-a9a4-2f28df3b24f6",
             "links": {},
             "meta": {
-                "score": 6.452362
+                "score": 5.7019086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5379,7 +5379,7 @@
             "id": "e976c5ee-51fc-48f9-99ed-dda349c0f6aa",
             "links": {},
             "meta": {
-                "score": 6.4210505
+                "score": 5.674133
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5442,7 +5442,7 @@
             "id": "d3a264cd-bd1c-447e-a745-0927b51fa8d5",
             "links": {},
             "meta": {
-                "score": 6.420972
+                "score": 5.6697035
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5508,7 +5508,7 @@
             "id": "ac82676a-34b5-43c3-8990-e781f6bdc3b1",
             "links": {},
             "meta": {
-                "score": 6.415266
+                "score": 5.667922
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5562,7 +5562,7 @@
             "id": "f483f362-7264-4f0f-9494-2f8bc2c11185",
             "links": {},
             "meta": {
-                "score": 6.411258
+                "score": 5.6643515
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5635,7 +5635,7 @@
             "id": "a8524da0-0718-4720-8afc-26df92e2c65e",
             "links": {},
             "meta": {
-                "score": 6.3281517
+                "score": 5.5746465
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5701,7 +5701,7 @@
             "id": "7efac779-e788-4817-9d0f-02fbc190fb44",
             "links": {},
             "meta": {
-                "score": 6.30279
+                "score": 5.5512495
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5766,7 +5766,7 @@
             "id": "9284e519-5b94-4f34-980a-88468c63ad7a",
             "links": {},
             "meta": {
-                "score": 5.932097
+                "score": 5.171232
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5829,7 +5829,7 @@
             "id": "3bbf6f93-4931-4d6a-984a-43b55ecf597c",
             "links": {},
             "meta": {
-                "score": 5.9275293
+                "score": 5.1667933
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5887,7 +5887,64 @@
             "id": "1d795961-a114-4887-8512-0787829e80e9",
             "links": {},
             "meta": {
-                "score": 5.8525715
+                "score": 5.11612
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Marbella For Food Industry "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Mechanical Power Engineering / Production & Mechanical Design Engineering Experience: 3 years' experience in <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Follow up on planned <em class=\"search-highlight\">maintenance</em> schedules and lubrication and lubrication tour for all plant machinery",
+                            "smooth running of the production line.Provide training and development opportunities to all mechanical <em class=\"search-highlight\">maintenance</em>",
+                            "staff & carry out performance evaluations and appraisals, Encouraging new ideas.Implement a regular <em class=\"search-highlight\">maintenance</em>",
+                            "listed to extend its life, reducing the total cost of spare partsResponsible for major installation or <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "8debdc41-784e-4d2a-9ec4-e0ba9669de82",
+            "links": {},
+            "meta": {
+                "score": 5.072868
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5951,7 +6008,483 @@
             "id": "5bbe9c4a-8366-4ab3-944a-6e7c8eadee01",
             "links": {},
             "meta": {
-                "score": 5.831805
+                "score": 5.0699663
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TechnoBit Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Practical understanding of equipment <em class=\"search-highlight\">maintenance</em>.Zero to Five years as an R D Technician, R D Chemist"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "6dc25c3f-0b1e-4e28-824f-e0734ad45b5e",
+            "links": {},
+            "meta": {
+                "score": 5.0580544
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Masary"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "management (AD, Group policy, Print server, file server, DHCP,WSUS,…)Installation, Troubleshooting & <em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "support of the Company’s PCs, printers, servers, and related equipment Develop and Implement network <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "8a79e9a6-7524-4495-afaa-531edae3123e",
+            "links": {},
+            "meta": {
+                "score": 5.0562873
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Follows up on routine inspection, and preventive related <em class=\"search-highlight\">maintenance</em>."
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "4417b030-22c4-44ad-af36-02a723fb0961",
+            "links": {},
+            "meta": {
+                "score": 5.0416937
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al Motahedoon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "various vendors including (Technical, Financial, Budgeting, Sourcing, Legal) -Managing physical plant and <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "309c8582-4ef6-4c52-a668-b0c470e75d2e",
+            "links": {},
+            "meta": {
+                "score": 5.039877
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Avis Budget Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>",
+                            "Fleet <em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Scrapped vehicles to be handed to the supplier on monthly basis.Following up the preventative, corrective <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "6773580a-df4d-4569-b056-99f97cb3d9e3",
+            "links": {},
+            "meta": {
+                "score": 5.038427
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "IMUT International Marathon United Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "1bdd8fad-e8ae-411e-8acd-f0dbd64e7539",
+            "links": {},
+            "meta": {
+                "score": 5.0262465
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AMICO Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>",
+                            "IT <em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "63431780-0f70-43ee-884d-e3c68d0ffe08",
+            "links": {},
+            "meta": {
+                "score": 5.0238667
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AMICO Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>",
+                            "IT <em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "21ad636e-6dd4-40e0-823c-c0ddaa21afa6",
+            "links": {},
+            "meta": {
+                "score": 5.0238447
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "external customersGet used with track tools and machines.Experience:5+ years’ relevant experience in track <em class=\"search-highlight\">maintenance</em>"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "and the sustainability of assetsGuarantee the proper technical progress of corrective and cyclical <em class=\"search-highlight\">maintenance</em>",
+                            "procedures Ensure the safety of agents by enforcing safety instructions on a siteGuarantee the completion of <em class=\"search-highlight\">maintenance</em>",
+                            "worksites and track inspectionEnsure the logistics of <em class=\"search-highlight\">maintenance</em> worksitesEnsuring continuity of serviceEnsure",
+                            "exemplary customer servicePerform all the tasks and activities (preventive and corrective) as per the <em class=\"search-highlight\">maintenance</em>",
+                            "plan.Use all the track <em class=\"search-highlight\">maintenance</em> tools and machines in a safe way.Report to the track engineer when"
+                        ],
+                        "value": [
+                            "maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "03cf1c5a-cfd5-445c-b826-d14bc20adede",
+            "links": {},
+            "meta": {
+                "score": 5.002849
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MOCA"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Maintenance</em>",
+                            "<em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Maintenance</em> Engineer"
+                        ],
+                        "value": [
+                            "Maintenance"
+                        ]
+                    }
+                ]
+            },
+            "id": "8d87b77d-a105-48fb-a7cd-a8a4727fe1b3",
+            "links": {},
+            "meta": {
+                "score": 4.984752
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6026,734 +6559,7 @@
             "id": "2074522a-1ab1-4e7d-8595-5b3a4d86203b",
             "links": {},
             "meta": {
-                "score": 5.7480445
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "MOCA"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>",
-                            "<em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "8d87b77d-a105-48fb-a7cd-a8a4727fe1b3",
-            "links": {},
-            "meta": {
-                "score": 5.747157
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Egypro FME"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Preventive <em class=\"search-highlight\">Maintenance</em>",
-                            "<em class=\"search-highlight\">Maintenance</em>",
-                            "<em class=\"search-highlight\">Maintenance</em> Engineering"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Plan, coordinate and lead the operation and <em class=\"search-highlight\">maintenance</em> for all the mechanical and electrical utilities",
-                            "air handlers, a/c systems, coolers and heaters –diesel generators and UPSexecute all (Hard Services) <em class=\"search-highlight\">maintenance</em>",
-                            "and the safety equipment as wellEnsure that <em class=\"search-highlight\">maintenance</em> activities and installations are performed safely",
-                            "(applying safety first principle )Prepare the method of statement and risk assessment for all <em class=\"search-highlight\">maintenance</em>",
-                            "activitiesCoordinate and supervise installation and <em class=\"search-highlight\">maintenance</em> by contractors or outside vendors for"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Project Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "ed849274-d30e-473e-8d36-93b468f3cc37",
-            "links": {},
-            "meta": {
-                "score": 5.7415066
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Shanawany Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>",
-                            "Preventive <em class=\"search-highlight\">Maintenance</em>",
-                            "<em class=\"search-highlight\">Maintenance</em> Management"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "experience in the food industry included min. 3 years in the sweet industry.Relevant experience in <em class=\"search-highlight\">Maintenance</em>",
-                            "panning.Strong interpersonal, communication, and leadership skills.Having strong experience in creating a full <em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "products in Egypt, Located at 10th of Ramadan City.We are pleased to announce the below new job opening:<em class=\"search-highlight\">Maintenance</em>",
-                            "ManagerResponsibilities:Supervise and lead all <em class=\"search-highlight\">maintenance</em> processes and operations.Track expenses and",
-                            "oversee the budget for <em class=\"search-highlight\">maintenance</em>.Maintain all machinery to ensure it’s at working standards.Create",
-                            "and implement <em class=\"search-highlight\">maintenance</em> procedures.Conduct regular inspections of the facilities to detect and resolve",
-                            "repair schedules and evaluate repair cost estimates.Document and prepare daily progress reports and <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Manager"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "52f9b7af-4e03-4892-96f5-e3499b7ee93d",
-            "links": {},
-            "meta": {
-                "score": 5.66842
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Aircraft <em class=\"search-highlight\">Maintenance</em>",
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Electrical MajorBasic Course for Aircraft <em class=\"search-highlight\">Maintenance</em> is a MUST.Basic License for Aircraft <em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "departments.Initiating requests for spare parts and following it up with his supervisor.Responsible for <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Aircraft Avionics <em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "eb22f6a6-7b21-47d5-b838-fe08fbfe3682",
-            "links": {},
-            "meta": {
-                "score": 5.374304
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Relevant experience in FM fields.Engineering degree (mechanical or electrical)Very good knowledge of <em class=\"search-highlight\">Maintenance</em>",
-                            "all new tech electrical & MechanicalStrong CS, communication, and presentation skillsFamiliar with <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Duties and Responsibilities:Supervise and lead all <em class=\"search-highlight\">maintenance</em> processes and operations & <em class=\"search-highlight\">Maintenance</em>",
-                            "Team.Track expenses and oversee the budget for <em class=\"search-highlight\">maintenance</em>.Plan and manage all repair and installation",
-                            "activities.Oversee equipment stock and place orders for new supplies when necessary.Designing <em class=\"search-highlight\">maintenance</em>",
-                            "strategies, procedures, and methodsCarrying out routine scheduled <em class=\"search-highlight\">maintenance</em> work and responding to",
-                            "tools, spare parts warehouse, and equipmentMonitoring and controlling <em class=\"search-highlight\">maintenance</em> costsDealing with"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Manager"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "efd61c00-a8a1-4e3b-b8b9-a79dcafe1389",
-            "links": {},
-            "meta": {
-                "score": 5.2657137
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "sofipack"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>",
-                            "Planning <em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "in Engineering is a Must.Experience Needed: not less than 10 years’ experienceExperience in planning <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Develop a long, medium and short term plan for electrical and mechanical <em class=\"search-highlight\">maintenance</em> work in all the",
-                            "and other constructions that serve the company's business.Supervising the implementation of the daily <em class=\"search-highlight\">maintenance</em>",
-                            "the general site.Approving the needs of the necessary materials, equipment and spare parts for the <em class=\"search-highlight\">maintenance</em>",
-                            "work.Planning the day-to-day work in the factory and distributing the work to the <em class=\"search-highlight\">maintenance</em> department",
-                            "employees.Organizing the time of workers in the <em class=\"search-highlight\">maintenance</em> department, issuing instructions and directions"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Manager"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "bf131557-e4c3-4980-9c39-d1ecfc3c2679",
-            "links": {},
-            "meta": {
-                "score": 5.248291
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "escalator industry knowledge –product, field-, safety procedures knowledge, IT skills.Desired experience in <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Supervise, Lead and Motivate teams of <em class=\"search-highlight\">Maintenance</em> Technicians, Call back technicians, Field Engineers",
-                            "safety and health guidelinesStay in regular contact with all customers of the assigned portfolio.Manage <em class=\"search-highlight\">maintenance</em>",
-                            "Backs up to target.Carry out at least 2 equipment audits per week to determine that the quality of <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance",
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Manager - Elevators"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "d8b0fac7-e550-4e78-933c-ebc4df6c1634",
-            "links": {},
-            "meta": {
-                "score": 5.24705
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al Amin Technological Systems"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em> Engineer"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "521486a0-044d-43d7-b1e0-097f065d0459",
-            "links": {},
-            "meta": {
-                "score": 5.158651
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Marbella For Food Industry "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Mechanical Power Engineering / Production & Mechanical Design Engineering Experience: 3 years' experience in <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Follow up on planned <em class=\"search-highlight\">maintenance</em> schedules and lubrication and lubrication tour for all plant machinery",
-                            "smooth running of the production line.Provide training and development opportunities to all mechanical <em class=\"search-highlight\">maintenance</em>",
-                            "staff & carry out performance evaluations and appraisals, Encouraging new ideas.Implement a regular <em class=\"search-highlight\">maintenance</em>",
-                            "listed to extend its life, reducing the total cost of spare partsResponsible for major installation or <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "8debdc41-784e-4d2a-9ec4-e0ba9669de82",
-            "links": {},
-            "meta": {
-                "score": 5.14441
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Masary"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "management (AD, Group policy, Print server, file server, DHCP,WSUS,…)Installation, Troubleshooting & <em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Installation/<em class=\"search-highlight\">Maintenance</em>/Repair"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "support of the Company’s PCs, printers, servers, and related equipment Develop and Implement network <em class=\"search-highlight\">maintenance</em>"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "8a79e9a6-7524-4495-afaa-531edae3123e",
-            "links": {},
-            "meta": {
-                "score": 5.1395297
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "TechnoBit Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Maintenance</em>"
-                        ],
-                        "value": [
-                            "Maintenance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Practical understanding of equipment <em class=\"search-highlight\">maintenance</em>.Zero to Five years as an R D Technician, R D Chemist"
-                        ],
-                        "value": [
-                            "maintenance"
-                        ]
-                    }
-                ]
-            },
-            "id": "6dc25c3f-0b1e-4e28-824f-e0734ad45b5e",
-            "links": {},
-            "meta": {
-                "score": 5.1290774
+                "score": 4.9843583
             },
             "relationships": {},
             "type": "talentSearch"

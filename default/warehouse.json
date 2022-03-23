@@ -12,71 +12,6 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "related field.The ability to motivate and lead a teamPrevious work experience of 7-10 years in the <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Responsibilities:Supervise <em class=\"search-highlight\">Warehouse</em>, distribution operationsSupervise, coach, and train <em class=\"search-highlight\">warehouse</em> workforceOrganize",
-                            "<em class=\"search-highlight\">warehouse</em>, plan routes , and process shipmentsDevelop new strategies to streamline processes and reduce"
-                        ],
-                        "value": [
-                            "Warehouse",
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Manager"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "5b8e2c64-9250-40bb-a174-9132da2ac5e4",
-            "links": {},
-            "meta": {
-                "score": 12.0672035
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
                             "Ibn Sina Pharma"
                         ]
                     }
@@ -127,7 +62,53 @@
             "id": "efd0f81c-7175-4f7e-a96e-da5a8179b96e",
             "links": {},
             "meta": {
-                "score": 12.065927
+                "score": 11.90646
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pure Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>",
+                            "<em class=\"search-highlight\">Warehouse</em> keeper"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Keeper"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "99f2bd54-9bb9-4a91-9f86-d6a04c29d7ec",
+            "links": {},
+            "meta": {
+                "score": 11.892379
             },
             "relationships": {},
             "type": "talentSearch"
@@ -182,7 +163,162 @@
             "id": "46f362ba-7872-43fd-824a-ba0601cbd08c",
             "links": {},
             "meta": {
-                "score": 12.0377865
+                "score": 11.879255
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "related field.The ability to motivate and lead a teamPrevious work experience of 7-10 years in the <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Responsibilities:Supervise <em class=\"search-highlight\">Warehouse</em>, distribution operationsSupervise, coach, and train <em class=\"search-highlight\">warehouse</em> workforceOrganize",
+                            "<em class=\"search-highlight\">warehouse</em>, plan routes , and process shipmentsDevelop new strategies to streamline processes and reduce"
+                        ],
+                        "value": [
+                            "warehouse",
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Manager"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "5b8e2c64-9250-40bb-a174-9132da2ac5e4",
+            "links": {},
+            "meta": {
+                "score": 11.871481
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Supervisor - Sharqia"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "28d7bf70-76c4-4c90-a8e6-97c25ea1b880",
+            "links": {},
+            "meta": {
+                "score": 11.851917
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Supervisor - Alex"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "71fcdd7c-c67a-4c79-81c4-08f7b8c1d248",
+            "links": {},
+            "meta": {
+                "score": 11.845581
             },
             "relationships": {},
             "type": "talentSearch"
@@ -236,143 +372,7 @@
             "id": "8636e480-ecb5-4a9e-93d4-fd386b1c0790",
             "links": {},
             "meta": {
-                "score": 12.028925
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pure Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>",
-                            "<em class=\"search-highlight\">Warehouse</em> keeper"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Keeper"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "99f2bd54-9bb9-4a91-9f86-d6a04c29d7ec",
-            "links": {},
-            "meta": {
-                "score": 12.017045
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Supervisor - Sharqia"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "28d7bf70-76c4-4c90-a8e6-97c25ea1b880",
-            "links": {},
-            "meta": {
-                "score": 12.013845
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Supervisor - Alex"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "71fcdd7c-c67a-4c79-81c4-08f7b8c1d248",
-            "links": {},
-            "meta": {
-                "score": 12.012901
+                "score": 11.836259
             },
             "relationships": {},
             "type": "talentSearch"
@@ -417,7 +417,7 @@
             "id": "e2f8a369-e02f-4215-b562-784cf4402e39",
             "links": {},
             "meta": {
-                "score": 11.95847
+                "score": 11.66996
             },
             "relationships": {},
             "type": "talentSearch"
@@ -483,7 +483,64 @@
             "id": "87fbbd27-fc87-4086-b335-5703d6402817",
             "links": {},
             "meta": {
-                "score": 11.95491
+                "score": 11.610996
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Brantu AB"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree.1 - 2 years experience working in <em class=\"search-highlight\">warehouse</em> and logistics, preferably in an ecommerce"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "As BRANTU’s <em class=\"search-highlight\">Warehouse</em> Associate, you will effectively interact with all external parties, including but",
+                            "not limited to our 3PL network , couriers and vendors to ensure smooth <em class=\"search-highlight\">warehouse</em> operations.Accountabilities",
+                            "the company ERP system.Inspect products for defects and damages throughout all transactions.Organize <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse",
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Associate"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "eaa819b3-007f-4c8f-a2a6-86837c986380",
+            "links": {},
+            "meta": {
+                "score": 11.564128
             },
             "relationships": {},
             "type": "talentSearch"
@@ -528,7 +585,97 @@
             "id": "1e5b8d4b-c281-4e0c-9e48-122aadacde53",
             "links": {},
             "meta": {
-                "score": 11.909216
+                "score": 11.563097
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Partner & More"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "determine the quantities most appropriate to be approved and determine the most appropriate exchange <em class=\"search-highlight\">warehouses</em>"
+                        ],
+                        "value": [
+                            "warehouses"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Accountant- <em class=\"search-highlight\">Warehouses</em>"
+                        ],
+                        "value": [
+                            "Warehouses"
+                        ]
+                    }
+                ]
+            },
+            "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
+            "links": {},
+            "meta": {
+                "score": 11.556491
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El swaby co. For trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Assistant"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "7a098a83-01ab-45c0-ba18-d831e2a767e6",
+            "links": {},
+            "meta": {
+                "score": 11.53428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -593,7 +740,7 @@
             "id": "3a737bf5-2758-4da7-b506-2750711bdf1a",
             "links": {},
             "meta": {
-                "score": 11.894731
+                "score": 11.48564
             },
             "relationships": {},
             "type": "talentSearch"
@@ -610,24 +757,15 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "El swaby co. For trading"
+                            "HK Designs"
                         ]
                     }
                 ],
                 "highlightedFields": [
                     {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Assistant"
+                            "<em class=\"search-highlight\">Warehouse</em> Accountant"
                         ],
                         "value": [
                             "Warehouse"
@@ -635,10 +773,46 @@
                     }
                 ]
             },
-            "id": "7a098a83-01ab-45c0-ba18-d831e2a767e6",
+            "id": "229f05dc-9e23-47f9-a620-dda0a7587aa3",
             "links": {},
             "meta": {
-                "score": 11.894607
+                "score": 11.281456
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Maxab"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Accounting Specialist- Tanta"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "f1662b53-7d79-479c-849d-44f32ca67eda",
+            "links": {},
+            "meta": {
+                "score": 11.275542
             },
             "relationships": {},
             "type": "talentSearch"
@@ -678,8 +852,8 @@
                             "procedural systems to ensure reports on each material is created efficiently and to create ties between the <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -696,64 +870,7 @@
             "id": "1a6462e9-849b-4b4f-a7a5-59489b829f73",
             "links": {},
             "meta": {
-                "score": 11.73882
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Brantu AB"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s degree.1 - 2 years experience working in <em class=\"search-highlight\">warehouse</em> and logistics, preferably in an ecommerce"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "As BRANTU’s <em class=\"search-highlight\">Warehouse</em> Associate, you will effectively interact with all external parties, including but",
-                            "not limited to our 3PL network , couriers and vendors to ensure smooth <em class=\"search-highlight\">warehouse</em> operations.Accountabilities",
-                            "the company ERP system.Inspect products for defects and damages throughout all transactions.Organize <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse",
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Associate"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "eaa819b3-007f-4c8f-a2a6-86837c986380",
-            "links": {},
-            "meta": {
-                "score": 11.718323
+                "score": 11.255435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -818,7 +935,7 @@
             "id": "c7c7f77a-d853-4868-aa03-c641296142e8",
             "links": {},
             "meta": {
-                "score": 11.712948
+                "score": 11.19807
             },
             "relationships": {},
             "type": "talentSearch"
@@ -835,7 +952,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Partner & More"
+                            "Just HR"
                         ]
                     }
                 ],
@@ -843,27 +960,29 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "determine the quantities most appropriate to be approved and determine the most appropriate exchange <em class=\"search-highlight\">warehouses</em>"
+                            "We are looking for a capable <em class=\"search-highlight\">Warehouse</em> Associate to support our company’s <em class=\"search-highlight\">warehouse</em> operations.",
+                            "You will receive, input, sort, load, and unload products.perform various <em class=\"search-highlight\">warehouse</em> activities."
                         ],
                         "value": [
-                            "warehouses"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Accountant- <em class=\"search-highlight\">Warehouses</em>"
+                            "<em class=\"search-highlight\">Warehouse</em> Associate"
                         ],
                         "value": [
-                            "Warehouses"
+                            "Warehouse"
                         ]
                     }
                 ]
             },
-            "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
+            "id": "d166bc3e-ad36-4a23-824a-5322896ba4aa",
             "links": {},
             "meta": {
-                "score": 11.681152
+                "score": 11.197514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -904,8 +1023,8 @@
                             "procedural systems to ensure reports on each material is created efficiently and to create ties between the <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -922,7 +1041,55 @@
             "id": "79795e37-d171-4cd7-b8f2-080c8bbb9a66",
             "links": {},
             "meta": {
-                "score": 11.6708975
+                "score": 11.151598
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Office Solution"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Supervise logistics, <em class=\"search-highlight\">Warehouse</em>, distribution operationsDirecting, optimizing and coordinating full order",
+                            "outgoing deliveries.Keep track of stock levels, delivery times, transport costs and efficiencyOrganize <em class=\"search-highlight\">warehouse</em>",
+                            "process shipmentsDevelop new strategies to streamline processes and reduce costSupervise, coach and train <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse",
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Logistics And <em class=\"search-highlight\">Warehouse</em> Manager"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "a3f813f4-e7fa-4701-9ecf-97993b5ebc9d",
+            "links": {},
+            "meta": {
+                "score": 11.133124
             },
             "relationships": {},
             "type": "talentSearch"
@@ -988,7 +1155,7 @@
             "id": "22f80cac-5d00-4275-b52b-c34c0d54ae8a",
             "links": {},
             "meta": {
-                "score": 11.609021
+                "score": 11.037425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1039,8 +1206,8 @@
                             "delivery periods and to issue work assignments.Monitors inventory levels of products or materials in <em class=\"search-highlight\">warehouses</em>"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     },
                     {
@@ -1057,79 +1224,7 @@
             "id": "9ceedbb8-329c-4c9c-94cf-395614d25dac",
             "links": {},
             "meta": {
-                "score": 11.597348
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "HK Designs"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Accountant"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "229f05dc-9e23-47f9-a620-dda0a7587aa3",
-            "links": {},
-            "meta": {
-                "score": 11.588657
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Maxab"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Accounting Specialist- Tanta"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "f1662b53-7d79-479c-849d-44f32ca67eda",
-            "links": {},
-            "meta": {
-                "score": 11.585927
+                "score": 11.025729
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1185,102 +1280,7 @@
             "id": "6f0ce624-60ea-4b30-8269-60a9ee4a318f",
             "links": {},
             "meta": {
-                "score": 11.569563
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Just HR"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We are looking for a capable <em class=\"search-highlight\">Warehouse</em> Associate to support our company’s <em class=\"search-highlight\">warehouse</em> operations.",
-                            "You will receive, input, sort, load, and unload products.perform various <em class=\"search-highlight\">warehouse</em> activities."
-                        ],
-                        "value": [
-                            "Warehouse",
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Associate"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "d166bc3e-ad36-4a23-824a-5322896ba4aa",
-            "links": {},
-            "meta": {
-                "score": 11.561355
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smart Office Solution"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Supervise logistics, <em class=\"search-highlight\">Warehouse</em>, distribution operationsDirecting, optimizing and coordinating full order",
-                            "outgoing deliveries.Keep track of stock levels, delivery times, transport costs and efficiencyOrganize <em class=\"search-highlight\">warehouse</em>",
-                            "process shipmentsDevelop new strategies to streamline processes and reduce costSupervise, coach and train <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse",
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Logistics And <em class=\"search-highlight\">Warehouse</em> Manager"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "a3f813f4-e7fa-4701-9ecf-97993b5ebc9d",
-            "links": {},
-            "meta": {
-                "score": 11.522832
+                "score": 11.000019
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1325,7 +1325,7 @@
             "id": "625c6777-c1e5-4a20-9863-b00896ab1091",
             "links": {},
             "meta": {
-                "score": 11.485136
+                "score": 10.888302
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1373,8 +1373,8 @@
                             "discrepancies\nCommunicate and cooperate with supervisors and coworkers\nOperate and maintain preventively <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -1391,7 +1391,7 @@
             "id": "a7b189bc-60c7-4a07-9f5e-fc241fbf2c4a",
             "links": {},
             "meta": {
-                "score": 11.347281
+                "score": 10.674685
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1445,7 +1445,7 @@
             "id": "50518eaa-372c-4cf5-93c2-13f543fed1db",
             "links": {},
             "meta": {
-                "score": 11.302449
+                "score": 10.631862
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1501,7 +1501,7 @@
             "id": "b91dce43-47c7-43f7-9a3a-7f70a2016dd2",
             "links": {},
             "meta": {
-                "score": 11.236698
+                "score": 10.547761
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1542,8 +1542,8 @@
                             "codes.Make monthly inventory to all spare parts inside the <em class=\"search-highlight\">warehouse</em>.Keeping the old spare partsRegister"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -1560,7 +1560,7 @@
             "id": "e5abfa74-a778-40e2-aeaa-2fc61a97ffdc",
             "links": {},
             "meta": {
-                "score": 11.145608
+                "score": 10.43011
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1606,7 +1606,7 @@
             "id": "0bc9c091-a381-4562-a2e5-d6703c20a29e",
             "links": {},
             "meta": {
-                "score": 10.971685
+                "score": 10.2158785
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1651,7 +1651,7 @@
             "id": "ff605b05-ab5f-41e9-a1d6-760996558676",
             "links": {},
             "meta": {
-                "score": 10.952078
+                "score": 10.191529
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1687,7 +1687,43 @@
             "id": "50cc1b4b-d2a5-47be-ab7c-6a55f1cf0c8c",
             "links": {},
             "meta": {
-                "score": 10.824239
+                "score": 10.129335
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Talabeyah"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> HR Generalist"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "d6e97b8e-8e42-4b13-8aca-71c7fb805a17",
+            "links": {},
+            "meta": {
+                "score": 9.845878
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1726,8 +1762,8 @@
                             "management skillsStrong knowledge of warehousing Key Performance Indicators (KPIs)Hands on experience with <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -1753,43 +1789,7 @@
             "id": "82209131-abce-4370-9e79-7d02b45a804c",
             "links": {},
             "meta": {
-                "score": 10.67645
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Talabeyah"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> HR Generalist"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "d6e97b8e-8e42-4b13-8aca-71c7fb805a17",
-            "links": {},
-            "meta": {
-                "score": 10.593545
+                "score": 9.844559
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1843,7 +1843,7 @@
             "id": "49f58a19-c1a9-4e8d-b65f-0f8a3a0c898c",
             "links": {},
             "meta": {
-                "score": 10.520512
+                "score": 9.664609
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1908,7 +1908,7 @@
             "id": "f07030f4-61fd-49bf-b12e-df0d2067b891",
             "links": {},
             "meta": {
-                "score": 10.448185
+                "score": 9.571421
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1957,8 +1957,8 @@
                             "optimization – labor, equipment, facilities, etc, in terms of raw materials and finished goodsUsing the <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -1975,7 +1975,7 @@
             "id": "6abd43ab-8aa9-4a9e-befe-f209cc4f8ef2",
             "links": {},
             "meta": {
-                "score": 10.336272
+                "score": 9.446428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2029,7 +2029,7 @@
             "id": "6f4936c5-20b8-4430-9f2e-6727ced271bb",
             "links": {},
             "meta": {
-                "score": 10.314745
+                "score": 9.425491
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2068,8 +2068,8 @@
                             "setting KPI’s and objectivesPick, pack, ship and sorting operation arrangement and system updateAssess <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -2086,7 +2086,7 @@
             "id": "ccdfcdd0-e676-41a0-881d-5d32820cc10c",
             "links": {},
             "meta": {
-                "score": 10.309635
+                "score": 9.422061
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2131,7 +2131,7 @@
             "id": "d639ca17-7b09-4f2f-953e-ade22ca423b1",
             "links": {},
             "meta": {
-                "score": 10.303525
+                "score": 9.419366
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2188,7 +2188,7 @@
             "id": "11c3751b-16b1-49d4-9f58-d00d23c58483",
             "links": {},
             "meta": {
-                "score": 10.093389
+                "score": 9.176562
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2253,7 +2253,7 @@
             "id": "7112c665-1fa2-4c59-a774-c5e98fd7a753",
             "links": {},
             "meta": {
-                "score": 10.049162
+                "score": 9.115313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2319,7 +2319,7 @@
             "id": "0cb3cdb2-52b9-4d9d-898a-a5b2118a54f6",
             "links": {},
             "meta": {
-                "score": 10.03009
+                "score": 9.099853
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2360,8 +2360,8 @@
                             "management and ensuring the efficient application of procedures within the <em class=\"search-highlight\">warehouse</em> to achieve the"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     },
                     {
@@ -2378,7 +2378,7 @@
             "id": "344aedf6-32aa-4146-b7c8-5a99b4b59a78",
             "links": {},
             "meta": {
-                "score": 9.976354
+                "score": 9.044938
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2431,8 +2431,8 @@
                             "staff by recruiting, selecting, orienting, and training employees.Strategically manage <em class=\"search-highlight\">warehouse</em> in"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     },
                     {
@@ -2449,7 +2449,7 @@
             "id": "6ec99f06-38ca-4cc8-ad03-31abcef06a60",
             "links": {},
             "meta": {
-                "score": 9.884173
+                "score": 8.936743
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2487,8 +2487,8 @@
                             "scale it, and record their codes on the system.Responsible for checking the cameras and routers at our <em class=\"search-highlight\">warehouses</em>"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     },
                     {
@@ -2505,7 +2505,52 @@
             "id": "77243358-8bef-494e-87e0-30198a42f44d",
             "links": {},
             "meta": {
-                "score": 9.7718315
+                "score": 8.816877
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Amin International Group (AIG)"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Labeling of all <em class=\"search-highlight\">warehouse</em> stock items.Receiving and delivering goods inside and outside the company.."
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Credit Controller & <em class=\"search-highlight\">Warehouse</em> Coordinator (Code: CCW1221)"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "423ff5e3-0aef-48a4-a4cd-cefe871c7470",
+            "links": {},
+            "meta": {
+                "score": 8.700658
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2559,52 +2604,7 @@
             "id": "f24628e4-295c-4b2f-b4b0-b003f0871469",
             "links": {},
             "meta": {
-                "score": 9.653753
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Amin International Group (AIG)"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Labeling of all <em class=\"search-highlight\">warehouse</em> stock items.Receiving and delivering goods inside and outside the company.."
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Credit Controller & <em class=\"search-highlight\">Warehouse</em> Coordinator (Code: CCW1221)"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "423ff5e3-0aef-48a4-a4cd-cefe871c7470",
-            "links": {},
-            "meta": {
-                "score": 9.613011
+                "score": 8.686601
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2652,8 +2652,8 @@
                             "discrepanciesCommunicate and cooperate with supervisors and coworkersOperate and maintain preventively <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -2670,7 +2670,7 @@
             "id": "aea27c12-3782-47a4-8617-5d37f146f23f",
             "links": {},
             "meta": {
-                "score": 8.853353
+                "score": 7.820257
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2736,7 +2736,43 @@
             "id": "3f66aef6-93bd-4969-b2e4-b6463548ac8f",
             "links": {},
             "meta": {
-                "score": 8.826174
+                "score": 7.7994103
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "360Imaging"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior Data <em class=\"search-highlight\">Warehouse</em> Engineer/ Data Engineer"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "900823fc-67f5-4889-88dd-4896752f23bd",
+            "links": {},
+            "meta": {
+                "score": 7.7928896
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2790,43 +2826,7 @@
             "id": "7b4f9a9d-2319-4d58-a7f0-770f124575c5",
             "links": {},
             "meta": {
-                "score": 8.790112
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "360Imaging"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Junior Data <em class=\"search-highlight\">Warehouse</em> Engineer/ Data Engineer"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "900823fc-67f5-4889-88dd-4896752f23bd",
-            "links": {},
-            "meta": {
-                "score": 8.772673
+                "score": 7.765582
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2875,8 +2875,8 @@
                             "Conducting regular inventory follow up and control the balances of the stores.Supervising the selection of <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     },
                     {
@@ -2893,7 +2893,7 @@
             "id": "7e11d5fd-9e33-465c-b5a7-213305615a7f",
             "links": {},
             "meta": {
-                "score": 8.696775
+                "score": 7.6640525
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2938,7 +2938,7 @@
             "id": "7ebce6c1-a69d-4dce-9506-aafc54efc645",
             "links": {},
             "meta": {
-                "score": 8.65212
+                "score": 7.624982
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3007,7 +3007,7 @@
             "id": "ffdb09be-14b7-48d3-9072-8f20e61f81c6",
             "links": {},
             "meta": {
-                "score": 8.644724
+                "score": 7.61241
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3045,8 +3045,8 @@
                             "initiativesStrong knowledge of warehousing Key Performance Indicators (KPIs)Hands-on experience with <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -3072,7 +3072,169 @@
             "id": "0ba9dbed-0f66-44b6-9d38-c7bd1d41c1bd",
             "links": {},
             "meta": {
-                "score": 8.14592
+                "score": 7.1008487
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "BI-Technologies"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Data <em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Developer or Data ScientistExpertise in the following: Power BI/DAX studio/ Excel Background in data <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "b44ed904-9273-4cac-aa9f-511177e6d6dd",
+            "links": {},
+            "meta": {
+                "score": 6.93543
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Movibilecases"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "itemsEvaluate suppliers’ offers and negotiate profitable dealsCoordinate regular inventory auditsLiaise with <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "47c9438a-3ead-425d-aeee-5ba6237c8925",
+            "links": {},
+            "meta": {
+                "score": 6.92747
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "18d11d1e-58b3-4f1e-bd08-f23f3812ad61",
+            "links": {},
+            "meta": {
+                "score": 6.905288
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EL SHIDEED"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Accountant & <em class=\"search-highlight\">Warehouse</em> Supervisor"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "db423f3b-1c87-44ad-8968-3ed5896ba09c",
+            "links": {},
+            "meta": {
+                "score": 6.8540645
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3128,7 +3290,7 @@
             "id": "aaafc113-5e6e-4293-bb9a-74a637e845d7",
             "links": {},
             "meta": {
-                "score": 7.8726296
+                "score": 6.8286533
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3145,15 +3307,15 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "EL SHIDEED"
+                            "Tagaddod"
                         ]
                     }
                 ],
                 "highlightedFields": [
                     {
-                        "name": "job_title",
+                        "name": "skills",
                         "snippets": [
-                            "Accountant & <em class=\"search-highlight\">Warehouse</em> Supervisor"
+                            "<em class=\"search-highlight\">Warehouse</em>"
                         ],
                         "value": [
                             "Warehouse"
@@ -3161,10 +3323,142 @@
                     }
                 ]
             },
-            "id": "db423f3b-1c87-44ad-8968-3ed5896ba09c",
+            "id": "90343a0c-b894-4bd6-a02d-7f8b8f9a2edb",
             "links": {},
             "meta": {
-                "score": 7.8642683
+                "score": 6.8066697
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Rowad Modern Engineering"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Upgrade systems and procedures in the <em class=\"search-highlight\">Warehouse</em> department, on continuous basis, to ensure maximum efficiency",
+                            "and continuous improvements.Use designs established by the <em class=\"search-highlight\">Warehouse</em> Manager for designing the <em class=\"search-highlight\">warehouse</em>",
+                            "all stock being received is safe and usable.Carry out a monthly review of all stock available in all <em class=\"search-highlight\">warehouses</em>",
+                            "track available inform Project Managers and the Finance department.Confirm that all stock within the <em class=\"search-highlight\">warehouse</em>",
+                            "are tracked and recorded.Arrange appropriate and safe transportation for stock to be delivered from <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse",
+                            "warehouses",
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "bc817fc1-40f2-4a99-9b6d-7c9d11c80550",
+            "links": {},
+            "meta": {
+                "score": 6.75077
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "B.TECH"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Dynamics 365 & AX Consultant (<em class=\"search-highlight\">Warehouse</em> Management Senior Specialist)"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "8a02f4bd-85b1-4aca-8b0b-680f1ec6fde0",
+            "links": {},
+            "meta": {
+                "score": 6.733257
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Excel Systems  "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Data <em class=\"search-highlight\">Warehouse</em> Design"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "experience as a BI Developer for at least 3 yearsIndustry experience is preferredBackground in data <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "d6e25eb0-89f2-4a9c-8d1f-d506aceae065",
+            "links": {},
+            "meta": {
+                "score": 6.7267175
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3218,43 +3512,7 @@
             "id": "fccfe8e3-7dad-4d2a-90de-6360be66b498",
             "links": {},
             "meta": {
-                "score": 7.762008
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "B.TECH"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Dynamics 365 & AX Consultant (<em class=\"search-highlight\">Warehouse</em> Management Senior Specialist)"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "8a02f4bd-85b1-4aca-8b0b-680f1ec6fde0",
-            "links": {},
-            "meta": {
-                "score": 7.7446017
+                "score": 6.7182727
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3311,7 +3569,222 @@
             "id": "ac8f701b-cc1c-4c89-8a88-d591e5a58a35",
             "links": {},
             "meta": {
-                "score": 7.7197733
+                "score": 6.675836
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GCSSD"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Data <em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "1+ years of System Analysis / writing system requirements. 2+ years experience in Data <em class=\"search-highlight\">Warehouse</em> and"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "d3fbdb5c-ed53-4abd-be18-8a62ebec3109",
+            "links": {},
+            "meta": {
+                "score": 6.473322
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Meem Development"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Data <em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Automate) is a plus.2+ years’ experience in SSIS, SSAS, SSRS.3 years of experience in ETL and Data <em class=\"search-highlight\">Warehouse</em>.Experience"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "reporting.Extracting, Transforming, Loading (ETL) processes and environments.Creating and managing Data <em class=\"search-highlight\">Warehouses</em>.Maintaining"
+                        ],
+                        "value": [
+                            "Warehouses"
+                        ]
+                    }
+                ]
+            },
+            "id": "5449ab94-e673-49e0-84f3-7cb92eb5d4f7",
+            "links": {},
+            "meta": {
+                "score": 6.4436073
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Documented experience as a <em class=\"search-highlight\">Warehouse</em> ex. managerExperience in management and knowledge of expected <em class=\"search-highlight\">warehouse</em>",
+                            "improvement initiativesStrong knowledge of warehousing Key Performance Indicators (KPIs)Knowledge of the <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse",
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Main job responsibilities are to direct and oversee the storage capacity and logistical operations of <em class=\"search-highlight\">warehouses</em>",
+                            "and other facilities.In addition to managing <em class=\"search-highlight\">warehouse</em> employees, inspecting goods, ensuring effective",
+                            "operations, handling customer requests, and overseeing safety.Managing the <em class=\"search-highlight\">warehouse</em> in line with the",
+                            "basic operations, such as receiving, warehousing, distribution, and maintenance of productsUsing the <em class=\"search-highlight\">warehouse</em>",
+                            "employees (for other roles, see what is a <em class=\"search-highlight\">warehouse</em> associate)Recruit, select, orient, coach and motivate"
+                        ],
+                        "value": [
+                            "warehouse",
+                            "warehouses"
+                        ]
+                    }
+                ]
+            },
+            "id": "8edbef08-3895-4c5c-a3a9-13824135b276",
+            "links": {},
+            "meta": {
+                "score": 6.404891
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LINK Development"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Data <em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Years of experienceFamiliarity with Data Modeling Familiarity with ETL Using SSISFamiliarity with Data <em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Designing and Architect BI solutionsDevelop Data <em class=\"search-highlight\">warehouse</em>, ETLs and Data visualization.Performance Optimization",
+                            "for Data <em class=\"search-highlight\">warehouse</em>, ETLs and Data visualization.Debugging, monitoring and troubleshooting BI solutionsConfiguring"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "615e6a06-24dc-4a71-9ef9-06987e186b5b",
+            "links": {},
+            "meta": {
+                "score": 6.2298503
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3365,7 +3838,7 @@
             "id": "dfa49d93-be1f-40b3-aa1e-eb0f32c31ed2",
             "links": {},
             "meta": {
-                "score": 7.2189794
+                "score": 6.1809864
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3410,7 +3883,7 @@
             "id": "be8475e0-3027-472f-88f0-7bb067288a7b",
             "links": {},
             "meta": {
-                "score": 7.1529083
+                "score": 6.1186514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3477,7 +3950,52 @@
             "id": "7b7e31db-f85c-455a-832b-3fe79dfcafe1",
             "links": {},
             "meta": {
-                "score": 7.090612
+                "score": 6.053718
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Andela"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Data <em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "improvements, but helping to implement and redesign our current data pipelines and data lake -> data <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "data<emclass=\"search-highlight\">warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "887e9918-5f4a-47f1-bd9a-9e9755aed510",
+            "links": {},
+            "meta": {
+                "score": 6.0393662
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3527,9 +4045,9 @@
                             "for all <em class=\"search-highlight\">warehouse</em> activity.Applying All GAP Polymers policy and standard on concern. "
                         ],
                         "value": [
+                            "warehouse",
                             "warehouses",
-                            "Warehouse",
-                            "warehouse"
+                            "Warehouse"
                         ]
                     },
                     {
@@ -3546,220 +4064,7 @@
             "id": "e7e26ca2-2bd7-4dff-9428-6caaa76287a1",
             "links": {},
             "meta": {
-                "score": 7.0724025
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "BI-Technologies"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Data <em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Developer or Data ScientistExpertise in the following: Power BI/DAX studio/ Excel Background in data <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "b44ed904-9273-4cac-aa9f-511177e6d6dd",
-            "links": {},
-            "meta": {
-                "score": 7.027744
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Movibilecases"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "itemsEvaluate suppliers’ offers and negotiate profitable dealsCoordinate regular inventory auditsLiaise with <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "47c9438a-3ead-425d-aeee-5ba6237c8925",
-            "links": {},
-            "meta": {
-                "score": 7.0235195
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "18d11d1e-58b3-4f1e-bd08-f23f3812ad61",
-            "links": {},
-            "meta": {
-                "score": 7.0028124
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "90343a0c-b894-4bd6-a02d-7f8b8f9a2edb",
-            "links": {},
-            "meta": {
-                "score": 6.9726486
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Rowad Modern Engineering"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Upgrade systems and procedures in the <em class=\"search-highlight\">Warehouse</em> department, on continuous basis, to ensure maximum efficiency",
-                            "and continuous improvements.Use designs established by the <em class=\"search-highlight\">Warehouse</em> Manager for designing the <em class=\"search-highlight\">warehouse</em>",
-                            "all stock being received is safe and usable.Carry out a monthly review of all stock available in all <em class=\"search-highlight\">warehouses</em>",
-                            "track available inform Project Managers and the Finance department.Confirm that all stock within the <em class=\"search-highlight\">warehouse</em>",
-                            "are tracked and recorded.Arrange appropriate and safe transportation for stock to be delivered from <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "warehouses",
-                            "Warehouse",
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "bc817fc1-40f2-4a99-9b6d-7c9d11c80550",
-            "links": {},
-            "meta": {
-                "score": 6.9548063
+                "score": 6.035732
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3822,7 +4127,7 @@
             "id": "0132897e-b730-42a1-aad8-ecfc372f35d7",
             "links": {},
             "meta": {
-                "score": 6.9487686
+                "score": 5.9153013
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3861,8 +4166,8 @@
                             "improvement initiatives.Strong knowledge of warehousing Key Performance Indicators .Hands-on experience with <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -3888,52 +4193,7 @@
             "id": "0ed2c8ac-14c8-4d90-a589-031ca8c0adf3",
             "links": {},
             "meta": {
-                "score": 6.946645
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Excel Systems  "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Data <em class=\"search-highlight\">Warehouse</em> Design"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "experience as a BI Developer for at least 3 yearsIndustry experience is preferredBackground in data <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "d6e25eb0-89f2-4a9c-8d1f-d506aceae065",
-            "links": {},
-            "meta": {
-                "score": 6.9457884
+                "score": 5.914425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3984,8 +4244,8 @@
                             "inventory of storesReports preparationResponsible for keeping all records of the quality models of the <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     },
                     {
@@ -4002,7 +4262,7 @@
             "id": "d3f0ded6-9544-433c-a026-17e22ab690c6",
             "links": {},
             "meta": {
-                "score": 6.931708
+                "score": 5.9002185
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4052,9 +4312,9 @@
                             "and protocols to achieve an efficient warehouseSet <em class=\"search-highlight\">warehouse</em> and team goals in collaboration with executive"
                         ],
                         "value": [
+                            "warehouse",
                             "Warehouse",
-                            "warehouse’s",
-                            "warehouse"
+                            "warehouse’s"
                         ]
                     },
                     {
@@ -4071,267 +4331,7 @@
             "id": "e7c7f182-7e4d-4c73-a29a-b91e902b1a1f",
             "links": {},
             "meta": {
-                "score": 6.839196
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "GCSSD"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Data <em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "1+ years of System Analysis / writing system requirements. 2+ years experience in Data <em class=\"search-highlight\">Warehouse</em> and"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "d3fbdb5c-ed53-4abd-be18-8a62ebec3109",
-            "links": {},
-            "meta": {
-                "score": 6.7902856
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Meem Development"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Data <em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Automate) is a plus.2+ years’ experience in SSIS, SSAS, SSRS.3 years of experience in ETL and Data <em class=\"search-highlight\">Warehouse</em>.Experience"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "reporting.Extracting, Transforming, Loading (ETL) processes and environments.Creating and managing Data <em class=\"search-highlight\">Warehouses</em>.Maintaining"
-                        ],
-                        "value": [
-                            "Warehouses"
-                        ]
-                    }
-                ]
-            },
-            "id": "5449ab94-e673-49e0-84f3-7cb92eb5d4f7",
-            "links": {},
-            "meta": {
-                "score": 6.7768626
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Documented experience as a <em class=\"search-highlight\">Warehouse</em> ex. managerExperience in management and knowledge of expected <em class=\"search-highlight\">warehouse</em>",
-                            "improvement initiativesStrong knowledge of warehousing Key Performance Indicators (KPIs)Knowledge of the <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse",
-                            "warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Main job responsibilities are to direct and oversee the storage capacity and logistical operations of <em class=\"search-highlight\">warehouses</em>",
-                            "and other facilities.In addition to managing <em class=\"search-highlight\">warehouse</em> employees, inspecting goods, ensuring effective",
-                            "operations, handling customer requests, and overseeing safety.Managing the <em class=\"search-highlight\">warehouse</em> in line with the",
-                            "basic operations, such as receiving, warehousing, distribution, and maintenance of productsUsing the <em class=\"search-highlight\">warehouse</em>",
-                            "employees (for other roles, see what is a <em class=\"search-highlight\">warehouse</em> associate)Recruit, select, orient, coach and motivate"
-                        ],
-                        "value": [
-                            "warehouses",
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "8edbef08-3895-4c5c-a3a9-13824135b276",
-            "links": {},
-            "meta": {
-                "score": 6.7515483
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "LINK Development"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Data <em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Years of experienceFamiliarity with Data Modeling Familiarity with ETL Using SSISFamiliarity with Data <em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Designing and Architect BI solutionsDevelop Data <em class=\"search-highlight\">warehouse</em>, ETLs and Data visualization.Performance Optimization",
-                            "for Data <em class=\"search-highlight\">warehouse</em>, ETLs and Data visualization.Debugging, monitoring and troubleshooting BI solutionsConfiguring"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "615e6a06-24dc-4a71-9ef9-06987e186b5b",
-            "links": {},
-            "meta": {
-                "score": 6.62397
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Andela"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Data <em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "improvements, but helping to implement and redesign our current data pipelines and data lake -> data <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "data<emclass=\"search-highlight\">warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "887e9918-5f4a-47f1-bd9a-9e9755aed510",
-            "links": {},
-            "meta": {
-                "score": 6.46914
+                "score": 5.8110347
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4369,8 +4369,8 @@
                             "Strong SQL skills\nHas experience in all phases of data <em class=\"search-highlight\">warehouse</em> and data integration projects."
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     }
                 ]
@@ -4378,7 +4378,7 @@
             "id": "c9b74100-6b2c-4f36-83d5-e27fa48651aa",
             "links": {},
             "meta": {
-                "score": 6.1409845
+                "score": 5.642525
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4414,7 +4414,7 @@
             "id": "35e72845-ec4a-4758-96b9-03f5254c4bd1",
             "links": {},
             "meta": {
-                "score": 5.809377
+                "score": 5.2675548
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4469,7 +4469,7 @@
             "id": "1cc5a8eb-15c0-4b63-9788-adeeac3759f6",
             "links": {},
             "meta": {
-                "score": 5.658928
+                "score": 5.0911474
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4514,7 +4514,52 @@
             "id": "41f5830c-b102-44cc-8dbc-f8b763b4860e",
             "links": {},
             "meta": {
-                "score": 5.6291475
+                "score": 5.065914
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Worldwide Movers Africa"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em>"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "expectations, and job requirements from sales, survey, departments to in-house and outsourced crew leaders, <em class=\"search-highlight\">warehouse</em>"
+                        ],
+                        "value": [
+                            "warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "91d59cb7-cc3b-4e73-b47c-3529b5759fb2",
+            "links": {},
+            "meta": {
+                "score": 4.850151
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4573,52 +4618,7 @@
             "id": "d3e652cf-ebd7-4fb1-809e-468344c293e4",
             "links": {},
             "meta": {
-                "score": 5.4318695
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Worldwide Movers Africa"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em>"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "expectations, and job requirements from sales, survey, departments to in-house and outsourced crew leaders, <em class=\"search-highlight\">warehouse</em>"
-                        ],
-                        "value": [
-                            "warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "91d59cb7-cc3b-4e73-b47c-3529b5759fb2",
-            "links": {},
-            "meta": {
-                "score": 5.4302754
+                "score": 4.8488035
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4665,8 +4665,8 @@
                             "ministry of health preparations for inspection visitshandle inventory checksOrganize <em class=\"search-highlight\">warehouse</em> layout"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     }
                 ]
@@ -4674,7 +4674,7 @@
             "id": "e68faae0-51be-4bba-8732-97026cf8064b",
             "links": {},
             "meta": {
-                "score": 5.3157825
+                "score": 4.7211003
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4710,7 +4710,7 @@
             "id": "56eceea9-d280-4bc2-b2b2-89ba492c0bbd",
             "links": {},
             "meta": {
-                "score": 5.287078
+                "score": 4.699907
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4765,7 +4765,7 @@
             "id": "9b4e727a-4d72-451f-8a5a-0fdfca604919",
             "links": {},
             "meta": {
-                "score": 5.0929046
+                "score": 4.4888797
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4810,7 +4810,7 @@
             "id": "b3aa9597-23b0-4532-abcc-539101760215",
             "links": {},
             "meta": {
-                "score": 4.739649
+                "score": 4.131179
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4855,7 +4855,7 @@
             "id": "3cab97fe-5760-4293-882c-fdb3fcf478d6",
             "links": {},
             "meta": {
-                "score": 4.5330186
+                "score": 3.922437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4901,7 +4901,7 @@
             "id": "dc0815e0-2ef1-4c8b-a941-7de49fafac94",
             "links": {},
             "meta": {
-                "score": 4.2727776
+                "score": 3.666822
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4956,7 +4956,7 @@
             "id": "26f85a4c-96dc-4393-8ac8-19d4732377b9",
             "links": {},
             "meta": {
-                "score": 4.220798
+                "score": 3.6122859
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4994,8 +4994,8 @@
                             "Strong SQL skills\nHas experience in all phases of data <em class=\"search-highlight\">warehouse</em> and data integration projects."
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     }
                 ]
@@ -5003,7 +5003,7 @@
             "id": "84425029-c758-4ae8-a0c7-cf63bc7455b5",
             "links": {},
             "meta": {
-                "score": 4.050517
+                "score": 3.4494302
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5041,8 +5041,8 @@
                             "Inventory Specialist.Familiarity with standard concepts and best practices in a <em class=\"search-highlight\">warehouse</em> environment.Competencies"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     },
                     {
@@ -5054,8 +5054,8 @@
                             "inventory.Responsible for stock control of <em class=\"search-highlight\">warehouse</em> items.Keep documentation of materials and supplies"
                         ],
                         "value": [
-                            "warehouses",
-                            "warehouse"
+                            "warehouse",
+                            "warehouses"
                         ]
                     }
                 ]
@@ -5063,7 +5063,7 @@
             "id": "da8ba307-39f3-4c7e-b8a5-48366c84d77a",
             "links": {},
             "meta": {
-                "score": 3.9335802
+                "score": 3.3356385
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5108,7 +5108,7 @@
             "id": "aa653771-e85f-4dea-909f-56b3749639e5",
             "links": {},
             "meta": {
-                "score": 1.1047596
+                "score": 1.0563017
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5153,7 +5153,7 @@
             "id": "29fa38bc-6a7c-4917-b555-efeb925514d2",
             "links": {},
             "meta": {
-                "score": 1.0190653
+                "score": 0.92444235
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5189,7 +5189,7 @@
             "id": "f7901de2-48e5-4f14-a560-513511620a86",
             "links": {},
             "meta": {
-                "score": 0.8005421
+                "score": 0.77942026
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5227,8 +5227,8 @@
                             "following-up on re-sellers and suppliers to push orders Handles internal problems with the Finance and <em class=\"search-highlight\">Warehouse</em>"
                         ],
                         "value": [
-                            "Warehouse",
-                            "warehouse"
+                            "warehouse",
+                            "Warehouse"
                         ]
                     }
                 ]
@@ -5236,7 +5236,7 @@
             "id": "664630a0-bcec-4a67-949d-32c8ecfe0b38",
             "links": {},
             "meta": {
-                "score": 0.7169608
+                "score": 0.7090662
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5272,7 +5272,7 @@
             "id": "23402c50-f93b-4052-b23b-c45d88732b9c",
             "links": {},
             "meta": {
-                "score": 0.7072376
+                "score": 0.6960599
             },
             "relationships": {},
             "type": "talentSearch"

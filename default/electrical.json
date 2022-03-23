@@ -12,79 +12,6 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Andalus Electrical solutions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em>",
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "B.Sc. in <em class=\"search-highlight\">Electrical</em> engineering or Equivalent+5 years of relevant experience in sales.Should have good"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "Andalus <em class=\"search-highlight\">Electrical</em> solutions"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Sales Engineer - <em class=\"search-highlight\">Electrical</em> / Lighting"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "947fe50c-cca6-4459-b538-7264a9cb7900",
-            "links": {},
-            "meta": {
-                "score": 9.170913
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
                             "ALDAWLIA"
                         ]
                     }
@@ -99,8 +26,8 @@
                             "<em class=\"search-highlight\">electrical</em> power engineering"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -135,7 +62,7 @@
             "id": "ef483675-5273-422b-b8e1-d036b6c7298b",
             "links": {},
             "meta": {
-                "score": 9.150358
+                "score": 9.027472
             },
             "relationships": {},
             "type": "talentSearch"
@@ -200,7 +127,7 @@
             "id": "fbc33522-0fb4-4cd3-9a4d-ba7ba6e4baad",
             "links": {},
             "meta": {
-                "score": 9.1182575
+                "score": 9.017019
             },
             "relationships": {},
             "type": "talentSearch"
@@ -230,8 +157,8 @@
                             "<em class=\"search-highlight\">Electricity</em>"
                         ],
                         "value": [
-                            "Electrical",
-                            "Electricity"
+                            "Electricity",
+                            "Electrical"
                         ]
                     },
                     {
@@ -241,8 +168,8 @@
                             "in <em class=\"search-highlight\">electricity</em> metering field"
                         ],
                         "value": [
-                            "Electrical",
-                            "electricity"
+                            "electricity",
+                            "Electrical"
                         ]
                     },
                     {
@@ -262,9 +189,9 @@
                             "or meter suppliers to ensure the meter meets the customer and standard needsSupports the SW team in <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
-                            "electrical",
+                            "Electricity",
                             "electricity",
-                            "Electricity"
+                            "electrical"
                         ]
                     },
                     {
@@ -273,8 +200,8 @@
                             "<em class=\"search-highlight\">Electrical</em> Engineer (<em class=\"search-highlight\">Electricity</em> Metering)"
                         ],
                         "value": [
-                            "Electrical",
-                            "Electricity"
+                            "Electricity",
+                            "Electrical"
                         ]
                     }
                 ]
@@ -282,7 +209,7 @@
             "id": "d49cc2d4-314d-432e-8190-c079d59934dc",
             "links": {},
             "meta": {
-                "score": 9.115453
+                "score": 9.003616
             },
             "relationships": {},
             "type": "talentSearch"
@@ -308,19 +235,16 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>",
-                            "<em class=\"search-highlight\">Electrical</em> power",
-                            "<em class=\"search-highlight\">electrical</em> power engineering"
+                            "<em class=\"search-highlight\">Electrical</em>"
                         ],
                         "value": [
-                            "electrical",
                             "Electrical"
                         ]
                     },
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Bachelor’s degree in <em class=\"search-highlight\">electrical</em> power engineering.Very good command of Autocad.Strong strategic thinking"
+                            "Negotiation SkillsAnalytical & Problem-Solving SkillsPlanning & Organizing SkillsBachelor’s degree in <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
                             "electrical"
@@ -336,12 +260,78 @@
                         ]
                     },
                     {
-                        "name": "description",
+                        "name": "job_title",
                         "snippets": [
-                            "Main Job Duties:\n\nCheck the <em class=\"search-highlight\">electrical</em> drawings prepared by contractors.",
-                            "Make all the <em class=\"search-highlight\">electrical</em> surveys tasks& bill of quantities."
+                            "<em class=\"search-highlight\">Electrical</em> Sales Engineer"
                         ],
                         "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "09d2b564-dd5f-4da2-b70e-ec343b213823",
+            "links": {},
+            "meta": {
+                "score": 9.003304
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "KB Architects "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "5+ years of experience in <em class=\"search-highlight\">Electrical</em> Contracting field.Previous experience in banks projects is a plus.Bachelor",
+                            ". degree in <em class=\"search-highlight\">Electrical</em> Engineering from a reputable university,Microsoft Office,Excellent Auto CAD 2D"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Prepare <em class=\"search-highlight\">Electrical</em> Shop drawings complete with typical details and all needed calculations.Plan, schedule",
+                            ", and implement all <em class=\"search-highlight\">electrical</em> installations light current and power.Prepare progress reports and release"
+                        ],
+                        "value": [
+                            "Electrical",
                             "electrical"
                         ]
                     },
@@ -356,10 +346,199 @@
                     }
                 ]
             },
-            "id": "8e118079-9d63-44c0-ba39-a26f23986f9c",
+            "id": "139d410c-8750-4cb4-9733-617618df0cb3",
             "links": {},
             "meta": {
-                "score": 9.1135435
+                "score": 8.998403
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MAAP Electromechanical Engineers"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> BIM Modeler"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "532697ad-0aee-4617-b959-cc5ab4563abb",
+            "links": {},
+            "meta": {
+                "score": 8.986461
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Lighting "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">electrical</em> power engineering",
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em> power",
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in <em class=\"search-highlight\">Electrical</em> power engineering.Additional certification or license may be required"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior <em class=\"search-highlight\">Electrical</em> Technical Office Engineer (Procurement &Tender)"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "6baf2d59-58b9-438d-96aa-0fd8d6d334cd",
+            "links": {},
+            "meta": {
+                "score": 8.985487
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Lighting "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em>",
+                            "<em class=\"search-highlight\">Electrical</em> power",
+                            "<em class=\"search-highlight\">electrical</em> power engineering",
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "QualificationsBachelor’s degree in <em class=\"search-highlight\">Electrical</em> power engineering.Additional certification or license may"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Electrical</em> Technical Office Engineer (Procurement &Tender)"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "e4d2767d-00bc-49ea-b45d-4ab6604bd04a",
+            "links": {},
+            "meta": {
+                "score": 8.98519
             },
             "relationships": {},
             "type": "talentSearch"
@@ -425,71 +604,7 @@
             "id": "89a0ca53-86e4-48d6-aac5-1bfe32ee30b7",
             "links": {},
             "meta": {
-                "score": 9.10555
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Delta Egypt For Lighting "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Negotiation SkillsAnalytical & Problem-Solving SkillsPlanning & Organizing SkillsBachelor’s degree in <em class=\"search-highlight\">electrical</em>"
-                        ],
-                        "value": [
-                            "electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Sales Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "09d2b564-dd5f-4da2-b70e-ec343b213823",
-            "links": {},
-            "meta": {
-                "score": 9.10548
+                "score": 8.983392
             },
             "relationships": {},
             "type": "talentSearch"
@@ -567,7 +682,7 @@
             "id": "a6b4bcb9-30d2-460a-8a71-15fdff25d95f",
             "links": {},
             "meta": {
-                "score": 9.103733
+                "score": 8.982867
             },
             "relationships": {},
             "type": "talentSearch"
@@ -584,7 +699,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "KB Architects "
+                            ""
                         ]
                     }
                 ],
@@ -592,18 +707,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "5+ years of experience in <em class=\"search-highlight\">Electrical</em> Contracting field.Previous experience in banks projects is a plus.Bachelor",
-                            ". degree in <em class=\"search-highlight\">Electrical</em> Engineering from a reputable university,Microsoft Office,Excellent Auto CAD 2D"
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
                         ],
                         "value": [
                             "Electrical"
@@ -619,20 +723,9 @@
                         ]
                     },
                     {
-                        "name": "description",
-                        "snippets": [
-                            "Prepare <em class=\"search-highlight\">Electrical</em> Shop drawings complete with typical details and all needed calculations.Plan, schedule",
-                            ", and implement all <em class=\"search-highlight\">electrical</em> installations light current and power.Prepare progress reports and release"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Technical Office Engineer"
+                            "<em class=\"search-highlight\">Electrical</em> Engineer"
                         ],
                         "value": [
                             "Electrical"
@@ -640,10 +733,10 @@
                     }
                 ]
             },
-            "id": "139d410c-8750-4cb4-9733-617618df0cb3",
+            "id": "3251fc71-0416-467b-979c-0e02d8db491f",
             "links": {},
             "meta": {
-                "score": 9.101239
+                "score": 8.980683
             },
             "relationships": {},
             "type": "talentSearch"
@@ -674,8 +767,8 @@
                             "<em class=\"search-highlight\">Electricity</em>"
                         ],
                         "value": [
-                            "Electrical",
-                            "Electricity"
+                            "Electricity",
+                            "Electrical"
                         ]
                     },
                     {
@@ -685,8 +778,8 @@
                             "as an <em class=\"search-highlight\">electricity</em> Engineer Candidates with other relevant industry experience may be consideredKnowledge"
                         ],
                         "value": [
-                            "electrical",
-                            "electricity"
+                            "electricity",
+                            "electrical"
                         ]
                     },
                     {
@@ -725,7 +818,7 @@
             "id": "6fe4dd5b-037f-4f93-8028-3d1ddf444a68",
             "links": {},
             "meta": {
-                "score": 9.098775
+                "score": 8.977001
             },
             "relationships": {},
             "type": "talentSearch"
@@ -742,7 +835,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Smart Lighting "
+                            "Giza power"
                         ]
                     }
                 ],
@@ -750,20 +843,84 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">electrical</em> power engineering",
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em> power",
-                            "<em class=\"search-highlight\">Electrical</em>"
+                            "<em class=\"search-highlight\">Electricity</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electricity"
                         ]
                     },
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Bachelor’s degree in <em class=\"search-highlight\">Electrical</em> power engineering.Additional certification or license may be required"
+                            "Typically a job would require a certain level of education.Employers hiring for the <em class=\"search-highlight\">electrical</em> project",
+                            "prefer for their future employee to have a relevant degree such as Bachelor's and University Degree in <em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "accordance with the design and responds timely to questions related to field conditionsDevelop and/or review <em class=\"search-highlight\">electrical</em>",
+                            "day to day Design (where applicable) and construction management of significant elements of IBMS and <em class=\"search-highlight\">electrical</em>",
+                            "external resources for project completionOversees Job Start and Project Closeout materialsProvides <em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electricity</em> Project Manager (Infrastructure Projects)"
+                        ],
+                        "value": [
+                            "Electricity"
+                        ]
+                    }
+                ]
+            },
+            "id": "125dee18-e3a1-41cd-a1be-6d828de170c9",
+            "links": {},
+            "meta": {
+                "score": 8.975526
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Contradeegypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
                         ],
                         "value": [
                             "Electrical"
@@ -779,9 +936,21 @@
                         ]
                     },
                     {
+                        "name": "description",
+                        "snippets": [
+                            "• Generally responsible for implementations and monitoring of all <em class=\"search-highlight\">electrical</em> related works at the site",
+                            "assign resources such as manpower, materials, consumables, equipment, tools, etc., required for all <em class=\"search-highlight\">electrical</em>",
+                            "execution of any jobs. • Manages directly and provides engineering and technical support to all the <em class=\"search-highlight\">electrical</em>",
+                            "workgroups at the site. • Plans the execution of all <em class=\"search-highlight\">electrical</em> related works and coordinates the works"
+                        ],
+                        "value": [
+                            "electrical"
+                        ]
+                    },
+                    {
                         "name": "job_title",
                         "snippets": [
-                            "Junior <em class=\"search-highlight\">Electrical</em> Technical Office Engineer (Procurement &Tender)"
+                            "Senior <em class=\"search-highlight\">Electrical</em> Site Engineer"
                         ],
                         "value": [
                             "Electrical"
@@ -789,10 +958,87 @@
                     }
                 ]
             },
-            "id": "6baf2d59-58b9-438d-96aa-0fd8d6d334cd",
+            "id": "aaedd95e-a508-4f0a-9693-3ef3e64d7040",
             "links": {},
             "meta": {
-                "score": 9.098685
+                "score": 8.974926
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Delta Egypt For Lighting "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em>",
+                            "<em class=\"search-highlight\">Electrical</em> power",
+                            "<em class=\"search-highlight\">electrical</em> power engineering"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in <em class=\"search-highlight\">electrical</em> power engineering.Very good command of Autocad.Strong strategic thinking"
+                        ],
+                        "value": [
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Main Job Duties:\n\nCheck the <em class=\"search-highlight\">electrical</em> drawings prepared by contractors.",
+                            "Make all the <em class=\"search-highlight\">electrical</em> surveys tasks& bill of quantities."
+                        ],
+                        "value": [
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Technical Office Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "8e118079-9d63-44c0-ba39-a26f23986f9c",
+            "links": {},
+            "meta": {
+                "score": 8.964711
             },
             "relationships": {},
             "type": "talentSearch"
@@ -865,345 +1111,7 @@
             "id": "3adae3aa-eb67-42d3-8738-24c6f4fa2b9c",
             "links": {},
             "meta": {
-                "score": 9.09841
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smart Lighting "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em>",
-                            "<em class=\"search-highlight\">Electrical</em> power",
-                            "<em class=\"search-highlight\">electrical</em> power engineering",
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "QualificationsBachelor’s degree in <em class=\"search-highlight\">Electrical</em> power engineering.Additional certification or license may"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Electrical</em> Technical Office Engineer (Procurement &Tender)"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "e4d2767d-00bc-49ea-b45d-4ab6604bd04a",
-            "links": {},
-            "meta": {
-                "score": 9.098294
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Giza power"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electricity</em>"
-                        ],
-                        "value": [
-                            "Electricity"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Typically a job would require a certain level of education.Employers hiring for the <em class=\"search-highlight\">electrical</em> project",
-                            "prefer for their future employee to have a relevant degree such as Bachelor's and University Degree in <em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "accordance with the design and responds timely to questions related to field conditionsDevelop and/or review <em class=\"search-highlight\">electrical</em>",
-                            "day to day Design (where applicable) and construction management of significant elements of IBMS and <em class=\"search-highlight\">electrical</em>",
-                            "external resources for project completionOversees Job Start and Project Closeout materialsProvides <em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electricity</em> Project Manager (Infrastructure Projects)"
-                        ],
-                        "value": [
-                            "Electricity"
-                        ]
-                    }
-                ]
-            },
-            "id": "125dee18-e3a1-41cd-a1be-6d828de170c9",
-            "links": {},
-            "meta": {
-                "score": 9.097754
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Engosoft"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor of <em class=\"search-highlight\">Electrical</em> engineeringHave a very good presentation skill.More than 2 years' experience in",
-                            "than very good “preferable”Previous design experience in Power, lighting, and Low currentUsing REVIT <em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> instructor"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "6d863bec-bcc2-45e2-999c-af5b0731e04e",
-            "links": {},
-            "meta": {
-                "score": 9.095285
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ICON"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> power",
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BIM Mechanical EngineeringA Bachelor’s degree in <em class=\"search-highlight\">Electrical</em> Power Engineering.From 2 to 7 years of experienceExperience",
-                            "of working in a distribution transformer design environment.Base knowledge of <em class=\"search-highlight\">electrical</em> engineering.Knowledge"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Creating the <em class=\"search-highlight\">electrical</em> designs based on the customer specification and factory requirements.Preparing"
-                        ],
-                        "value": [
-                            "electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Design Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "0ede45e6-fae7-4e31-9c4a-c03672b9fabd",
-            "links": {},
-            "meta": {
-                "score": 9.088658
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "MAAP Electromechanical Engineers"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> BIM Modeler"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "532697ad-0aee-4617-b959-cc5ab4563abb",
-            "links": {},
-            "meta": {
-                "score": 9.08073
+                "score": 8.957574
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1267,7 +1175,7 @@
             "id": "af1c2b9f-9fdc-42f3-a4a8-e51dc0b2d8fb",
             "links": {},
             "meta": {
-                "score": 9.079919
+                "score": 8.956757
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1284,7 +1192,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "Engosoft"
                         ]
                     }
                 ],
@@ -1293,6 +1201,16 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor of <em class=\"search-highlight\">Electrical</em> engineeringHave a very good presentation skill.More than 2 years' experience in",
+                            "than very good “preferable”Previous design experience in Power, lighting, and Low currentUsing REVIT <em class=\"search-highlight\">Electrical</em>"
                         ],
                         "value": [
                             "Electrical"
@@ -1310,7 +1228,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineer"
+                            "<em class=\"search-highlight\">Electrical</em> instructor"
                         ],
                         "value": [
                             "Electrical"
@@ -1318,10 +1236,85 @@
                     }
                 ]
             },
-            "id": "3251fc71-0416-467b-979c-0e02d8db491f",
+            "id": "6d863bec-bcc2-45e2-999c-af5b0731e04e",
             "links": {},
             "meta": {
-                "score": 9.077864
+                "score": 8.948633
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ICON"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> power",
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BIM Mechanical EngineeringA Bachelor’s degree in <em class=\"search-highlight\">Electrical</em> Power Engineering.From 2 to 7 years of experienceExperience",
+                            "of working in a distribution transformer design environment.Base knowledge of <em class=\"search-highlight\">electrical</em> engineering.Knowledge"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Creating the <em class=\"search-highlight\">electrical</em> designs based on the customer specification and factory requirements.Preparing"
+                        ],
+                        "value": [
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Design Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "0ede45e6-fae7-4e31-9c4a-c03672b9fabd",
+            "links": {},
+            "meta": {
+                "score": 8.941665
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1375,7 +1368,7 @@
             "id": "1398aa02-12d0-4ea7-a653-e2922e7276ac",
             "links": {},
             "meta": {
-                "score": 9.07752
+                "score": 8.932399
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1392,7 +1385,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Contradeegypt"
+                            "Andalus Electrical solutions"
                         ]
                     }
                 ],
@@ -1400,7 +1393,17 @@
                     {
                         "name": "skills",
                         "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em>",
                             "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "B.Sc. in <em class=\"search-highlight\">Electrical</em> engineering or Equivalent+5 years of relevant experience in sales.Should have good"
                         ],
                         "value": [
                             "Electrical"
@@ -1416,21 +1419,18 @@
                         ]
                     },
                     {
-                        "name": "description",
+                        "name": "company_name",
                         "snippets": [
-                            "• Generally responsible for implementations and monitoring of all <em class=\"search-highlight\">electrical</em> related works at the site",
-                            "assign resources such as manpower, materials, consumables, equipment, tools, etc., required for all <em class=\"search-highlight\">electrical</em>",
-                            "execution of any jobs. • Manages directly and provides engineering and technical support to all the <em class=\"search-highlight\">electrical</em>",
-                            "workgroups at the site. • Plans the execution of all <em class=\"search-highlight\">electrical</em> related works and coordinates the works"
+                            "Andalus <em class=\"search-highlight\">Electrical</em> solutions"
                         ],
                         "value": [
-                            "electrical"
+                            "Electrical"
                         ]
                     },
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Senior <em class=\"search-highlight\">Electrical</em> Site Engineer"
+                            "Sales Engineer - <em class=\"search-highlight\">Electrical</em> / Lighting"
                         ],
                         "value": [
                             "Electrical"
@@ -1438,10 +1438,10 @@
                     }
                 ]
             },
-            "id": "aaedd95e-a508-4f0a-9693-3ef3e64d7040",
+            "id": "947fe50c-cca6-4459-b538-7264a9cb7900",
             "links": {},
             "meta": {
-                "score": 9.076699
+                "score": 8.903597
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1514,7 +1514,7 @@
             "id": "798edd49-b340-4266-9e4a-326ca78891bf",
             "links": {},
             "meta": {
-                "score": 9.064243
+                "score": 8.846325
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1577,7 +1577,7 @@
             "id": "5c2a968f-819d-437d-896b-37b689b6ec8e",
             "links": {},
             "meta": {
-                "score": 9.050134
+                "score": 8.811002
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1650,7 +1650,7 @@
             "id": "5c35a6d1-c178-4853-8683-78b3e77cb1ab",
             "links": {},
             "meta": {
-                "score": 9.032721
+                "score": 8.78991
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1667,7 +1667,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Mahmoud Electric"
+                            "Pure Group"
                         ]
                     }
                 ],
@@ -1675,17 +1675,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Degree in <em class=\"search-highlight\">Electrical</em> Engineering or Electronics.Excellent Communication Skills.Presentable, Cheerful.Fresh"
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
                         ],
                         "value": [
                             "Electrical"
@@ -1701,18 +1691,9 @@
                         ]
                     },
                     {
-                        "name": "company_name",
-                        "snippets": [
-                            "Mahmoud <em class=\"search-highlight\">Electric</em>"
-                        ],
-                        "value": [
-                            "Electric"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "Sales Engineer - <em class=\"search-highlight\">Electrical</em>"
+                            "<em class=\"search-highlight\">Electrical</em> Engineer"
                         ],
                         "value": [
                             "Electrical"
@@ -1720,10 +1701,10 @@
                     }
                 ]
             },
-            "id": "04adb2b6-9c5e-4a15-9cb8-4717a9c29c38",
+            "id": "59b0b4e8-81f0-4d8a-bd15-105802654227",
             "links": {},
             "meta": {
-                "score": 9.02994
+                "score": 8.779013
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1777,7 +1758,71 @@
             "id": "7997e96c-99b5-4197-9333-b976d105db74",
             "links": {},
             "meta": {
-                "score": 9.016904
+                "score": 8.77716
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECS - Energy & Contracting Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering Bachelor’s degree6+ years of experience in contracting/construction field as BIM",
+                            "<em class=\"search-highlight\">Electrical</em> engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Follow-up and support the <em class=\"search-highlight\">Electrical</em> BIM engineers.Attending the project meetings with the owner and"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Electrical</em> BIM Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "18015e98-ba47-44ad-8815-95a5df96de45",
+            "links": {},
+            "meta": {
+                "score": 8.759458
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1854,61 +1899,7 @@
             "id": "2531bc0b-010f-4e2c-9384-937ae026de05",
             "links": {},
             "meta": {
-                "score": 9.015317
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pure Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "59b0b4e8-81f0-4d8a-bd15-105802654227",
-            "links": {},
-            "meta": {
-                "score": 9.014162
+                "score": 8.752441
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1966,8 +1957,8 @@
                             "the tendering process, and technical office activities of the <em class=\"search-highlight\">electrical</em> work. "
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -1984,7 +1975,7 @@
             "id": "05ed5733-6ded-4cc6-b38b-84769a37791b",
             "links": {},
             "meta": {
-                "score": 9.007897
+                "score": 8.747752
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2049,7 +2040,7 @@
             "id": "421b650c-a797-42a2-a4f2-e5ba8ceb9452",
             "links": {},
             "meta": {
-                "score": 8.986973
+                "score": 8.709675
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2114,7 +2105,83 @@
             "id": "de29ffa4-1db3-408a-9fe2-06ca54ddaa78",
             "links": {},
             "meta": {
-                "score": 8.983836
+                "score": 8.7065735
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Matrix Engineering"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's Degree in <em class=\"search-highlight\">Electrical</em> Engineering.3-5 of relevant experience.Must be worked at Construction"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Resolve <em class=\"search-highlight\">Electrical</em> IssuesManage Construction SchedulesConduct System TestingGenerally responsible for",
+                            "implementations and monitoring of all <em class=\"search-highlight\">electrical</em> related works (Experience in low voltage and low current",
+                            "assigns the resources such as manpower, materials, consumables, equipment, tools, etc., required for all <em class=\"search-highlight\">electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Site Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "737f045e-9c87-4ee7-aef4-9cbbd56886ed",
+            "links": {},
+            "meta": {
+                "score": 8.66978
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2187,83 +2254,7 @@
             "id": "d2051816-770f-4d46-a4a5-6c8dec5b52ea",
             "links": {},
             "meta": {
-                "score": 8.977913
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Matrix Engineering"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's Degree in <em class=\"search-highlight\">Electrical</em> Engineering.3-5 of relevant experience.Must be worked at Construction"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Resolve <em class=\"search-highlight\">Electrical</em> IssuesManage Construction SchedulesConduct System TestingGenerally responsible for",
-                            "implementations and monitoring of all <em class=\"search-highlight\">electrical</em> related works (Experience in low voltage and low current",
-                            "assigns the resources such as manpower, materials, consumables, equipment, tools, etc., required for all <em class=\"search-highlight\">electrical</em>"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Site Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "737f045e-9c87-4ee7-aef4-9cbbd56886ed",
-            "links": {},
-            "meta": {
-                "score": 8.975359
+                "score": 8.669021
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2338,7 +2329,7 @@
             "id": "a3510a44-2aca-4d80-a5c6-877b1b1a85b8",
             "links": {},
             "meta": {
-                "score": 8.973703
+                "score": 8.668144
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2377,8 +2368,8 @@
                             "must.Excellent communication and teamwork skills.Very good command of English.Strong knowledge of <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -2415,7 +2406,7 @@
             "id": "9db2757d-7776-4deb-a60b-04bb1822d83d",
             "links": {},
             "meta": {
-                "score": 8.970913
+                "score": 8.665331
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2494,7 +2485,80 @@
             "id": "72d93f43-33fd-48a9-bc7f-ea9676264b3a",
             "links": {},
             "meta": {
-                "score": 8.966069
+                "score": 8.660723
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mahmoud Electric"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Degree in <em class=\"search-highlight\">Electrical</em> Engineering or Electronics.Excellent Communication Skills.Presentable, Cheerful.Fresh"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "Mahmoud <em class=\"search-highlight\">Electric</em>"
+                        ],
+                        "value": [
+                            "Electric"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Sales Engineer - <em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "04adb2b6-9c5e-4a15-9cb8-4717a9c29c38",
+            "links": {},
+            "meta": {
+                "score": 8.656568
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2558,7 +2622,61 @@
             "id": "678d936c-15db-4591-9906-dd32d7ffe586",
             "links": {},
             "meta": {
-                "score": 8.871379
+                "score": 8.497949
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ProService"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Systems"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "5+ years of experience in shop drawing and quantity surveying for <em class=\"search-highlight\">Electrical</em> Systems in MEP Projects.Experience"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Draftsman"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "977c1698-976b-4536-8bfc-3f4fe7ad7329",
+            "links": {},
+            "meta": {
+                "score": 8.484101
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2621,125 +2739,7 @@
             "id": "0a56100d-aabc-48b6-82db-8babbcbc5422",
             "links": {},
             "meta": {
-                "score": 8.862714
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ProService"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Systems"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "5+ years of experience in shop drawing and quantity surveying for <em class=\"search-highlight\">Electrical</em> Systems in MEP Projects.Experience"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Draftsman"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "977c1698-976b-4536-8bfc-3f4fe7ad7329",
-            "links": {},
-            "meta": {
-                "score": 8.853499
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ECS - Energy & Contracting Solutions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering Bachelor’s degree6+ years of experience in contracting/construction field as BIM",
-                            "<em class=\"search-highlight\">Electrical</em> engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Follow-up and support the <em class=\"search-highlight\">Electrical</em> BIM engineers.Attending the project meetings with the owner and"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Electrical</em> BIM Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "18015e98-ba47-44ad-8815-95a5df96de45",
-            "links": {},
-            "meta": {
-                "score": 8.853022
+                "score": 8.477263
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2777,8 +2777,8 @@
                             "Bachelor Degree in <em class=\"search-highlight\">Electrical</em> Engineering or relevant .Background in <em class=\"search-highlight\">electrical</em> manufacturing .Very good"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -2804,7 +2804,7 @@
             "id": "2d8a6bf7-83d4-4c11-b9f5-9f8d191259b6",
             "links": {},
             "meta": {
-                "score": 8.846913
+                "score": 8.454293
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2869,7 +2869,7 @@
             "id": "71c164ab-ff40-41b9-850a-9b862d6aad3f",
             "links": {},
             "meta": {
-                "score": 8.838145
+                "score": 8.448272
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2932,7 +2932,7 @@
             "id": "f55f34ad-71ad-4cad-917d-cf57085f7bc6",
             "links": {},
             "meta": {
-                "score": 8.826409
+                "score": 8.4402895
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3007,7 +3007,61 @@
             "id": "8f604987-7bd0-4696-8e70-a6dc515db2e8",
             "links": {},
             "meta": {
-                "score": 8.822406
+                "score": 8.429487
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree in Mechanical Engineering.Bachelor Degree in <em class=\"search-highlight\">Electrical</em> EngineeringEnergetic, Very organised"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mechanical and <em class=\"search-highlight\">Electrical</em> Site Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "c22fec7e-6793-460a-a749-ec764f662166",
+            "links": {},
+            "meta": {
+                "score": 8.410726
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3070,7 +3124,7 @@
             "id": "42f100b7-0274-405f-b3e3-308c96cb4b2d",
             "links": {},
             "meta": {
-                "score": 8.795457
+                "score": 8.382749
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3131,8 +3185,8 @@
                             "equipment required.The ability to compile a monthly consumption report on light and power to include <em class=\"search-highlight\">Electricity</em>"
                         ],
                         "value": [
-                            "Electrical",
-                            "Electricity"
+                            "Electricity",
+                            "Electrical"
                         ]
                     },
                     {
@@ -3149,7 +3203,7 @@
             "id": "2be6ff7c-1e82-47c6-877c-2e2209f991d5",
             "links": {},
             "meta": {
-                "score": 8.791725
+                "score": 8.382713
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3214,7 +3268,7 @@
             "id": "425f7ac0-1372-4b3b-875d-aad29925580a",
             "links": {},
             "meta": {
-                "score": 8.788623
+                "score": 8.379682
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3277,70 +3331,7 @@
             "id": "7fa24930-c19d-49c0-8f3e-a127e828cdb1",
             "links": {},
             "meta": {
-                "score": 8.783476
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Gama Construction"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Education: Bachelor degree in <em class=\"search-highlight\">Electrical</em>-Mechanical EngineeringExperience: 2 - 4 Years of experienceComputer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Technical Office Engineer (<em class=\"search-highlight\">Electrical</em>- Mechanical)"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "e4b16fad-62c1-4dc5-b75f-59d7eda9572c",
-            "links": {},
-            "meta": {
-                "score": 8.769056
+                "score": 8.376558
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3406,7 +3397,70 @@
             "id": "481c32f2-21e6-402e-b856-da6649e27291",
             "links": {},
             "meta": {
-                "score": 8.762794
+                "score": 8.350312
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Gama Construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Education: Bachelor degree in <em class=\"search-highlight\">Electrical</em>-Mechanical EngineeringExperience: 2 - 4 Years of experienceComputer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Technical Office Engineer (<em class=\"search-highlight\">Electrical</em>- Mechanical)"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "e4b16fad-62c1-4dc5-b75f-59d7eda9572c",
+            "links": {},
+            "meta": {
+                "score": 8.341468
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3464,8 +3518,8 @@
                             "assigns the resources such as manpower, materials, consumables, equipment, tools, etc., required for all <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -3482,7 +3536,7 @@
             "id": "bdfb059d-2476-4d8c-99e5-568798f3300a",
             "links": {},
             "meta": {
-                "score": 8.758818
+                "score": 8.330614
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3523,8 +3577,8 @@
                             "degree in <em class=\"search-highlight\">Electrical</em> Engineering; MSc , PLC , Control is must.Strong organizational and communication"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -3559,7 +3613,7 @@
             "id": "d7ed823d-f5de-4766-a33c-0819e0243aaa",
             "links": {},
             "meta": {
-                "score": 8.741408
+                "score": 8.310961
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3623,61 +3677,7 @@
             "id": "9f0ba27d-09c5-4e1d-bdd1-162e1b2c1a60",
             "links": {},
             "meta": {
-                "score": 8.721213
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor Degree in Mechanical Engineering.Bachelor Degree in <em class=\"search-highlight\">Electrical</em> EngineeringEnergetic, Very organised"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Mechanical and <em class=\"search-highlight\">Electrical</em> Site Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "c22fec7e-6793-460a-a749-ec764f662166",
-            "links": {},
-            "meta": {
-                "score": 8.710621
+                "score": 8.277421
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3740,7 +3740,7 @@
             "id": "4fe7e948-cd80-4076-b61f-3676c60d3d95",
             "links": {},
             "meta": {
-                "score": 8.709851
+                "score": 8.260439
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3794,7 +3794,7 @@
             "id": "40a7848c-1324-48b9-8972-f0132d7fd94b",
             "links": {},
             "meta": {
-                "score": 8.684253
+                "score": 8.237351
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3867,7 +3867,7 @@
             "id": "9ca8ff74-8c50-4e4e-b076-16068872839b",
             "links": {},
             "meta": {
-                "score": 8.592626
+                "score": 8.045498
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3949,7 +3949,7 @@
             "id": "b41c5748-9af7-44ae-879a-b9bd3993a2d7",
             "links": {},
             "meta": {
-                "score": 8.5807
+                "score": 8.033528
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3988,8 +3988,8 @@
                             "of applicable international codes related to <em class=\"search-highlight\">electrical</em> systems applications.team work skills and innovation"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -4024,71 +4024,7 @@
             "id": "64bf8272-2468-4d31-912b-349d37fbc468",
             "links": {},
             "meta": {
-                "score": 8.5728655
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Giza power"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em>",
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's <em class=\"search-highlight\">Electrical</em> EngineerProcurement Experience Is MustGood Communication SkillsGood Microsoft OfficeGiza"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior Procurement <em class=\"search-highlight\">Electrical</em> Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "82bad9e5-0d98-45ba-ac31-30edadea0596",
-            "links": {},
-            "meta": {
-                "score": 8.524769
+                "score": 8.0233345
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4151,7 +4087,7 @@
             "id": "7202c144-8622-4c19-8642-2b3b0a2e48b0",
             "links": {},
             "meta": {
-                "score": 8.520452
+                "score": 8.016638
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4215,7 +4151,125 @@
             "id": "4ee2f7fd-cafd-4cd3-976a-c1d250239a42",
             "links": {},
             "meta": {
-                "score": 8.51725
+                "score": 8.008718
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Giza power"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em>",
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's <em class=\"search-highlight\">Electrical</em> EngineerProcurement Experience Is MustGood Communication SkillsGood Microsoft OfficeGiza"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Procurement <em class=\"search-highlight\">Electrical</em> Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "82bad9e5-0d98-45ba-ac31-30edadea0596",
+            "links": {},
+            "meta": {
+                "score": 8.003
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Giza power"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Procurement Engineer (Construction)"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "f9bcea0a-7b44-4ab3-9f33-d81b45c29ec0",
+            "links": {},
+            "meta": {
+                "score": 7.9564085
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4297,61 +4351,7 @@
             "id": "adae18ef-519b-47da-b8dc-fc4eede43f9b",
             "links": {},
             "meta": {
-                "score": 8.503531
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Giza power"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Procurement Engineer (Construction)"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "f9bcea0a-7b44-4ab3-9f33-d81b45c29ec0",
-            "links": {},
-            "meta": {
-                "score": 8.475075
+                "score": 7.9405904
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4426,7 +4426,7 @@
             "id": "1427e68d-4c1f-4bf4-a3aa-fae1ee14dffd",
             "links": {},
             "meta": {
-                "score": 8.448107
+                "score": 7.9076715
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4486,8 +4486,8 @@
                             "team to report safety near misses situations and close reported near misses.QUALITYEnsure <em class=\"search-highlight\">Electrical</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -4504,7 +4504,7 @@
             "id": "00489f9d-b209-4ddd-8bf4-2f3461744e79",
             "links": {},
             "meta": {
-                "score": 8.438861
+                "score": 7.9015017
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4569,7 +4569,7 @@
             "id": "31f22bf2-4a52-4cd2-952b-46c707fa112d",
             "links": {},
             "meta": {
-                "score": 8.410199
+                "score": 7.871354
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4635,7 +4635,7 @@
             "id": "8150d715-0b91-4498-83cf-add7b13d8230",
             "links": {},
             "meta": {
-                "score": 8.387376
+                "score": 7.8323884
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4708,7 +4708,7 @@
             "id": "62f10475-390b-4a3b-a5de-e5d47b232589",
             "links": {},
             "meta": {
-                "score": 8.376336
+                "score": 7.816404
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4767,8 +4767,8 @@
                             ", and implement all <em class=\"search-highlight\">electrical</em> installations light current and power .Prepare progress reports and release"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -4785,7 +4785,71 @@
             "id": "4a0da392-3e50-4d45-9c65-56ebb02e7899",
             "links": {},
             "meta": {
-                "score": 8.369573
+                "score": 7.813034
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECE"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Draftsman with consultant experience.Design and handle <em class=\"search-highlight\">electrical</em> work on the control.Handling"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Draftsman"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "86b470f8-3134-4410-bdb5-d9057d20c3e8",
+            "links": {},
+            "meta": {
+                "score": 7.808319
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4848,71 +4912,7 @@
             "id": "0fa31ac7-83f1-4cb3-9721-c6f623eaedf2",
             "links": {},
             "meta": {
-                "score": 8.365515
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ECE"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Draftsman with consultant experience.Design and handle <em class=\"search-highlight\">electrical</em> work on the control.Handling"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Draftsman"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "86b470f8-3134-4410-bdb5-d9057d20c3e8",
-            "links": {},
-            "meta": {
-                "score": 8.362267
+                "score": 7.8076687
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4966,7 +4966,7 @@
             "id": "13a3cbcf-e449-45af-9b17-70a2ecee7fc1",
             "links": {},
             "meta": {
-                "score": 8.349966
+                "score": 7.794457
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5029,7 +5029,7 @@
             "id": "f04969bf-7db4-4e9c-a9a6-1b7a974a1cbc",
             "links": {},
             "meta": {
-                "score": 8.339803
+                "score": 7.7807465
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5102,7 +5102,7 @@
             "id": "feba82fc-49d4-428d-ac2f-13a92a2dfb35",
             "links": {},
             "meta": {
-                "score": 8.333544
+                "score": 7.7604947
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5140,8 +5140,8 @@
                             "Engineering “for <em class=\"search-highlight\">Electrical</em> Maintenance Engineer”  Min 5 years of experience as maintenance engineer"
                         ],
                         "value": [
-                            "Electric",
-                            "Electrical"
+                            "Electrical",
+                            "Electric"
                         ]
                     },
                     {
@@ -5167,7 +5167,7 @@
             "id": "823a7ee5-d916-43a1-9845-894924de1c11",
             "links": {},
             "meta": {
-                "score": 8.310419
+                "score": 7.7377477
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5230,7 +5230,7 @@
             "id": "6ea45fec-8fe8-4ccf-9809-f065fd5f6597",
             "links": {},
             "meta": {
-                "score": 8.293873
+                "score": 7.7183566
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5293,7 +5293,72 @@
             "id": "8440285b-70ab-4305-bdc8-374d0e2915c7",
             "links": {},
             "meta": {
-                "score": 8.289641
+                "score": 7.716724
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillarsconstructions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> and light current cost preparation responsibilities.Obtain and evaluate sub-contractors costs",
+                            "where necessary.Prepare <em class=\"search-highlight\">electrical</em> technical & commercial proposals to be reviewed and checked by tendering"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Tendering Engineer"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "40b46dc5-56d4-46dc-99d8-d763dbe5e4bc",
+            "links": {},
+            "meta": {
+                "score": 7.7061434
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5358,72 +5423,7 @@
             "id": "4fa73872-85f8-444b-b800-4024eca4a74e",
             "links": {},
             "meta": {
-                "score": 8.2795925
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pillarsconstructions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> and light current cost preparation responsibilities.Obtain and evaluate sub-contractors costs",
-                            "where necessary.Prepare <em class=\"search-highlight\">electrical</em> technical & commercial proposals to be reviewed and checked by tendering"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Tendering Engineer"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "40b46dc5-56d4-46dc-99d8-d763dbe5e4bc",
-            "links": {},
-            "meta": {
-                "score": 8.2789135
+                "score": 7.705911
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5452,8 +5452,8 @@
                             "<em class=\"search-highlight\">Electric</em> Motors"
                         ],
                         "value": [
-                            "Electric",
-                            "Electrical"
+                            "Electrical",
+                            "Electric"
                         ]
                     },
                     {
@@ -5490,7 +5490,7 @@
             "id": "69731cca-8c9e-40e7-a4bf-efe250e6a94f",
             "links": {},
             "meta": {
-                "score": 8.2674055
+                "score": 7.679755
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5554,7 +5554,87 @@
             "id": "345fe1e0-c60d-4710-b4ca-d233aafc5604",
             "links": {},
             "meta": {
-                "score": 8.208471
+                "score": 7.6098957
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillars"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em>",
+                            "<em class=\"search-highlight\">Electrical</em> Maintenance"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in <em class=\"search-highlight\">electrical</em> engineeringMust have at least 5 years of experience in <em class=\"search-highlight\">electrical</em> maintenanceCourses",
+                            "in the field of <em class=\"search-highlight\">electrical</em> maintenance and automatic control.Computer courses related to work.Courses"
+                        ],
+                        "value": [
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Organizational dependency: <em class=\"search-highlight\">Electrical</em> Maintenance DepartmentDirect functional dependency:Maintenance",
+                            "managerDirect Affiliate Jobs:<em class=\"search-highlight\">Electrical</em> maintenance technician assistant <em class=\"search-highlight\">Electrical</em> maintenance technicianPurpose",
+                            "and scope of the job:Responsible for the implementation and follow-up of all construction and <em class=\"search-highlight\">electrical</em>",
+                            "construction and maintenance works.Responsible for carrying out all construction and daily <em class=\"search-highlight\">electrical</em>",
+                            "maintenance.Determining the needs of the necessary materials, equipment and spare parts for the <em class=\"search-highlight\">electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Head of <em class=\"search-highlight\">Electrical</em> Maintenance Department"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "2a8be54c-3fea-4b16-81ef-23e7a817cf5e",
+            "links": {},
+            "meta": {
+                "score": 7.501747
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5620,87 +5700,7 @@
             "id": "1e822f9c-7234-492d-a59a-b4ee4a2d998f",
             "links": {},
             "meta": {
-                "score": 8.115465
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pillars"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em>",
-                            "<em class=\"search-highlight\">Electrical</em> Maintenance"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in <em class=\"search-highlight\">electrical</em> engineeringMust have at least 5 years of experience in <em class=\"search-highlight\">electrical</em> maintenanceCourses",
-                            "in the field of <em class=\"search-highlight\">electrical</em> maintenance and automatic control.Computer courses related to work.Courses"
-                        ],
-                        "value": [
-                            "electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Organizational dependency: <em class=\"search-highlight\">Electrical</em> Maintenance DepartmentDirect functional dependency:Maintenance",
-                            "managerDirect Affiliate Jobs:<em class=\"search-highlight\">Electrical</em> maintenance technician assistant <em class=\"search-highlight\">Electrical</em> maintenance technicianPurpose",
-                            "and scope of the job:Responsible for the implementation and follow-up of all construction and <em class=\"search-highlight\">electrical</em>",
-                            "construction and maintenance works.Responsible for carrying out all construction and daily <em class=\"search-highlight\">electrical</em>",
-                            "maintenance.Determining the needs of the necessary materials, equipment and spare parts for the <em class=\"search-highlight\">electrical</em>"
-                        ],
-                        "value": [
-                            "electrical",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Head of <em class=\"search-highlight\">Electrical</em> Maintenance Department"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "2a8be54c-3fea-4b16-81ef-23e7a817cf5e",
-            "links": {},
-            "meta": {
-                "score": 8.114534
+                "score": 7.4993553
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5772,7 +5772,7 @@
             "id": "91b922db-68a2-4c71-9f00-c514b8a74ec2",
             "links": {},
             "meta": {
-                "score": 8.113571
+                "score": 7.494351
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5837,7 +5837,7 @@
             "id": "9f748138-ca62-4c6d-95cf-981f4aa1281e",
             "links": {},
             "meta": {
-                "score": 8.110017
+                "score": 7.489934
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5866,8 +5866,8 @@
                             "<em class=\"search-highlight\">Electric</em>"
                         ],
                         "value": [
-                            "Electric",
-                            "Electrical"
+                            "Electrical",
+                            "Electric"
                         ]
                     },
                     {
@@ -5898,8 +5898,8 @@
                             "domestic purposesPlan and implement research methodology and procedures to apply principles of <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "electricity"
+                            "electricity",
+                            "electrical"
                         ]
                     },
                     {
@@ -5916,7 +5916,7 @@
             "id": "75949335-2163-421f-ab88-02fe35b65152",
             "links": {},
             "meta": {
-                "score": 8.100085
+                "score": 7.478849
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5976,8 +5976,8 @@
                             "and make sure it meets required standard and quality.Report daily and monthly <em class=\"search-highlight\">electrical</em> issues that"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -5994,7 +5994,7 @@
             "id": "90642252-972a-47dd-8a9b-2b95d2fb8ad2",
             "links": {},
             "meta": {
-                "score": 8.027295
+                "score": 7.3942943
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6033,8 +6033,8 @@
                             "within PLC code, Schematic wiring, Ladder and P&ID process diagrams.Possessing knowledge and apply safe <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -6073,7 +6073,7 @@
             "id": "34d9a5d5-a205-472a-874b-f69a0b22282a",
             "links": {},
             "meta": {
-                "score": 8.022844
+                "score": 7.3908124
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6146,7 +6146,7 @@
             "id": "ca7593b3-017f-4f8c-8293-1ffbecd7d59e",
             "links": {},
             "meta": {
-                "score": 7.9647884
+                "score": 7.3181095
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6184,8 +6184,8 @@
                             "Bachelor’s Degree in <em class=\"search-highlight\">Electrical</em> Engineering1 to 3 years of experience in <em class=\"search-highlight\">electrical</em> design , preferably"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -6223,7 +6223,7 @@
             "id": "413af890-4399-41fc-88ad-6b2a467ba060",
             "links": {},
             "meta": {
-                "score": 7.9605613
+                "score": 7.3161435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6278,7 +6278,7 @@
             "id": "8b1c38ed-2851-4b82-b987-6eff01c17019",
             "links": {},
             "meta": {
-                "score": 7.944138
+                "score": 7.302055
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6333,91 +6333,7 @@
             "id": "817f155a-7663-48f8-8e8f-17c2ddc89ffc",
             "links": {},
             "meta": {
-                "score": 7.9427433
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Argonaut for Mechanical and Electrical Works"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electric</em>",
-                            "<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electric",
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Minimum Bachelor Degree in <em class=\"search-highlight\">Electrical</em> Engineering.ABB & panel builder is must Good Engineering experience.Auto-CAD"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "Argonaut for Mechanical and <em class=\"search-highlight\">Electrical</em> Works"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> engineer for technical office ( Low & Medium &high Voltage Panel Builder) .Preparing proposals"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior Tendering Engineer (<em class=\"search-highlight\">Electrical</em> Panel)"
-                        ],
-                        "value": [
-                            "Electrical"
-                        ]
-                    }
-                ]
-            },
-            "id": "6761b517-870c-4c98-9af8-6815156402db",
-            "links": {},
-            "meta": {
-                "score": 7.915631
+                "score": 7.301052
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6494,7 +6410,7 @@
             "id": "35291eb7-e07b-4778-a332-c18e0f412093",
             "links": {},
             "meta": {
-                "score": 7.9132295
+                "score": 7.253692
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6520,7 +6436,18 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Electrical</em> Engineering",
-                            "<em class=\"search-highlight\">Electrical</em> Panel"
+                            "<em class=\"search-highlight\">Electric</em>",
+                            "<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical",
+                            "Electric"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Minimum Bachelor Degree in <em class=\"search-highlight\">Electrical</em> Engineering.ABB & panel builder is must Good Engineering experience.Auto-CAD"
                         ],
                         "value": [
                             "Electrical"
@@ -6545,9 +6472,18 @@
                         ]
                     },
                     {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> engineer for technical office ( Low & Medium &high Voltage Panel Builder) .Preparing proposals"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Electrical</em> Production Manager (<em class=\"search-highlight\">Electrical</em> Panel Factory)"
+                            "Senior Tendering Engineer (<em class=\"search-highlight\">Electrical</em> Panel)"
                         ],
                         "value": [
                             "Electrical"
@@ -6555,10 +6491,10 @@
                     }
                 ]
             },
-            "id": "035e434a-41d6-4732-a542-ac55862882be",
+            "id": "6761b517-870c-4c98-9af8-6815156402db",
             "links": {},
             "meta": {
-                "score": 7.8887467
+                "score": 7.23142
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6623,7 +6559,7 @@
             "id": "fc7e1a84-13f4-4f28-9ddf-3ce0920504b5",
             "links": {},
             "meta": {
-                "score": 7.88848
+                "score": 7.228517
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6687,7 +6623,71 @@
             "id": "21721a75-65eb-4432-81f9-578f524c49b6",
             "links": {},
             "meta": {
-                "score": 7.8833957
+                "score": 7.227174
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Argonaut for Mechanical and Electrical Works"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Engineering",
+                            "<em class=\"search-highlight\">Electrical</em> Panel"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - Mechanical/<em class=\"search-highlight\">Electrical</em>"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "Argonaut for Mechanical and <em class=\"search-highlight\">Electrical</em> Works"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Electrical</em> Production Manager (<em class=\"search-highlight\">Electrical</em> Panel Factory)"
+                        ],
+                        "value": [
+                            "Electrical"
+                        ]
+                    }
+                ]
+            },
+            "id": "035e434a-41d6-4732-a542-ac55862882be",
+            "links": {},
+            "meta": {
+                "score": 7.2070613
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6767,7 +6767,7 @@
             "id": "8626d2af-8883-4591-a17f-0561283e032b",
             "links": {},
             "meta": {
-                "score": 7.7842903
+                "score": 7.112178
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6805,8 +6805,8 @@
                             "systemElectrical wiring diagram reading, understanding and analysisVery good knowledge in preventive maintenance , <em class=\"search-highlight\">electrical</em>"
                         ],
                         "value": [
-                            "electrical",
-                            "Electrical"
+                            "Electrical",
+                            "electrical"
                         ]
                     },
                     {
@@ -6841,7 +6841,7 @@
             "id": "4c64458a-d7a8-4207-b792-147331f90b56",
             "links": {},
             "meta": {
-                "score": 7.778972
+                "score": 7.1070766
             },
             "relationships": {},
             "type": "talentSearch"

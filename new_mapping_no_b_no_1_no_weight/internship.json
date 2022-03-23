@@ -1,0 +1,4363 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Air Arabia"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "HR <em class=\"search-highlight\">Internship</em> GOCOZMO"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "73e7c582-a6f5-4ff6-a8f3-6f4d9609853a",
+            "links": {},
+            "meta": {
+                "score": 13.219961
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Webhelp"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "with modern sales techniques and tools is a bonus, including experience from retail sales, corporate <em class=\"search-highlight\">internships</em>"
+                        ],
+                        "value": [
+                            "internships"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Data Profiler - 1 Month <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "92cdc64a-0cfb-4959-87eb-0062f75ed969",
+            "links": {},
+            "meta": {
+                "score": 13.219312
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Cyber Force"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "other projects that will challenge them and help them grow rapidly.Application Deadline: 30th March 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "SOC Tier 1 - Paid <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "b78b7dc2-d5ea-4c85-9e77-59adc8798d38",
+            "links": {},
+            "meta": {
+                "score": 13.137036
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Booktips"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Fluent command of English, both written and verbal.Can manage a virtual <em class=\"search-highlight\">internship</em> with flexible working"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "The first three months of the <em class=\"search-highlight\">internship</em> will be unpaid with 140 hours of remote training.The salary"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Digital Marketing & Sales Specialist - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "7f26f981-b18a-49bf-b5cc-391f5b6034af",
+            "links": {},
+            "meta": {
+                "score": 13.093781
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Quality <em class=\"search-highlight\">Internship</em> - Alexandria"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "2c248eab-acb7-4c4d-a694-90f3b7261e82",
+            "links": {},
+            "meta": {
+                "score": 13.051922
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Azza Fahmy Jewellery"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Data Entry <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d5d7c53c-f2ac-4228-87a4-2731fb67a2d2",
+            "links": {},
+            "meta": {
+                "score": 13.039026
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nahdet Misr Publishing Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Nahdet Misr Publishing Group is hiring Business Process & Quality Assurance - <em class=\"search-highlight\">Internship</em> for 6 monthAbout",
+                            "the <em class=\"search-highlight\">Internship</em>:PaidMohandesen- Ahmed OrabyFresh Grads Can ApplyDuties / Learning objectives : Assist"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Quality Assurance <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "e7447e08-aa84-4032-90ae-a26d4ed1bebe",
+            "links": {},
+            "meta": {
+                "score": 12.99619
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Booktips"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "The first three months of the <em class=\"search-highlight\">internship</em> will be unpaid with 140 hours of remote training.The salary"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Digital Community Facilitator - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d6d7d555-58e2-4ea8-8cc1-6f3d005790a8",
+            "links": {},
+            "meta": {
+                "score": 12.910278
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RE/MAX Avalon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "..)The intern will learn:The intern will be involved in real teamwork.Application Deadline: 3-3-2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "HR Generalist - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "b455303b-6c22-4db6-96bb-8c8ff2e509ac",
+            "links": {},
+            "meta": {
+                "score": 11.9785595
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RAYA Auto"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "resources policies and proceduresHands on experience on HR Practices Application Deadline: 30 Feb 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "HR Aministrator - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "5e82350b-3d0b-4d67-9e5f-bbdeaf6d8550",
+            "links": {},
+            "meta": {
+                "score": 11.67996
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tradeline Stores"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em> not paid.Working Hours : 10:00 AM till 5:30 PM.Working Days from Sunday till Thursday ( 2",
+                            "days off ).Certificate with <em class=\"search-highlight\">internship</em> period will be provided.Duration : 2-3 months"
+                        ],
+                        "value": [
+                            "internship",
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Marketing <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "957f5f8d-ab1d-4554-b7bd-4886c2bcc1b3",
+            "links": {},
+            "meta": {
+                "score": 11.675798
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Upper Medic"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven SEO experience.Full time <em class=\"search-highlight\">internship</em>.Location: Mohandisen, Giza."
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "marketing teams to drive SEO in content creation and content programmingApplication Deadline: 10/3/2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Search Engine Optimization Specialist - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "df406ab9-cb11-46ff-b3f6-52b388b055d6",
+            "links": {},
+            "meta": {
+                "score": 11.645876
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Seuqel Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "UI UX Designer - Web & Mobile (<em class=\"search-highlight\">Internship</em>)"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c641268c-e818-4b66-9c97-75e4d2f0d5d9",
+            "links": {},
+            "meta": {
+                "score": 11.571568
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Fund Ourselves Ltd"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "HR Recruitment - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "e6c2240a-5969-43e8-8465-16da99707a99",
+            "links": {},
+            "meta": {
+                "score": 11.56559
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sectors Construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "store keepingThe intern will learn: Store Keeper Tasks , Site Admin TasksApplication Deadline: 1-3-2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin & Store Keeper - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d36bf360-05a5-418c-a2a1-b1854c17cef6",
+            "links": {},
+            "meta": {
+                "score": 11.555634
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sectors Construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "follow-up.Arch Finishing projects.MEP Works projects.Elec Works Projects.Application Deadline: 01-03-2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Site Engineer - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "bbc71ea6-ecca-44d2-b02f-212514be72d6",
+            "links": {},
+            "meta": {
+                "score": 11.21845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "vivo"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "MTO (<em class=\"search-highlight\">Internship</em> Management)"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "b14b65ee-2d16-498b-abb2-944a3a833bb2",
+            "links": {},
+            "meta": {
+                "score": 10.484117
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Soleek"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Real-Life Experience,Talent will gain a better understanding of different activities and the ‘big picture.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Graphic Designer - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "fcf77327-7776-42b4-b244-e0f6f55700c5",
+            "links": {},
+            "meta": {
+                "score": 9.974281
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Prifix"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "logs.Oversee equipment stock and place orders for new supplies when necessary.Application Deadline: 30/2/2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Maintenance Engineer (<em class=\"search-highlight\">Internship</em>)"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "36749a11-6fc4-4168-9d23-66adaf9fc413",
+            "links": {},
+            "meta": {
+                "score": 9.811999
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Prifix"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "equipments and perform root cause analysis for all injection molding.Application Deadline:  30/2/2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Injection Plastic Engineering (<em class=\"search-highlight\">Internship</em>)"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "b63fcaf3-7889-4a65-b0b4-7e7aaecd2148",
+            "links": {},
+            "meta": {
+                "score": 9.79214
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Soleek"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Entrepreneur”Talent will gain a better understanding of the marketing activities and the ‘big picture.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Software Telesales Specialist - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "5efdb00a-df69-499e-90d0-ee6b25171d5a",
+            "links": {},
+            "meta": {
+                "score": 9.787651
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "NEXtCARE"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "closely with all MEA Region on Portal Rollout and Go Live.Application Deadline:  10th of February 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "HR <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "212ec657-9e55-4aad-a767-7402ec4deed6",
+            "links": {},
+            "meta": {
+                "score": 8.976846
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RE/MAX Avalon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job Description:Gather market and customer information and provide feedback on each customer.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Customer Service <em class=\"search-highlight\">Internship</em> - Events"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "2c4ffdcf-6383-44e5-8367-69390e970326",
+            "links": {},
+            "meta": {
+                "score": 8.825443
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RE/MAX Avalon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            " business opportunitiesGather market and customer information and provide feedback on each customer.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Sales <em class=\"search-highlight\">Internship</em> - Events"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "3d5d089f-8158-4088-aed7-7c2e87f21443",
+            "links": {},
+            "meta": {
+                "score": 8.825356
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Yodo1 Games"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "RussianHow it worksEnroll in and complete the MAS BD Certification CourseInterview with our teamBegin your <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "This is a commission-based paid <em class=\"search-highlight\">internship</em> opportunity."
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Games Growth Specialist - Paid <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "5afa29b7-f6de-457c-ba9c-be3886c753df",
+            "links": {},
+            "meta": {
+                "score": 8.744591
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "J&T Express Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "J&T Express Egypt is dedicated to developing successful leaders, and we strive to make this <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Assistant - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "70a92a2d-33d4-4f45-b167-47149e161d5c",
+            "links": {},
+            "meta": {
+                "score": 8.652377
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sectors Construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "maintenance of machines.Follow up on the receipt and delivery of products.Application Deadline:  07-02-2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Production Engineer - Furniture - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "f2857cf5-6508-4ed5-9a77-7d0d392703ef",
+            "links": {},
+            "meta": {
+                "score": 8.640397
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "STEP"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em> RequirementsPortfolio of published articlesExcellent writing and research skillsExperience"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Application Deadline: 15/02/2022<em class=\"search-highlight\">Internship</em> Start date: 20/02/2022Duration: 3 months"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Content Writer - Search Engine Optimization (SEO) <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "e3b61efe-5d05-4fa7-8c1e-74a4d6aa7ea0",
+            "links": {},
+            "meta": {
+                "score": 8.474572
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Actrans Lab-Legal"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "This is paid <em class=\"search-highlight\">internship</em> and you will be expected to spend around 4 hours a day (5 days a week)Application",
+                            "Deadline: December 31, 2020.<em class=\"search-highlight\">Internship</em> Start date: January 15, 2020.Duration: 2 months"
+                        ],
+                        "value": [
+                            "internship",
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Legal <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "a7ef1268-5e9e-4bf0-9683-c9c0f851b55d",
+            "links": {},
+            "meta": {
+                "score": 7.963012
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Soleek"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Entrepreneur”Talent will gain a better understanding of the business activities and the big picture.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Administrative Assistant - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c6d9614e-6642-4539-932b-49ebe4b19ea9",
+            "links": {},
+            "meta": {
+                "score": 7.913508
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Andalusia Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Mechanical/Communication Engineering Fresh gradMale & female Years of experience: 6 months experience / <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Project <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c61536ec-375c-4867-a681-c29bbc94c5ca",
+            "links": {},
+            "meta": {
+                "score": 7.7924647
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Weelo"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "milestones.Providing cost and time estimates to clients who require additional customizations to be done.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Software Implementation Specialist (Onboarding) - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d1df583f-bef9-4b41-81a6-584ac8db56a4",
+            "links": {},
+            "meta": {
+                "score": 7.490989
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sutherland"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em> RequirementsFresh Graduate.Excellent communication skills in English.Excellent interpersonal"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "6139733d-c624-4ee0-b01e-1b35fb91a4e3",
+            "links": {},
+            "meta": {
+                "score": 7.4027205
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Injaz Digital "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Digital Marketing <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "7353fda1-0a02-4d24-a1b5-9ded6cbad6b4",
+            "links": {},
+            "meta": {
+                "score": 7.333788
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Soleek"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Entrepreneur”Talent will gain a better understanding of the marketing activities and the ‘big picture’.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Marketing Executive - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "b9381ded-e079-4313-b648-030fa7226a3f",
+            "links": {},
+            "meta": {
+                "score": 7.3297696
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Soleek"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "intern will learn:How to conduct interviews and hire the right talent.Application Deadline:  28-Jan-2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Talent Acquisition Specialist - <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "307bdf53-69b4-4830-a81e-7b587eb29c41",
+            "links": {},
+            "meta": {
+                "score": 7.328643
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tekvya"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "fda0b9be-eceb-4e7c-af6d-4b072ad39846",
+            "links": {},
+            "meta": {
+                "score": 5.796876
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GoalsEgypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em> is for 3rd & 4th year undergraduate students, 1-2 years experienceLearn how to present and"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "If you passed the <em class=\"search-highlight\">internship</em>, you will have the opportunity to be hired, and Salary will be from 4,000",
+                            "to 5,000 EGP <em class=\"search-highlight\">Internship</em> Start date: 10 Feb.2022Duration: 6 months  6 Months <em class=\"search-highlight\">Internship</em> - [We cover transportation"
+                        ],
+                        "value": [
+                            "internship",
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "2737ea9e-ff45-4755-8369-00f562d7a15b",
+            "links": {},
+            "meta": {
+                "score": 5.3612266
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tradeline Stores"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "playerWorking Hours : 9:30 AM till 5:30 PMWorking Days from Sunday till Thursday ( 2 days off )Certificate with <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "10cbefda-cd9f-4178-964f-660ac750c162",
+            "links": {},
+            "meta": {
+                "score": 3.9169807
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Talents Arena"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in Computer Science or related technical field involving coding with research and/or <em class=\"search-highlight\">internship</em>",
+                            "welcomed to apply.Experience writing or shipping ML software as part of coursework, personal projects, <em class=\"search-highlight\">internships</em>"
+                        ],
+                        "value": [
+                            "internships",
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "18b9067b-0307-46d4-80a8-244afbab7e3a",
+            "links": {},
+            "meta": {
+                "score": 3.8732765
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "English Capsules"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Eligibility :(Required criteria for the interns)Students and graduates are both applicable to join the <em class=\"search-highlight\">internship</em>.The"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "build the biggest & most professional English community in Egypt, English capsules are offering an <em class=\"search-highlight\">Internship</em>",
+                            "Community & Earn the Experience needed in the Training & Teaching Field.Benefits :By the end of the <em class=\"search-highlight\">Internship</em>",
+                            "Interns who wish to apply for a scholarship will be provided with a Recommendation letter.During the <em class=\"search-highlight\">internship</em>",
+                            "Application Deadline: 20th marchInternship Start date: 26th MarchDuration: - The duration of the <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship",
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "57462764-64cf-4300-9cd1-843a6bfc80f3",
+            "links": {},
+            "meta": {
+                "score": 3.8617833
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sutherland"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em> RequirementsUniversity Graduate.Fluent English Speaker in a MUST.Great Research Skills.Able"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    },
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Internship</em> DescriptionJob Description:Sutherland is seeking a dynamic and intuitive person to join us",
+                            "The intern will learn:Sutherland Company is inviting calibers for 3 months (renewable) paid <em class=\"search-highlight\">internship</em>",
+                            "from 9 am till 6 pm, two days off per week.Only those who pass the 1st screening shall be contacted.<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "internship",
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "463d994a-9b08-4a41-814f-4ec7d1ee5f1b",
+            "links": {},
+            "meta": {
+                "score": 3.8161085
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AL-SHABLAN MEDICAL"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "A medical degree in ophthalmology.Successful completion of an <em class=\"search-highlight\">internship</em> and residency in ophthalmology.A"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "f107f6d5-58ae-4750-8f87-4dfbf7fe69cb",
+            "links": {},
+            "meta": {
+                "score": 3.7521338
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Amideast"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "years of work experienceKnowledge of or experience in development programsPrior work experience or <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "ef11d5cb-0e7a-49f0-a079-5d80d639fc2c",
+            "links": {},
+            "meta": {
+                "score": 3.601879
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ZORD"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "(architecture, design patterns, reliability and scaling) of new and current systems.5+ years of non-<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "821a6b45-0dac-4dbc-a7a7-f03ddd3932ca",
+            "links": {},
+            "meta": {
+                "score": 3.417083
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Qardy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "who know the value of building lasting, professional relationships with clients.The duration of the <em class=\"search-highlight\">internship</em>",
+                            "It is an evaluative paid <em class=\"search-highlight\">internship</em> with the possibility of return offers, depending on the company's"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "44850981-2df8-45e9-8d71-ad98f438faaf",
+            "links": {},
+            "meta": {
+                "score": 3.3603237
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Beyond Apps Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "0d2604dd-da3e-4098-bfe3-82da934f5bc3",
+            "links": {},
+            "meta": {
+                "score": 3.3603048
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Groupe Oasis Scolaire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Post <em class=\"search-highlight\">internship</em> and job advertisements on multiple sites and ensure that they are renewed and updated"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "7e1b1379-da71-43f2-a23e-291a392213d1",
+            "links": {},
+            "meta": {
+                "score": 3.3603005
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Founders21"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "analyze data, track information, and support the company or clients.Application Deadline: March 28, 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d86edd1c-14d3-4c7d-b536-44c8e6c57b15",
+            "links": {},
+            "meta": {
+                "score": 3.3596916
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "IFI"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "1ab9ad15-32f1-4f74-8eab-d26fb3d409bf",
+            "links": {},
+            "meta": {
+                "score": 3.3596272
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EgyGamer"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "inventory levels, track operational performance The intern will learn: Marketplace account manager <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "aa8ed0b1-eab8-4bea-8a3c-e64335b06f3c",
+            "links": {},
+            "meta": {
+                "score": 3.3588758
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Block Gemini"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "problemsUnderstanding of the business activities and the big picture.Application Deadline: 20th of April, 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "64f366f6-a8a4-49a3-a5ad-08fb49fba6a6",
+            "links": {},
+            "meta": {
+                "score": 3.358105
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Prometeon Tyres Group – Egypt  (Ex-Pirelli Tyres Egypt)"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "e8e755cd-faf0-4f52-b138-c774982b2c17",
+            "links": {},
+            "meta": {
+                "score": 3.357742
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Grouhy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "a13ca341-6731-4803-a876-89eed9c590a8",
+            "links": {},
+            "meta": {
+                "score": 3.355174
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HITS Technologies "
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "68a93fe5-2c5e-477e-aba1-94268c26fea1",
+            "links": {},
+            "meta": {
+                "score": 3.3453734
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Future Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "businesses.communicate their plan and findings with the team and with their stakeholdersApplication Deadline: <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "ceaba8d4-46c8-4103-94ef-c27a0a0eeffa",
+            "links": {},
+            "meta": {
+                "score": 3.3405309
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Transmar International "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "423a457c-403b-4916-ae56-bb15d9aac430",
+            "links": {},
+            "meta": {
+                "score": 3.3401814
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Advansys ESC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "f5cb2055-4af5-4ad8-8893-c80eb75473c5",
+            "links": {},
+            "meta": {
+                "score": 3.3394883
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Microtech"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "969e8af2-ef15-4f9b-8e31-c03d07f87344",
+            "links": {},
+            "meta": {
+                "score": 3.3390965
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EFS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "to different HR Sections including Recruitment, Personnel and Payroll.Application Deadline: 24-3-2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d72af385-3d06-4706-aa6e-e97a41d63550",
+            "links": {},
+            "meta": {
+                "score": 3.3385766
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DYNINNO Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "request of operations managerFulfilling any requirements and meeting goals set out at the start of the <em class=\"search-highlight\">Internship</em>.Preparing"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "4ea96e7d-21b2-4b8d-8c8d-550f0997223e",
+            "links": {},
+            "meta": {
+                "score": 3.3329377
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Corporatica"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "4bc2ddc1-7b3c-4daa-b273-833f7b7b079d",
+            "links": {},
+            "meta": {
+                "score": 3.3322654
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Corporatica"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "da69edab-fefd-4df5-850d-3078f2bf4226",
+            "links": {},
+            "meta": {
+                "score": 3.3320608
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "scitra"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "e13d326d-2064-4a5e-8418-a63ed35e4634",
+            "links": {},
+            "meta": {
+                "score": 3.3314102
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Cairo Control"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "turbines work theoryReporting and documentationBusiness modeling basicsApplication Deadline:  28 / 3 / 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "f5e4d0ab-4b30-4a4f-89f4-d1274263abcc",
+            "links": {},
+            "meta": {
+                "score": 3.3217893
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Your Wedding Guide"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c86eef73-7a37-4d81-b961-76329ba9ec35",
+            "links": {},
+            "meta": {
+                "score": 3.3169904
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sceel.io"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "473e2f59-b98a-4d3e-902c-8dee185a89bc",
+            "links": {},
+            "meta": {
+                "score": 3.3157349
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "08655a82-7068-4d7c-bc65-db41812c97ec",
+            "links": {},
+            "meta": {
+                "score": 3.3154829
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "aligntech-solutions "
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "46e7782e-21cf-4494-89d0-2b5595b33875",
+            "links": {},
+            "meta": {
+                "score": 3.313338
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Concrete For Real Estate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "The intern will learn:HOW TO BECOME AN EXPERT REALESTATE SALES AGENT Application Deadline: 28/3/2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "97f0e5aa-6a5e-48ed-892d-9e43cc370be4",
+            "links": {},
+            "meta": {
+                "score": 3.3081079
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Easy System"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c120a495-dcb5-4d2c-9e69-ab964b688ec6",
+            "links": {},
+            "meta": {
+                "score": 3.3056324
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Easy System"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "d3c8c974-2ce9-45cb-a3dd-ea9b72447a63",
+            "links": {},
+            "meta": {
+                "score": 3.305586
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Med Right for medical services"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "d76880a6-e7b1-4112-85f9-38b217620c64",
+            "links": {},
+            "meta": {
+                "score": 3.3047454
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Abt Associates"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "format.In coordination with Field Training Supervisors, facilitate logistics for training events.Prepare <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "6f0268d1-fdaa-4616-9cb8-4c9682a15d8a",
+            "links": {},
+            "meta": {
+                "score": 3.301664
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Concrete For Real Estate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "markets , as well as sharpen your office management and office administration skillsApplication Deadline: <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "cfc3c432-4d80-4622-b036-86ce84657525",
+            "links": {},
+            "meta": {
+                "score": 3.2910419
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DYNINNO Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "request of operations managerFulfilling any requirements and meeting goals set out at the start of the <em class=\"search-highlight\">Internship</em>.Preparing"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "541bd52d-3d21-4be2-823b-31b47fa31e09",
+            "links": {},
+            "meta": {
+                "score": 3.2671387
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RAM FOR INTERNATIONAL TRADING"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "6e8faea2-d2d8-4f1a-b9ff-9ade07f7e3a2",
+            "links": {},
+            "meta": {
+                "score": 3.2661936
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGICAT"
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "a4e610d7-1f1a-4c9f-b6a0-438630088533",
+            "links": {},
+            "meta": {
+                "score": 3.266164
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AFKAR Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "32aa591e-c653-42ba-8280-f68af3e4d222",
+            "links": {},
+            "meta": {
+                "score": 3.2660182
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raafat Miller Consulting"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "8e838ffc-b829-48aa-9781-8c781b52e8db",
+            "links": {},
+            "meta": {
+                "score": 3.264606
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Azadea Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "BasicsPresentations SkillsNetworking SkillsShadow Interviews & AssessmentsApplication Deadline: March15 2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "a0982937-cc85-4b85-aa0b-d22f30111b44",
+            "links": {},
+            "meta": {
+                "score": 3.2643058
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LEONI Wiring System Egypt S.A.E"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "a62c6ebc-91ef-4d9a-b530-1440f8a228d4",
+            "links": {},
+            "meta": {
+                "score": 3.2621572
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mediterraneo Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "f9c4af15-b41a-4af0-b819-9a41851ed297",
+            "links": {},
+            "meta": {
+                "score": 3.2431033
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Jamjoom Pharma"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "update the HC report & manpower planArrange & participate in different employment fairs that support our <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "115a6e02-d0c7-44f2-98e6-06c3ddbc511a",
+            "links": {},
+            "meta": {
+                "score": 3.237035
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGIC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Fulfill the manpower plan/needs through approving and implementing <em class=\"search-highlight\">internships</em>, hiring 100% of Manpower"
+                        ],
+                        "value": [
+                            "internships"
+                        ]
+                    }
+                ]
+            },
+            "id": "db26fef6-5697-46e2-9f76-f6952ba458a3",
+            "links": {},
+            "meta": {
+                "score": 3.23434
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": []
+            },
+            "id": "7151c938-028f-467b-b8b2-18119751fea3",
+            "links": {},
+            "meta": {
+                "score": 3.2329087
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Future Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "e2e6b449-4ca0-4621-bac5-124dbde979f3",
+            "links": {},
+            "meta": {
+                "score": 3.2170453
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "bcaf55fb-7fa9-4c5a-ad8e-542f5d9d6579",
+            "links": {},
+            "meta": {
+                "score": 3.2074668
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Atomica"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            ", Robotics, and 3D Printing.We are seeking C++ instructors to prepare and lead Atomica training and <em class=\"search-highlight\">internship</em>",
+                            "career with Atomica.Job Responsibilities:Work with internal stakeholders to define company training and <em class=\"search-highlight\">internship</em>",
+                            "program objectives and content.Interview and select promising candidates to join the company <em class=\"search-highlight\">internship</em>",
+                            "and training program.Lead engaging online training and <em class=\"search-highlight\">internship</em> program, meet with the trainees, assist"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "876de8b3-5781-421f-b8e1-626a1b2852fe",
+            "links": {},
+            "meta": {
+                "score": 3.2007873
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Beit Network For Real Estate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "eaee5c8f-9a36-47c9-9a47-10509b273457",
+            "links": {},
+            "meta": {
+                "score": 3.2004797
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Beit Network For Real Estate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "96b26343-9881-4de1-ba18-dd1a1a4c4e0b",
+            "links": {},
+            "meta": {
+                "score": 3.2004573
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nile University"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "relationships and regular communications with employers to ensure repeat recruiting visits designed to provide <em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "622d5c94-79fe-4a8b-ac73-504c55be7196",
+            "links": {},
+            "meta": {
+                "score": 3.1825166
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Future Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "employee communications notifying staff of policy and procedural changes.Application Deadline: 9/3/2022<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c103a2b0-a9ed-4696-ad6d-6f93a8c164c8",
+            "links": {},
+            "meta": {
+                "score": 3.1419501
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Group For Modern Coating "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "resources generally and recruitment specially.Duration: 3 months High Opportunity to be appointed after the <em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "71aa045d-4815-4f7b-9458-f50a15f74f7d",
+            "links": {},
+            "meta": {
+                "score": 3.1404116
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Seuqel Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "3dc46ecc-d1d2-4072-a1c8-68e647508a63",
+            "links": {},
+            "meta": {
+                "score": 3.1390307
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Atomica"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "c1cf0a9f-0044-4d5c-907f-030dfbcc5b50",
+            "links": {},
+            "meta": {
+                "score": 3.09922
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Johnson Controls"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "a9c8ee4f-9cbf-49d9-a243-4ae72caa81d4",
+            "links": {},
+            "meta": {
+                "score": 3.0984263
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "365 Ecology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "dd8c3c3a-1a99-4cbb-8dfd-e69fcda5ee4b",
+            "links": {},
+            "meta": {
+                "score": 3.0954025
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "VIVO Alexandria"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "186740c5-f7fd-4c21-84ee-777c0278c28e",
+            "links": {},
+            "meta": {
+                "score": 3.076954
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "London International Patient Services"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_types",
+                        "snippets": [
+                            "<em class=\"search-highlight\">internship</em>"
+                        ],
+                        "value": [
+                            "internship"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job Description: Support HRThe intern will learn: All HR Functions Application Deadline: 10-3-2021<em class=\"search-highlight\">Internship</em>"
+                        ],
+                        "value": [
+                            "Internship"
+                        ]
+                    }
+                ]
+            },
+            "id": "902359ab-3782-4f03-85ec-1256aa097cc5",
+            "links": {},
+            "meta": {
+                "score": 3.07693
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        }
+    ],
+    "meta": {
+        "totalResultsCount": 168
+    }
+}

@@ -12,6 +12,64 @@
                     {
                         "name": "company_name",
                         "value": [
+                            "Ayman Afandy LLC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Lead and provide <em class=\"search-highlight\">HSE</em> induction and sessions for Health and safety team and others .Ensures the implementation",
+                            "of the <em class=\"search-highlight\">HSE</em> precautions and the occupational <em class=\"search-highlight\">HSE</em> plan.Develops & implements the required policies and",
+                            "safety.Implements accreditation standards related to safety and security.Perform & follow-up sites ' <em class=\"search-highlight\">HSE</em>",
+                            "work.Responsible for compliance requirements affecting health, safety in all company's sites.Provide all necessary <em class=\"search-highlight\">HSE</em>",
+                            "monthly, quarterly and annual <em class=\"search-highlight\">HSE</em> data reports "
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em> Supervisor"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "9bc7b8ae-3a7d-441b-ab88-652c3e850f38",
+            "links": {},
+            "meta": {
+                "score": 15.557057
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
                             "Sukari Gold Mines"
                         ]
                     }
@@ -58,65 +116,7 @@
             "id": "ec00185d-f852-4289-ba20-a1dfcc362dbd",
             "links": {},
             "meta": {
-                "score": 15.81658
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Ayman Afandy LLC"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Lead and provide <em class=\"search-highlight\">HSE</em> induction and sessions for Health and safety team and others .Ensures the implementation",
-                            "of the <em class=\"search-highlight\">HSE</em> precautions and the occupational <em class=\"search-highlight\">HSE</em> plan.Develops & implements the required policies and",
-                            "safety.Implements accreditation standards related to safety and security.Perform & follow-up sites ' <em class=\"search-highlight\">HSE</em>",
-                            "work.Responsible for compliance requirements affecting health, safety in all company's sites.Provide all necessary <em class=\"search-highlight\">HSE</em>",
-                            "monthly, quarterly and annual <em class=\"search-highlight\">HSE</em> data reports "
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em> Supervisor"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "9bc7b8ae-3a7d-441b-ab88-652c3e850f38",
-            "links": {},
-            "meta": {
-                "score": 15.81426
+                "score": 15.468385
             },
             "relationships": {},
             "type": "talentSearch"
@@ -171,63 +171,7 @@
             "id": "f7901de2-48e5-4f14-a560-513511620a86",
             "links": {},
             "meta": {
-                "score": 15.723519
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Run new sites surveyDo the needed <em class=\"search-highlight\">HSE</em> daily checkTrain the company employees and the newcomers on the",
-                            "<em class=\"search-highlight\">HSE</em> proceduresParticipate in preparing and developing the <em class=\"search-highlight\">HSE</em> policies and proceduresSubmit the weekly",
-                            ", monthly <em class=\"search-highlight\">HSE</em> reports"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em> Section Head (Elevators - Construction)"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "15a160cd-5088-4d6f-9331-061ae9bc0689",
-            "links": {},
-            "meta": {
-                "score": 15.604677
+                "score": 15.308663
             },
             "relationships": {},
             "type": "talentSearch"
@@ -284,7 +228,99 @@
             "id": "fd8aa0d7-4a9d-44e7-b31e-a47800533cb5",
             "links": {},
             "meta": {
-                "score": 15.602198
+                "score": 15.07474
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Run new sites surveyDo the needed <em class=\"search-highlight\">HSE</em> daily checkTrain the company employees and the newcomers on the",
+                            "<em class=\"search-highlight\">HSE</em> proceduresParticipate in preparing and developing the <em class=\"search-highlight\">HSE</em> policies and proceduresSubmit the weekly",
+                            ", monthly <em class=\"search-highlight\">HSE</em> reports"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em> Section Head (Elevators - Construction)"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "15a160cd-5088-4d6f-9331-061ae9bc0689",
+            "links": {},
+            "meta": {
+                "score": 15.067722
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Food & Consumable Goods - Egypt S.A.E"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin & <em class=\"search-highlight\">HSE</em> Section Head"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "41dd1d41-a702-4e98-9770-5389a8d6d8fd",
+            "links": {},
+            "meta": {
+                "score": 14.908663
             },
             "relationships": {},
             "type": "talentSearch"
@@ -338,7 +374,7 @@
             "id": "232d6217-f8b3-4cd1-bfe1-33b12c7ef52a",
             "links": {},
             "meta": {
-                "score": 15.4584675
+                "score": 14.817936
             },
             "relationships": {},
             "type": "talentSearch"
@@ -383,7 +419,7 @@
             "id": "93d61a92-73df-46a9-ab49-34a98b20ced0",
             "links": {},
             "meta": {
-                "score": 15.4022045
+                "score": 14.756964
             },
             "relationships": {},
             "type": "talentSearch"
@@ -441,43 +477,7 @@
             "id": "0671f9c4-d008-4950-a9e9-c0e5c88d1eb7",
             "links": {},
             "meta": {
-                "score": 15.272132
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "International Food & Consumable Goods - Egypt S.A.E"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Admin & <em class=\"search-highlight\">HSE</em> Section Head"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "41dd1d41-a702-4e98-9770-5389a8d6d8fd",
-            "links": {},
-            "meta": {
-                "score": 15.271284
+                "score": 14.5531645
             },
             "relationships": {},
             "type": "talentSearch"
@@ -535,7 +535,7 @@
             "id": "4b7ef946-8d3a-462d-a849-c026543a5780",
             "links": {},
             "meta": {
-                "score": 15.21782
+                "score": 14.470783
             },
             "relationships": {},
             "type": "talentSearch"
@@ -600,7 +600,7 @@
             "id": "a27b64d5-a6cb-41b7-ac7b-d39fb6e7d972",
             "links": {},
             "meta": {
-                "score": 14.815484
+                "score": 13.911948
             },
             "relationships": {},
             "type": "talentSearch"
@@ -667,7 +667,7 @@
             "id": "5f134e47-8e37-4361-bb22-39d723a0e558",
             "links": {},
             "meta": {
-                "score": 14.703347
+                "score": 13.758587
             },
             "relationships": {},
             "type": "talentSearch"
@@ -722,7 +722,7 @@
             "id": "361af4c2-d700-4e94-8caf-c2bd0a563b29",
             "links": {},
             "meta": {
-                "score": 14.138552
+                "score": 13.063206
             },
             "relationships": {},
             "type": "talentSearch"
@@ -788,7 +788,7 @@
             "id": "f9c0a4d0-bc7a-4b10-a87a-f1d9f029dbae",
             "links": {},
             "meta": {
-                "score": 14.025102
+                "score": 12.924805
             },
             "relationships": {},
             "type": "talentSearch"
@@ -833,7 +833,7 @@
             "id": "611192cd-bff8-4e98-8a0f-b36107bdbffc",
             "links": {},
             "meta": {
-                "score": 13.954104
+                "score": 12.85875
             },
             "relationships": {},
             "type": "talentSearch"
@@ -887,7 +887,7 @@
             "id": "eb61b6d3-bb10-4b95-aedb-f766c6c27039",
             "links": {},
             "meta": {
-                "score": 13.844932
+                "score": 12.716202
             },
             "relationships": {},
             "type": "talentSearch"
@@ -945,7 +945,7 @@
             "id": "2eebe7a0-710e-422d-b223-ce25f72ad8a6",
             "links": {},
             "meta": {
-                "score": 13.701046
+                "score": 12.55797
             },
             "relationships": {},
             "type": "talentSearch"
@@ -999,7 +999,7 @@
             "id": "9fcba227-2b1a-4edc-8173-61f540bc4a6d",
             "links": {},
             "meta": {
-                "score": 13.463176
+                "score": 12.273234
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1053,7 +1053,7 @@
             "id": "1d5f4e13-0bb4-41cd-9ee9-5dcf72ba46f6",
             "links": {},
             "meta": {
-                "score": 13.345421
+                "score": 12.147493
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1109,7 +1109,7 @@
             "id": "2cdabb00-09e5-4b19-9108-94b5d3fa4183",
             "links": {},
             "meta": {
-                "score": 12.973026
+                "score": 11.731698
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1154,7 +1154,7 @@
             "id": "47319ae2-c54a-4003-b9d8-f876bb438fa2",
             "links": {},
             "meta": {
-                "score": 12.830936
+                "score": 11.57802
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1199,7 +1199,7 @@
             "id": "b89f67df-36fa-4b9c-8a9b-38a24298d279",
             "links": {},
             "meta": {
-                "score": 12.666702
+                "score": 11.397691
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1264,7 +1264,7 @@
             "id": "57f56cd0-74d7-41fb-b515-90e41b19592f",
             "links": {},
             "meta": {
-                "score": 12.090918
+                "score": 10.766931
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1318,7 +1318,7 @@
             "id": "8a9ee172-ee2a-4fe0-a5a6-d3511fb23529",
             "links": {},
             "meta": {
-                "score": 11.950007
+                "score": 10.615589
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1381,7 +1381,7 @@
             "id": "a0d0be11-8157-46b2-9a62-4ec0a4837f09",
             "links": {},
             "meta": {
-                "score": 11.791424
+                "score": 10.449215
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1438,7 +1438,43 @@
             "id": "0305d190-84fa-4966-8f3b-2305f04b4799",
             "links": {},
             "meta": {
-                "score": 11.536237
+                "score": 10.187824
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Akhnaton For construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "2deb6848-fbf3-4fc0-ac1f-03f89d53c0c1",
+            "links": {},
+            "meta": {
+                "score": 9.152783
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1483,7 +1519,124 @@
             "id": "0346c453-f87b-4d0e-b6f6-943d4b64f9bc",
             "links": {},
             "meta": {
-                "score": 10.491283
+                "score": 9.121248
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Target Recruitment  & HR Solutions "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "contract governance in line with company policies, procedures and according to the local and international <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "e12506d1-25b1-43d3-a081-0b0da0acd485",
+            "links": {},
+            "meta": {
+                "score": 9.118048
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mamiba "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "4a37e738-a538-414c-bf79-ad693fa74377",
+            "links": {},
+            "meta": {
+                "score": 9.071957
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Hayat Kimya"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "c180f563-c77a-4e56-beff-07431b2e533c",
+            "links": {},
+            "meta": {
+                "score": 8.950606
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1537,7 +1690,182 @@
             "id": "92c5a48c-c4a8-41b0-8545-8e4feda2801d",
             "links": {},
             "meta": {
-                "score": 10.311892
+                "score": 8.939437
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Safwa Urban Development "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "qualification BSc, or equivalent in Occupational Safety or related field in order to be Familiar with <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Senior Health and Safety Engineer:   (Job Reference ( HRR 13024 ))Job Description:provide <em class=\"search-highlight\">HSE</em> support"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "43a46c26-56f8-48c6-b436-e8bdc78b1def",
+            "links": {},
+            "meta": {
+                "score": 8.920549
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "1a49db60-381d-4109-b19e-7fb1f38f35fd",
+            "links": {},
+            "meta": {
+                "score": 8.908513
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EVA Cosmetics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "of an enabling safe environment for the manufacture of the highest quality products and convey that <em class=\"search-highlight\">HSE</em>",
+                            "structures, individuals, work, and prevent and reduce work-related accidents.Responsible for delivering the <em class=\"search-highlight\">HSE</em>",
+                            "environment on a regular basis and ensure their validity at all times.Responsible for implementing <em class=\"search-highlight\">HSE</em>",
+                            "these committees and the consequent civil liabilities and legal.Studying the complaints referred to <em class=\"search-highlight\">HSE</em>",
+                            "management and occupational health scale.Responsible for the design and implementation of the annual <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "babc270b-ba17-43b8-b2c9-d54941740e3e",
+            "links": {},
+            "meta": {
+                "score": 8.817087
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Lewaa El Hamd Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "dfc7edf5-29e9-4fef-ba8d-05bb213ee41b",
+            "links": {},
+            "meta": {
+                "score": 8.809951
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1583,7 +1911,218 @@
             "id": "f494b81e-40df-4c0b-82d4-cc4c404bb0ee",
             "links": {},
             "meta": {
-                "score": 10.144259
+                "score": 8.7736435
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Neisco for Modern Water Systems Production"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Provides <em class=\"search-highlight\">HSE</em> induction and sessions for Health And safety team and  others .Ensures the implementation",
+                            "of the <em class=\"search-highlight\">HSE</em> precautions and the occupational <em class=\"search-highlight\">HSE</em> plan.Develops & implements the required policies and",
+                            "safety.Implements accreditation standards related to safety and security.Perform & follow-up sites ' <em class=\"search-highlight\">HSE</em>",
+                            "work.Responsible for legal requirements affecting health, safety in all company's sites.Provide all necessary <em class=\"search-highlight\">HSE</em>",
+                            "monthly, quarterly and annual  <em class=\"search-highlight\">HSE</em> data reports"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "c31ab28d-5449-4cf7-a1f1-468d371ec268",
+            "links": {},
+            "meta": {
+                "score": 8.660577
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Certification / Membership: NEBOSH / OSHABachelor degree in Science ,<em class=\"search-highlight\">HSE</em> awarenessVery good English languageManagement"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "a3e7dd66-366f-44e7-bef6-4baa5a12bd5d",
+            "links": {},
+            "meta": {
+                "score": 8.590142
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Wadi Degla Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Commitment, preciseness, and attention to detail\nThe organization, planning and follow up\nKnowledge of <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "4f0d624b-c1c0-4e44-8701-fd18615e11db",
+            "links": {},
+            "meta": {
+                "score": 8.361515
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Alfa Laboratories"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "9fdca9d3-4658-4272-88ab-f06ee967c157",
+            "links": {},
+            "meta": {
+                "score": 8.320462
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "National Paints"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "97c699fb-8d93-4a5e-aad0-301fd2f18495",
+            "links": {},
+            "meta": {
+                "score": 8.270966
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1628,7 +2167,110 @@
             "id": "2397ba4d-e8a0-434b-ad9c-1aa89222f420",
             "links": {},
             "meta": {
-                "score": 9.614063
+                "score": 8.249385
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sukari Gold Mines"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "NEBOSH Diploma.From 7 to 10 years of professional experience.Excellent working knowledge of Egyptian <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Observations.Identify and communicate national laws and company requirements that are applicable to the <em class=\"search-highlight\">HSE</em>",
+                            "Position Descriptions and have a clear understanding of all Policies and procedures as outlined in the <em class=\"search-highlight\">HSE</em>",
+                            "implementation of applicable training courses.Responsible for preparing written weekly and monthly <em class=\"search-highlight\">HSE</em>",
+                            "reports, statistics and presentations related to <em class=\"search-highlight\">HSE</em> performanceEnsure that records related to <em class=\"search-highlight\">HSE</em> management",
+                            "are controlled within the <em class=\"search-highlight\">HSE</em> Management System and stored and maintained to be readily identified and"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "28d1d930-1ae3-4c9f-a776-83ced3343256",
+            "links": {},
+            "meta": {
+                "score": 8.208471
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Wadi Degla Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "timeCommitment, preciseness, and attention to detailThe organization, planning and follow upKnowledge of <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "08b71591-80c7-4760-937c-03ddcbdb9631",
+            "links": {},
+            "meta": {
+                "score": 8.1543665
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1692,694 +2334,7 @@
             "id": "4bc2276a-a1bb-46c2-a5a2-2cc379a58ee4",
             "links": {},
             "meta": {
-                "score": 9.304854
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Target Recruitment  & HR Solutions "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "contract governance in line with company policies, procedures and according to the local and international <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "e12506d1-25b1-43d3-a081-0b0da0acd485",
-            "links": {},
-            "meta": {
-                "score": 9.268322
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Akhnaton For construction"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "2deb6848-fbf3-4fc0-ac1f-03f89d53c0c1",
-            "links": {},
-            "meta": {
-                "score": 9.252486
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Mamiba "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "4a37e738-a538-414c-bf79-ad693fa74377",
-            "links": {},
-            "meta": {
-                "score": 9.23842
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Safwa Urban Development "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "qualification BSc, or equivalent in Occupational Safety or related field in order to be Familiar with <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Senior Health and Safety Engineer:   (Job Reference ( HRR 13024 ))Job Description:provide <em class=\"search-highlight\">HSE</em> support"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "43a46c26-56f8-48c6-b436-e8bdc78b1def",
-            "links": {},
-            "meta": {
-                "score": 9.20811
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Hayat Kimya"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "c180f563-c77a-4e56-beff-07431b2e533c",
-            "links": {},
-            "meta": {
-                "score": 9.192262
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "1a49db60-381d-4109-b19e-7fb1f38f35fd",
-            "links": {},
-            "meta": {
-                "score": 9.172248
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EVA Cosmetics "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "of an enabling safe environment for the manufacture of the highest quality products and convey that <em class=\"search-highlight\">HSE</em>",
-                            "structures, individuals, work, and prevent and reduce work-related accidents.Responsible for delivering the <em class=\"search-highlight\">HSE</em>",
-                            "environment on a regular basis and ensure their validity at all times.Responsible for implementing <em class=\"search-highlight\">HSE</em>",
-                            "these committees and the consequent civil liabilities and legal.Studying the complaints referred to <em class=\"search-highlight\">HSE</em>",
-                            "management and occupational health scale.Responsible for the design and implementation of the annual <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "babc270b-ba17-43b8-b2c9-d54941740e3e",
-            "links": {},
-            "meta": {
-                "score": 9.129535
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Lewaa El Hamd Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "dfc7edf5-29e9-4fef-ba8d-05bb213ee41b",
-            "links": {},
-            "meta": {
-                "score": 9.120038
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em> Deputy Manager"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "b1a5b021-df69-4f63-9d0b-0d1328e04d1f",
-            "links": {},
-            "meta": {
-                "score": 9.10812
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Neisco for Modern Water Systems Production"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Provides <em class=\"search-highlight\">HSE</em> induction and sessions for Health And safety team and  others .Ensures the implementation",
-                            "of the <em class=\"search-highlight\">HSE</em> precautions and the occupational <em class=\"search-highlight\">HSE</em> plan.Develops & implements the required policies and",
-                            "safety.Implements accreditation standards related to safety and security.Perform & follow-up sites ' <em class=\"search-highlight\">HSE</em>",
-                            "work.Responsible for legal requirements affecting health, safety in all company's sites.Provide all necessary <em class=\"search-highlight\">HSE</em>",
-                            "monthly, quarterly and annual  <em class=\"search-highlight\">HSE</em> data reports"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "c31ab28d-5449-4cf7-a1f1-468d371ec268",
-            "links": {},
-            "meta": {
-                "score": 9.039726
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Certification / Membership: NEBOSH / OSHABachelor degree in Science ,<em class=\"search-highlight\">HSE</em> awarenessVery good English languageManagement"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "a3e7dd66-366f-44e7-bef6-4baa5a12bd5d",
-            "links": {},
-            "meta": {
-                "score": 9.009282
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Wadi Degla Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Commitment, preciseness, and attention to detail\nThe organization, planning and follow up\nKnowledge of <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "4f0d624b-c1c0-4e44-8701-fd18615e11db",
-            "links": {},
-            "meta": {
-                "score": 8.840626
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Alfa Laboratories"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "9fdca9d3-4658-4272-88ab-f06ee967c157",
-            "links": {},
-            "meta": {
-                "score": 8.797528
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "National Paints"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "97c699fb-8d93-4a5e-aad0-301fd2f18495",
-            "links": {},
-            "meta": {
-                "score": 8.767399
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Sukari Gold Mines"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "NEBOSH Diploma.From 7 to 10 years of professional experience.Excellent working knowledge of Egyptian <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Observations.Identify and communicate national laws and company requirements that are applicable to the <em class=\"search-highlight\">HSE</em>",
-                            "Position Descriptions and have a clear understanding of all Policies and procedures as outlined in the <em class=\"search-highlight\">HSE</em>",
-                            "implementation of applicable training courses.Responsible for preparing written weekly and monthly <em class=\"search-highlight\">HSE</em>",
-                            "reports, statistics and presentations related to <em class=\"search-highlight\">HSE</em> performanceEnsure that records related to <em class=\"search-highlight\">HSE</em> management",
-                            "are controlled within the <em class=\"search-highlight\">HSE</em> Management System and stored and maintained to be readily identified and"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "28d1d930-1ae3-4c9f-a776-83ced3343256",
-            "links": {},
-            "meta": {
-                "score": 8.731317
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Wadi Degla Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "timeCommitment, preciseness, and attention to detailThe organization, planning and follow upKnowledge of <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "08b71591-80c7-4760-937c-03ddcbdb9631",
-            "links": {},
-            "meta": {
-                "score": 8.686394
+                "score": 7.9438777
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2436,7 +2391,52 @@
             "id": "c95e9067-f074-4056-9c22-73a67216b3a8",
             "links": {},
             "meta": {
-                "score": 8.496441
+                "score": 7.9127817
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em> Deputy Manager"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "b1a5b021-df69-4f63-9d0b-0d1328e04d1f",
+            "links": {},
+            "meta": {
+                "score": 7.7563486
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2472,7 +2472,7 @@
             "id": "cd3e63d2-e13c-425b-a3a3-958731f3b95b",
             "links": {},
             "meta": {
-                "score": 8.1802225
+                "score": 7.5410285
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2508,7 +2508,7 @@
             "id": "471f9212-acc0-43da-9127-19e5f844b4de",
             "links": {},
             "meta": {
-                "score": 8.173555
+                "score": 7.5331125
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2544,7 +2544,7 @@
             "id": "895fcf47-18c8-43e8-8e2b-5f4cf0964042",
             "links": {},
             "meta": {
-                "score": 8.075522
+                "score": 7.4175706
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2591,7 +2591,7 @@
             "id": "0a61e57b-b25e-43e3-ba9c-8f0cbfc031eb",
             "links": {},
             "meta": {
-                "score": 8.027549
+                "score": 7.357333
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2636,7 +2636,7 @@
             "id": "b7caf12e-a7b9-4ffc-960a-69df4dec654a",
             "links": {},
             "meta": {
-                "score": 7.9340863
+                "score": 7.250304
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2681,7 +2681,7 @@
             "id": "0b09d83b-22ab-4d88-bf5c-ecde6efd4821",
             "links": {},
             "meta": {
-                "score": 7.703763
+                "score": 6.983596
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2727,7 +2727,7 @@
             "id": "d84d47c6-bf16-4bf5-9599-9bb40132767f",
             "links": {},
             "meta": {
-                "score": 7.513289
+                "score": 6.7757134
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2763,7 +2763,7 @@
             "id": "caca8c82-28b1-46f5-974c-2a9957677463",
             "links": {},
             "meta": {
-                "score": 7.4862447
+                "score": 6.750172
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2808,7 +2808,7 @@
             "id": "fe54799e-e274-43bf-bb32-ef4163368c87",
             "links": {},
             "meta": {
-                "score": 7.058523
+                "score": 6.2852187
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2855,7 +2855,7 @@
             "id": "a04e00ab-19c7-4d6e-9578-61cc61d0f6cb",
             "links": {},
             "meta": {
-                "score": 6.7774196
+                "score": 5.988345
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2891,7 +2891,7 @@
             "id": "9cfec8cc-9092-4931-8774-1f2feac58c34",
             "links": {},
             "meta": {
-                "score": 6.644692
+                "score": 5.853225
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2927,7 +2927,7 @@
             "id": "cc3f06c4-fc74-4cf2-a9f8-dfe28ff866fd",
             "links": {},
             "meta": {
-                "score": 6.247902
+                "score": 5.4468803
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2963,7 +2963,79 @@
             "id": "2e2a119b-27af-4527-a7d9-b5ee2c1c9301",
             "links": {},
             "meta": {
-                "score": 5.939433
+                "score": 5.1370277
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HSE Contractors for CPM Scheduling Consultants"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em> Contractors for CPM Scheduling Consultants"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "435e6019-f9ed-4758-92e8-f50e4fdfe500",
+            "links": {},
+            "meta": {
+                "score": 4.7673173
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HSE Contractors for CPM Scheduling Consultants"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HSE</em> Contractors for CPM Scheduling Consultants"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "db7eb1a3-aa5f-4d31-bea1-1364b31454ef",
+            "links": {},
+            "meta": {
+                "score": 4.738351
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3022,79 +3094,7 @@
             "id": "a6b82c9f-33ad-4278-bc67-7ef3b51c4528",
             "links": {},
             "meta": {
-                "score": 5.473872
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "HSE Contractors for CPM Scheduling Consultants"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em> Contractors for CPM Scheduling Consultants"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "435e6019-f9ed-4758-92e8-f50e4fdfe500",
-            "links": {},
-            "meta": {
-                "score": 4.95756
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "HSE Contractors for CPM Scheduling Consultants"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HSE</em> Contractors for CPM Scheduling Consultants"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "db7eb1a3-aa5f-4d31-bea1-1364b31454ef",
-            "links": {},
-            "meta": {
-                "score": 4.9396253
+                "score": 4.6745605
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3130,7 +3130,7 @@
             "id": "7ee3f18f-921c-4adc-a604-90ebfc4b9779",
             "links": {},
             "meta": {
-                "score": 4.759005
+                "score": 4.4802055
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3166,7 +3166,7 @@
             "id": "1e07a979-3c7b-4d61-8ef7-9ec91ea10ec9",
             "links": {},
             "meta": {
-                "score": 4.43384
+                "score": 4.077223
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3202,7 +3202,7 @@
             "id": "d37bf8e5-73ec-4e45-a3ac-ebf08dc1abaa",
             "links": {},
             "meta": {
-                "score": 0.6171399
+                "score": 0.59005773
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3238,7 +3238,7 @@
             "id": "3569f27f-2944-4363-8790-1250f436237f",
             "links": {},
             "meta": {
-                "score": 0.5021668
+                "score": 0.49513894
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3274,7 +3274,7 @@
             "id": "b45cf0b3-8300-4d71-8cfe-3cb7c44ea506",
             "links": {},
             "meta": {
-                "score": 0.46389598
+                "score": 0.44101655
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3310,7 +3310,7 @@
             "id": "8e3b879e-9106-4fa3-8435-e35a3218b0e8",
             "links": {},
             "meta": {
-                "score": 0.42032006
+                "score": 0.39482233
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3346,7 +3346,7 @@
             "id": "b7d476d4-6c37-4dae-97ff-e3bc6d8cffdd",
             "links": {},
             "meta": {
-                "score": 0.39890856
+                "score": 0.3925917
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3382,7 +3382,7 @@
             "id": "9aeecb55-7dbb-4b90-b02b-b57c49f7f0c9",
             "links": {},
             "meta": {
-                "score": 0.39739203
+                "score": 0.3879676
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3418,7 +3418,7 @@
             "id": "806d9a07-12b0-4ce2-995e-c269307cda1b",
             "links": {},
             "meta": {
-                "score": 0.39557815
+                "score": 0.3840154
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3454,115 +3454,7 @@
             "id": "fcade4e1-72c9-4874-a8de-fbfa21f3413a",
             "links": {},
             "meta": {
-                "score": 0.3797529
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Jozoor Landscapes"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "and manage all documentation to confirm proper stock levels and maintain inventory controlMake Sure <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "bd04e443-bd7c-4790-be2e-b120c07d9a5b",
-            "links": {},
-            "meta": {
-                "score": 0.37450597
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "NCM"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "update and sending to HR manager monthly.Complying with the QMS Policy & procedures;Complying with the <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "182f0220-9838-4afa-bf30-f1caf3e61979",
-            "links": {},
-            "meta": {
-                "score": 0.37237993
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EVA Cosmetics "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "management system (competencies evaluation and management by objectives).Ensure the implementation of <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "d2418070-59fa-4fa9-987b-1c82bf67d8a6",
-            "links": {},
-            "meta": {
-                "score": 0.36550558
+                "score": 0.35532498
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3599,7 +3491,115 @@
             "id": "f7fee180-5ffd-4d49-a674-2ecf42f03b6f",
             "links": {},
             "meta": {
-                "score": 0.34772354
+                "score": 0.34209085
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "NCM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "update and sending to HR manager monthly.Complying with the QMS Policy & procedures;Complying with the <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "182f0220-9838-4afa-bf30-f1caf3e61979",
+            "links": {},
+            "meta": {
+                "score": 0.3402771
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EVA Cosmetics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "management system (competencies evaluation and management by objectives).Ensure the implementation of <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "d2418070-59fa-4fa9-987b-1c82bf67d8a6",
+            "links": {},
+            "meta": {
+                "score": 0.3377277
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Jozoor Landscapes"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "and manage all documentation to confirm proper stock levels and maintain inventory controlMake Sure <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "bd04e443-bd7c-4790-be2e-b120c07d9a5b",
+            "links": {},
+            "meta": {
+                "score": 0.32556236
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3635,115 +3635,7 @@
             "id": "bdfc10fb-84a2-4a25-85da-4aa839233846",
             "links": {},
             "meta": {
-                "score": 0.3329782
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Redcon Spain"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "sites to ensure that proper construction procedures are being followed.Develop  quality control  & <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "3838ad3b-29f9-4cf7-a34b-744bd9688d5f",
-            "links": {},
-            "meta": {
-                "score": 0.3322867
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "requirementsAssist with finding new suppliers & 3PLsAssist in making sure all vehicles and collectors are abiding to <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "1d0ef832-f8f0-4d04-ba3b-aebef7fe61d2",
-            "links": {},
-            "meta": {
-                "score": 0.32399118
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Monginis Food Industries & Services"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "vendors based on the quality, payment terms, reference lists, prices, after sales services, warranty, <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "6bea9946-b90d-477c-964f-34d28ee9a5d6",
-            "links": {},
-            "meta": {
-                "score": 0.31412846
+                "score": 0.32455578
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3779,7 +3671,7 @@
             "id": "ce9b3c0f-769a-4c4c-b40d-5f3f728f5c02",
             "links": {},
             "meta": {
-                "score": 0.3122571
+                "score": 0.307173
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3819,7 +3711,7 @@
             "id": "291cc9ec-7944-4b95-8486-3d463ab3277f",
             "links": {},
             "meta": {
-                "score": 0.30882096
+                "score": 0.2989632
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3836,7 +3728,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "Tagaddod"
                         ]
                     }
                 ],
@@ -3844,7 +3736,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "supervision all the time during the erection and dismantle any scaffolding.Submit scaffold activity report to <em class=\"search-highlight\">HSE</em>"
+                            "requirementsAssist with finding new suppliers & 3PLsAssist in making sure all vehicles and collectors are abiding to <em class=\"search-highlight\">HSE</em>"
                         ],
                         "value": [
                             "HSE"
@@ -3852,10 +3744,82 @@
                     }
                 ]
             },
-            "id": "99cf8191-923f-4278-a2b9-b74f3ba3daa6",
+            "id": "1d0ef832-f8f0-4d04-ba3b-aebef7fe61d2",
             "links": {},
             "meta": {
-                "score": 0.29890278
+                "score": 0.2923305
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Redcon Spain"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "sites to ensure that proper construction procedures are being followed.Develop  quality control  & <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "3838ad3b-29f9-4cf7-a34b-744bd9688d5f",
+            "links": {},
+            "meta": {
+                "score": 0.290606
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Monginis Food Industries & Services"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "vendors based on the quality, payment terms, reference lists, prices, after sales services, warranty, <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "6bea9946-b90d-477c-964f-34d28ee9a5d6",
+            "links": {},
+            "meta": {
+                "score": 0.28790063
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3891,7 +3855,43 @@
             "id": "34d185e4-4f4f-435f-a5a4-c267068a59cc",
             "links": {},
             "meta": {
-                "score": 0.2761116
+                "score": 0.26804602
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "supervision all the time during the erection and dismantle any scaffolding.Submit scaffold activity report to <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "99cf8191-923f-4278-a2b9-b74f3ba3daa6",
+            "links": {},
+            "meta": {
+                "score": 0.25856844
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3927,7 +3927,7 @@
             "id": "34811f75-b335-49ee-ab8d-7c51a9bc2e52",
             "links": {},
             "meta": {
-                "score": 0.26451817
+                "score": 0.23728293
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3963,43 +3963,7 @@
             "id": "bf0d9d69-d35a-4e74-92c5-04e72d0cf498",
             "links": {},
             "meta": {
-                "score": 0.2591178
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pillars"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "in accordance with the approved procedures of M&A GlassEnsure the application of the instructions of <em class=\"search-highlight\">HSE</em>"
-                        ],
-                        "value": [
-                            "HSE"
-                        ]
-                    }
-                ]
-            },
-            "id": "582bebe0-59e5-4231-a4fd-92ed844fdb83",
-            "links": {},
-            "meta": {
-                "score": 0.2369295
+                "score": 0.23318397
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4035,7 +3999,43 @@
             "id": "4291fb65-c552-467f-a3bb-7dc6d2132239",
             "links": {},
             "meta": {
-                "score": 0.23185073
+                "score": 0.22445095
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillars"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "in accordance with the approved procedures of M&A GlassEnsure the application of the instructions of <em class=\"search-highlight\">HSE</em>"
+                        ],
+                        "value": [
+                            "HSE"
+                        ]
+                    }
+                ]
+            },
+            "id": "582bebe0-59e5-4231-a4fd-92ed844fdb83",
+            "links": {},
+            "meta": {
+                "score": 0.21904755
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4071,7 +4071,7 @@
             "id": "82165943-e4b8-4390-8d2d-c0869d622ecd",
             "links": {},
             "meta": {
-                "score": 0.22572042
+                "score": 0.19172463
             },
             "relationships": {},
             "type": "talentSearch"

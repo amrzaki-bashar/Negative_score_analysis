@@ -34,11 +34,11 @@ for search_query in tqdm(search_query_list):
 		"query": search_query,
 		"searchFilters": {},
 		"startIndex": 0,
-		"index_name":"jobs-2"
+		"index_name":"jobs_no_b_no_1_no_weight"
 	})
 	response = requests.request("POST", url, headers=headers, data=payload)
 	new_mapping_out = json.loads(response.text)
-	with open('new_mapping\\'+search_query+'.json', 'w',encoding='utf-8') as outfile:
+	with open('new_mapping_no_b_no_1_no_weight\\'+search_query+'.json', 'w',encoding='utf-8') as outfile:
 		json.dump(new_mapping_out, outfile, sort_keys = True, indent = 4,ensure_ascii = False)
 
 print(response.text)

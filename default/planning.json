@@ -12,6 +12,51 @@
                     {
                         "name": "company_name",
                         "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em> Engineer"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "cf0e0f70-37f3-4570-a745-17feaf7bc328",
+            "links": {},
+            "meta": {
+                "score": 6.288266
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
                             "Cairoscan"
                         ]
                     }
@@ -62,52 +107,7 @@
             "id": "4fd186c4-3a4e-4721-8c4c-2b8964ed3019",
             "links": {},
             "meta": {
-                "score": 6.381107
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "cf0e0f70-37f3-4570-a745-17feaf7bc328",
-            "links": {},
-            "meta": {
-                "score": 6.3581347
+                "score": 6.2788105
             },
             "relationships": {},
             "type": "talentSearch"
@@ -162,7 +162,61 @@
             "id": "26364745-8cfb-4ceb-99a7-f28c478683c9",
             "links": {},
             "meta": {
-                "score": 6.357965
+                "score": 6.2365603
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elattal Holding "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "schedules.Calculate Optimal Material requirement, Manpower Requirement for each stage of the projectsCreating <em class=\"search-highlight\">planned</em>"
+                        ],
+                        "value": [
+                            "planned"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior <em class=\"search-highlight\">Planning</em> & Cost Control Engineer"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "ea3b0ca2-6a1f-4b9c-95d2-80204a435907",
+            "links": {},
+            "meta": {
+                "score": 6.1855974
             },
             "relationships": {},
             "type": "talentSearch"
@@ -228,7 +282,7 @@
             "id": "02912484-5e67-4301-aa58-aab016b3064f",
             "links": {},
             "meta": {
-                "score": 6.3495145
+                "score": 6.183407
             },
             "relationships": {},
             "type": "talentSearch"
@@ -292,7 +346,7 @@
             "id": "0e5dc219-88d7-4203-a2b8-a2d04188c656",
             "links": {},
             "meta": {
-                "score": 6.3433266
+                "score": 6.176377
             },
             "relationships": {},
             "type": "talentSearch"
@@ -309,7 +363,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Elattal Holding "
+                            ""
                         ]
                     }
                 ],
@@ -324,18 +378,9 @@
                         ]
                     },
                     {
-                        "name": "description",
-                        "snippets": [
-                            "schedules.Calculate Optimal Material requirement, Manpower Requirement for each stage of the projectsCreating <em class=\"search-highlight\">planned</em>"
-                        ],
-                        "value": [
-                            "planned"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "Junior <em class=\"search-highlight\">Planning</em> & Cost Control Engineer"
+                            "<em class=\"search-highlight\">Planning</em> Engineer"
                         ],
                         "value": [
                             "Planning"
@@ -343,10 +388,10 @@
                     }
                 ]
             },
-            "id": "ea3b0ca2-6a1f-4b9c-95d2-80204a435907",
+            "id": "cd8b0475-763a-4e1d-9dd3-26f42805d65a",
             "links": {},
             "meta": {
-                "score": 6.337779
+                "score": 6.152908
             },
             "relationships": {},
             "type": "talentSearch"
@@ -410,7 +455,7 @@
             "id": "780b1849-2bbf-4307-9d74-add6760b6f06",
             "links": {},
             "meta": {
-                "score": 6.3349624
+                "score": 6.1527424
             },
             "relationships": {},
             "type": "talentSearch"
@@ -463,10 +508,10 @@
                             "project progress and advise action to meet the schedule, if delayed.Preparing the Manpower & Equipment <em class=\"search-highlight\">Plan</em>"
                         ],
                         "value": [
-                            "Plan",
                             "plans",
                             "plan",
-                            "planning"
+                            "planning",
+                            "Plan"
                         ]
                     },
                     {
@@ -483,7 +528,7 @@
             "id": "0beb569e-3bdc-483a-96e9-6927c7ff7bee",
             "links": {},
             "meta": {
-                "score": 6.3202085
+                "score": 6.1353116
             },
             "relationships": {},
             "type": "talentSearch"
@@ -500,7 +545,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "ZDS Architects"
                         ]
                     }
                 ],
@@ -515,6 +560,20 @@
                         ]
                     },
                     {
+                        "name": "description",
+                        "snippets": [
+                            "Set targets for activities based on each phase of a project <em class=\"search-highlight\">plan</em> and ensure it meets client’s specifications",
+                            "Continually make comparisons between <em class=\"search-highlight\">planned</em> progress and actual progress and report any differences",
+                            "Make sure complex projects are handled on time and on budget by overseeing the project <em class=\"search-highlight\">planning</em>, inventory",
+                            "Identify gaps in key performance areas and <em class=\"search-highlight\">plan</em> activities to increase overall project efficiency."
+                        ],
+                        "value": [
+                            "plan",
+                            "planning",
+                            "planned"
+                        ]
+                    },
+                    {
                         "name": "job_title",
                         "snippets": [
                             "<em class=\"search-highlight\">Planning</em> Engineer"
@@ -525,10 +584,10 @@
                     }
                 ]
             },
-            "id": "cd8b0475-763a-4e1d-9dd3-26f42805d65a",
+            "id": "a8c36967-0f6f-426d-ac52-d9d491c22c90",
             "links": {},
             "meta": {
-                "score": 6.3177834
+                "score": 6.1245837
             },
             "relationships": {},
             "type": "talentSearch"
@@ -594,7 +653,7 @@
             "id": "bad29cf4-2e6a-4562-b971-397c2dc40e88",
             "links": {},
             "meta": {
-                "score": 6.310875
+                "score": 6.1096544
             },
             "relationships": {},
             "type": "talentSearch"
@@ -611,38 +670,15 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "ZDS Architects"
+                            ""
                         ]
                     }
                 ],
                 "highlightedFields": [
                     {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Set targets for activities based on each phase of a project <em class=\"search-highlight\">plan</em> and ensure it meets client’s specifications",
-                            "Continually make comparisons between <em class=\"search-highlight\">planned</em> progress and actual progress and report any differences",
-                            "Make sure complex projects are handled on time and on budget by overseeing the project <em class=\"search-highlight\">planning</em>, inventory",
-                            "Identify gaps in key performance areas and <em class=\"search-highlight\">plan</em> activities to increase overall project efficiency."
-                        ],
-                        "value": [
-                            "planned",
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer"
+                            "Financial <em class=\"search-highlight\">Planning</em> & Reporting Lead"
                         ],
                         "value": [
                             "Planning"
@@ -650,10 +686,10 @@
                     }
                 ]
             },
-            "id": "a8c36967-0f6f-426d-ac52-d9d491c22c90",
+            "id": "7372c88d-eea6-4c0a-a04f-6745b6625f16",
             "links": {},
             "meta": {
-                "score": 6.308532
+                "score": 6.107131
             },
             "relationships": {},
             "type": "talentSearch"
@@ -704,8 +740,8 @@
                             "Head is directly responsible for the areas of Production/Inventory Control, <em class=\"search-highlight\">Planning</em>, Receiving, SFC"
                         ],
                         "value": [
-                            "Planning",
                             "plan",
+                            "Planning",
                             "planning"
                         ]
                     },
@@ -723,7 +759,56 @@
             "id": "8dd86b09-42eb-4a2f-b74f-2d55af66fd51",
             "links": {},
             "meta": {
-                "score": 6.300464
+                "score": 6.1015534
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Safwa Urban Development "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "preparation of the company road map with long- and short-term objectives matching with the company growth <em class=\"search-highlight\">plan</em>.Participate",
+                            "pricing and cash flow periodically as per the company strategy.Managing a team of Technical Office <em class=\"search-highlight\">planning</em>",
+                            "Engineer staffAssist in sales payment <em class=\"search-highlight\">plans</em> and preparation of barter deals payment <em class=\"search-highlight\">plan</em>"
+                        ],
+                        "value": [
+                            "plan",
+                            "planning",
+                            "plans"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Planning</em> And Cost Control Engineer"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "d2249dff-a718-4efa-bc75-006c2ed9b240",
+            "links": {},
+            "meta": {
+                "score": 6.100127
             },
             "relationships": {},
             "type": "talentSearch"
@@ -767,8 +852,8 @@
                         ],
                         "value": [
                             "plans",
-                            "planned",
-                            "planning"
+                            "planning",
+                            "planned"
                         ]
                     },
                     {
@@ -785,7 +870,53 @@
             "id": "a3642dfe-fd58-4c41-8d84-3e3e7be724b7",
             "links": {},
             "meta": {
-                "score": 6.2949896
+                "score": 6.0970445
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "business management reports, budgets, forecasts and variance analysis of the Company while being able to <em class=\"search-highlight\">plan</em>",
+                            "information effectively while maintaining a high degree of sensitivity and confidentiality.Prepare business <em class=\"search-highlight\">plan</em>"
+                        ],
+                        "value": [
+                            "plan"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Financial <em class=\"search-highlight\">Planning</em> Manager - (Automotive Background) -6th October"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "2ecec8d6-2dde-498c-96a4-7607f95dc218",
+            "links": {},
+            "meta": {
+                "score": 6.0905395
             },
             "relationships": {},
             "type": "talentSearch"
@@ -836,8 +967,8 @@
                             "take the necessary action <em class=\"search-highlight\">plans</em> with the associate task member.Track, monitor, and forecast progress"
                         ],
                         "value": [
-                            "plans",
-                            "plan"
+                            "plan",
+                            "plans"
                         ]
                     },
                     {
@@ -854,7 +985,7 @@
             "id": "7460aa33-bb34-4dab-8ec9-1dca29ddcc2c",
             "links": {},
             "meta": {
-                "score": 6.291043
+                "score": 6.075867
             },
             "relationships": {},
             "type": "talentSearch"
@@ -909,7 +1040,77 @@
             "id": "9d6f0e82-9cd3-4602-9df7-3c6733a434e5",
             "links": {},
             "meta": {
-                "score": 6.2774763
+                "score": 6.0609913
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HSE Contractors for CPM Scheduling Consultants"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            " At least (1 - 2) years of <em class=\"search-highlight\">planning</em> experiencePrimavera 6Minimum Required Professional Experience Years",
+                            "(1 - 2) years of experience gained within a <em class=\"search-highlight\">planning</em> position or similarAbility to work from 3:00 to",
+                            "12:00 P.M.Native English speaking and writing skills are a must.<em class=\"search-highlight\">Planning</em> & OrganizingPresentable.Strong"
+                        ],
+                        "value": [
+                            "Planning",
+                            "planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "identify prospect claims and variations.Responsible for in Producing:-A detailed schedule of the worksA <em class=\"search-highlight\">plan</em>",
+                            "de-snagging, commissioning, de-commissioning, etc...).Responsible for the OP, the TO, and the SC with the <em class=\"search-highlight\">planned</em>",
+                            "starting date of every activity and the BL cash flow.Responsible for in producing a detailed Procurement <em class=\"search-highlight\">Plan</em>"
+                        ],
+                        "value": [
+                            "plan",
+                            "Plan",
+                            "planned"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em> Engineer"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "db7eb1a3-aa5f-4d31-bea1-1364b31454ef",
+            "links": {},
+            "meta": {
+                "score": 5.97579
             },
             "relationships": {},
             "type": "talentSearch"
@@ -973,7 +1174,7 @@
             "id": "fe1aca7c-c895-4125-ae56-1f629f3a7484",
             "links": {},
             "meta": {
-                "score": 6.230509
+                "score": 5.9752693
             },
             "relationships": {},
             "type": "talentSearch"
@@ -990,49 +1191,15 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "HSE Contractors for CPM Scheduling Consultants"
+                            "Capital Link Developments"
                         ]
                     }
                 ],
                 "highlightedFields": [
                     {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            " At least (1 - 2) years of <em class=\"search-highlight\">planning</em> experiencePrimavera 6Minimum Required Professional Experience Years",
-                            "(1 - 2) years of experience gained within a <em class=\"search-highlight\">planning</em> position or similarAbility to work from 3:00 to",
-                            "12:00 P.M.Native English speaking and writing skills are a must.<em class=\"search-highlight\">Planning</em> & OrganizingPresentable.Strong"
-                        ],
-                        "value": [
-                            "Planning",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "identify prospect claims and variations.Responsible for in Producing:-A detailed schedule of the worksA <em class=\"search-highlight\">plan</em>",
-                            "de-snagging, commissioning, de-commissioning, etc...).Responsible for the OP, the TO, and the SC with the <em class=\"search-highlight\">planned</em>",
-                            "starting date of every activity and the BL cash flow.Responsible for in producing a detailed Procurement <em class=\"search-highlight\">Plan</em>"
-                        ],
-                        "value": [
-                            "Plan",
-                            "planned",
-                            "plan"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer"
+                            "Senior Financial <em class=\"search-highlight\">Planning</em> & Analyst Officer (FP & A)"
                         ],
                         "value": [
                             "Planning"
@@ -1040,10 +1207,92 @@
                     }
                 ]
             },
-            "id": "db7eb1a3-aa5f-4d31-bea1-1364b31454ef",
+            "id": "51fb7939-05d3-40c0-a5e1-3e0e8e8d0ed5",
             "links": {},
             "meta": {
-                "score": 6.2296276
+                "score": 5.969993
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "JBF Digital Marketing Agency"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em> & Cost Control Engineer"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "003c75b9-23cc-400f-8da0-a1ae6f119012",
+            "links": {},
+            "meta": {
+                "score": 5.969113
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Perfect Presentation"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "performance (absences - duration of calls - waiting) and their impact on work Load.Use WFM software and <em class=\"search-highlight\">planning</em>",
+                            "forecasts (calls, tickets, emails...etc) ,manage the creation of optimized employee schedules and the <em class=\"search-highlight\">planning</em>"
+                        ],
+                        "value": [
+                            "planning"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Workforce <em class=\"search-highlight\">Planning</em> Analyst"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "1cef939c-7447-4c68-b373-3b09a6b6c2df",
+            "links": {},
+            "meta": {
+                "score": 5.9489355
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1095,10 +1344,10 @@
                             "status & Supply <em class=\"search-highlight\">plans</em> with inventory & Purchasing dept. "
                         ],
                         "value": [
-                            "plans",
-                            "Plan",
+                            "plan",
                             "Planning",
-                            "plan"
+                            "Plan",
+                            "plans"
                         ]
                     },
                     {
@@ -1115,138 +1364,7 @@
             "id": "9d4d0e88-a7d0-4878-84e7-07a9b9c89fe4",
             "links": {},
             "meta": {
-                "score": 6.1949296
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Safwa Urban Development "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "preparation of the company road map with long- and short-term objectives matching with the company growth <em class=\"search-highlight\">plan</em>.Participate",
-                            "pricing and cash flow periodically as per the company strategy.Managing a team of Technical Office <em class=\"search-highlight\">planning</em>",
-                            "Engineer staffAssist in sales payment <em class=\"search-highlight\">plans</em> and preparation of barter deals payment <em class=\"search-highlight\">plan</em>"
-                        ],
-                        "value": [
-                            "plans",
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Planning</em> And Cost Control Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "d2249dff-a718-4efa-bc75-006c2ed9b240",
-            "links": {},
-            "meta": {
-                "score": 6.1821156
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "business management reports, budgets, forecasts and variance analysis of the Company while being able to <em class=\"search-highlight\">plan</em>",
-                            "information effectively while maintaining a high degree of sensitivity and confidentiality.Prepare business <em class=\"search-highlight\">plan</em>"
-                        ],
-                        "value": [
-                            "plan"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Financial <em class=\"search-highlight\">Planning</em> Manager - (Automotive Background) -6th October"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "2ecec8d6-2dde-498c-96a4-7607f95dc218",
-            "links": {},
-            "meta": {
-                "score": 6.1767573
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Financial <em class=\"search-highlight\">Planning</em> & Reporting Lead"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "7372c88d-eea6-4c0a-a04f-6745b6625f16",
-            "links": {},
-            "meta": {
-                "score": 6.1729903
+                "score": 5.922075
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1310,7 +1428,7 @@
             "id": "934a63af-32fb-48b2-86bf-9954d35a74c9",
             "links": {},
             "meta": {
-                "score": 6.167311
+                "score": 5.878697
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1365,125 +1483,7 @@
             "id": "f855e2be-9afc-4243-937f-edf463549f9a",
             "links": {},
             "meta": {
-                "score": 6.159025
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Capital Link Developments"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior Financial <em class=\"search-highlight\">Planning</em> & Analyst Officer (FP & A)"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "51fb7939-05d3-40c0-a5e1-3e0e8e8d0ed5",
-            "links": {},
-            "meta": {
-                "score": 6.1320734
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "JBF Digital Marketing Agency"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> & Cost Control Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "003c75b9-23cc-400f-8da0-a1ae6f119012",
-            "links": {},
-            "meta": {
-                "score": 6.1316695
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Perfect Presentation"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "performance (absences - duration of calls - waiting) and their impact on work Load.Use WFM software and <em class=\"search-highlight\">planning</em>",
-                            "forecasts (calls, tickets, emails...etc) ,manage the creation of optimized employee schedules and the <em class=\"search-highlight\">planning</em>"
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Workforce <em class=\"search-highlight\">Planning</em> Analyst"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "1cef939c-7447-4c68-b373-3b09a6b6c2df",
-            "links": {},
-            "meta": {
-                "score": 6.1266313
+                "score": 5.873359
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1524,9 +1524,9 @@
                             "the participants that started and the effectiveness of the <em class=\"search-highlight\">planning</em> and follow-up department’s workContact"
                         ],
                         "value": [
-                            "plans",
-                            "Planning",
                             "plan",
+                            "Planning",
+                            "plans",
                             "planning"
                         ]
                     },
@@ -1544,7 +1544,7 @@
             "id": "b1873c86-90b7-4ab1-9686-e70128286299",
             "links": {},
             "meta": {
-                "score": 6.1233597
+                "score": 5.822289
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1598,7 +1598,53 @@
             "id": "5dec62ce-a297-4be1-8c4d-f488b4296fe8",
             "links": {},
             "meta": {
-                "score": 6.1197515
+                "score": 5.818761
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Batal Co."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Assisting with financial <em class=\"search-highlight\">planning</em> and budgeting processes, analyzing financial statements and reports",
+                            "business drivers.Developing financial projections and building financial modelsProven record of:Financial <em class=\"search-highlight\">planning</em>"
+                        ],
+                        "value": [
+                            "planning"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Financial & <em class=\"search-highlight\">Planning</em> Analyst"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "e613d35a-8068-436a-92bd-f16e56a5a33b",
+            "links": {},
+            "meta": {
+                "score": 5.7703395
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1654,7 +1700,7 @@
             "id": "4e2fdb5b-93d5-4bb3-baa4-931933b436c6",
             "links": {},
             "meta": {
-                "score": 6.0544147
+                "score": 5.726345
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1671,7 +1717,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "El Batal Co."
+                            ""
                         ]
                     }
                 ],
@@ -1679,17 +1725,21 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Assisting with financial <em class=\"search-highlight\">planning</em> and budgeting processes, analyzing financial statements and reports",
-                            "business drivers.Developing financial projections and building financial modelsProven record of:Financial <em class=\"search-highlight\">planning</em>"
+                            "Ensure the issuing of project schedule whether in tender or construction phase with the most appropriate <em class=\"search-highlight\">planning</em>",
+                            "progress complies with the estimated base line schedule to ensure and align that all the projects’ <em class=\"search-highlight\">planning</em>",
+                            "process are implemented based on the <em class=\"search-highlight\">planning</em> procedures.Deliver a complete suite of cost-control services",
+                            "Engineer necessary to develop the project’s schedule.Participate in developing logistics <em class=\"search-highlight\">plan</em> for the",
+                            "in coordination with the Commercial and Operational Department.Participate in developing logistics <em class=\"search-highlight\">plan</em>"
                         ],
                         "value": [
+                            "plan",
                             "planning"
                         ]
                     },
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Senior Financial & <em class=\"search-highlight\">Planning</em> Analyst"
+                            "Senior <em class=\"search-highlight\">Planning</em> Engineer"
                         ],
                         "value": [
                             "Planning"
@@ -1697,10 +1747,10 @@
                     }
                 ]
             },
-            "id": "e613d35a-8068-436a-92bd-f16e56a5a33b",
+            "id": "b7c8eb43-7321-4933-a3c8-05482a840797",
             "links": {},
             "meta": {
-                "score": 6.0235276
+                "score": 5.690098
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1766,7 +1816,7 @@
             "id": "3be8e39b-9b2e-4e7f-8449-678abd8c5021",
             "links": {},
             "meta": {
-                "score": 6.0008574
+                "score": 5.6480236
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1820,57 +1870,7 @@
             "id": "b89b8d5f-a080-4596-83c6-4294220151fd",
             "links": {},
             "meta": {
-                "score": 5.985404
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Ensure the issuing of project schedule whether in tender or construction phase with the most appropriate <em class=\"search-highlight\">planning</em>",
-                            "progress complies with the estimated base line schedule to ensure and align that all the projects’ <em class=\"search-highlight\">planning</em>",
-                            "process are implemented based on the <em class=\"search-highlight\">planning</em> procedures.Deliver a complete suite of cost-control services",
-                            "Engineer necessary to develop the project’s schedule.Participate in developing logistics <em class=\"search-highlight\">plan</em> for the",
-                            "in coordination with the Commercial and Operational Department.Participate in developing logistics <em class=\"search-highlight\">plan</em>"
-                        ],
-                        "value": [
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Planning</em> Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "b7c8eb43-7321-4933-a3c8-05482a840797",
-            "links": {},
-            "meta": {
-                "score": 5.9698615
+                "score": 5.6329994
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1915,7 +1915,7 @@
             "id": "93ca4d6a-23cf-4a4a-8a11-6467b69be735",
             "links": {},
             "meta": {
-                "score": 5.9652457
+                "score": 5.6098313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1987,7 +1987,7 @@
             "id": "f6b405d4-4a53-49f2-84e2-916e0f13396e",
             "links": {},
             "meta": {
-                "score": 5.9605174
+                "score": 5.5949225
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2053,7 +2053,7 @@
             "id": "e026a144-c94c-4d55-9ebe-7ff8dac3654d",
             "links": {},
             "meta": {
-                "score": 5.9571333
+                "score": 5.588581
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2098,7 +2098,7 @@
             "id": "977a71b1-bf9b-481e-ac4c-ee7183a4722e",
             "links": {},
             "meta": {
-                "score": 5.944896
+                "score": 5.579837
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2155,7 +2155,7 @@
             "id": "08efa373-99cd-4393-83cd-fc2ad0ff0fce",
             "links": {},
             "meta": {
-                "score": 5.9366817
+                "score": 5.5699716
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2205,10 +2205,10 @@
                             "the overall project schedule.Prepare & monitor Cash Flow Reports.Preparing the Manpower & Equipment <em class=\"search-highlight\">Plan</em>"
                         ],
                         "value": [
-                            "Plan",
                             "plans",
                             "plan",
-                            "planning"
+                            "planning",
+                            "Plan"
                         ]
                     },
                     {
@@ -2225,7 +2225,7 @@
             "id": "45ab594d-801e-40fe-8d23-80985e448047",
             "links": {},
             "meta": {
-                "score": 5.924776
+                "score": 5.5494943
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2293,7 +2293,7 @@
             "id": "01959158-3b08-4583-b730-a1410765b901",
             "links": {},
             "meta": {
-                "score": 5.908337
+                "score": 5.52782
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2338,7 +2338,7 @@
             "id": "337a054d-df3d-4d99-83d2-74d282213599",
             "links": {},
             "meta": {
-                "score": 5.8839207
+                "score": 5.504451
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2383,7 +2383,7 @@
             "id": "d6993cd2-a6ce-4f4a-90a0-acfe8e0b73d8",
             "links": {},
             "meta": {
-                "score": 5.8825564
+                "score": 5.502711
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2448,7 +2448,7 @@
             "id": "0b76c353-4b5e-48ae-aeb8-97f6cb831ce0",
             "links": {},
             "meta": {
-                "score": 5.8752084
+                "score": 5.4863453
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2519,7 +2519,7 @@
             "id": "2fa326d7-8f26-43f7-b07e-af933147c78d",
             "links": {},
             "meta": {
-                "score": 5.865024
+                "score": 5.4732003
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2560,8 +2560,8 @@
                             "progress against the <em class=\"search-highlight\">plan</em> / schedule and provides necessary solution / Corrective actions.  "
                         ],
                         "value": [
-                            "Planning",
                             "plan",
+                            "Planning",
                             "planning"
                         ]
                     },
@@ -2579,7 +2579,7 @@
             "id": "c62f0e22-e641-4946-86dd-61f4158e6268",
             "links": {},
             "meta": {
-                "score": 5.857633
+                "score": 5.4686375
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2642,7 +2642,7 @@
             "id": "851be0c8-9a25-4df8-91a1-49bad7c9b50d",
             "links": {},
             "meta": {
-                "score": 5.836034
+                "score": 5.4352074
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2674,9 +2674,9 @@
                             "started and the effectiveness of the <em class=\"search-highlight\">planning</em> and follow-up department’s workContact the occupational"
                         ],
                         "value": [
-                            "plans",
-                            "Planning",
                             "plan",
+                            "Planning",
+                            "plans",
                             "planning"
                         ]
                     },
@@ -2694,7 +2694,7 @@
             "id": "b78d97b6-8e0a-4dff-8b34-b438f2e4bb26",
             "links": {},
             "meta": {
-                "score": 5.769275
+                "score": 5.4137335
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2749,7 +2749,7 @@
             "id": "345fe1e0-c60d-4710-b4ca-d233aafc5604",
             "links": {},
             "meta": {
-                "score": 5.7416263
+                "score": 5.322938
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2803,7 +2803,7 @@
             "id": "f7a3d481-e618-46c9-9570-6675dece223a",
             "links": {},
             "meta": {
-                "score": 5.675489
+                "score": 5.244711
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2858,7 +2858,7 @@
             "id": "ce748a95-ddcb-4cec-80c0-2be65b6d8b06",
             "links": {},
             "meta": {
-                "score": 5.6754413
+                "score": 5.2446537
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2916,7 +2916,7 @@
             "id": "d613fef2-efa7-4a55-a736-edadca7983dd",
             "links": {},
             "meta": {
-                "score": 5.6751466
+                "score": 5.244413
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2970,7 +2970,7 @@
             "id": "1991521f-94b0-48fb-9cb1-c6dcab0ab8d6",
             "links": {},
             "meta": {
-                "score": 5.6613903
+                "score": 5.2276073
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3009,9 +3009,9 @@
                             "and remaining work.Updating and monitoring the progress of the project.Preparing Revised and Recovery <em class=\"search-highlight\">Plans</em>"
                         ],
                         "value": [
-                            "Plans",
                             "Planning",
-                            "planning"
+                            "planning",
+                            "Plans"
                         ]
                     },
                     {
@@ -3028,7 +3028,7 @@
             "id": "a3354e97-c86b-4309-9f5a-d73b60f7b840",
             "links": {},
             "meta": {
-                "score": 5.609546
+                "score": 5.1654086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3092,7 +3092,7 @@
             "id": "75e4178f-51c1-44ed-8645-87a1be418b7e",
             "links": {},
             "meta": {
-                "score": 5.5848413
+                "score": 5.1323533
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3144,8 +3144,8 @@
                             "Accurate sales analysis highlighting opportunities and gapsRecommend / propose action <em class=\"search-highlight\">plan</em> based on the"
                         ],
                         "value": [
-                            "Planning",
                             "plan",
+                            "Planning",
                             "planning"
                         ]
                     },
@@ -3163,7 +3163,7 @@
             "id": "984763a1-95d9-4480-bc42-d19c7bae82f3",
             "links": {},
             "meta": {
-                "score": 5.568453
+                "score": 5.1146665
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3208,7 +3208,7 @@
             "id": "596bd4ec-8458-4419-b74a-667d4cabe2ce",
             "links": {},
             "meta": {
-                "score": 5.562376
+                "score": 5.1124783
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3264,7 +3264,54 @@
             "id": "d9ee76e0-2ceb-4006-84af-03b1a99d21e5",
             "links": {},
             "meta": {
-                "score": 5.515541
+                "score": 5.0562015
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ATRIC Developments"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Analyze financial data and create financial models to support valuation, <em class=\"search-highlight\">planning</em>, and forecasting.          ",
+                            "Keeping track of a company’s financial <em class=\"search-highlight\">plan</em> and guide the cost analysis process.          "
+                        ],
+                        "value": [
+                            "plan",
+                            "planning"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Financial <em class=\"search-highlight\">Planning</em> & Analysis"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "04849f17-d943-4b6c-ad4b-4fdc466ad6c7",
+            "links": {},
+            "meta": {
+                "score": 5.0285387
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3332,7 +3379,7 @@
             "id": "3dbc900e-2a0f-4bc0-812e-3a384d03d1dc",
             "links": {},
             "meta": {
-                "score": 5.479158
+                "score": 5.009931
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3371,8 +3418,8 @@
                             "Crate recovery <em class=\"search-highlight\">plan</em>, revised <em class=\"search-highlight\">plan</em> . "
                         ],
                         "value": [
-                            "planned",
-                            "plan"
+                            "plan",
+                            "planned"
                         ]
                     },
                     {
@@ -3389,7 +3436,7 @@
             "id": "0240147d-a930-42fb-9d04-108e931662a6",
             "links": {},
             "meta": {
-                "score": 5.4699345
+                "score": 5.00285
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3443,7 +3490,7 @@
             "id": "b6526844-3869-4ee1-aecb-bac310ee576f",
             "links": {},
             "meta": {
-                "score": 5.464953
+                "score": 4.9958467
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3497,54 +3544,7 @@
             "id": "df2d57c5-3eaf-41d1-bd3f-d6fbcf25aea6",
             "links": {},
             "meta": {
-                "score": 5.4628253
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ATRIC Developments"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Analyze financial data and create financial models to support valuation, <em class=\"search-highlight\">planning</em>, and forecasting.          ",
-                            "Keeping track of a company’s financial <em class=\"search-highlight\">plan</em> and guide the cost analysis process.          "
-                        ],
-                        "value": [
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior Financial <em class=\"search-highlight\">Planning</em> & Analysis"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "04849f17-d943-4b6c-ad4b-4fdc466ad6c7",
-            "links": {},
-            "meta": {
-                "score": 5.4578333
+                "score": 4.994573
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3583,8 +3583,8 @@
                             "in order to be integrated into the project management planMonitor the progress and update the <em class=\"search-highlight\">plan</em> when"
                         ],
                         "value": [
-                            "plans",
-                            "plan"
+                            "plan",
+                            "plans"
                         ]
                     },
                     {
@@ -3601,7 +3601,7 @@
             "id": "42071745-e384-4320-a635-134f66ed3a81",
             "links": {},
             "meta": {
-                "score": 5.4565244
+                "score": 4.9868784
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3648,7 +3648,7 @@
             "id": "cc2ce400-801a-4027-86c9-a3739efcb92e",
             "links": {},
             "meta": {
-                "score": 5.4158134
+                "score": 4.9427514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3703,7 +3703,7 @@
             "id": "9c80398e-1b10-4981-9aa6-b242995a70be",
             "links": {},
             "meta": {
-                "score": 5.3405986
+                "score": 4.8556437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3757,7 +3757,7 @@
             "id": "910f6eb0-a805-4748-a5ea-c22ff7ab1684",
             "links": {},
             "meta": {
-                "score": 5.285574
+                "score": 4.7932353
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3820,7 +3820,7 @@
             "id": "8a90e790-5472-4408-aea2-698626d47637",
             "links": {},
             "meta": {
-                "score": 5.2111344
+                "score": 4.7072835
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3858,8 +3858,8 @@
                             "Skill.High level of Quality of the work.Flexible, adaptable and comfortable with ambiguity.Team Work.<em class=\"search-highlight\">Plan</em>"
                         ],
                         "value": [
-                            "Plan",
-                            "planning"
+                            "planning",
+                            "Plan"
                         ]
                     },
                     {
@@ -3872,9 +3872,9 @@
                         ],
                         "value": [
                             "plans",
-                            "planned",
                             "Planning",
-                            "plan"
+                            "plan",
+                            "planned"
                         ]
                     },
                     {
@@ -3891,7 +3891,7 @@
             "id": "053924d0-071c-47f7-84f1-6b5ca8422e9f",
             "links": {},
             "meta": {
-                "score": 5.0544586
+                "score": 4.537071
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3948,7 +3948,7 @@
             "id": "e2dc6e0b-0b31-4797-8f2f-60d4f8ea8339",
             "links": {},
             "meta": {
-                "score": 5.0380507
+                "score": 4.5209475
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4015,7 +4015,7 @@
             "id": "616df1e2-d64a-4d6c-91fd-2deff2f822f6",
             "links": {},
             "meta": {
-                "score": 4.9917893
+                "score": 4.467677
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4069,7 +4069,7 @@
             "id": "dda12247-13d6-4f85-a0f9-660735969786",
             "links": {},
             "meta": {
-                "score": 4.86157
+                "score": 4.328972
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4123,7 +4123,7 @@
             "id": "8849097e-867b-4aa9-a7a7-96047fbf2f67",
             "links": {},
             "meta": {
-                "score": 4.858673
+                "score": 4.3255086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4179,7 +4179,7 @@
             "id": "7a81f4bc-1abf-4168-b340-9aa96c0e4737",
             "links": {},
             "meta": {
-                "score": 4.835054
+                "score": 4.3029385
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4247,7 +4247,7 @@
             "id": "34103f0e-3f3b-46e5-b081-3940725bbc69",
             "links": {},
             "meta": {
-                "score": 4.728179
+                "score": 4.1885657
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4292,7 +4292,7 @@
             "id": "a4b33f25-8e8c-4134-b329-69e490a4dc56",
             "links": {},
             "meta": {
-                "score": 4.6947494
+                "score": 4.1562624
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4343,10 +4343,10 @@
                             "Liaise with stakeholders on product change requests and review and communicate the impact on <em class=\"search-highlight\">planning</em>"
                         ],
                         "value": [
-                            "plans",
+                            "planning",
                             "Planning",
                             "Plan",
-                            "planning"
+                            "plans"
                         ]
                     },
                     {
@@ -4363,7 +4363,7 @@
             "id": "baab2b29-25ca-400c-ba5c-b68867113427",
             "links": {},
             "meta": {
-                "score": 4.6581893
+                "score": 4.1144915
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4417,7 +4417,7 @@
             "id": "be21c2a2-e4ca-4f38-aa37-91af196fcf49",
             "links": {},
             "meta": {
-                "score": 4.5843306
+                "score": 4.039905
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4456,9 +4456,9 @@
                             "<em class=\"search-highlight\">Plan</em> and prepare project paperwork and update it regularly in liaison with the Project Manager."
                         ],
                         "value": [
-                            "plans",
+                            "planning",
                             "Plan",
-                            "planning"
+                            "plans"
                         ]
                     },
                     {
@@ -4475,7 +4475,7 @@
             "id": "fc4a9a80-2a8f-4d26-997b-2ac4148f8b86",
             "links": {},
             "meta": {
-                "score": 4.5776706
+                "score": 4.033455
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4536,7 +4536,7 @@
             "id": "9b657858-bf04-436f-8a68-c0df6af7808d",
             "links": {},
             "meta": {
-                "score": 4.574346
+                "score": 4.0301647
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4610,7 +4610,153 @@
             "id": "b5b1f549-c4e0-4b11-8661-62c33a3186ff",
             "links": {},
             "meta": {
-                "score": 4.5726724
+                "score": 4.026157
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            " LeadershipManagement skillFinancial management skillsStrategic <em class=\"search-highlight\">planning</em> skills Analytical and problem-solving"
+                        ],
+                        "value": [
+                            "planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "ac9c8093-aed1-4852-9fd6-cfa6dfdb96e4",
+            "links": {},
+            "meta": {
+                "score": 3.6867397
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "communication skillsExcellent communication and leadership skillsVery good communication skillsAbility to <em class=\"search-highlight\">plan</em>",
+                            ", multi-task and manage time effectivelyProblem Solving, Critical Thinking, <em class=\"search-highlight\">Planning</em> Skills, Time Management"
+                        ],
+                        "value": [
+                            "plan",
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "functions within various departments to ensure the completion of training processes.Oversee on all training <em class=\"search-highlight\">plans</em>"
+                        ],
+                        "value": [
+                            "plans"
+                        ]
+                    }
+                ]
+            },
+            "id": "8a4084c4-60a2-4476-88e4-6c40de0ee595",
+            "links": {},
+            "meta": {
+                "score": 3.6823022
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Sales <em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "history of working in Odoo ERP System.Skilled in Negotiation & Customer Relationship Management.Excellent <em class=\"search-highlight\">planning</em>"
+                        ],
+                        "value": [
+                            "planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "10a22335-ecf8-46ea-9c60-e2e046638d6e",
+            "links": {},
+            "meta": {
+                "score": 3.66818
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4664,7 +4810,7 @@
             "id": "88cba809-fa41-4621-8afe-e782de3904d0",
             "links": {},
             "meta": {
-                "score": 4.217849
+                "score": 3.6659694
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4681,7 +4827,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "GAWAD MIXER"
+                            "Artemis"
                         ]
                     }
                 ],
@@ -4689,45 +4835,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer",
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc of production engineering.<em class=\"search-highlight\">Planning</em> management skills and experience not less than 3yrs and not more",
-                            "preferred.Outstanding analytical and problem-solving skills.Must have a general understanding of manufacturing <em class=\"search-highlight\">planning</em>",
-                            "accounting and manufacturing systems in a research or production environment and to learn and apply basic <em class=\"search-highlight\">planning</em>",
-                            "tools and techniques; and knowledge of concepts and principles of <em class=\"search-highlight\">planning</em> to develop solutions to a"
-                        ],
-                        "value": [
-                            "Planning",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "on customer demand inputs.Develops manufacturing work orders in accordance with Material Requirement <em class=\"search-highlight\">Planning</em>",
-                            "(MRP) <em class=\"search-highlight\">planned</em> order requirements; guides manufacturing on action(s) to be taken.Enters, reviews, and",
-                            "analyzes customer firm orders and forecast.Communicates ship <em class=\"search-highlight\">plans</em>, production delays, and upcoming",
-                            "manager, quality, engineering, and program management, and other supply chain disciplines to proactively <em class=\"search-highlight\">plan</em>"
-                        ],
-                        "value": [
-                            "plans",
-                            "planned",
-                            "Planning",
-                            "plan"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Production <em class=\"search-highlight\">Planning</em> Engineer"
+                            "Project <em class=\"search-highlight\">Planning</em>"
                         ],
                         "value": [
                             "Planning"
@@ -4735,10 +4843,10 @@
                     }
                 ]
             },
-            "id": "93d5c591-5d1f-4d8a-9557-c193433621f4",
+            "id": "1dbf5e58-be19-41b0-9762-47ebadfab30e",
             "links": {},
             "meta": {
-                "score": 4.153677
+                "score": 3.665653
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4755,7 +4863,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "SYE English Community"
                         ]
                     }
                 ],
@@ -4763,296 +4871,18 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
+                            "Marketing <em class=\"search-highlight\">Plan</em>"
                         ],
                         "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            ". • <em class=\"search-highlight\">Planning</em> & Scheduling. • Time Control. • Cost Control. • Change and Claims Management. • Contracts"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> & Scheduling: Developing and managing the project’s baseline schedule by the following: • Studying",
-                            "& techniques to develop the schedule (Primavera P6 & Microsoft Office). • Preparation of Execution <em class=\"search-highlight\">Plan</em>"
-                        ],
-                        "value": [
-                            "Planning",
                             "Plan"
                         ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
                     }
                 ]
             },
-            "id": "9d229408-1393-482b-85c5-fce2463c66c9",
+            "id": "cf919ca1-e57a-4acb-9755-9a2eee94a271",
             "links": {},
             "meta": {
-                "score": 4.0985484
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "kraft pack"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Strategy <em class=\"search-highlight\">Planning</em>",
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "الكرتون المضلعExcellent communication skillsBachelor in Engineering or Faculty of Urban and Regional <em class=\"search-highlight\">Planning</em>.English"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Oversee production <em class=\"search-highlight\">planning</em> and management activities within the organization.Develop production <em class=\"search-highlight\">plan</em>",
-                            "specifications.Determine production requirements based on plant capacity and production specifications.<em class=\"search-highlight\">Plan</em>"
-                        ],
-                        "value": [
-                            "Plan",
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "5b09b852-d829-42af-a6c8-ad1581f4d847",
-            "links": {},
-            "meta": {
-                "score": 3.974667
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Khwarizm for Business Development"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Strategic <em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "in Chemicals or Packaging industrial sector is a must.Having a proven solid experience in Strategic <em class=\"search-highlight\">Planning</em>.Able"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "The scale up <em class=\"search-highlight\">plan</em> advisors shall cover  strategic <em class=\"search-highlight\">planning</em> module : This module will focus on developing",
-                            "a growth <em class=\"search-highlight\">plan</em> by evaluating the capabilities of companies and studying ways to develop them to possess"
-                        ],
-                        "value": [
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Strategic <em class=\"search-highlight\">Planning</em> Business Advisor"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "e653ba2f-0a1d-40d7-a320-b3b6d8369522",
-            "links": {},
-            "meta": {
-                "score": 3.9580178
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "IGI-Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Requirements:Bachelor’s Degree from a respectable University, From 5-7 years of proven experience at the <em class=\"search-highlight\">planning</em>"
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "team members, clients and stakeholdersBreaking large project into phases and preparing a master time <em class=\"search-highlight\">plan</em>"
-                        ],
-                        "value": [
-                            "plan"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Planning</em> Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "215faa04-79a6-4101-9dbf-8516efc8dc11",
-            "links": {},
-            "meta": {
-                "score": 3.8836179
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "International Group For Modern Coating "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Degree in Engineering or similar.Proficiency in MS Office.<em class=\"search-highlight\">Planning</em> and project management skills.Strong"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Engineer"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "a0b4c98d-9640-4865-8e79-5e9d6437f619",
-            "links": {},
-            "meta": {
-                "score": 3.883177
+                "score": 3.6654308
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5077,31 +4907,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "historical sales data and future <em class=\"search-highlight\">plans</em> to achieve continuous improvement in the accuracy of the demand",
-                            "planBuild the production <em class=\"search-highlight\">plan</em> to ensure that the Demand <em class=\"search-highlight\">plan</em> is fulfilled in a timely and cost-effective",
-                            "manner.Develop the factory <em class=\"search-highlight\">plan</em> on the short term (monthly) and long term (quarterly, semiannual, annual",
-                            ".Manage inventory levels of Raw material and packaging to guarantee the execution of the Production <em class=\"search-highlight\">Plan</em>",
-                            "interruptions.Manage inventory levels of finished goods to guarantee a smooth execution of the Demand <em class=\"search-highlight\">Plan</em>"
-                        ],
-                        "value": [
-                            "Plan",
-                            "plans",
-                            "plan"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Specialist"
+                            "Sales <em class=\"search-highlight\">Planning</em>"
                         ],
                         "value": [
                             "Planning"
@@ -5109,10 +4915,10 @@
                     }
                 ]
             },
-            "id": "ebd7f8bf-a18c-44db-87ad-4a127f38f05a",
+            "id": "a995d63e-728e-4a5a-96d9-3e6164860b76",
             "links": {},
             "meta": {
-                "score": 3.8758564
+                "score": 3.6634686
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5129,7 +4935,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Hayat Kimya"
+                            "Khalil Pharmacies"
                         ]
                     }
                 ],
@@ -5142,145 +4948,13 @@
                         "value": [
                             "Planning"
                         ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Engineering Bachelor Degree Excellent <em class=\"search-highlight\">planning</em> and organization skills Advanced level user of Microsoft"
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Assure that machine capacity combines with customer orders <em class=\"search-highlight\">plan</em>.Follow up with purchasing department",
-                            "Check with the quality and production department on finished product quality status to compare it with <em class=\"search-highlight\">planned</em>",
-                            "with all department activities throughout the month.Responsible for creating an annual budget for the <em class=\"search-highlight\">planning</em>"
-                        ],
-                        "value": [
-                            "planned",
-                            "plan",
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em> Chief"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
                     }
                 ]
             },
-            "id": "e87f9bb5-05a4-4ab2-b427-36e5aa7e6b5a",
+            "id": "269746e8-2c67-4f6c-9227-8fec1b71d238",
             "links": {},
             "meta": {
-                "score": 3.8298974
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Raya Customer Experience"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "communication skillsExcellent communication and leadership skillsVery good communication skillsAbility to <em class=\"search-highlight\">plan</em>",
-                            ", multi-task and manage time effectivelyProblem Solving, Critical Thinking, <em class=\"search-highlight\">Planning</em> Skills, Time Management"
-                        ],
-                        "value": [
-                            "Planning",
-                            "plan"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "functions within various departments to ensure the completion of training processes.Oversee on all training <em class=\"search-highlight\">plans</em>"
-                        ],
-                        "value": [
-                            "plans"
-                        ]
-                    }
-                ]
-            },
-            "id": "8a4084c4-60a2-4476-88e4-6c40de0ee595",
-            "links": {},
-            "meta": {
-                "score": 3.7297792
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            " LeadershipManagement skillFinancial management skillsStrategic <em class=\"search-highlight\">planning</em> skills Analytical and problem-solving"
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "ac9c8093-aed1-4852-9fd6-cfa6dfdb96e4",
-            "links": {},
-            "meta": {
-                "score": 3.7282596
+                "score": 3.663029
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5338,66 +5012,7 @@
             "id": "1bf7b20c-d432-40f1-8ddb-8727c978c9ed",
             "links": {},
             "meta": {
-                "score": 3.7215207
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "POT Media"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Media <em class=\"search-highlight\">Planning</em>",
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Digital media <em class=\"search-highlight\">planning</em> and buying experience .Manage Social Media Platforms experience."
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Help identify target audiences and <em class=\"search-highlight\">plan</em> media campaigns.Compare and negotiate rates, ad space, and airtime.Optimize",
-                            "<em class=\"search-highlight\">plans</em> and budgets according to the best media mixPrepare schedules and adjust when neededExperiment",
-                            "and build long-term relationshipsEquip clients' brief with an interactive strategic digital marketing <em class=\"search-highlight\">plan</em>.Responsible",
-                            "competitive analysis and media reporting.Producing digital campaign execution and reporting.Creating media <em class=\"search-highlight\">plans</em>"
-                        ],
-                        "value": [
-                            "plans",
-                            "plan"
-                        ]
-                    }
-                ]
-            },
-            "id": "7c5d3416-1363-499b-bf3c-e1d76443ebb9",
-            "links": {},
-            "meta": {
-                "score": 3.7208662
+                "score": 3.6603944
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5442,97 +5057,7 @@
             "id": "8c4a8dac-e31f-4f92-b325-c0e2fab613c2",
             "links": {},
             "meta": {
-                "score": 3.71897
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Sales <em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "history of working in Odoo ERP System.Skilled in Negotiation & Customer Relationship Management.Excellent <em class=\"search-highlight\">planning</em>"
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "10a22335-ecf8-46ea-9c60-e2e046638d6e",
-            "links": {},
-            "meta": {
-                "score": 3.7187643
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Soficopharm"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Planning</em>"
-                        ],
-                        "value": [
-                            "Planning"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "office.Good analytical abilities.Well organized, presentable and Follow up skills.Very good negotiation, <em class=\"search-highlight\">planning</em>"
-                        ],
-                        "value": [
-                            "planning"
-                        ]
-                    }
-                ]
-            },
-            "id": "5a0a1604-5bde-4fc9-bb64-b9972396fad6",
-            "links": {},
-            "meta": {
-                "score": 3.7183027
+                "score": 3.6593144
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5587,7 +5112,153 @@
             "id": "02d6e16b-aef4-4b9f-8354-e5bea7b4a980",
             "links": {},
             "meta": {
-                "score": 3.7180765
+                "score": 3.6586945
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "languages with DotNet (C#), React.js are in the focus now, and familiarity with task management and project <em class=\"search-highlight\">planning</em>",
+                            "decisions to non-tech stakeholders, assign tasks to his technical team members, and update the development <em class=\"search-highlight\">plans</em>",
+                            "problem-solver.Remain cool and effective in a crisis.Stay on the leading edge of development practices.<em class=\"search-highlight\">Plan</em>"
+                        ],
+                        "value": [
+                            "plans",
+                            "planning",
+                            "Plan"
+                        ]
+                    }
+                ]
+            },
+            "id": "7eb08cfa-560a-4e8b-9e7f-99c68b9be798",
+            "links": {},
+            "meta": {
+                "score": 3.6579535
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Soficopharm"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "office.Good analytical abilities.Well organized, presentable and Follow up skills.Very good negotiation, <em class=\"search-highlight\">planning</em>"
+                        ],
+                        "value": [
+                            "planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "5a0a1604-5bde-4fc9-bb64-b9972396fad6",
+            "links": {},
+            "meta": {
+                "score": 3.6579425
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al Janobi Co. For Contracting"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Responsible for the <em class=\"search-highlight\">planning</em> process for construction and contracting projects, and for contributing",
+                            "implementation of these projects and following up on the progress of work in them to the fullest extent as <em class=\"search-highlight\">planned</em>.Key",
+                            "to the field of construction and contracting with the senior executive management.Preparing annual <em class=\"search-highlight\">plans</em>",
+                            "company’s objectives in terms of time, cost, and quality.Manage the development of the project execution <em class=\"search-highlight\">plan</em>",
+                            "and contracts, resolving any contracts conflicts.Reviewing structural and detailed <em class=\"search-highlight\">plans</em> for projects.Ensuring"
+                        ],
+                        "value": [
+                            "plans",
+                            "plan",
+                            "planning",
+                            "planned"
+                        ]
+                    }
+                ]
+            },
+            "id": "f3134833-7282-4b24-a11a-8887755a1d2d",
+            "links": {},
+            "meta": {
+                "score": 3.6577363
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5632,7 +5303,7 @@
             "id": "fb9474bd-a704-407c-8f0a-68f9e717e673",
             "links": {},
             "meta": {
-                "score": 3.716358
+                "score": 3.6567218
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5677,7 +5348,7 @@
             "id": "ba0da9c9-56eb-4a23-90f3-c5a6e2537c07",
             "links": {},
             "meta": {
-                "score": 3.71604
+                "score": 3.6553495
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5694,7 +5365,135 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Semak"
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Warehouse, distribution operationsSupervise, coach, and train warehouse workforceOrganize warehouse, <em class=\"search-highlight\">plan</em>"
+                        ],
+                        "value": [
+                            "plan"
+                        ]
+                    }
+                ]
+            },
+            "id": "5b8e2c64-9250-40bb-a174-9132da2ac5e4",
+            "links": {},
+            "meta": {
+                "score": 3.6503189
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DYNINNO Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Manpower <em class=\"search-highlight\">Planning</em>"
+                        ],
+                        "value": [
+                            "Planning"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "divisions.DYNINNO Egypt started its operations in Cairo in mid-2019 and has rapidly grown to 120 employees with <em class=\"search-highlight\">plans</em>",
+                            "existing facility and to set a new benchmark on the market.Responsibilities:Developing annual manpower <em class=\"search-highlight\">plan</em>"
+                        ],
+                        "value": [
+                            "plans",
+                            "plan"
+                        ]
+                    }
+                ]
+            },
+            "id": "59fa178a-6991-43f8-b114-1541a9231ff2",
+            "links": {},
+            "meta": {
+                "score": 3.6450486
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ابا الدهب التجاريه"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">planning</em>"
+                        ],
+                        "value": [
+                            "planning"
+                        ]
+                    }
+                ]
+            },
+            "id": "8aa192c9-03e7-4f62-8c3e-f3b93d0681eb",
+            "links": {},
+            "meta": {
+                "score": 3.6428595
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sukari Gold Mines"
                         ]
                     }
                 ],
@@ -5711,29 +5510,18 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "a related field.3+ years of the media buying experience.Organizational, multitasking abilities, and <em class=\"search-highlight\">planning</em>"
+                            "(is a must).Excellent command of English skills.Good knowledge of talent management and succession <em class=\"search-highlight\">planning</em>.Proficient"
                         ],
                         "value": [
                             "planning"
                         ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Help identify target audiences and <em class=\"search-highlight\">plan</em> media campaignsCompare and negotiate rates, ad space, and airtimeOptimize",
-                            "<em class=\"search-highlight\">plans</em> and budgets according to the best media mixPrepare schedules and adjust when neededExperiment"
-                        ],
-                        "value": [
-                            "plans",
-                            "plan"
-                        ]
                     }
                 ]
             },
-            "id": "dad94f37-fa5a-43b6-940e-df38fea2c35e",
+            "id": "e7ad3ae8-fa85-4293-9563-d0e5dc1a17bd",
             "links": {},
             "meta": {
-                "score": 3.7134926
+                "score": 3.6266367
             },
             "relationships": {},
             "type": "talentSearch"

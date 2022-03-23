@@ -73,7 +73,7 @@
             "id": "64a75a5a-933a-442d-816c-6c25d277b48d",
             "links": {},
             "meta": {
-                "score": 10.266048
+                "score": 10.101149
             },
             "relationships": {},
             "type": "talentSearch"
@@ -138,7 +138,72 @@
             "id": "110ecb17-4e33-4f00-b674-0a9446af7db7",
             "links": {},
             "meta": {
-                "score": 10.136231
+                "score": 10.028359
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Cairo Three A  for Agricultural and Animal Production"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em> Certificate"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience in OD & RecruitmentExcellent written and verbal communication skills.Excellent in English.<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Develop various <em class=\"search-highlight\">HR</em> policies and procedures for management approvals and communicate them to all employees",
+                            "with employee requests regarding human resources issues, rules, and complains.Manage and organize the <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">HR</em> Generalist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "149e7fc8-431a-4fce-aece-f9f85d2b4df6",
+            "links": {},
+            "meta": {
+                "score": 10.013088
             },
             "relationships": {},
             "type": "talentSearch"
@@ -204,7 +269,7 @@
             "id": "275631f5-4a92-4af7-bd21-bf28551990e7",
             "links": {},
             "meta": {
-                "score": 10.134929
+                "score": 9.99849
             },
             "relationships": {},
             "type": "talentSearch"
@@ -221,7 +286,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Cairo Three A  for Agricultural and Animal Production"
+                            "Smart GYM"
                         ]
                     }
                 ],
@@ -230,72 +295,8 @@
                         "name": "skills",
                         "snippets": [
                             "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em> Certificate"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Experience in OD & RecruitmentExcellent written and verbal communication skills.Excellent in English.<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Develop various <em class=\"search-highlight\">HR</em> policies and procedures for management approvals and communicate them to all employees",
-                            "with employee requests regarding human resources issues, rules, and complains.Manage and organize the <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">HR</em> Generalist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "149e7fc8-431a-4fce-aece-f9f85d2b4df6",
-            "links": {},
-            "meta": {
-                "score": 10.1273365
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Unitech Contracting and Trading"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> generalist",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em> Diploma",
+                            "<em class=\"search-highlight\">HR</em> Recruitment",
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
@@ -305,17 +306,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Proven work experience as an <em class=\"search-highlight\">HR</em> Specialist or <em class=\"search-highlight\">HR</em> Generalist.2-4 years experience in the personnel department.Preferable"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Implementing <em class=\"search-highlight\">HR</em> strategies, policies, and practices. ",
-                            "Monitor and enforce compliance requirements Assist Team Members with <em class=\"search-highlight\">HR</em> related matters Process and maintain"
+                            "<em class=\"search-highlight\">HR</em> diploma or certificate is a plus.\n2-4 years of experience in Recruitment."
                         ],
                         "value": [
                             "HR"
@@ -324,7 +315,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
+                            "<em class=\"search-highlight\">HR</em> Recruitment Specialist"
                         ],
                         "value": [
                             "HR"
@@ -332,10 +323,10 @@
                     }
                 ]
             },
-            "id": "971dc333-ac38-4424-a48f-d1b3e7793aea",
+            "id": "f52da919-b67e-444e-ab8c-0be7d5fc6c96",
             "links": {},
             "meta": {
-                "score": 10.121063
+                "score": 9.99753
             },
             "relationships": {},
             "type": "talentSearch"
@@ -404,7 +395,121 @@
             "id": "bccb1967-9c44-456b-8f57-03c797c99bb3",
             "links": {},
             "meta": {
-                "score": 10.116379
+                "score": 9.982271
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Meem Development"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Implementing and supporting <em class=\"search-highlight\">HR</em> processes, developing corporate culture, aims and valuesCooperating closely",
+                            "career development, salary review, etcOrganize internal employees’ rotationCollecting and analyzing <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Administrator"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "3a0c4332-eede-47ff-b166-934b0953d1c9",
+            "links": {},
+            "meta": {
+                "score": 9.979923
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">hr</em> system",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "hr",
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "University degree in any field 1 - 2 years' experience in <em class=\"search-highlight\">HR</em> operations area,  <em class=\"search-highlight\">HR</em> Diploma or its equivalent",
+                            "<em class=\"search-highlight\">HR</em> System User is a must. "
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Officer"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "1f604fe2-a3fe-4577-844f-1aef6239de0a",
+            "links": {},
+            "meta": {
+                "score": 9.97496
             },
             "relationships": {},
             "type": "talentSearch"
@@ -470,7 +575,228 @@
             "id": "c98996e3-4049-45af-bdc9-03a80c676433",
             "links": {},
             "meta": {
-                "score": 10.112002
+                "score": 9.97478
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Recruitment Supervisor"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "596e5696-2e16-45bc-b438-3f02cb5c6cc0",
+            "links": {},
+            "meta": {
+                "score": 9.971365
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Minimum 7 years of <em class=\"search-highlight\">HR</em> experience.Bachelor’s degree in Business, Human Resources, or a related field.Master"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Section Head"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "797605e9-b89a-415b-af2a-00aa90014e18",
+            "links": {},
+            "meta": {
+                "score": 9.968044
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGPI"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Developing <em class=\"search-highlight\">HR</em> planning strategies with line managers by considering immediate and long-term staff requirementsRecruiting",
+                            "variety of selection techniques including psychometric testing Interviewing shortlisted candidatesLead <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Manager - Pharmaceutical"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "6d12877b-4cca-4bd5-821b-8ac6a2af1759",
+            "links": {},
+            "meta": {
+                "score": 9.964022
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Unitech Contracting and Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> generalist",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as an <em class=\"search-highlight\">HR</em> Specialist or <em class=\"search-highlight\">HR</em> Generalist.2-4 years experience in the personnel department.Preferable"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Implementing <em class=\"search-highlight\">HR</em> strategies, policies, and practices. ",
+                            "Monitor and enforce compliance requirements Assist Team Members with <em class=\"search-highlight\">HR</em> related matters Process and maintain"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "971dc333-ac38-4424-a48f-d1b3e7793aea",
+            "links": {},
+            "meta": {
+                "score": 9.957297
             },
             "relationships": {},
             "type": "talentSearch"
@@ -524,188 +850,7 @@
             "id": "1d494750-58c8-4624-a3e2-47d2edbb5533",
             "links": {},
             "meta": {
-                "score": 10.11151
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smart GYM"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em> Diploma",
-                            "<em class=\"search-highlight\">HR</em> Recruitment",
-                            "<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> diploma or certificate is a plus.\n2-4 years of experience in Recruitment."
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Recruitment Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "f52da919-b67e-444e-ab8c-0be7d5fc6c96",
-            "links": {},
-            "meta": {
-                "score": 10.110975
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">hr</em> system",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR",
-                            "hr"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "University degree in any field 1 - 2 years' experience in <em class=\"search-highlight\">HR</em> operations area,  <em class=\"search-highlight\">HR</em> Diploma or its equivalent",
-                            "<em class=\"search-highlight\">HR</em> System User is a must. "
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Officer"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "1f604fe2-a3fe-4577-844f-1aef6239de0a",
-            "links": {},
-            "meta": {
-                "score": 10.110562
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em>",
-                            "<em class=\"search-highlight\">HR</em> Systems"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Excellent command of English and Arabic both written and oral.Experience in <em class=\"search-highlight\">HR</em> systems for medium and",
-                            "Stable lifestyle - Remember, as <em class=\"search-highlight\">HR</em> you are setting an example!"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We are looking for an experienced <em class=\"search-highlight\">HR</em> Manager for the company.Conduct the following:Recruitment."
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Manager"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "f7730b04-b556-4128-b99e-223eab785fc2",
-            "links": {},
-            "meta": {
-                "score": 10.110317
+                "score": 9.952107
             },
             "relationships": {},
             "type": "talentSearch"
@@ -760,7 +905,7 @@
             "id": "30350d17-d3b8-459a-9444-bf8aa922fa4a",
             "links": {},
             "meta": {
-                "score": 10.108028
+                "score": 9.943764
             },
             "relationships": {},
             "type": "talentSearch"
@@ -831,118 +976,7 @@
             "id": "51eef258-5eb6-4cab-b552-cd80a06538ab",
             "links": {},
             "meta": {
-                "score": 10.106077
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Minimum 7 years of <em class=\"search-highlight\">HR</em> experience.Bachelor’s degree in Business, Human Resources, or a related field.Master"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Section Head"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "797605e9-b89a-415b-af2a-00aa90014e18",
-            "links": {},
-            "meta": {
-                "score": 10.104994
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Meem Development"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Implementing and supporting <em class=\"search-highlight\">HR</em> processes, developing corporate culture, aims and valuesCooperating closely",
-                            "career development, salary review, etcOrganize internal employees’ rotationCollecting and analyzing <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Administrator"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "3a0c4332-eede-47ff-b166-934b0953d1c9",
-            "links": {},
-            "meta": {
-                "score": 10.102131
+                "score": 9.94061
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1009,62 +1043,7 @@
             "id": "59fa178a-6991-43f8-b114-1541a9231ff2",
             "links": {},
             "meta": {
-                "score": 10.098167
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EGPI"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Developing <em class=\"search-highlight\">HR</em> planning strategies with line managers by considering immediate and long-term staff requirementsRecruiting",
-                            "variety of selection techniques including psychometric testing Interviewing shortlisted candidatesLead <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Manager - Pharmaceutical"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "6d12877b-4cca-4bd5-821b-8ac6a2af1759",
-            "links": {},
-            "meta": {
-                "score": 10.098155
+                "score": 9.932323
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1123,7 +1102,7 @@
             "id": "905a9964-1ad8-4640-bd68-4cc93f2f355f",
             "links": {},
             "meta": {
-                "score": 10.09234
+                "score": 9.927218
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1140,7 +1119,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Premier Services and Recruitment"
+                            ""
                         ]
                     }
                 ],
@@ -1148,7 +1127,9 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em>",
+                            "<em class=\"search-highlight\">HR</em> Systems"
                         ],
                         "value": [
                             "HR"
@@ -1157,7 +1138,8 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Minimum 5 Years of Extensive <em class=\"search-highlight\">HR</em> Implementation ExperienceExcellent in English Language."
+                            "Excellent command of English and Arabic both written and oral.Experience in <em class=\"search-highlight\">HR</em> systems for medium and",
+                            "Stable lifestyle - Remember, as <em class=\"search-highlight\">HR</em> you are setting an example!"
                         ],
                         "value": [
                             "HR"
@@ -1166,11 +1148,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "To deliver transactional and specialist <em class=\"search-highlight\">HR</em> services to markets across our businessEnsures standardized",
-                            "<em class=\"search-highlight\">HR</em> processes are effectively implemented and services are delivered in a consistent and common way across",
-                            "processes, business rules, metrics and standard operating procedures with <em class=\"search-highlight\">HR</em>; ensures processes are",
-                            "services to markets across our businessEnsures standardized <em class=\"search-highlight\">HR</em> processes are effectively implemented",
-                            "processes, business rules, metrics and standard operating procedures with <em class=\"search-highlight\">HR</em>; ensures processes are"
+                            "We are looking for an experienced <em class=\"search-highlight\">HR</em> Manager for the company.Conduct the following:Recruitment."
                         ],
                         "value": [
                             "HR"
@@ -1179,7 +1157,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Business Partner"
+                            "<em class=\"search-highlight\">HR</em> Manager"
                         ],
                         "value": [
                             "HR"
@@ -1187,10 +1165,10 @@
                     }
                 ]
             },
-            "id": "5004772b-f5d7-44ff-9bba-8d7db613e968",
+            "id": "f7730b04-b556-4128-b99e-223eab785fc2",
             "links": {},
             "meta": {
-                "score": 10.089255
+                "score": 9.9183655
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1244,52 +1222,7 @@
             "id": "bcc47d84-fa11-4e60-9cf5-91044b6eace2",
             "links": {},
             "meta": {
-                "score": 10.0864935
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Recruitment Supervisor"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "596e5696-2e16-45bc-b438-3f02cb5c6cc0",
-            "links": {},
-            "meta": {
-                "score": 10.083238
+                "score": 9.898759
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1345,7 +1278,7 @@
             "id": "32da08b3-75df-4793-85fa-62a2cbf095be",
             "links": {},
             "meta": {
-                "score": 10.077399
+                "score": 9.838555
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1414,7 +1347,7 @@
             "id": "8b5e79af-0c66-4220-ad45-48836a6e328e",
             "links": {},
             "meta": {
-                "score": 10.073608
+                "score": 9.831062
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1485,7 +1418,119 @@
             "id": "8e838ffc-b829-48aa-9781-8c781b52e8db",
             "links": {},
             "meta": {
-                "score": 10.071406
+                "score": 9.830817
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Premier Services and Recruitment"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Minimum 5 Years of Extensive <em class=\"search-highlight\">HR</em> Implementation ExperienceExcellent in English Language."
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "To deliver transactional and specialist <em class=\"search-highlight\">HR</em> services to markets across our businessEnsures standardized",
+                            "<em class=\"search-highlight\">HR</em> processes are effectively implemented and services are delivered in a consistent and common way across",
+                            "processes, business rules, metrics and standard operating procedures with <em class=\"search-highlight\">HR</em>; ensures processes are",
+                            "services to markets across our businessEnsures standardized <em class=\"search-highlight\">HR</em> processes are effectively implemented",
+                            "processes, business rules, metrics and standard operating procedures with <em class=\"search-highlight\">HR</em>; ensures processes are"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Business Partner"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "5004772b-f5d7-44ff-9bba-8d7db613e968",
+            "links": {},
+            "meta": {
+                "score": 9.827365
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AFKAR Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>/Recruitment Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "32aa591e-c653-42ba-8280-f68af3e4d222",
+            "links": {},
+            "meta": {
+                "score": 9.800447
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1553,7 +1598,52 @@
             "id": "42e5fd9c-cd25-4b1e-8967-51257ebfceaf",
             "links": {},
             "meta": {
-                "score": 10.062195
+                "score": 9.798315
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "968e6af5-2cca-4747-b009-2533419d2ed7",
+            "links": {},
+            "meta": {
+                "score": 9.796208
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1619,7 +1709,7 @@
             "id": "092b2e9e-db8b-4f1f-94c8-abbabfe2a766",
             "links": {},
             "meta": {
-                "score": 10.057852
+                "score": 9.792374
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1636,7 +1726,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "ZDS Architects"
+                            ""
                         ]
                     }
                 ],
@@ -1644,26 +1734,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em> Certificate"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "experience: 2+ yearsExperienced with: Labor law and how to deal with the diversity.Courses Required: <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Assisting with completing background investigations\nProcessing transfers, promotions, and terminations\n\n<em class=\"search-highlight\">HR</em>"
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
                             "HR"
@@ -1672,7 +1743,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Generalist"
+                            "Junior <em class=\"search-highlight\">HR</em> Specialist"
                         ],
                         "value": [
                             "HR"
@@ -1680,10 +1751,10 @@
                     }
                 ]
             },
-            "id": "711eacc7-0fb6-48c0-8f40-7f6c65a6f9f3",
+            "id": "56b2eff5-672b-4bad-a99b-57a7ce46e6ba",
             "links": {},
             "meta": {
-                "score": 10.053607
+                "score": 9.792209
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1748,7 +1819,184 @@
             "id": "7eaf36c8-2802-4d18-95b3-30c4f563386c",
             "links": {},
             "meta": {
-                "score": 10.050759
+                "score": 9.781945
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ZDS Architects"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em> Certificate"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "experience: 2+ yearsExperienced with: Labor law and how to deal with the diversity.Courses Required: <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Assisting with completing background investigations\nProcessing transfers, promotions, and terminations\n\n<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Generalist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "711eacc7-0fb6-48c0-8f40-7f6c65a6f9f3",
+            "links": {},
+            "meta": {
+                "score": 9.768187
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Dar Al-Fouad Hospital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em> specialist",
+                            "<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "performance of the time keeping machines to ensure that the employees’ attendance is reflected on the <em class=\"search-highlight\">HR</em>",
+                            "employees’ compliance to the labor law and organizational policy.Create work schedules as required.Update <em class=\"search-highlight\">HR</em>",
+                            "calculations.Assist with the design, selection and implementation or modification of HRIS and other <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist ( Time Attendance ) - October Branch"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "3a54ff65-05a9-4f48-a976-1abf3f5cdb12",
+            "links": {},
+            "meta": {
+                "score": 9.765926
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mediterraneo Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's Degree is a must.1-2 years of experience in the <em class=\"search-highlight\">HR</em> field.Basic knowledge in Recruitment.Good"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Intern"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "f9c4af15-b41a-4af0-b819-9a41851ed297",
+            "links": {},
+            "meta": {
+                "score": 9.759966
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1812,309 +2060,7 @@
             "id": "3036e478-76cc-4fd2-b6cf-51735c2a8a3e",
             "links": {},
             "meta": {
-                "score": 10.042616
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "AFKAR Technology"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>/Recruitment Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "32aa591e-c653-42ba-8280-f68af3e4d222",
-            "links": {},
-            "meta": {
-                "score": 10.037697
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Mediterraneo Trading"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's Degree is a must.1-2 years of experience in the <em class=\"search-highlight\">HR</em> field.Basic knowledge in Recruitment.Good"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Intern"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "f9c4af15-b41a-4af0-b819-9a41851ed297",
-            "links": {},
-            "meta": {
-                "score": 10.036238
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "968e6af5-2cca-4747-b009-2533419d2ed7",
-            "links": {},
-            "meta": {
-                "score": 10.035952
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Junior <em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "56b2eff5-672b-4bad-a99b-57a7ce46e6ba",
-            "links": {},
-            "meta": {
-                "score": 10.0342865
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Dar Al-Fouad Hospital"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em> specialist",
-                            "<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "performance of the time keeping machines to ensure that the employees’ attendance is reflected on the <em class=\"search-highlight\">HR</em>",
-                            "employees’ compliance to the labor law and organizational policy.Create work schedules as required.Update <em class=\"search-highlight\">HR</em>",
-                            "calculations.Assist with the design, selection and implementation or modification of HRIS and other <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist ( Time Attendance ) - October Branch"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "3a54ff65-05a9-4f48-a976-1abf3f5cdb12",
-            "links": {},
-            "meta": {
-                "score": 10.030018
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "plansAssist in talent acquisition and recruitment processesProvide support to employees in various <em class=\"search-highlight\">HR</em>-related"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Compensation & Benefits Specialist (<em class=\"search-highlight\">HR</em> Department)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "20b45220-3023-4412-bfb6-01a0e1021c59",
-            "links": {},
-            "meta": {
-                "score": 10.012663
+                "score": 9.750335
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2168,7 +2114,207 @@
             "id": "217c4766-acfb-4406-b2fa-d18401f37ec5",
             "links": {},
             "meta": {
-                "score": 10.010675
+                "score": 9.723919
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "plansAssist in talent acquisition and recruitment processesProvide support to employees in various <em class=\"search-highlight\">HR</em>-related"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Compensation & Benefits Specialist (<em class=\"search-highlight\">HR</em> Department)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "20b45220-3023-4412-bfb6-01a0e1021c59",
+            "links": {},
+            "meta": {
+                "score": 9.720188
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kasrawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "letters at the end of the recruiting process.Schedules meetings and interviews as requested by the <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Coordinator"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "46cc90c7-a5c0-44d8-bfa7-9704f8d4c136",
+            "links": {},
+            "meta": {
+                "score": 9.713803
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "OD Specialist (<em class=\"search-highlight\">HR</em> Department)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "0d04d8f4-d5d9-48ca-a694-e63bf97ffb37",
+            "links": {},
+            "meta": {
+                "score": 9.700077
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Qmind"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Operation Associate"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "389ac9a9-9c71-4f24-ba54-ca561660e4a9",
+            "links": {},
+            "meta": {
+                "score": 9.699429
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2237,61 +2383,7 @@
             "id": "41cc0faf-e005-42c8-b766-91d16918c667",
             "links": {},
             "meta": {
-                "score": 10.009686
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Kasrawy Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "letters at the end of the recruiting process.Schedules meetings and interviews as requested by the <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Coordinator"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "46cc90c7-a5c0-44d8-bfa7-9704f8d4c136",
-            "links": {},
-            "meta": {
-                "score": 10.00589
+                "score": 9.694604
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2361,99 +2453,7 @@
             "id": "23321f37-1fd1-461f-a707-2b971bacc1fb",
             "links": {},
             "meta": {
-                "score": 9.999699
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "OD Specialist (<em class=\"search-highlight\">HR</em> Department)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "0d04d8f4-d5d9-48ca-a694-e63bf97ffb37",
-            "links": {},
-            "meta": {
-                "score": 9.99173
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Qmind"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Operation Associate"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "389ac9a9-9c71-4f24-ba54-ca561660e4a9",
-            "links": {},
-            "meta": {
-                "score": 9.9914055
+                "score": 9.690521
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2507,7 +2507,180 @@
             "id": "aa69f6e4-eb2c-4d7a-8a09-dc6a3d08b84e",
             "links": {},
             "meta": {
-                "score": 9.990491
+                "score": 9.677511
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart GYM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Assist in developing and implementing <em class=\"search-highlight\">HR</em> strategies and initiatives aligned with the overall business",
+                            "strategy.Assist in developing and updating <em class=\"search-highlight\">HR</em> policies and procedures, and ensuring policy awareness.Retain",
+                            "performanceMaintain pay plan and benefits programAssess training needs to apply and monitor training programsMaintain <em class=\"search-highlight\">HR</em>",
+                            "Produce and deliver standard (monthly, quarterly, and annual) and customized <em class=\"search-highlight\">HR</em> reports.",
+                            "Respond to <em class=\"search-highlight\">HR</em> data requests on an ad hoc basis by gathering, analyzing, and reporting relevant data from"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Supervisor"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "e290230f-cfaf-4497-bed3-9dcd7249e7f0",
+            "links": {},
+            "meta": {
+                "score": 9.663784
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Hassan Allam Property Management"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            " Handle problems and complaints of employees and report it directly to <em class=\"search-highlight\">HR</em> team . ",
+                            "Answer employees queries about <em class=\"search-highlight\">HR</em>-related issues  Monitor daily Attendance & Absenteeism for all employees.Organize",
+                            "Update internal databases and Create regular reports for <em class=\"search-highlight\">HR</em> team . ",
+                            "teamReview the staff salaries if there is any problem in it.Link between the site and the head office in all <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Site Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "1a307a3a-7052-40d3-84e4-2b4b0d892c2f",
+            "links": {},
+            "meta": {
+                "score": 9.662886
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "OSN"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "To provide administration support to the <em class=\"search-highlight\">HR</em> team and focus predominately on providing recruitment support",
+                            "Support with arranging interviews On-boarding: Work in coordination with the Egypt <em class=\"search-highlight\">HR</em> team to ensure:",
+                            "Off-boarding:Work in coordination with the Egypt <em class=\"search-highlight\">HR</em> team to ensure: All employees in the Contact Centre",
+                            "Employee Relations Support senior members of the <em class=\"search-highlight\">HR</em> Team with the administration of all correspondence"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Coordinator"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "8657480c-a1d7-4b0b-8bd9-0c56c8d11180",
+            "links": {},
+            "meta": {
+                "score": 9.66036
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2571,180 +2744,7 @@
             "id": "5c7a239f-ca0d-4262-a7a0-22073907051f",
             "links": {},
             "meta": {
-                "score": 9.988738
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Hassan Allam Property Management"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            " Handle problems and complaints of employees and report it directly to <em class=\"search-highlight\">HR</em> team . ",
-                            "Answer employees queries about <em class=\"search-highlight\">HR</em>-related issues  Monitor daily Attendance & Absenteeism for all employees.Organize",
-                            "Update internal databases and Create regular reports for <em class=\"search-highlight\">HR</em> team . ",
-                            "teamReview the staff salaries if there is any problem in it.Link between the site and the head office in all <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Site Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "1a307a3a-7052-40d3-84e4-2b4b0d892c2f",
-            "links": {},
-            "meta": {
-                "score": 9.980337
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smart GYM"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Assist in developing and implementing <em class=\"search-highlight\">HR</em> strategies and initiatives aligned with the overall business",
-                            "strategy.Assist in developing and updating <em class=\"search-highlight\">HR</em> policies and procedures, and ensuring policy awareness.Retain",
-                            "performanceMaintain pay plan and benefits programAssess training needs to apply and monitor training programsMaintain <em class=\"search-highlight\">HR</em>",
-                            "Produce and deliver standard (monthly, quarterly, and annual) and customized <em class=\"search-highlight\">HR</em> reports.",
-                            "Respond to <em class=\"search-highlight\">HR</em> data requests on an ad hoc basis by gathering, analyzing, and reporting relevant data from"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Supervisor"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "e290230f-cfaf-4497-bed3-9dcd7249e7f0",
-            "links": {},
-            "meta": {
-                "score": 9.979597
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "OSN"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "To provide administration support to the <em class=\"search-highlight\">HR</em> team and focus predominately on providing recruitment support",
-                            "Support with arranging interviews On-boarding: Work in coordination with the Egypt <em class=\"search-highlight\">HR</em> team to ensure:",
-                            "Off-boarding:Work in coordination with the Egypt <em class=\"search-highlight\">HR</em> team to ensure: All employees in the Contact Centre",
-                            "Employee Relations Support senior members of the <em class=\"search-highlight\">HR</em> Team with the administration of all correspondence"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Coordinator"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "8657480c-a1d7-4b0b-8bd9-0c56c8d11180",
-            "links": {},
-            "meta": {
-                "score": 9.975824
+                "score": 9.649782
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2800,7 +2800,7 @@
             "id": "183a28c3-a24a-4dc2-8a4c-7ce87c4b2297",
             "links": {},
             "meta": {
-                "score": 9.968378
+                "score": 9.634559
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2856,61 +2856,7 @@
             "id": "e9be0402-a75f-4f1d-9cf9-cd571afe6066",
             "links": {},
             "meta": {
-                "score": 9.965938
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "HK Designs"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Fluent in English.Excellent communication skills.<em class=\"search-highlight\">HR</em> experience from 3 to 6 years.Good knowledge of Egyptian"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Manager"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "73300b58-9a01-4b30-a7c6-0c21bc1af0b6",
-            "links": {},
-            "meta": {
-                "score": 9.95778
+                "score": 9.628209
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2967,7 +2913,152 @@
             "id": "f0ff33c6-bd5d-494b-86e3-22e30e0cd312",
             "links": {},
             "meta": {
-                "score": 9.952627
+                "score": 9.614526
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HK Designs"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Fluent in English.Excellent communication skills.<em class=\"search-highlight\">HR</em> experience from 3 to 6 years.Good knowledge of Egyptian"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Manager"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "73300b58-9a01-4b30-a7c6-0c21bc1af0b6",
+            "links": {},
+            "meta": {
+                "score": 9.603484
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GPS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Personnel Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "061e1977-75a5-4820-8a3b-247f1e0af2a6",
+            "links": {},
+            "meta": {
+                "score": 9.597867
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SAVOLA"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Operation",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Operations Specialist - Alexandria"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "2592de10-5c99-4978-ade2-95c283ec7cc3",
+            "links": {},
+            "meta": {
+                "score": 9.591844
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3022,7 +3113,7 @@
             "id": "d03403fe-3777-4cb1-9515-7318369a00f8",
             "links": {},
             "meta": {
-                "score": 9.940731
+                "score": 9.579179
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3039,7 +3130,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "GPS"
+                            "Pharma Overseas"
                         ]
                     }
                 ],
@@ -3064,56 +3155,10 @@
                     }
                 ]
             },
-            "id": "061e1977-75a5-4820-8a3b-247f1e0af2a6",
+            "id": "0428b6bb-ef28-45e4-bc5b-11dfa4bc68df",
             "links": {},
             "meta": {
-                "score": 9.937207
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "SAVOLA"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Operation",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Operations Specialist - Alexandria"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "2592de10-5c99-4978-ade2-95c283ec7cc3",
-            "links": {},
-            "meta": {
-                "score": 9.933805
+                "score": 9.565841
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3178,52 +3223,7 @@
             "id": "52802eb6-0b1d-4a84-ab14-2bb67f281fab",
             "links": {},
             "meta": {
-                "score": 9.921632
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pharma Overseas"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Personnel Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "0428b6bb-ef28-45e4-bc5b-11dfa4bc68df",
-            "links": {},
-            "meta": {
-                "score": 9.918906
+                "score": 9.518826
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3288,74 +3288,7 @@
             "id": "107712cf-9653-4ffb-8c6b-fdc950fd607b",
             "links": {},
             "meta": {
-                "score": 9.890364
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "LCM North Africa Middle East"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "<em class=\"search-highlight\">HR</em> Specialist",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "skillsExcellent verbal and written communication skillsBachelor Degree.Proven work experience as an <em class=\"search-highlight\">HR</em>",
-                            "Specialist or <em class=\"search-highlight\">HR</em> GeneralistHR diploma or certificate is a plus.Knowledge of Personnel and Human Resources"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "skillsExcellent verbal and written communication skillsBachelor Degree.Proven work experience as an <em class=\"search-highlight\">HR</em>",
-                            "Specialist or <em class=\"search-highlight\">HR</em> GeneralistHR diploma or certificate is a plus.Knowledge of Personnel and Human Resources"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "b10069cc-1da3-4ebb-b229-60f9f11a04a6",
-            "links": {},
-            "meta": {
-                "score": 9.885805
+                "score": 9.483014
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3410,74 +3343,7 @@
             "id": "972f5251-fb47-4c29-be06-40a2645cdc39",
             "links": {},
             "meta": {
-                "score": 9.883741
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Arqam"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "<em class=\"search-highlight\">HR</em> Functions",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em> generalist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Fluent English.3+ years of experience as an <em class=\"search-highlight\">HR</em> Generalist or similar <em class=\"search-highlight\">HR</em> role.Excellent knowledge of various",
-                            "<em class=\"search-highlight\">HR</em> functions such as pay & benefits, recruitment, onboarding, evaluation, training & development etc.Good"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "posting and promotion and hiring analyticsCreate, implement and manage onboarding plansIdentify KPIs for <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Generalist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "d8179f73-2b91-4f8f-b98a-bd92599226d5",
-            "links": {},
-            "meta": {
-                "score": 9.881005
+                "score": 9.479215
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3546,7 +3412,141 @@
             "id": "03c108ef-6c2d-461e-88d3-e8f0bfba6bf6",
             "links": {},
             "meta": {
-                "score": 9.880002
+                "score": 9.472192
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LCM North Africa Middle East"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "<em class=\"search-highlight\">HR</em> Specialist",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "skillsExcellent verbal and written communication skillsBachelor Degree.Proven work experience as an <em class=\"search-highlight\">HR</em>",
+                            "Specialist or <em class=\"search-highlight\">HR</em> GeneralistHR diploma or certificate is a plus.Knowledge of Personnel and Human Resources"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "skillsExcellent verbal and written communication skillsBachelor Degree.Proven work experience as an <em class=\"search-highlight\">HR</em>",
+                            "Specialist or <em class=\"search-highlight\">HR</em> GeneralistHR diploma or certificate is a plus.Knowledge of Personnel and Human Resources"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "b10069cc-1da3-4ebb-b229-60f9f11a04a6",
+            "links": {},
+            "meta": {
+                "score": 9.472088
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Arqam"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "<em class=\"search-highlight\">HR</em> Functions",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em> generalist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Fluent English.3+ years of experience as an <em class=\"search-highlight\">HR</em> Generalist or similar <em class=\"search-highlight\">HR</em> role.Excellent knowledge of various",
+                            "<em class=\"search-highlight\">HR</em> functions such as pay & benefits, recruitment, onboarding, evaluation, training & development etc.Good"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "posting and promotion and hiring analyticsCreate, implement and manage onboarding plansIdentify KPIs for <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Generalist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "d8179f73-2b91-4f8f-b98a-bd92599226d5",
+            "links": {},
+            "meta": {
+                "score": 9.471428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3600,7 +3600,7 @@
             "id": "941f1f6c-23b4-430a-a26a-154412e2f3f1",
             "links": {},
             "meta": {
-                "score": 9.865214
+                "score": 9.467743
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3654,7 +3654,7 @@
             "id": "c103a2b0-a9ed-4696-ad6d-6f93a8c164c8",
             "links": {},
             "meta": {
-                "score": 9.853079
+                "score": 9.445427
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3699,7 +3699,7 @@
             "id": "904ca509-3ab6-47ed-9f75-7c26f4f040f9",
             "links": {},
             "meta": {
-                "score": 9.829252
+                "score": 9.419037
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3744,7 +3744,7 @@
             "id": "18c05ca5-1b04-4e79-83ca-8a846140aba7",
             "links": {},
             "meta": {
-                "score": 9.823195
+                "score": 9.409576
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3800,7 +3800,108 @@
             "id": "ba518736-5722-4205-a374-97f40d80cca6",
             "links": {},
             "meta": {
-                "score": 9.813383
+                "score": 9.381923
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Johnson Controls"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Strong working knowledge of <em class=\"search-highlight\">HR</em> recruitment functionsSuccessful work experience as an <em class=\"search-highlight\">HR</em> Intern."
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Coordinator- Talent Acquisition"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "a9c8ee4f-9cbf-49d9-a243-4ae72caa81d4",
+            "links": {},
+            "meta": {
+                "score": 9.348814
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Raya Customer Experience"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Recruitment Intern"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "f5a8a840-7379-4770-922e-b236ec026bef",
+            "links": {},
+            "meta": {
+                "score": 9.309641
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3867,108 +3968,7 @@
             "id": "da4a46bd-5428-4d7f-a915-516b5ffdaa5e",
             "links": {},
             "meta": {
-                "score": 9.809243
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Johnson Controls"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Strong working knowledge of <em class=\"search-highlight\">HR</em> recruitment functionsSuccessful work experience as an <em class=\"search-highlight\">HR</em> Intern."
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Coordinator- Talent Acquisition"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "a9c8ee4f-9cbf-49d9-a243-4ae72caa81d4",
-            "links": {},
-            "meta": {
-                "score": 9.8030815
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Raya Customer Experience"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Recruitment Intern"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "f5a8a840-7379-4770-922e-b236ec026bef",
-            "links": {},
-            "meta": {
-                "score": 9.757477
+                "score": 9.302636
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4023,7 +4023,7 @@
             "id": "902359ab-3782-4f03-85ec-1256aa097cc5",
             "links": {},
             "meta": {
-                "score": 9.725723
+                "score": 9.252579
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4090,7 +4090,7 @@
             "id": "16729afd-601c-417f-97fc-7a4ff118af83",
             "links": {},
             "meta": {
-                "score": 9.72411
+                "score": 9.246926
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4147,7 +4147,52 @@
             "id": "2852c6df-61e3-44c8-85d7-2ad2d4205737",
             "links": {},
             "meta": {
-                "score": 9.712682
+                "score": 9.237497
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Silicon21"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "cd653915-b163-4ef6-88d3-8d953622f3e8",
+            "links": {},
+            "meta": {
+                "score": 9.226831
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4213,107 +4258,7 @@
             "id": "2fb92992-8a03-4e64-a489-03a42953954b",
             "links": {},
             "meta": {
-                "score": 9.701552
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Silicon21"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "cd653915-b163-4ef6-88d3-8d953622f3e8",
-            "links": {},
-            "meta": {
-                "score": 9.700884
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "TGC Technology"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
-                            "<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Learn To Be An Effective <em class=\"search-highlight\">HR</em> Professional,Acquire Skills In Recruiting, Benefits & More.Expand Your Skill"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "1f351e53-6d40-4839-9507-6743461d2ca2",
-            "links": {},
-            "meta": {
-                "score": 9.6738
+                "score": 9.200644
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4368,7 +4313,62 @@
             "id": "13c13960-7934-40b2-86bc-962e9953a94e",
             "links": {},
             "meta": {
-                "score": 9.672273
+                "score": 9.175239
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TGC Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)",
+                            "<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Learn To Be An Effective <em class=\"search-highlight\">HR</em> Professional,Acquire Skills In Recruiting, Benefits & More.Expand Your Skill"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "1f351e53-6d40-4839-9507-6743461d2ca2",
+            "links": {},
+            "meta": {
+                "score": 9.173817
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4422,7 +4422,7 @@
             "id": "cde0110a-8805-4b6a-9e4b-fbbb3de2dede",
             "links": {},
             "meta": {
-                "score": 9.655818
+                "score": 9.153452
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4476,7 +4476,52 @@
             "id": "bf55f8ec-1d45-4a9c-b1db-a04d1a5fa2af",
             "links": {},
             "meta": {
-                "score": 9.655772
+                "score": 9.153388
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "365 Ecology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Performance & Training <em class=\"search-highlight\">HR</em> Officer"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "1eeea0bf-f272-4c28-b434-a38611541f4b",
+            "links": {},
+            "meta": {
+                "score": 9.15169
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4534,52 +4579,7 @@
             "id": "b455303b-6c22-4db6-96bb-8c8ff2e509ac",
             "links": {},
             "meta": {
-                "score": 9.649778
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "365 Ecology"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Performance & Training <em class=\"search-highlight\">HR</em> Officer"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "1eeea0bf-f272-4c28-b434-a38611541f4b",
-            "links": {},
-            "meta": {
-                "score": 9.648076
+                "score": 9.148402
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4626,7 +4626,7 @@
             "id": "6139733d-c624-4ee0-b01e-1b35fb91a4e3",
             "links": {},
             "meta": {
-                "score": 9.6380205
+                "score": 9.137583
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4682,7 +4682,7 @@
             "id": "a458241b-8693-4737-8b97-a0feb67643bb",
             "links": {},
             "meta": {
-                "score": 9.623312
+                "score": 9.105015
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4748,7 +4748,7 @@
             "id": "76ee646b-87df-4842-b4f0-ecd378ce95ea",
             "links": {},
             "meta": {
-                "score": 9.544938
+                "score": 8.979049
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4817,7 +4817,7 @@
             "id": "11c604fe-9e2e-4f78-a383-415b6221cc1f",
             "links": {},
             "meta": {
-                "score": 9.507328
+                "score": 8.946906
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4883,7 +4883,7 @@
             "id": "f180bfdc-257c-447e-bd3a-21fe2b9e9c2e",
             "links": {},
             "meta": {
-                "score": 9.506597
+                "score": 8.944769
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4948,72 +4948,7 @@
             "id": "ed419edf-539b-4bde-845f-989d84e9206e",
             "links": {},
             "meta": {
-                "score": 9.50557
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Harvest Foods"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Proven work experience as an <em class=\"search-highlight\">HR</em> Specialist or <em class=\"search-highlight\">HR</em> Generalist.1-3 years experience in personnel department.Preferable"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Processing all personnel action forms and ensuring proper approval.Implementing <em class=\"search-highlight\">HR</em> strategies, policies",
-                            "disputes.Administer employee discipline processes.Monitor and enforce compliance requirementsAssist Team Members with <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "e57ff5c2-c9af-43d7-9821-115fa0d99df1",
-            "links": {},
-            "meta": {
-                "score": 9.501455
+                "score": 8.938464
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5079,7 +5014,72 @@
             "id": "d6d27805-925d-4566-9eb7-baa0f36761bc",
             "links": {},
             "meta": {
-                "score": 9.500712
+                "score": 8.937769
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Harvest Foods"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as an <em class=\"search-highlight\">HR</em> Specialist or <em class=\"search-highlight\">HR</em> Generalist.1-3 years experience in personnel department.Preferable"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Processing all personnel action forms and ensuring proper approval.Implementing <em class=\"search-highlight\">HR</em> strategies, policies",
+                            "disputes.Administer employee discipline processes.Monitor and enforce compliance requirementsAssist Team Members with <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "e57ff5c2-c9af-43d7-9821-115fa0d99df1",
+            "links": {},
+            "meta": {
+                "score": 8.937305
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5148,7 +5148,7 @@
             "id": "be999336-2628-4bfd-81e5-959596d09e25",
             "links": {},
             "meta": {
-                "score": 9.492727
+                "score": 8.927008
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5208,61 +5208,7 @@
             "id": "5e82350b-3d0b-4d67-9e5f-bbdeaf6d8550",
             "links": {},
             "meta": {
-                "score": 9.483933
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Dynamic Technology"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Experience in <em class=\"search-highlight\">HR</em> systems implementation 3-5 years."
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "ERP <em class=\"search-highlight\">HR</em> Implementation Consultant"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "0d4d4eb1-c27a-433e-821a-40ae72da74ed",
-            "links": {},
-            "meta": {
-                "score": 9.4247265
+                "score": 8.922393
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5317,7 +5263,7 @@
             "id": "998c5f00-c763-4bcd-b6cc-6e07138c4dc8",
             "links": {},
             "meta": {
-                "score": 9.424726
+                "score": 8.8466425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5346,8 +5292,8 @@
                             "Human Resources (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "HR",
-                            "hr"
+                            "hr",
+                            "HR"
                         ]
                     },
                     {
@@ -5376,7 +5322,7 @@
             "id": "0f3cc459-ceae-43d1-95ff-983e3202e1f7",
             "links": {},
             "meta": {
-                "score": 9.4210205
+                "score": 8.840505
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5434,7 +5380,7 @@
             "id": "e6c2240a-5969-43e8-8465-16da99707a99",
             "links": {},
             "meta": {
-                "score": 9.414136
+                "score": 8.832157
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5488,7 +5434,61 @@
             "id": "6641685b-a34e-4de7-81d9-f64d58b0947f",
             "links": {},
             "meta": {
-                "score": 9.41107
+                "score": 8.828179
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Dynamic Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience in <em class=\"search-highlight\">HR</em> systems implementation 3-5 years."
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "ERP <em class=\"search-highlight\">HR</em> Implementation Consultant"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "0d4d4eb1-c27a-433e-821a-40ae72da74ed",
+            "links": {},
+            "meta": {
+                "score": 8.827932
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5554,7 +5554,72 @@
             "id": "51083f65-a1d5-490c-a57a-8255b93c7719",
             "links": {},
             "meta": {
-                "score": 9.380379
+                "score": 8.778349
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "34ML"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em>",
+                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience: 1 – 3 yearsBS/MS degree in <em class=\"search-highlight\">HR</em>, Business Administration, Business informatics, Management",
+                            "labor and employment law, organizational development and best practicesBonus points: Human Resources (<em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "About the position:Our team is rapidly growing and we are looking for a young, talented and motivated <em class=\"search-highlight\">HR</em>"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">HR</em> Specialist"
+                        ],
+                        "value": [
+                            "HR"
+                        ]
+                    }
+                ]
+            },
+            "id": "c7559dd7-1aa7-44df-af2a-cfb994a13136",
+            "links": {},
+            "meta": {
+                "score": 8.772093
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5621,72 +5686,7 @@
             "id": "35e4d4e1-3668-451e-98af-21afc2259984",
             "links": {},
             "meta": {
-                "score": 9.376351
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "34ML"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em>",
-                            "Human Resources (<em class=\"search-highlight\">HR</em>)"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Experience: 1 – 3 yearsBS/MS degree in <em class=\"search-highlight\">HR</em>, Business Administration, Business informatics, Management",
-                            "labor and employment law, organizational development and best practicesBonus points: Human Resources (<em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "About the position:Our team is rapidly growing and we are looking for a young, talented and motivated <em class=\"search-highlight\">HR</em>"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">HR</em> Specialist"
-                        ],
-                        "value": [
-                            "HR"
-                        ]
-                    }
-                ]
-            },
-            "id": "c7559dd7-1aa7-44df-af2a-cfb994a13136",
-            "links": {},
-            "meta": {
-                "score": 9.372266
+                "score": 8.771915
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5750,7 +5750,7 @@
             "id": "13a581f8-8ea0-4177-8071-8ca4413b1a35",
             "links": {},
             "meta": {
-                "score": 9.370535
+                "score": 8.76648
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5804,7 +5804,7 @@
             "id": "8adc235d-1c6c-476b-a969-4d1e0415beec",
             "links": {},
             "meta": {
-                "score": 9.347179
+                "score": 8.744737
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5869,7 +5869,7 @@
             "id": "aba30ccb-4379-453b-a3a8-b7da4af28833",
             "links": {},
             "meta": {
-                "score": 9.32934
+                "score": 8.70674
             },
             "relationships": {},
             "type": "talentSearch"

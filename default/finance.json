@@ -67,7 +67,7 @@
             "id": "a1511e2f-b80f-4341-9ab4-86b0778be723",
             "links": {},
             "meta": {
-                "score": 8.634792
+                "score": 8.542721
             },
             "relationships": {},
             "type": "talentSearch"
@@ -132,7 +132,7 @@
             "id": "2c359b57-bc7a-474a-b03e-28cab2a888ef",
             "links": {},
             "meta": {
-                "score": 8.586597
+                "score": 8.472648
             },
             "relationships": {},
             "type": "talentSearch"
@@ -191,8 +191,8 @@
                             "preparation of the company’s budget.Liase with auditors to ensure appropriate monitoring of company <em class=\"search-highlight\">finances</em>"
                         ],
                         "value": [
-                            "finance",
-                            "finances"
+                            "finances",
+                            "finance"
                         ]
                     },
                     {
@@ -209,7 +209,7 @@
             "id": "caf24da2-9072-4a69-96f2-96766b3148f3",
             "links": {},
             "meta": {
-                "score": 8.568874
+                "score": 8.361434
             },
             "relationships": {},
             "type": "talentSearch"
@@ -282,7 +282,7 @@
             "id": "0b6890cc-25fb-4550-9e5d-4c93ae2b26e5",
             "links": {},
             "meta": {
-                "score": 8.560615
+                "score": 8.357158
             },
             "relationships": {},
             "type": "talentSearch"
@@ -354,7 +354,7 @@
             "id": "bda5ad38-f6dc-4e07-ac5c-429171a399cb",
             "links": {},
             "meta": {
-                "score": 8.552001
+                "score": 8.305643
             },
             "relationships": {},
             "type": "talentSearch"
@@ -428,7 +428,7 @@
             "id": "55c585a2-1755-4840-ba96-ba6c3e125805",
             "links": {},
             "meta": {
-                "score": 8.281644
+                "score": 7.8731613
             },
             "relationships": {},
             "type": "talentSearch"
@@ -500,7 +500,7 @@
             "id": "f6c45bcc-cc0d-48e7-8b4a-5cdf7a44fc23",
             "links": {},
             "meta": {
-                "score": 8.27897
+                "score": 7.8704753
             },
             "relationships": {},
             "type": "talentSearch"
@@ -563,7 +563,7 @@
             "id": "eabd0ae2-f913-48c2-8f30-70ecbb38f3b6",
             "links": {},
             "meta": {
-                "score": 7.974534
+                "score": 7.465223
             },
             "relationships": {},
             "type": "talentSearch"
@@ -638,7 +638,61 @@
             "id": "10e4d20b-a469-4d1a-b2c3-9493ef27ad74",
             "links": {},
             "meta": {
-                "score": 7.919705
+                "score": 7.390253
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Perfect Presentation"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "to fit this challenge, check what we expect from you for this job: As Odoo Functional (Specialist in <em class=\"search-highlight\">finance</em>"
+                        ],
+                        "value": [
+                            "finance"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Odoo Functional (Specialist in <em class=\"search-highlight\">Finance</em> and Accounting)"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "58418ae0-b321-4369-a031-219a135d5375",
+            "links": {},
+            "meta": {
+                "score": 7.359393
             },
             "relationships": {},
             "type": "talentSearch"
@@ -715,61 +769,7 @@
             "id": "57ac598f-a3ee-4125-a73c-442f919e56aa",
             "links": {},
             "meta": {
-                "score": 7.852822
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Perfect Presentation"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "to fit this challenge, check what we expect from you for this job: As Odoo Functional (Specialist in <em class=\"search-highlight\">finance</em>"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Odoo Functional (Specialist in <em class=\"search-highlight\">Finance</em> and Accounting)"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "58418ae0-b321-4369-a031-219a135d5375",
-            "links": {},
-            "meta": {
-                "score": 7.824853
+                "score": 7.308112
             },
             "relationships": {},
             "type": "talentSearch"
@@ -834,7 +834,7 @@
             "id": "c32f08a8-3470-49c7-838d-1b3e54f8be75",
             "links": {},
             "meta": {
-                "score": 7.701041
+                "score": 7.129222
             },
             "relationships": {},
             "type": "talentSearch"
@@ -899,7 +899,7 @@
             "id": "2755307f-2c39-4683-abee-b87cd217d15b",
             "links": {},
             "meta": {
-                "score": 7.6654034
+                "score": 7.0804343
             },
             "relationships": {},
             "type": "talentSearch"
@@ -953,7 +953,7 @@
             "id": "a39997f0-02b8-4db0-80cb-1da55ae3ec29",
             "links": {},
             "meta": {
-                "score": 7.5863295
+                "score": 6.9905267
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1007,7 +1007,7 @@
             "id": "a7fada3a-149f-4323-8822-150542a7f942",
             "links": {},
             "meta": {
-                "score": 7.585588
+                "score": 6.9897313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1087,7 +1087,7 @@
             "id": "48bece90-bda4-4b46-b50f-4d9d5e345ec1",
             "links": {},
             "meta": {
-                "score": 7.583133
+                "score": 6.9841127
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1150,7 +1150,7 @@
             "id": "0e8789cf-a989-4eaf-80f3-e4be4d11bc6b",
             "links": {},
             "meta": {
-                "score": 7.528597
+                "score": 6.9179115
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1204,7 +1204,7 @@
             "id": "243377b1-c2fc-4920-a4ab-519f2df5eeb7",
             "links": {},
             "meta": {
-                "score": 7.4315553
+                "score": 6.809348
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1267,7 +1267,7 @@
             "id": "57dd4306-ca4f-4ccc-bee0-1e08be8a8e7f",
             "links": {},
             "meta": {
-                "score": 7.42998
+                "score": 6.80866
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1333,7 +1333,7 @@
             "id": "bae1e2b0-6168-4eaa-8770-c27ddeb6ce95",
             "links": {},
             "meta": {
-                "score": 7.2777014
+                "score": 6.633433
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1408,7 +1408,7 @@
             "id": "e6e87ca6-5841-4f08-a2ba-9d400642cbf7",
             "links": {},
             "meta": {
-                "score": 7.2281733
+                "score": 6.5729713
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1487,7 +1487,7 @@
             "id": "5f701ab4-fa8c-4c06-8adc-2a97c5787e7a",
             "links": {},
             "meta": {
-                "score": 7.1278906
+                "score": 6.461467
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1554,7 +1554,7 @@
             "id": "60f078e8-9a10-4128-8a33-b35a68fe9aed",
             "links": {},
             "meta": {
-                "score": 7.122916
+                "score": 6.45851
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1608,7 +1608,7 @@
             "id": "6ece488c-b312-4535-ac86-f98ced81fd28",
             "links": {},
             "meta": {
-                "score": 6.964875
+                "score": 6.2816997
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1665,9 +1665,9 @@
                             "these to be met.Manage the preparation of the company’s budget.Suggest and implement ERP system for the <em class=\"search-highlight\">Finance</em>"
                         ],
                         "value": [
-                            "finance",
                             "Finance",
-                            "finances"
+                            "finances",
+                            "finance"
                         ]
                     },
                     {
@@ -1684,7 +1684,7 @@
             "id": "7658a8bb-767e-4024-b934-31bab11a22c9",
             "links": {},
             "meta": {
-                "score": 6.85789
+                "score": 6.1601453
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1756,7 +1756,7 @@
             "id": "0e43065f-84bf-41cb-b22f-99feb1190465",
             "links": {},
             "meta": {
-                "score": 6.56362
+                "score": 5.8440537
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1828,7 +1828,7 @@
             "id": "e81ba854-5c13-47eb-8293-fc6c56d7fad9",
             "links": {},
             "meta": {
-                "score": 6.468482
+                "score": 5.7443237
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1907,7 +1907,7 @@
             "id": "9947528e-011e-4523-8cd1-0ce497eadbb2",
             "links": {},
             "meta": {
-                "score": 6.4591017
+                "score": 5.7359095
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1968,8 +1968,8 @@
                         ],
                         "value": [
                             "financing",
-                            "finance",
-                            "finances"
+                            "finances",
+                            "finance"
                         ]
                     },
                     {
@@ -1986,7 +1986,7 @@
             "id": "faebaa84-5d8d-4043-99e1-e20482ff0bef",
             "links": {},
             "meta": {
-                "score": 6.1974525
+                "score": 5.4610605
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2040,7 +2040,7 @@
             "id": "621e96cd-c3da-4492-9e99-ab7ed4f57d85",
             "links": {},
             "meta": {
-                "score": 5.943279
+                "score": 5.2020864
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2113,459 +2113,7 @@
             "id": "51709c2e-df3c-4f9a-81dd-0096061b9556",
             "links": {},
             "meta": {
-                "score": 5.7998357
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Wadi Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "ERP Expert - <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "cb16b776-adfb-4728-85dd-7c3d66ce5597",
-            "links": {},
-            "meta": {
-                "score": 5.6228194
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Rekaz Developments"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Excellent communication skills.Good command of English.BS degree in Accounting or <em class=\"search-highlight\">Finance</em>.10+ years of"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            " Provide leadership, direction and management to the <em class=\"search-highlight\">finance</em> and accounting teamProvide strategic recommendations"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em> Manager"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "c6d4b21d-2049-4460-a911-642d60dd947b",
-            "links": {},
-            "meta": {
-                "score": 5.622785
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "siParadigm Egypt"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "business administration or any relevant major, MBA is a huge plus.18+ years of hands-on experience in <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Chief <em class=\"search-highlight\">Finance</em> Officer"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "5b186d39-ae1a-4e68-b10e-61d0ab3232d2",
-            "links": {},
-            "meta": {
-                "score": 5.533152
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in <em class=\"search-highlight\">Finance</em>.Professional qualifications such as CFA/CPA or similar will be considered",
-                            "(Proven experience as a <em class=\"search-highlight\">finance</em> manager)Ability to synthesize large quantities of complex data into actionable",
-                            "analytical, and decision-making skills.Knowledge of financial reporting and data analysis.Proficient user of <em class=\"search-highlight\">finance</em>"
-                        ],
-                        "value": [
-                            "Finance",
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "company’s actual performance compared to the business plans.Develop trends and projections for the firm’s <em class=\"search-highlight\">finances</em>.Conduct",
-                            "Oversee operations of the <em class=\"search-highlight\">finance</em> department,set goals and objectives and design a framework for these",
-                            "preparation of the company’s budget.Coordinate with auditors to ensure appropriate monitoring of company <em class=\"search-highlight\">finances</em>",
-                            "SkillsProven work experience as a Financial Controller, Financial Analyst or relevant role Familiarity with <em class=\"search-highlight\">finance</em>"
-                        ],
-                        "value": [
-                            "finance",
-                            "finances"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em> Manager"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "53eb0d7e-1676-411e-98b0-54a248607153",
-            "links": {},
-            "meta": {
-                "score": 5.237793
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Concrete For Readymade Garments"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "A bachelor's degree in <em class=\"search-highlight\">finance</em>, accounting, or a related field.+7 years of experience in a senior financial"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Assistant <em class=\"search-highlight\">Finance</em> Manager"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "29a4609d-61c4-49e7-901e-cf05d4681893",
-            "links": {},
-            "meta": {
-                "score": 5.22248
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al Safy"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Degree: Bachelor's degree in <em class=\"search-highlight\">Finance</em>/ Accounting/ Business Administration.+5 years of experience preferably"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Providing leadership, direction, support, and management of the <em class=\"search-highlight\">finance</em> and accounting team.Analyze complex"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em> Section Head"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "220e4d9b-92c7-42c4-8f88-30710dbc141d",
-            "links": {},
-            "meta": {
-                "score": 5.160692
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "SAED"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s Degree in Accounting, <em class=\"search-highlight\">Finance</em>, or related, along with 3-5 years internal accounting, financial",
-                            "preferred) designation.Must have 7+ years designing, configuring & testing of the Microsoft Dynamics AX/365 <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Bachelor’s Degree in Accounting, <em class=\"search-highlight\">Finance</em>, or related, along with 3-5 years internal accounting, financial",
-                            "preferred) designation.Must have 7+ years designing, configuring & testing of the Microsoft Dynamics AX/365 <em class=\"search-highlight\">Finance</em>",
-                            "business processes aligned to business objectivesProvide in-depth knowledge of the Microsoft Dynamics AX <em class=\"search-highlight\">Finance</em>",
-                            "the development process for any required changes to business processes or the Microsoft Dynamics AX <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Microsoft Dynamics AX - <em class=\"search-highlight\">Finance</em> Consultant"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "0bf2bcd4-0837-42cd-ae87-eb755be8cf6e",
-            "links": {},
-            "meta": {
-                "score": 5.1566076
+                "score": 5.054863
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2619,61 +2167,7 @@
             "id": "c1b749e7-3705-414f-8d57-ada9cf125035",
             "links": {},
             "meta": {
-                "score": 5.071426
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor of Accounting / <em class=\"search-highlight\">Finance</em> Excellent English Language and Computer Skills.Previous Experience in"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "41ce5637-7153-4d6d-ba0f-c1b15f6f4bde",
-            "links": {},
-            "meta": {
-                "score": 5.055971
+                "score": 5.004425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2727,7 +2221,7 @@
             "id": "46921368-c1ac-429c-a040-c7d3baeba699",
             "links": {},
             "meta": {
-                "score": 5.048308
+                "score": 4.9945116
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2781,7 +2275,7 @@
             "id": "832124f3-b82e-46f4-bf06-0d3f069d0b74",
             "links": {},
             "meta": {
-                "score": 5.043761
+                "score": 4.9903765
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2835,7 +2329,7 @@
             "id": "1d7b5202-aaf9-4733-aa76-dc4c841f9ade",
             "links": {},
             "meta": {
-                "score": 5.0425534
+                "score": 4.98824
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2889,7 +2383,7 @@
             "id": "a43886c3-44ce-4fd9-85b4-6ad81378cb79",
             "links": {},
             "meta": {
-                "score": 5.03939
+                "score": 4.9856615
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2923,7 +2417,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Bachelor degree in <em class=\"search-highlight\">Finance</em>, Accounting Required5 – 8 experience in the accounting sector for Construction"
+                            "Bachelor of Accounting / <em class=\"search-highlight\">Finance</em> Excellent English Language and Computer Skills.Previous Experience in"
                         ],
                         "value": [
                             "Finance"
@@ -2940,10 +2434,10 @@
                     }
                 ]
             },
-            "id": "a294ef19-a34a-4d51-86a7-f5ec68548e0c",
+            "id": "41ce5637-7153-4d6d-ba0f-c1b15f6f4bde",
             "links": {},
             "meta": {
-                "score": 5.0385046
+                "score": 4.98533
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2997,7 +2491,7 @@
             "id": "94b01e8a-dde6-4a3f-8755-eb55117bf8be",
             "links": {},
             "meta": {
-                "score": 5.0382915
+                "score": 4.9845304
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3051,61 +2545,7 @@
             "id": "f544a199-2467-4354-a93d-c36d26ab075f",
             "links": {},
             "meta": {
-                "score": 5.037439
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "AlGammal Contracting"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s degree in accounting, <em class=\"search-highlight\">finance</em> or other closely related subject.7-10 years of experience.Good"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "e1dfdb6f-d830-4da5-8206-fd7618fedb6a",
-            "links": {},
-            "meta": {
-                "score": 5.0368495
+                "score": 4.9839697
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3159,61 +2599,7 @@
             "id": "d8995482-0207-458e-9ea6-32bd8eb4e5d7",
             "links": {},
             "meta": {
-                "score": 5.036802
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Mozare3"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "management skillsIntegrity, with an ability to handle confidential informationBSc degree in Accounting, <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "614ecbfb-4cdf-41ad-95e8-f5e41bc7174a",
-            "links": {},
-            "meta": {
-                "score": 5.035359
+                "score": 4.982228
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3267,169 +2653,7 @@
             "id": "ab09b34c-a956-4fe7-acb4-7d3ee16acadf",
             "links": {},
             "meta": {
-                "score": 5.0341854
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Rashideen Egypt for Trade "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "English language.Excellent Ms Excel skills is a must.Education: Bachelor’s degree with accounting or <em class=\"search-highlight\">finance</em>"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "b0b72e7d-abfc-4dbf-aebc-29a0e18383a0",
-            "links": {},
-            "meta": {
-                "score": 5.033967
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "AlGammal Contracting"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s degree in <em class=\"search-highlight\">finance</em>, accounting, or a related field.7 to 10 years’ experience in the same field.The"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "05e44d53-17d6-4801-b84e-c01305729534",
-            "links": {},
-            "meta": {
-                "score": 5.033676
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Naqla"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Job RequirementsQualifications & Work Experience:BS degree in Accounting, <em class=\"search-highlight\">Finance</em> or relevant5 - 7 years"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "9b419691-2d46-4e07-9b5c-4ea95f009322",
-            "links": {},
-            "meta": {
-                "score": 5.033494
+                "score": 4.980894
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3494,115 +2718,7 @@
             "id": "d11d7480-6122-4b23-8aca-a9511930e5f4",
             "links": {},
             "meta": {
-                "score": 5.033276
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc in Accounting, <em class=\"search-highlight\">Finance</em> or relevant degreeFrom 3 to 7 years of experience in a similar roleAuditing"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "a33709f6-b912-45b0-8c81-615d3d8f9deb",
-            "links": {},
-            "meta": {
-                "score": 5.032692
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "QARA"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "years)Effective communication skillsGood Command of MS Office AppsBachelor's degree in Accounting, <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "d8c161ed-7eb8-4143-af8c-bb1a8d2b940f",
-            "links": {},
-            "meta": {
-                "score": 5.031874
+                "score": 4.9780436
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3656,7 +2772,7 @@
             "id": "e487f9c4-8d0a-447d-93f7-87275f4cf5f3",
             "links": {},
             "meta": {
-                "score": 5.031096
+                "score": 4.976304
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3673,7 +2789,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "AlGammal Contracting"
                         ]
                     }
                 ],
@@ -3690,7 +2806,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "A bachelor's degree in <em class=\"search-highlight\">finance</em>, accounting, or a related field.5 -7 years of experience of relevant experienceA"
+                            "Bachelor’s degree in accounting, <em class=\"search-highlight\">finance</em> or other closely related subject.7-10 years of experience.Good"
                         ],
                         "value": [
                             "finance"
@@ -3707,174 +2823,10 @@
                     }
                 ]
             },
-            "id": "2a34f421-896a-4d70-9283-067cea4fc1dc",
+            "id": "e1dfdb6f-d830-4da5-8206-fd7618fedb6a",
             "links": {},
             "meta": {
-                "score": 5.031051
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al-Safwa Engineering Industry"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in Accounting or <em class=\"search-highlight\">Finance</em> 2 to 5 years of experience as an accountant  ( preferable"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "df322c6d-20ef-4992-8850-b367bf77b37d",
-            "links": {},
-            "meta": {
-                "score": 5.029901
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nagy Elshahawy office"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in Accounting or <em class=\"search-highlight\">Finance</em> (or a higher degree)8-10 years of experience.Attention to"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "s financesConduct reviews and evaluations for cost-reduction opportunitiesOversee operations of the <em class=\"search-highlight\">finance</em>",
-                            "framework for these to be metLiaise with auditors to ensure appropriate monitoring of association' <em class=\"search-highlight\">finances</em>"
-                        ],
-                        "value": [
-                            "finances",
-                            "finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "a8b6295a-7bd6-4e72-9eb8-03be97479ca2",
-            "links": {},
-            "meta": {
-                "score": 5.029579
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "831efd75-a16d-475f-9a97-f943e0ef8be6",
-            "links": {},
-            "meta": {
-                "score": 5.028098
+                "score": 4.971424
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3939,151 +2891,7 @@
             "id": "5f4662a8-c114-4aaf-9d78-fcf3872e1e4c",
             "links": {},
             "meta": {
-                "score": 5.0250435
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "HSK"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "9d3ae1dd-9aa8-4a0e-933d-853350925157",
-            "links": {},
-            "meta": {
-                "score": 5.024195
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al-Samy"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "statistical knowledgeExcellent organizational and time management skillsBachelor's degree in Accounting or <em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "8a08b7bb-cb03-49d7-b8e6-03f645058879",
-            "links": {},
-            "meta": {
-                "score": 5.023839
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Amenli"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "68d98dc4-51e3-447f-8418-3d67c88c0aea",
-            "links": {},
-            "meta": {
-                "score": 5.0227437
+                "score": 4.970949
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4128,7 +2936,7 @@
             "id": "795288ff-9b3b-4960-8911-9ddafcc5fef8",
             "links": {},
             "meta": {
-                "score": 5.022664
+                "score": 4.9699373
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4145,7 +2953,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "Mozare3"
                         ]
                     }
                 ],
@@ -4162,61 +2970,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Moderate experience as a developerFamiliarity with <em class=\"search-highlight\">Finance</em> and Operations appsGood knowledge in SQL C"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "workshops on business processes, business requirements, and system design.Work with internal departments (<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "72094a34-940c-4786-9464-2845127dfea9",
-            "links": {},
-            "meta": {
-                "score": 5.0211153
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Somabay"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "University degree in Accounting, <em class=\"search-highlight\">Finance</em>, Business Administration or equivalentRequired Qualifications"
+                            "management skillsIntegrity, with an ability to handle confidential informationBSc degree in Accounting, <em class=\"search-highlight\">Finance</em>"
                         ],
                         "value": [
                             "Finance"
@@ -4233,10 +2987,64 @@
                     }
                 ]
             },
-            "id": "d2035c49-4a3f-4a72-a6f2-22241eff34ff",
+            "id": "614ecbfb-4cdf-41ad-95e8-f5e41bc7174a",
             "links": {},
             "meta": {
-                "score": 5.021018
+                "score": 4.966385
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Naqla"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Job RequirementsQualifications & Work Experience:BS degree in Accounting, <em class=\"search-highlight\">Finance</em> or relevant5 - 7 years"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "9b419691-2d46-4e07-9b5c-4ea95f009322",
+            "links": {},
+            "meta": {
+                "score": 4.9646826
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4281,7 +3089,7 @@
             "id": "570b89f0-fa2c-493f-9859-eb939fbb47b9",
             "links": {},
             "meta": {
-                "score": 5.0200906
+                "score": 4.964556
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4326,7 +3134,7 @@
             "id": "aa6942c9-4481-446d-a944-0abc0b0f2667",
             "links": {},
             "meta": {
-                "score": 5.0195947
+                "score": 4.9635587
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4343,7 +3151,61 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "SGL"
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "A bachelor's degree in <em class=\"search-highlight\">finance</em>, accounting, or a related field.5 -7 years of experience of relevant experienceA"
+                        ],
+                        "value": [
+                            "finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "2a34f421-896a-4d70-9283-067cea4fc1dc",
+            "links": {},
+            "meta": {
+                "score": 4.9625096
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
                         ]
                     }
                 ],
@@ -4368,10 +3230,10 @@
                     }
                 ]
             },
-            "id": "cbe6b72d-707d-4b98-894c-618b96562185",
+            "id": "7372c88d-eea6-4c0a-a04f-6745b6625f16",
             "links": {},
             "meta": {
-                "score": 5.017999
+                "score": 4.9613724
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4388,7 +3250,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Sinai Sons Company"
+                            ""
                         ]
                     }
                 ],
@@ -4413,55 +3275,10 @@
                     }
                 ]
             },
-            "id": "0448ae7a-1ef5-4f87-9118-5b44125774be",
+            "id": "831efd75-a16d-475f-9a97-f943e0ef8be6",
             "links": {},
             "meta": {
-                "score": 5.0164733
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Shift EV"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "19665a81-6c20-41b1-a4c2-539c2e9b4fd8",
-            "links": {},
-            "meta": {
-                "score": 5.016366
+                "score": 4.9604278
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4506,7 +3323,977 @@
             "id": "eb492fb7-56a4-46ad-afa0-c7353fd7fc19",
             "links": {},
             "meta": {
-                "score": 5.016122
+                "score": 4.9593773
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elabd Foods"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "21970397-b17c-4838-95b6-93c9ca65da0d",
+            "links": {},
+            "meta": {
+                "score": 4.9588766
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El Batal Co."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "b051ca2c-58db-4e37-b7e6-e4e3aeb19182",
+            "links": {},
+            "meta": {
+                "score": 4.95824
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HSK"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "9d3ae1dd-9aa8-4a0e-933d-853350925157",
+            "links": {},
+            "meta": {
+                "score": 4.9582067
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Queens Health Care"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "c09568ca-68a6-4718-a98d-4fe3fb988775",
+            "links": {},
+            "meta": {
+                "score": 4.9574275
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Fawry Banking & Payment Technology Services"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "33266e30-b53d-4b29-8262-670d56d6a2ea",
+            "links": {},
+            "meta": {
+                "score": 4.9573464
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor degree in <em class=\"search-highlight\">Finance</em>, Accounting Required5 – 8 experience in the accounting sector for Construction"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "a294ef19-a34a-4d51-86a7-f5ec68548e0c",
+            "links": {},
+            "meta": {
+                "score": 4.9572783
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "1e9d1929-cd2c-44ce-88ec-eccf1661a58e",
+            "links": {},
+            "meta": {
+                "score": 4.956774
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Partner & More"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
+            "links": {},
+            "meta": {
+                "score": 4.956401
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "E3mel Business for Financial & Managerial Consultancy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "f8296b34-3efe-48d1-96c1-aa918e3b76dc",
+            "links": {},
+            "meta": {
+                "score": 4.9554577
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AlGammal Contracting"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in <em class=\"search-highlight\">finance</em>, accounting, or a related field.7 to 10 years’ experience in the same field.The"
+                        ],
+                        "value": [
+                            "finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "05e44d53-17d6-4801-b84e-c01305729534",
+            "links": {},
+            "meta": {
+                "score": 4.9536304
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Rashideen Egypt for Trade "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "English language.Excellent Ms Excel skills is a must.Education: Bachelor’s degree with accounting or <em class=\"search-highlight\">finance</em>"
+                        ],
+                        "value": [
+                            "finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "b0b72e7d-abfc-4dbf-aebc-29a0e18383a0",
+            "links": {},
+            "meta": {
+                "score": 4.953562
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Amenli"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "68d98dc4-51e3-447f-8418-3d67c88c0aea",
+            "links": {},
+            "meta": {
+                "score": 4.9533944
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Shift EV"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "19665a81-6c20-41b1-a4c2-539c2e9b4fd8",
+            "links": {},
+            "meta": {
+                "score": 4.950565
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Safwa Engineering Industry"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in Accounting or <em class=\"search-highlight\">Finance</em> 2 to 5 years of experience as an accountant  ( preferable"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "df322c6d-20ef-4992-8850-b367bf77b37d",
+            "links": {},
+            "meta": {
+                "score": 4.950563
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "John Snow InC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "S/he will report to the <em class=\"search-highlight\">Finance</em> Manager in the Cairo office.Primary Responsibilities and Duties:Assist",
+                            "in monitoring bank account, funds and payment status;Ensure timely monthly financial reports to the <em class=\"search-highlight\">Finance</em>",
+                            "Manager;Assist with clearing monthly home office feedback on submitted financial reports;Assist <em class=\"search-highlight\">Finance</em>",
+                            "management and routine updating of program activity and software system/s by working closely with the <em class=\"search-highlight\">Finance</em>",
+                            "workshops documentations as per the donor requirements.Assisting Field officers in handling workshops <em class=\"search-highlight\">finance</em>"
+                        ],
+                        "value": [
+                            "Finance",
+                            "finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "bcac0910-f3d3-4e20-96b7-769db3d882af",
+            "links": {},
+            "meta": {
+                "score": 4.9502287
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nagy Elshahawy office"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in Accounting or <em class=\"search-highlight\">Finance</em> (or a higher degree)8-10 years of experience.Attention to"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "s financesConduct reviews and evaluations for cost-reduction opportunitiesOversee operations of the <em class=\"search-highlight\">finance</em>",
+                            "framework for these to be metLiaise with auditors to ensure appropriate monitoring of association' <em class=\"search-highlight\">finances</em>"
+                        ],
+                        "value": [
+                            "finances",
+                            "finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "a8b6295a-7bd6-4e72-9eb8-03be97479ca2",
+            "links": {},
+            "meta": {
+                "score": 4.9482327
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sinai Sons Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "0448ae7a-1ef5-4f87-9118-5b44125774be",
+            "links": {},
+            "meta": {
+                "score": 4.9472
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "09ac3d3d-ce7d-40e9-b10d-3bdc7e38c17b",
+            "links": {},
+            "meta": {
+                "score": 4.94677
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Naqla"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "f41301d1-0239-4237-adf8-2fbd8e392c90",
+            "links": {},
+            "meta": {
+                "score": 4.9465356
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EEC Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "556e337e-2008-40c8-8d98-c651cfcbb23d",
+            "links": {},
+            "meta": {
+                "score": 4.9461775
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4551,7 +4338,7 @@
             "id": "91481c70-e05d-4588-97d8-7a9aff5f6e9e",
             "links": {},
             "meta": {
-                "score": 5.0151844
+                "score": 4.94586
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4605,7 +4392,7 @@
             "id": "62f1f897-5b9f-4c24-bb5a-758ac03ea6e6",
             "links": {},
             "meta": {
-                "score": 5.0151157
+                "score": 4.945418
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4622,7 +4409,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Fawry Banking & Payment Technology Services"
+                            "ReXC"
                         ]
                     }
                 ],
@@ -4635,22 +4422,13 @@
                         "value": [
                             "Finance"
                         ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
                     }
                 ]
             },
-            "id": "33266e30-b53d-4b29-8262-670d56d6a2ea",
+            "id": "8cacf4f5-ca88-4ce5-9ce7-112e665d7aa0",
             "links": {},
             "meta": {
-                "score": 5.015107
+                "score": 4.9450264
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4667,7 +4445,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "Raya Distribution"
                         ]
                     }
                 ],
@@ -4680,517 +4458,13 @@
                         "value": [
                             "Finance"
                         ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
                     }
                 ]
             },
-            "id": "7372c88d-eea6-4c0a-a04f-6745b6625f16",
+            "id": "fa4c5193-0155-452b-869d-277f42b882fd",
             "links": {},
             "meta": {
-                "score": 5.0148754
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "09ac3d3d-ce7d-40e9-b10d-3bdc7e38c17b",
-            "links": {},
-            "meta": {
-                "score": 5.014854
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Elabd Foods"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "21970397-b17c-4838-95b6-93c9ca65da0d",
-            "links": {},
-            "meta": {
-                "score": 5.0140753
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Queens Health Care"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "c09568ca-68a6-4718-a98d-4fe3fb988775",
-            "links": {},
-            "meta": {
-                "score": 5.0140104
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EEC Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "556e337e-2008-40c8-8d98-c651cfcbb23d",
-            "links": {},
-            "meta": {
-                "score": 5.01359
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Naqla"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "f41301d1-0239-4237-adf8-2fbd8e392c90",
-            "links": {},
-            "meta": {
-                "score": 5.0133038
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "El Batal Co."
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "b051ca2c-58db-4e37-b7e6-e4e3aeb19182",
-            "links": {},
-            "meta": {
-                "score": 5.0131464
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Kandil Steel"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in marketing, <em class=\"search-highlight\">finance</em>, business administration, or similar.More than 10 years’ experience"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "db49dadf-5d6a-4190-882e-f3bfe5f69411",
-            "links": {},
-            "meta": {
-                "score": 5.012875
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Kandil Industries"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "b7442053-d5d6-4acf-b182-a1bb3eea7cbf",
-            "links": {},
-            "meta": {
-                "score": 5.0128646
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Egypt Kuwait Holding"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "51ab800b-7828-4767-bd73-07ce241c2c7d",
-            "links": {},
-            "meta": {
-                "score": 5.0120845
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "bd80f5af-6a50-488c-8681-a11173f02f88",
-            "links": {},
-            "meta": {
-                "score": 5.011925
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Somabay"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "9fea14cd-b9aa-4f63-99c3-7b7cf541e85d",
-            "links": {},
-            "meta": {
-                "score": 5.011391
+                "score": 4.943562
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5244,397 +4518,7 @@
             "id": "7da7a14e-bde9-45af-813d-b7f867b7ef88",
             "links": {},
             "meta": {
-                "score": 5.011286
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "6cceabdd-0d0f-41a7-a4e3-0a6352c0ba8b",
-            "links": {},
-            "meta": {
-                "score": 5.01098
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pillars"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s Degree in accounting/ <em class=\"search-highlight\">finance</em>.SAP User .Certified Treasury Professional designation is a plus.Certified"
-                        ],
-                        "value": [
-                            "finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "trading in the financial markets.Ensure proper cash management process.Contribute in selection of the <em class=\"search-highlight\">financing</em>",
-                            "safe box keepers team.Allocate transactions to leasing companies if necessary.Assess & analyze any new <em class=\"search-highlight\">finance</em>",
-                            "offers .Use off balance sheet <em class=\"search-highlight\">financing</em> tools to enhance cash position.Design workflow and administrative"
-                        ],
-                        "value": [
-                            "finance",
-                            "financing"
-                        ]
-                    }
-                ]
-            },
-            "id": "2bf8a330-9ac4-48c9-a647-9353641e50ac",
-            "links": {},
-            "meta": {
-                "score": 5.010461
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "1e9d1929-cd2c-44ce-88ec-eccf1661a58e",
-            "links": {},
-            "meta": {
-                "score": 5.010391
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "International Duty Free"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "d7286458-e9b0-4539-8e2c-b1b02c3c16d6",
-            "links": {},
-            "meta": {
-                "score": 5.0103784
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "E3mel Business for Financial & Managerial Consultancy"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "f8296b34-3efe-48d1-96c1-aa918e3b76dc",
-            "links": {},
-            "meta": {
-                "score": 5.0103517
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Copartners"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "4f5c68c7-a8ac-4977-969d-981746bb3d88",
-            "links": {},
-            "meta": {
-                "score": 5.010185
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Care Clinics "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in Accounting or <em class=\"search-highlight\">Finance</em>.1-3 Years of experienceVery good knowledge of MS Office.Familiarity"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "d9983039-166f-4b6c-abf6-73c24ff73feb",
-            "links": {},
-            "meta": {
-                "score": 5.0100713
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Partner & More"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Accounting/<em class=\"search-highlight\">Finance</em>"
-                        ],
-                        "value": [
-                            "Finance"
-                        ]
-                    }
-                ]
-            },
-            "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
-            "links": {},
-            "meta": {
-                "score": 5.0098667
+                "score": 4.9433928
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5679,7 +4563,916 @@
             "id": "3ac7862a-3d7a-41f1-8bcb-4c953e69300b",
             "links": {},
             "meta": {
-                "score": 5.009599
+                "score": 4.9414563
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Somabay"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "9fea14cd-b9aa-4f63-99c3-7b7cf541e85d",
+            "links": {},
+            "meta": {
+                "score": 4.9411025
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Naqla"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "e5c5bc27-f20c-4b48-b04e-d16938d3e212",
+            "links": {},
+            "meta": {
+                "score": 4.940431
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "QARA"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "years)Effective communication skillsGood Command of MS Office AppsBachelor's degree in Accounting, <em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "d8c161ed-7eb8-4143-af8c-bb1a8d2b940f",
+            "links": {},
+            "meta": {
+                "score": 4.939719
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Moderate experience as a developerFamiliarity with <em class=\"search-highlight\">Finance</em> and Operations appsGood knowledge in SQL C"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "workshops on business processes, business requirements, and system design.Work with internal departments (<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "72094a34-940c-4786-9464-2845127dfea9",
+            "links": {},
+            "meta": {
+                "score": 4.9388676
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SGL"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "cbe6b72d-707d-4b98-894c-618b96562185",
+            "links": {},
+            "meta": {
+                "score": 4.9379435
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "2ecec8d6-2dde-498c-96a4-7607f95dc218",
+            "links": {},
+            "meta": {
+                "score": 4.9359426
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "bd80f5af-6a50-488c-8681-a11173f02f88",
+            "links": {},
+            "meta": {
+                "score": 4.93299
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AlGammal Contracting"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "a57766aa-1d98-4dee-9dd9-6655364fd98b",
+            "links": {},
+            "meta": {
+                "score": 4.9328065
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Copartners"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "4f5c68c7-a8ac-4977-969d-981746bb3d88",
+            "links": {},
+            "meta": {
+                "score": 4.9320583
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Etisalat Misr"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "767f5860-1bc3-4844-a692-84040cb66454",
+            "links": {},
+            "meta": {
+                "score": 4.9319916
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Egypt Kuwait Holding"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "51ab800b-7828-4767-bd73-07ce241c2c7d",
+            "links": {},
+            "meta": {
+                "score": 4.9319572
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "24 Task"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "c45deda6-ebf2-493f-9382-8835ed9e932b",
+            "links": {},
+            "meta": {
+                "score": 4.931899
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kandil Steel"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in marketing, <em class=\"search-highlight\">finance</em>, business administration, or similar.More than 10 years’ experience"
+                        ],
+                        "value": [
+                            "finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "db49dadf-5d6a-4190-882e-f3bfe5f69411",
+            "links": {},
+            "meta": {
+                "score": 4.930514
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kandil Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "b7442053-d5d6-4acf-b182-a1bb3eea7cbf",
+            "links": {},
+            "meta": {
+                "score": 4.930416
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "6cceabdd-0d0f-41a7-a4e3-0a6352c0ba8b",
+            "links": {},
+            "meta": {
+                "score": 4.930351
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "d66c8508-8491-4ae2-8e62-0cd233fa5251",
+            "links": {},
+            "meta": {
+                "score": 4.929463
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Duty Free"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "d7286458-e9b0-4539-8e2c-b1b02c3c16d6",
+            "links": {},
+            "meta": {
+                "score": 4.9291453
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Heavy Rock"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "399f168c-9221-40ad-9122-ce84761e8a73",
+            "links": {},
+            "meta": {
+                "score": 4.929013
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Hassan Allam Property Management"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "0b75fffa-8c33-48b8-bc42-f6d13545d512",
+            "links": {},
+            "meta": {
+                "score": 4.9287815
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GLC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Accounting/<em class=\"search-highlight\">Finance</em>"
+                        ],
+                        "value": [
+                            "Finance"
+                        ]
+                    }
+                ]
+            },
+            "id": "c95552c1-860b-454e-bd8c-43eb2694d44f",
+            "links": {},
+            "meta": {
+                "score": 4.9276323
             },
             "relationships": {},
             "type": "talentSearch"

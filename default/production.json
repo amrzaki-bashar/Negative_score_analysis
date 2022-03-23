@@ -12,6 +12,73 @@
                     {
                         "name": "company_name",
                         "value": [
+                            "Growth Corner"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "processes, ensuring quality work is done in a safe, efficient manner.Allocate necessary labor to each <em class=\"search-highlight\">production</em>",
+                            "process as needed , resolve any attendance issues and train labor on new and existing <em class=\"search-highlight\">production</em> process",
+                            " Prepare <em class=\"search-highlight\">production</em> schedule and organize manufacturing workflow and resources in adherence with company",
+                            "quality standards and time frames Prepare <em class=\"search-highlight\">production</em> reports and productivity analysis , to identify",
+                            "and resolve issues that may delay or hinder <em class=\"search-highlight\">production</em> Monitoring waste rates , <em class=\"search-highlight\">production</em> scrap analyzing"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Woodworks <em class=\"search-highlight\">Production</em>/Manufacturing Engineer"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "c74ea073-e15a-4122-8d39-ab35dfe60729",
+            "links": {},
+            "meta": {
+                "score": 9.001666
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
                             ""
                         ]
                     }
@@ -71,7 +138,7 @@
             "id": "1c609d4d-476e-46d8-989e-1051b4c7539a",
             "links": {},
             "meta": {
-                "score": 9.120929
+                "score": 8.994221
             },
             "relationships": {},
             "type": "talentSearch"
@@ -134,7 +201,7 @@
             "id": "ce299cfa-fccc-4a27-ab7e-8a8e07b18c62",
             "links": {},
             "meta": {
-                "score": 9.100842
+                "score": 8.973927
             },
             "relationships": {},
             "type": "talentSearch"
@@ -151,7 +218,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Growth Corner"
+                            "atm Pharmaceutical Industries"
                         ]
                     }
                 ],
@@ -166,31 +233,20 @@
                         ]
                     },
                     {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
                         "name": "description",
                         "snippets": [
-                            "processes, ensuring quality work is done in a safe, efficient manner.Allocate necessary labor to each <em class=\"search-highlight\">production</em>",
-                            "process as needed , resolve any attendance issues and train labor on new and existing <em class=\"search-highlight\">production</em> process",
-                            " Prepare <em class=\"search-highlight\">production</em> schedule and organize manufacturing workflow and resources in adherence with company",
-                            "quality standards and time frames Prepare <em class=\"search-highlight\">production</em> reports and productivity analysis , to identify",
-                            "and resolve issues that may delay or hinder <em class=\"search-highlight\">production</em> Monitoring waste rates , <em class=\"search-highlight\">production</em> scrap analyzing"
+                            "Materials (Raw materials-active and in actives), packaging materials to the CMOs as per the requirement of <em class=\"search-highlight\">production</em>",
+                            "Registration department arranging the status of sample withdrawn for NODCAR, Stability samples etc.<em class=\"search-highlight\">Production</em>"
                         ],
                         "value": [
-                            "production"
+                            "production",
+                            "Production"
                         ]
                     },
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Woodworks <em class=\"search-highlight\">Production</em>/Manufacturing Engineer"
+                            "Toll <em class=\"search-highlight\">Production</em> Coordinator (Section Head)"
                         ],
                         "value": [
                             "Production"
@@ -198,10 +254,10 @@
                     }
                 ]
             },
-            "id": "c74ea073-e15a-4122-8d39-ab35dfe60729",
+            "id": "7a5060ec-2017-4f55-9177-64af91ce9573",
             "links": {},
             "meta": {
-                "score": 9.100116
+                "score": 8.97139
             },
             "relationships": {},
             "type": "talentSearch"
@@ -265,7 +321,7 @@
             "id": "98e8f8da-da29-484f-8b27-44f7802a3ac1",
             "links": {},
             "meta": {
-                "score": 9.095759
+                "score": 8.950295
             },
             "relationships": {},
             "type": "talentSearch"
@@ -330,63 +386,7 @@
             "id": "4417b030-22c4-44ad-af36-02a723fb0961",
             "links": {},
             "meta": {
-                "score": 9.093715
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "atm Pharmaceutical Industries"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Materials (Raw materials-active and in actives), packaging materials to the CMOs as per the requirement of <em class=\"search-highlight\">production</em>",
-                            "Registration department arranging the status of sample withdrawn for NODCAR, Stability samples etc.<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "production",
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Toll <em class=\"search-highlight\">Production</em> Coordinator (Section Head)"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "7a5060ec-2017-4f55-9177-64af91ce9573",
-            "links": {},
-            "meta": {
-                "score": 9.093661
+                "score": 8.949665
             },
             "relationships": {},
             "type": "talentSearch"
@@ -454,7 +454,225 @@
             "id": "c9759624-b869-4116-9809-a896425230cb",
             "links": {},
             "meta": {
-                "score": 9.092326
+                "score": 8.948247
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ALDAWLIA"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> engineer",
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc. in Engineering is a must - <em class=\"search-highlight\">Production</em> departmentSheet metal <em class=\"search-highlight\">production</em> background is a must.English"
+                        ],
+                        "value": [
+                            "production",
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Guiding and monitoring all the working processMonitor the <em class=\"search-highlight\">production</em> according to the plan and Communicate",
+                            "with direct manager regarding any delays or any <em class=\"search-highlight\">production</em> circumstances.Optimize product cost as per",
+                            "satisfaction levels.Suggest recommendation and corrective action to improve the product.Report the <em class=\"search-highlight\">production</em>",
+                            "progress regarding each order to the <em class=\"search-highlight\">production</em> manager.Ensure the proper delivery of the approved products",
+                            "to the final product warehouseOrganize daily tasks and its priorities with <em class=\"search-highlight\">production</em> technicians and"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Engineer - Sheet Metal"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "87af1630-900d-4e44-a1a3-21f1e75f67a1",
+            "links": {},
+            "meta": {
+                "score": 8.860089
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ovo Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>",
+                            "Food <em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Engineer is required for a Food Manufacturing Facility specialized in pasteurized eggs,Responsible",
+                            "for:Achieving the <em class=\"search-highlight\">production</em> plan.Managing day to day <em class=\"search-highlight\">production</em> line and solving any rising issues.Submitting"
+                        ],
+                        "value": [
+                            "production",
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Engineer"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "a135b6d6-c59a-4def-8c9c-9caf6608a43b",
+            "links": {},
+            "meta": {
+                "score": 8.842178
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> engineer",
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Education: Bachelor’s degree in Engineering <em class=\"search-highlight\">Production</em>.Experience: 1-3 Years of experience in a similar"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Responsible for achieving <em class=\"search-highlight\">production</em> plan allocated to <em class=\"search-highlight\">production</em> lines in accordance to the predetermined",
+                            "standards while working on increasing <em class=\"search-highlight\">production</em> capacity and decreasing waste."
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Engineer"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "d0da7de1-389e-40e2-a170-c52a201b5fe3",
+            "links": {},
+            "meta": {
+                "score": 8.840741
             },
             "relationships": {},
             "type": "talentSearch"
@@ -533,7 +751,7 @@
             "id": "d9bf83e5-22eb-4474-8562-cf79dded3574",
             "links": {},
             "meta": {
-                "score": 9.084065
+                "score": 8.820435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -550,7 +768,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "ALDAWLIA"
+                            "Grand Plast "
                         ]
                     }
                 ],
@@ -560,234 +778,6 @@
                         "snippets": [
                             "<em class=\"search-highlight\">Production</em> engineer",
                             "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc. in Engineering is a must - <em class=\"search-highlight\">Production</em> departmentSheet metal <em class=\"search-highlight\">production</em> background is a must.English"
-                        ],
-                        "value": [
-                            "production",
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Guiding and monitoring all the working processMonitor the <em class=\"search-highlight\">production</em> according to the plan and Communicate",
-                            "with direct manager regarding any delays or any <em class=\"search-highlight\">production</em> circumstances.Optimize product cost as per",
-                            "satisfaction levels.Suggest recommendation and corrective action to improve the product.Report the <em class=\"search-highlight\">production</em>",
-                            "progress regarding each order to the <em class=\"search-highlight\">production</em> manager.Ensure the proper delivery of the approved products",
-                            "to the final product warehouseOrganize daily tasks and its priorities with <em class=\"search-highlight\">production</em> technicians and"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer - Sheet Metal"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "87af1630-900d-4e44-a1a3-21f1e75f67a1",
-            "links": {},
-            "meta": {
-                "score": 9.078483
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> engineer",
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Education: Bachelor’s degree in Engineering <em class=\"search-highlight\">Production</em>.Experience: 1-3 Years of experience in a similar"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Responsible for achieving <em class=\"search-highlight\">production</em> plan allocated to <em class=\"search-highlight\">production</em> lines in accordance to the predetermined",
-                            "standards while working on increasing <em class=\"search-highlight\">production</em> capacity and decreasing waste."
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "d0da7de1-389e-40e2-a170-c52a201b5fe3",
-            "links": {},
-            "meta": {
-                "score": 9.077471
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Ovo Egypt"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>",
-                            "Food <em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer is required for a Food Manufacturing Facility specialized in pasteurized eggs,Responsible",
-                            "for:Achieving the <em class=\"search-highlight\">production</em> plan.Managing day to day <em class=\"search-highlight\">production</em> line and solving any rising issues.Submitting"
-                        ],
-                        "value": [
-                            "production",
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "a135b6d6-c59a-4def-8c9c-9caf6608a43b",
-            "links": {},
-            "meta": {
-                "score": 9.059382
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>",
-                            "<em class=\"search-highlight\">Production</em> Engineering",
-                            "Mechanical <em class=\"search-highlight\">Production</em> Engineering"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor degree in Mechanical <em class=\"search-highlight\">Production</em> Engineering.Minimum 2 years of Experience.Very good computer"
                         ],
                         "value": [
                             "Production"
@@ -816,7 +806,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer - Alexandria"
+                            "<em class=\"search-highlight\">Production</em> Engineer"
                         ],
                         "value": [
                             "Production"
@@ -824,10 +814,141 @@
                     }
                 ]
             },
-            "id": "40d14941-f2df-451f-9860-f869d8fbdc07",
+            "id": "12a61a2a-d914-489f-8c8e-722eb471029a",
             "links": {},
             "meta": {
-                "score": 9.046154
+                "score": 8.801783
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Macro Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Use detailed manufacturing instructions and SOPs to complete assigned <em class=\"search-highlight\">production</em> activities according"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Chemist"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "e0341880-8c6f-4fd5-90a7-4ec7e346fec4",
+            "links": {},
+            "meta": {
+                "score": 8.7970915
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Chloride"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>",
+                            "<em class=\"search-highlight\">Production</em> Engineering"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Observe the <em class=\"search-highlight\">production</em> departmentsSupervising the manufacturing processes, ensuring quality work is done",
+                            "in a safe, efficient manner.Liaising with other engineers to develop plans that improve <em class=\"search-highlight\">production</em>,",
+                            "costs, and labor required.Diagnosing problems in the <em class=\"search-highlight\">production</em> line and providing recommendations and",
+                            "for projects.Scheduling meetings with relevant departments and stakeholders.Analyzing all facets of <em class=\"search-highlight\">production</em>",
+                            "and making recommendations for improvement.Preparing <em class=\"search-highlight\">production</em> reportsObtaining any materials and equipment"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Engineer"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "f0937f0c-4e78-4c4e-9418-bba5614dd389",
+            "links": {},
+            "meta": {
+                "score": 8.795903
             },
             "relationships": {},
             "type": "talentSearch"
@@ -903,7 +1024,7 @@
             "id": "95d28328-8245-419b-8ed4-c02447ebb644",
             "links": {},
             "meta": {
-                "score": 9.044442
+                "score": 8.784918
             },
             "relationships": {},
             "type": "talentSearch"
@@ -920,7 +1041,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Grand Plast "
+                            ""
                         ]
                     }
                 ],
@@ -928,8 +1049,18 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Production</em> engineer",
-                            "<em class=\"search-highlight\">Production</em>"
+                            "<em class=\"search-highlight\">Production</em>",
+                            "<em class=\"search-highlight\">Production</em> Engineering",
+                            "Mechanical <em class=\"search-highlight\">Production</em> Engineering"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor degree in Mechanical <em class=\"search-highlight\">Production</em> Engineering.Minimum 2 years of Experience.Very good computer"
                         ],
                         "value": [
                             "Production"
@@ -958,7 +1089,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer"
+                            "<em class=\"search-highlight\">Production</em> Engineer - Alexandria"
                         ],
                         "value": [
                             "Production"
@@ -966,141 +1097,10 @@
                     }
                 ]
             },
-            "id": "12a61a2a-d914-489f-8c8e-722eb471029a",
+            "id": "40d14941-f2df-451f-9860-f869d8fbdc07",
             "links": {},
             "meta": {
-                "score": 9.040434
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Macro Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Use detailed manufacturing instructions and SOPs to complete assigned <em class=\"search-highlight\">production</em> activities according"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Chemist"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "e0341880-8c6f-4fd5-90a7-4ec7e346fec4",
-            "links": {},
-            "meta": {
-                "score": 9.038277
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Chloride"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>",
-                            "<em class=\"search-highlight\">Production</em> Engineering"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Observe the <em class=\"search-highlight\">production</em> departmentsSupervising the manufacturing processes, ensuring quality work is done",
-                            "in a safe, efficient manner.Liaising with other engineers to develop plans that improve <em class=\"search-highlight\">production</em>,",
-                            "costs, and labor required.Diagnosing problems in the <em class=\"search-highlight\">production</em> line and providing recommendations and",
-                            "for projects.Scheduling meetings with relevant departments and stakeholders.Analyzing all facets of <em class=\"search-highlight\">production</em>",
-                            "and making recommendations for improvement.Preparing <em class=\"search-highlight\">production</em> reportsObtaining any materials and equipment"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "f0937f0c-4e78-4c4e-9418-bba5614dd389",
-            "links": {},
-            "meta": {
-                "score": 9.036598
+                "score": 8.784883
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1181,7 +1181,7 @@
             "id": "0c87c76b-0ea8-48a6-811c-28a718d175f3",
             "links": {},
             "meta": {
-                "score": 9.0352125
+                "score": 8.776024
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1249,7 +1249,7 @@
             "id": "7151c938-028f-467b-b8b2-18119751fea3",
             "links": {},
             "meta": {
-                "score": 9.014638
+                "score": 8.751979
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1312,7 +1312,7 @@
             "id": "f43d8cf3-132c-4b96-9a6e-cc04dbfeaeeb",
             "links": {},
             "meta": {
-                "score": 9.011538
+                "score": 8.747169
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1380,7 +1380,7 @@
             "id": "7405feac-0bd5-4e17-8fef-b10b02d3f9fd",
             "links": {},
             "meta": {
-                "score": 8.995809
+                "score": 8.712004
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1456,7 +1456,7 @@
             "id": "693c65c5-a58a-41bb-981a-f5f9934555fc",
             "links": {},
             "meta": {
-                "score": 8.989926
+                "score": 8.681856
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1523,80 +1523,7 @@
             "id": "157b44eb-3edb-4692-8147-a42b13a6b16a",
             "links": {},
             "meta": {
-                "score": 8.9357395
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Altayar recruitment"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Proven experience as <em class=\"search-highlight\">production</em> directorBachelor degree in mechanical engineer Must have experience in"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "requirementsEstimate costs and prepare budgetsOrganize workflow to meet specifications and deadlinesMonitor <em class=\"search-highlight\">production</em>",
-                            "to resolve issuesSupervise and evaluate performance of <em class=\"search-highlight\">production</em> personnel (quality inspectors, workers"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Manager"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "abc7b873-26a8-44fb-97ee-a8ceeaff59bf",
-            "links": {},
-            "meta": {
-                "score": 8.914799
+                "score": 8.606694
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1672,7 +1599,80 @@
             "id": "e99513e6-c8a4-4823-9e17-e39eb0ef5ea5",
             "links": {},
             "meta": {
-                "score": 8.908724
+                "score": 8.541968
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Altayar recruitment"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven experience as <em class=\"search-highlight\">production</em> directorBachelor degree in mechanical engineer Must have experience in"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "requirementsEstimate costs and prepare budgetsOrganize workflow to meet specifications and deadlinesMonitor <em class=\"search-highlight\">production</em>",
+                            "to resolve issuesSupervise and evaluate performance of <em class=\"search-highlight\">production</em> personnel (quality inspectors, workers"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Manager"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "abc7b873-26a8-44fb-97ee-a8ceeaff59bf",
+            "links": {},
+            "meta": {
+                "score": 8.54147
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1739,7 +1739,7 @@
             "id": "a90de682-e7f6-4f2b-9670-7d8b6a8a5700",
             "links": {},
             "meta": {
-                "score": 8.874792
+                "score": 8.507874
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1805,7 +1805,62 @@
             "id": "4b9c807f-739d-4899-b39a-9f381b862a07",
             "links": {},
             "meta": {
-                "score": 8.870998
+                "score": 8.499361
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ALDAWLIA"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "departments to set project due date to ensure projects are completed according to sales needs.Follow up <em class=\"search-highlight\">production</em>",
+                            "and take the recommended action to deliver the <em class=\"search-highlight\">production</em> plan at time with a good quality.Apply the"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Production</em> Engineer - Low Voltage Panel Builder"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "5c28b7ee-1ea1-4659-9bc4-90039219d043",
+            "links": {},
+            "meta": {
+                "score": 8.460452
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1870,7 +1925,7 @@
             "id": "aa653771-e85f-4dea-909f-56b3749639e5",
             "links": {},
             "meta": {
-                "score": 8.837497
+                "score": 8.449859
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1940,7 +1995,43 @@
             "id": "de79b93d-43ee-4c33-b2db-b9a9c792c9e3",
             "links": {},
             "meta": {
-                "score": 8.830459
+                "score": 8.4403
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Support Engineer- KSA"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "8b4fab93-f50f-4af5-b3a1-a386c312bcb0",
+            "links": {},
+            "meta": {
+                "score": 8.396696
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2004,7 +2095,7 @@
             "id": "ff4a312f-04ef-433b-b816-42034e4137c7",
             "links": {},
             "meta": {
-                "score": 8.781046
+                "score": 8.348154
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2083,7 +2174,7 @@
             "id": "620b478c-4e08-435c-8ad0-aff80468fb31",
             "links": {},
             "meta": {
-                "score": 8.768264
+                "score": 8.340556
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2147,7 +2238,7 @@
             "id": "1c82a316-fdb5-48b1-beef-e69dae3eeb33",
             "links": {},
             "meta": {
-                "score": 8.75344
+                "score": 8.322827
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2201,7 +2292,7 @@
             "id": "82045e66-9ce8-4a84-bec1-b88f1df94bb1",
             "links": {},
             "meta": {
-                "score": 8.752779
+                "score": 8.320356
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2264,7 +2355,7 @@
             "id": "f3d3700c-01d1-4291-8d8c-53e802f03840",
             "links": {},
             "meta": {
-                "score": 8.749806
+                "score": 8.318757
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2327,98 +2418,7 @@
             "id": "d718b7f4-7675-41b2-8eec-50de1b28f9ab",
             "links": {},
             "meta": {
-                "score": 8.745369
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ALDAWLIA"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "departments to set project due date to ensure projects are completed according to sales needs.Follow up <em class=\"search-highlight\">production</em>",
-                            "and take the recommended action to deliver the <em class=\"search-highlight\">production</em> plan at time with a good quality.Apply the"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Production</em> Engineer - Low Voltage Panel Builder"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "5c28b7ee-1ea1-4659-9bc4-90039219d043",
-            "links": {},
-            "meta": {
-                "score": 8.734938
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Support Engineer- KSA"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "8b4fab93-f50f-4af5-b3a1-a386c312bcb0",
-            "links": {},
-            "meta": {
-                "score": 8.693068
+                "score": 8.294058
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2485,7 +2485,7 @@
             "id": "99082ee9-8fd3-4d24-908a-69b5e3d1a73c",
             "links": {},
             "meta": {
-                "score": 8.547025
+                "score": 8.042967
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2552,7 +2552,7 @@
             "id": "95f748cf-f2f5-4943-a30f-e0709be4db1c",
             "links": {},
             "meta": {
-                "score": 8.543471
+                "score": 8.036349
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2630,7 +2630,7 @@
             "id": "5f10da4d-7686-4e93-8b24-51972d67e1ee",
             "links": {},
             "meta": {
-                "score": 8.502471
+                "score": 7.9765105
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2698,7 +2698,7 @@
             "id": "f6b405d4-4a53-49f2-84e2-916e0f13396e",
             "links": {},
             "meta": {
-                "score": 8.49459
+                "score": 7.973564
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2765,7 +2765,61 @@
             "id": "acb24a3b-19f2-480f-9655-db1365f3d952",
             "links": {},
             "meta": {
-                "score": 8.490598
+                "score": 7.9675927
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nouval Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Engineer"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "2a54f50d-0a66-49e9-a0d2-e196b05701ee",
+            "links": {},
+            "meta": {
+                "score": 7.960064
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2829,61 +2883,7 @@
             "id": "e1b96846-3d0d-47ab-81d9-93313e7a48ea",
             "links": {},
             "meta": {
-                "score": 8.488289
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nouval Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "2a54f50d-0a66-49e9-a0d2-e196b05701ee",
-            "links": {},
-            "meta": {
-                "score": 8.483765
+                "score": 7.958195
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2962,7 +2962,7 @@
             "id": "d4b1744a-c985-4c52-ba75-f7cbd389f861",
             "links": {},
             "meta": {
-                "score": 8.4572935
+                "score": 7.9155693
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3042,7 +3042,7 @@
             "id": "dc717d7d-eb2f-439b-8063-79c5a451cca9",
             "links": {},
             "meta": {
-                "score": 8.442651
+                "score": 7.9003167
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3110,7 +3110,7 @@
             "id": "87b5dcc4-9459-4c7d-b43c-baef5945ff44",
             "links": {},
             "meta": {
-                "score": 8.433385
+                "score": 7.895644
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3178,7 +3178,7 @@
             "id": "01959158-3b08-4583-b730-a1410765b901",
             "links": {},
             "meta": {
-                "score": 8.4197035
+                "score": 7.877445
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3256,7 +3256,7 @@
             "id": "179316f4-7583-4265-96e9-1f1125868541",
             "links": {},
             "meta": {
-                "score": 8.415848
+                "score": 7.8607044
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3321,7 +3321,7 @@
             "id": "1591ba6d-1834-440b-b45a-9e0323c7b448",
             "links": {},
             "meta": {
-                "score": 8.37459
+                "score": 7.819104
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3388,7 +3388,7 @@
             "id": "7b3592c2-3ec1-4360-8a61-f433865d1e64",
             "links": {},
             "meta": {
-                "score": 8.371954
+                "score": 7.817425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3462,7 +3462,7 @@
             "id": "07e23850-7b43-471e-a6e0-5dcf7750e5a7",
             "links": {},
             "meta": {
-                "score": 8.327014
+                "score": 7.7517543
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3516,7 +3516,7 @@
             "id": "377412da-b149-4924-89aa-7fda59021599",
             "links": {},
             "meta": {
-                "score": 8.314964
+                "score": 7.744176
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3593,7 +3593,7 @@
             "id": "2ac79437-f4ad-4aa3-95d9-9c831448e339",
             "links": {},
             "meta": {
-                "score": 8.152152
+                "score": 7.536414
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3672,7 +3672,7 @@
             "id": "582bebe0-59e5-4231-a4fd-92ed844fdb83",
             "links": {},
             "meta": {
-                "score": 8.137004
+                "score": 7.5228734
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3737,7 +3737,7 @@
             "id": "4b4c1fc8-0df4-4fd7-b20b-998d11fdefc8",
             "links": {},
             "meta": {
-                "score": 8.120625
+                "score": 7.502433
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3804,7 +3804,7 @@
             "id": "08317df4-12ae-4dc2-a24c-d18602f220d4",
             "links": {},
             "meta": {
-                "score": 8.108393
+                "score": 7.4921923
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3849,7 +3849,7 @@
             "id": "4420233a-cb31-4c04-9f8a-04fb35cbb0ba",
             "links": {},
             "meta": {
-                "score": 8.096773
+                "score": 7.481655
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3915,7 +3915,7 @@
             "id": "7063b5e4-727b-4220-8fc1-a588fcf15ac3",
             "links": {},
             "meta": {
-                "score": 8.095163
+                "score": 7.4770584
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3990,7 +3990,7 @@
             "id": "79ae240d-0ac4-4c51-88e5-bceab3f9dc2e",
             "links": {},
             "meta": {
-                "score": 8.045851
+                "score": 7.411372
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4057,7 +4057,7 @@
             "id": "1b8fb6d5-2b04-4631-bc1c-d281bae39f7e",
             "links": {},
             "meta": {
-                "score": 8.037239
+                "score": 7.4062767
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4120,7 +4120,7 @@
             "id": "ec75f818-a041-4682-a6da-ed406ffe790d",
             "links": {},
             "meta": {
-                "score": 8.028316
+                "score": 7.396589
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4185,7 +4185,7 @@
             "id": "07c77522-e22c-4e2f-b9ec-2c1f8ac300c2",
             "links": {},
             "meta": {
-                "score": 8.020366
+                "score": 7.386545
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4263,7 +4263,7 @@
             "id": "75e4178f-51c1-44ed-8645-87a1be418b7e",
             "links": {},
             "meta": {
-                "score": 7.980088
+                "score": 7.3335342
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4341,7 +4341,43 @@
             "id": "e3e09446-09df-4950-a7e5-081740481b79",
             "links": {},
             "meta": {
-                "score": 7.955332
+                "score": 7.3081255
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pillars"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Quality Assurance Supervisor (Glass <em class=\"search-highlight\">Production</em> Factory)"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "87c48819-f5d6-4502-8226-40115994a139",
+            "links": {},
+            "meta": {
+                "score": 7.278908
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4404,7 +4440,7 @@
             "id": "45a1c631-7d91-4e17-8edb-a4a7670d4afa",
             "links": {},
             "meta": {
-                "score": 7.9025145
+                "score": 7.2441893
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4468,7 +4504,7 @@
             "id": "d19284d8-9da6-4928-8601-293d91317153",
             "links": {},
             "meta": {
-                "score": 7.8957424
+                "score": 7.2402453
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4535,43 +4571,7 @@
             "id": "b6e1d931-56a6-456b-bdea-df4aa6e2a440",
             "links": {},
             "meta": {
-                "score": 7.8862414
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pillars"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Quality Assurance Supervisor (Glass <em class=\"search-highlight\">Production</em> Factory)"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "87c48819-f5d6-4502-8226-40115994a139",
-            "links": {},
-            "meta": {
-                "score": 7.873541
+                "score": 7.229596
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4643,7 +4643,7 @@
             "id": "34737ad8-e435-49a7-980f-801352a70977",
             "links": {},
             "meta": {
-                "score": 7.8480268
+                "score": 7.1764913
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4716,7 +4716,7 @@
             "id": "b8add075-be59-4daf-a871-e2e7a8ea3661",
             "links": {},
             "meta": {
-                "score": 7.84393
+                "score": 7.1688695
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4793,7 +4793,7 @@
             "id": "033b4401-9d79-47ac-82a6-208e735dfee3",
             "links": {},
             "meta": {
-                "score": 7.822199
+                "score": 7.150809
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4860,7 +4860,7 @@
             "id": "635e97d7-944c-4767-809c-765e2f9cfed6",
             "links": {},
             "meta": {
-                "score": 7.7950115
+                "score": 7.1246715
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4925,7 +4925,7 @@
             "id": "035e434a-41d6-4732-a542-ac55862882be",
             "links": {},
             "meta": {
-                "score": 7.785378
+                "score": 7.1126246
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4992,7 +4992,7 @@
             "id": "83460a31-6d05-4150-8463-0acb5fed7c88",
             "links": {},
             "meta": {
-                "score": 7.7797422
+                "score": 7.107626
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5068,7 +5068,7 @@
             "id": "e0499160-b884-420f-a4a5-a1e88b39bcba",
             "links": {},
             "meta": {
-                "score": 7.736038
+                "score": 7.0513544
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5135,7 +5135,7 @@
             "id": "43ca5eec-2bc9-49e0-bd44-561f3da822c0",
             "links": {},
             "meta": {
-                "score": 7.6334915
+                "score": 6.9403834
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5209,7 +5209,7 @@
             "id": "d9206e1e-c6a8-4985-a96f-f3c381a19249",
             "links": {},
             "meta": {
-                "score": 7.565085
+                "score": 6.860569
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5281,7 +5281,7 @@
             "id": "55fdbf72-5ddf-49a0-8fdc-64037281ee13",
             "links": {},
             "meta": {
-                "score": 7.475572
+                "score": 6.759575
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5348,82 +5348,7 @@
             "id": "8a77e2df-ff48-4b13-a02a-e49923c0177f",
             "links": {},
             "meta": {
-                "score": 7.4695153
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Badawy - BEECO"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>",
-                            "<em class=\"search-highlight\">Production</em> Engineer",
-                            "<em class=\"search-highlight\">Production</em> Engineering"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "University degree in Mechanical or <em class=\"search-highlight\">Production</em> Engineering.3 to 5 years experience in manufacturing and"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Main Job Duties:Achieve and implement the <em class=\"search-highlight\">production</em> plan.Calculating and maintaining <em class=\"search-highlight\">production</em> rates.Reduce",
-                            "cost of the products..Applying the principles of Lean Manufacturing.Follow-up of the <em class=\"search-highlight\">production</em> process"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Engineer"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "8d90d8b2-475a-4e77-9d74-8612507abedb",
-            "links": {},
-            "meta": {
-                "score": 7.3910174
+                "score": 6.7572885
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5500,7 +5425,7 @@
             "id": "6e89e639-ea0b-451a-a1ba-daa4085714a5",
             "links": {},
             "meta": {
-                "score": 7.3901005
+                "score": 6.6658854
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5517,7 +5442,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "EGIC"
+                            "Badawy - BEECO"
                         ]
                     }
                 ],
@@ -5525,7 +5450,9 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
+                            "<em class=\"search-highlight\">Production</em>",
+                            "<em class=\"search-highlight\">Production</em> Engineer",
+                            "<em class=\"search-highlight\">Production</em> Engineering"
                         ],
                         "value": [
                             "Production"
@@ -5534,7 +5461,16 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Graduate of Engineering in Mechanical/Electrical EngineeringBasic understanding  of <em class=\"search-highlight\">Production</em> PlanningStrong"
+                            "University degree in Mechanical or <em class=\"search-highlight\">Production</em> Engineering.3 to 5 years experience in manufacturing and"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
                         ],
                         "value": [
                             "Production"
@@ -5543,11 +5479,8 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Job Description:Collect significant processes, parts, and other resources in order to optimize <em class=\"search-highlight\">production</em>",
-                            ", identify bottlenecks and anticipate needs.Follow up the implementation of job orders, distribute <em class=\"search-highlight\">production</em>",
-                            "orders.Follow up on requisitions and maintain inventories of materials or supplies necessary to meet <em class=\"search-highlight\">production</em>",
-                            "according to demand  requests and ensure the accuracy and timeliness of the <em class=\"search-highlight\">production</em> process that",
-                            "includes a specific focus on the materials and goods required in the <em class=\"search-highlight\">production</em> phase.Application Deadline"
+                            "Main Job Duties:Achieve and implement the <em class=\"search-highlight\">production</em> plan.Calculating and maintaining <em class=\"search-highlight\">production</em> rates.Reduce",
+                            "cost of the products..Applying the principles of Lean Manufacturing.Follow-up of the <em class=\"search-highlight\">production</em> process"
                         ],
                         "value": [
                             "production"
@@ -5556,7 +5489,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Planner Engineer"
+                            "<em class=\"search-highlight\">Production</em> Engineer"
                         ],
                         "value": [
                             "Production"
@@ -5564,10 +5497,10 @@
                     }
                 ]
             },
-            "id": "a3c56a1a-e05a-4c6f-ac85-a4dcf4050b5d",
+            "id": "8d90d8b2-475a-4e77-9d74-8612507abedb",
             "links": {},
             "meta": {
-                "score": 7.2322702
+                "score": 6.6642766
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5642,7 +5575,74 @@
             "id": "ec9cfe7f-bb82-4fce-92ff-5737d2f30360",
             "links": {},
             "meta": {
-                "score": 7.2318587
+                "score": 6.4916058
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGIC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Graduate of Engineering in Mechanical/Electrical EngineeringBasic understanding  of <em class=\"search-highlight\">Production</em> PlanningStrong"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job Description:Collect significant processes, parts, and other resources in order to optimize <em class=\"search-highlight\">production</em>",
+                            ", identify bottlenecks and anticipate needs.Follow up the implementation of job orders, distribute <em class=\"search-highlight\">production</em>",
+                            "orders.Follow up on requisitions and maintain inventories of materials or supplies necessary to meet <em class=\"search-highlight\">production</em>",
+                            "according to demand  requests and ensure the accuracy and timeliness of the <em class=\"search-highlight\">production</em> process that",
+                            "includes a specific focus on the materials and goods required in the <em class=\"search-highlight\">production</em> phase.Application Deadline"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Planner Engineer"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "a3c56a1a-e05a-4c6f-ac85-a4dcf4050b5d",
+            "links": {},
+            "meta": {
+                "score": 6.4902334
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5716,7 +5716,7 @@
             "id": "77f8a6a1-8dcd-49fd-8dee-32dc2347cf8d",
             "links": {},
             "meta": {
-                "score": 7.2266455
+                "score": 6.4842176
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5770,7 +5770,7 @@
             "id": "dd3a52eb-ed1a-4daa-8787-fa380e61289e",
             "links": {},
             "meta": {
-                "score": 7.21633
+                "score": 6.47722
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5836,7 +5836,7 @@
             "id": "001f6093-b4de-4f77-8a0b-4a8fd5f0858b",
             "links": {},
             "meta": {
-                "score": 7.202229
+                "score": 6.4636426
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5902,7 +5902,7 @@
             "id": "8d989170-da9d-4efb-93f5-f26157193b14",
             "links": {},
             "meta": {
-                "score": 7.200338
+                "score": 6.46159
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5966,7 +5966,72 @@
             "id": "d4409493-faab-4b3c-b4b5-03e38a1a0880",
             "links": {},
             "meta": {
-                "score": 7.189088
+                "score": 6.449619
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Leading the Factory Team with the four <em class=\"search-highlight\">production</em> areas including all <em class=\"search-highlight\">Production</em> activities.Represent",
+                            "<em class=\"search-highlight\">Production</em> Department in meetings. "
+                        ],
+                        "value": [
+                            "production",
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Manager \" Mechanical Engineering\" - New Damietta"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "be692831-d051-4830-953b-d6452b8f438d",
+            "links": {},
+            "meta": {
+                "score": 6.178781
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6042,72 +6107,7 @@
             "id": "fa9f1723-4510-4107-b9a6-06cb2978f715",
             "links": {},
             "meta": {
-                "score": 6.9401474
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Leading the Factory Team with the four <em class=\"search-highlight\">production</em> areas including all <em class=\"search-highlight\">Production</em> activities.Represent",
-                            "<em class=\"search-highlight\">Production</em> Department in meetings. "
-                        ],
-                        "value": [
-                            "production",
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Manager \" Mechanical Engineering\" - New Damietta"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "be692831-d051-4830-953b-d6452b8f438d",
-            "links": {},
-            "meta": {
-                "score": 6.9379277
+                "score": 6.177774
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6182,7 +6182,7 @@
             "id": "d0f627ea-beef-4a7e-9a79-cc074ca3998a",
             "links": {},
             "meta": {
-                "score": 6.9375277
+                "score": 6.173014
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6249,7 +6249,7 @@
             "id": "2c0d99d3-d872-4808-ad95-fa7331e08591",
             "links": {},
             "meta": {
-                "score": 6.9034967
+                "score": 6.143313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6314,7 +6314,7 @@
             "id": "b2059488-3d6e-4088-b341-25856b8355f7",
             "links": {},
             "meta": {
-                "score": 6.8345633
+                "score": 6.069942
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6388,7 +6388,73 @@
             "id": "f2857cf5-6508-4ed5-9a77-7d0d392703ef",
             "links": {},
             "meta": {
-                "score": 6.753117
+                "score": 5.9783983
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Carina Wear"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Provide assistance to improve <em class=\"search-highlight\">production</em> procedures, processes and controls.Conduct research, design",
+                            "plus development of all manufacturing processes inclusive of <em class=\"search-highlight\">production</em> flow, assembly procedures and",
+                            "<em class=\"search-highlight\">production</em> equipment.Receive all POs from Supply Chain department and start tracking all <em class=\"search-highlight\">production</em>",
+                            "management process and primary cause evaluation for executed process deviations.Ensure the manufacturing or <em class=\"search-highlight\">production</em>"
+                        ],
+                        "value": [
+                            "production"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Production</em> Specialist"
+                        ],
+                        "value": [
+                            "Production"
+                        ]
+                    }
+                ]
+            },
+            "id": "22244d02-e043-438b-a7bb-c65eaf7ad6b1",
+            "links": {},
+            "meta": {
+                "score": 5.97351
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6465,73 +6531,7 @@
             "id": "6e68a4b2-ea7e-4a8d-b3a0-deb03b24edfb",
             "links": {},
             "meta": {
-                "score": 6.7431736
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Carina Wear"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Manufacturing/<em class=\"search-highlight\">Production</em>"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Provide assistance to improve <em class=\"search-highlight\">production</em> procedures, processes and controls.Conduct research, design",
-                            "plus development of all manufacturing processes inclusive of <em class=\"search-highlight\">production</em> flow, assembly procedures and",
-                            "<em class=\"search-highlight\">production</em> equipment.Receive all POs from Supply Chain department and start tracking all <em class=\"search-highlight\">production</em>",
-                            "management process and primary cause evaluation for executed process deviations.Ensure the manufacturing or <em class=\"search-highlight\">production</em>"
-                        ],
-                        "value": [
-                            "production"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Production</em> Specialist"
-                        ],
-                        "value": [
-                            "Production"
-                        ]
-                    }
-                ]
-            },
-            "id": "22244d02-e043-438b-a7bb-c65eaf7ad6b1",
-            "links": {},
-            "meta": {
-                "score": 6.7429857
+                "score": 5.969596
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6605,7 +6605,7 @@
             "id": "a4b33f25-8e8c-4134-b329-69e490a4dc56",
             "links": {},
             "meta": {
-                "score": 6.7406993
+                "score": 5.9675403
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6685,7 +6685,7 @@
             "id": "c6261d89-2974-44fe-903e-8f336b618563",
             "links": {},
             "meta": {
-                "score": 6.7367463
+                "score": 5.9635186
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6739,7 +6739,7 @@
             "id": "c8db43e5-50e2-4193-92d9-740b2db481cd",
             "links": {},
             "meta": {
-                "score": 6.6612263
+                "score": 5.8879747
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6793,7 +6793,7 @@
             "id": "4c226e15-1ecd-4314-8da7-b3657c3af1e7",
             "links": {},
             "meta": {
-                "score": 6.5204563
+                "score": 5.7420096
             },
             "relationships": {},
             "type": "talentSearch"

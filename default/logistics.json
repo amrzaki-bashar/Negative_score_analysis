@@ -12,69 +12,6 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Capital logistics"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "Capital <em class=\"search-highlight\">logistics</em>"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em> Sales Executive - Alexandria"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "8dff52f0-c09a-40cd-b67a-a50128903aea",
-            "links": {},
-            "meta": {
-                "score": 10.054241
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
                             ""
                         ]
                     }
@@ -121,7 +58,7 @@
             "id": "8f89797e-23e7-4502-a1de-daeed07018ae",
             "links": {},
             "meta": {
-                "score": 9.972672
+                "score": 9.860844
             },
             "relationships": {},
             "type": "talentSearch"
@@ -184,61 +121,7 @@
             "id": "3154d0a1-e2e7-44ae-b7d0-0c976ef44d32",
             "links": {},
             "meta": {
-                "score": 9.957793
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Egy Yarn"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em> Coordinator"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "d53c16be-d942-46a6-9a2d-d13165e19b32",
-            "links": {},
-            "meta": {
-                "score": 9.940582
+                "score": 9.84994
             },
             "relationships": {},
             "type": "talentSearch"
@@ -292,7 +175,124 @@
             "id": "eb573e8d-6ac1-4b06-94eb-2d093102c9f8",
             "links": {},
             "meta": {
-                "score": 9.936464
+                "score": 9.83332
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Capital logistics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "Capital <em class=\"search-highlight\">logistics</em>"
+                        ],
+                        "value": [
+                            "logistics"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em> Sales Executive - Alexandria"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "8dff52f0-c09a-40cd-b67a-a50128903aea",
+            "links": {},
+            "meta": {
+                "score": 9.816367
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Egy Yarn"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em> Coordinator"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "d53c16be-d942-46a6-9a2d-d13165e19b32",
+            "links": {},
+            "meta": {
+                "score": 9.802888
             },
             "relationships": {},
             "type": "talentSearch"
@@ -355,7 +355,7 @@
             "id": "23402c50-f93b-4052-b23b-c45d88732b9c",
             "links": {},
             "meta": {
-                "score": 9.926674
+                "score": 9.769785
             },
             "relationships": {},
             "type": "talentSearch"
@@ -409,7 +409,7 @@
             "id": "22ec81dc-3804-4d62-943a-7767d4b92832",
             "links": {},
             "meta": {
-                "score": 9.921796
+                "score": 9.736391
             },
             "relationships": {},
             "type": "talentSearch"
@@ -472,7 +472,7 @@
             "id": "fa6719e4-6111-4c13-83a2-923f4dadf6ac",
             "links": {},
             "meta": {
-                "score": 9.921125
+                "score": 9.686451
             },
             "relationships": {},
             "type": "talentSearch"
@@ -535,134 +535,7 @@
             "id": "232a79af-da5c-4d4a-a717-1497f22855f1",
             "links": {},
             "meta": {
-                "score": 9.90832
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Orchidia Pharmaceutical Industries"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>",
-                            "<em class=\"search-highlight\">Logistics</em> Operations"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor degree in <em class=\"search-highlight\">Logistics</em> is Must Basic Cargo Course is highly preferred.Min 0-3 years of proven experience"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistic</em> Specialist"
-                        ],
-                        "value": [
-                            "Logistic"
-                        ]
-                    }
-                ]
-            },
-            "id": "2e361bd0-133d-4659-a1f3-ad3da800364e",
-            "links": {},
-            "meta": {
-                "score": 9.887823
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Excellent communication and interpersonal skillsVery Good EnglishExperience in <em class=\"search-highlight\">logistics</em> field"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Operations <em class=\"search-highlight\">Logistics</em> Supervisor"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "fcd9be1d-d614-4e49-9959-ad42dc583463",
-            "links": {},
-            "meta": {
-                "score": 9.882389
+                "score": 9.650381
             },
             "relationships": {},
             "type": "talentSearch"
@@ -725,7 +598,7 @@
             "id": "bdfaef4a-30e5-46a2-9ba5-e2f09a01ed4b",
             "links": {},
             "meta": {
-                "score": 9.873555
+                "score": 9.615368
             },
             "relationships": {},
             "type": "talentSearch"
@@ -790,7 +663,134 @@
             "id": "871ddb87-086c-430b-8abb-a4d1a259c8a4",
             "links": {},
             "meta": {
-                "score": 9.871544
+                "score": 9.610954
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Orchidia Pharmaceutical Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>",
+                            "<em class=\"search-highlight\">Logistics</em> Operations"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor degree in <em class=\"search-highlight\">Logistics</em> is Must Basic Cargo Course is highly preferred.Min 0-3 years of proven experience"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistic</em> Specialist"
+                        ],
+                        "value": [
+                            "Logistic"
+                        ]
+                    }
+                ]
+            },
+            "id": "2e361bd0-133d-4659-a1f3-ad3da800364e",
+            "links": {},
+            "meta": {
+                "score": 9.599488
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Excellent communication and interpersonal skillsVery Good EnglishExperience in <em class=\"search-highlight\">logistics</em> field"
+                        ],
+                        "value": [
+                            "logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Operations <em class=\"search-highlight\">Logistics</em> Supervisor"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "fcd9be1d-d614-4e49-9959-ad42dc583463",
+            "links": {},
+            "meta": {
+                "score": 9.56659
             },
             "relationships": {},
             "type": "talentSearch"
@@ -853,7 +853,7 @@
             "id": "1e6ce3a7-32ee-4001-841c-ecb0b1d2c674",
             "links": {},
             "meta": {
-                "score": 9.856925
+                "score": 9.546817
             },
             "relationships": {},
             "type": "talentSearch"
@@ -916,7 +916,7 @@
             "id": "9d4c6a43-91f7-48c2-a392-8decfef3cf19",
             "links": {},
             "meta": {
-                "score": 9.84643
+                "score": 9.537846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -970,7 +970,7 @@
             "id": "f62831b8-2083-481e-a832-9451d5a52844",
             "links": {},
             "meta": {
-                "score": 9.832126
+                "score": 9.521846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1044,7 +1044,7 @@
             "id": "a3f813f4-e7fa-4701-9ecf-97993b5ebc9d",
             "links": {},
             "meta": {
-                "score": 9.825109
+                "score": 9.492819
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1107,7 +1107,52 @@
             "id": "e45fe64d-96ee-464a-8bf5-611371dc3736",
             "links": {},
             "meta": {
-                "score": 9.823031
+                "score": 9.488103
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin Assistant - Multinational <em class=\"search-highlight\">Logistics</em> Co"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "f9b09404-5395-4ead-9ac2-dbfb4bc9a987",
+            "links": {},
+            "meta": {
+                "score": 9.480758
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1161,7 +1206,7 @@
             "id": "cb28722c-a098-4e2e-ad27-1a5607f377cc",
             "links": {},
             "meta": {
-                "score": 9.800609
+                "score": 9.465512
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1216,7 +1261,7 @@
             "id": "cb4e75dc-2e5d-4cad-9b50-f18b836d7a49",
             "links": {},
             "meta": {
-                "score": 9.738739
+                "score": 9.363777
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1290,7 +1335,7 @@
             "id": "b8f882e9-fa1b-4c32-a98d-86cd235d4adb",
             "links": {},
             "meta": {
-                "score": 9.737721
+                "score": 9.33731
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1354,7 +1399,7 @@
             "id": "167baad1-5674-44c1-8b14-742974ab3bce",
             "links": {},
             "meta": {
-                "score": 9.726176
+                "score": 9.321818
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1432,7 +1477,7 @@
             "id": "bd31a087-dee0-46a7-bc9f-ed92b0ee706b",
             "links": {},
             "meta": {
-                "score": 9.711969
+                "score": 9.305437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1489,8 +1534,8 @@
                             "Analyzing and optimizing <em class=\"search-highlight\">logistical</em> procedures. Reviewing, preparing, and routing Customer orders. "
                         ],
                         "value": [
-                            "logistical",
-                            "Logistics"
+                            "Logistics",
+                            "logistical"
                         ]
                     },
                     {
@@ -1507,7 +1552,7 @@
             "id": "d51e98bd-347a-4e72-ba09-ea526ca98409",
             "links": {},
             "meta": {
-                "score": 9.682068
+                "score": 9.256273
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1561,52 +1606,7 @@
             "id": "0713ee2c-cf16-4cc5-acae-d46332dfe96c",
             "links": {},
             "meta": {
-                "score": 9.649928
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Admin Assistant - Multinational <em class=\"search-highlight\">Logistics</em> Co"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "f9b09404-5395-4ead-9ac2-dbfb4bc9a987",
-            "links": {},
-            "meta": {
-                "score": 9.639746
+                "score": 9.2261
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1669,7 +1669,7 @@
             "id": "aff65d48-5428-4a1b-899f-6a4db770479d",
             "links": {},
             "meta": {
-                "score": 9.528805
+                "score": 9.039428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1745,7 +1745,7 @@
             "id": "5eaf52d0-7edd-45b9-acb1-bcbb1be20fdb",
             "links": {},
             "meta": {
-                "score": 9.528419
+                "score": 9.035469
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1809,7 +1809,7 @@
             "id": "e0738768-230d-489e-b271-4a203b2e05da",
             "links": {},
             "meta": {
-                "score": 9.466225
+                "score": 8.948603
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1872,7 +1872,7 @@
             "id": "2d28d7a3-64b9-4af9-b294-11cb77e4e22e",
             "links": {},
             "meta": {
-                "score": 9.384441
+                "score": 8.830517
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1926,7 +1926,7 @@
             "id": "1e2db1a8-7aa3-45a2-a0a0-78eec08c1b7d",
             "links": {},
             "meta": {
-                "score": 9.346473
+                "score": 8.796941
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1980,7 +1980,7 @@
             "id": "9a29b5ca-c47a-48dc-9f2c-2efd6d74124e",
             "links": {},
             "meta": {
-                "score": 9.345557
+                "score": 8.796432
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2056,7 +2056,7 @@
             "id": "f37a90cb-af2a-4be6-875b-cdf8a08d9f91",
             "links": {},
             "meta": {
-                "score": 9.308804
+                "score": 8.738882
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2122,7 +2122,7 @@
             "id": "71d80a40-551c-4dee-84af-108413f1bf38",
             "links": {},
             "meta": {
-                "score": 9.308201
+                "score": 8.73822
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2194,7 +2194,7 @@
             "id": "a277a098-c00f-426b-bb50-d7fe6aec4ebe",
             "links": {},
             "meta": {
-                "score": 9.29015
+                "score": 8.715743
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2258,7 +2258,7 @@
             "id": "881d9327-900b-45a6-8bc2-5f9510977bea",
             "links": {},
             "meta": {
-                "score": 9.212525
+                "score": 8.62365
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2330,7 +2330,7 @@
             "id": "5e016090-f051-4033-b9c5-dbd81ed665c9",
             "links": {},
             "meta": {
-                "score": 9.108617
+                "score": 8.485196
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2360,8 +2360,8 @@
                             "<em class=\"search-highlight\">logistical</em> solutions"
                         ],
                         "value": [
-                            "logistical",
-                            "Logistics"
+                            "Logistics",
+                            "logistical"
                         ]
                     },
                     {
@@ -2405,7 +2405,7 @@
             "id": "7640657e-c2a4-4a13-9733-7185bea12faa",
             "links": {},
             "meta": {
-                "score": 9.101916
+                "score": 8.474858
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2468,7 +2468,7 @@
             "id": "3a948b40-6156-4317-95f0-9baca1de1ed1",
             "links": {},
             "meta": {
-                "score": 9.078878
+                "score": 8.455134
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2522,7 +2522,7 @@
             "id": "25b6bb05-29c7-40ef-8cb5-ce9e164e672c",
             "links": {},
             "meta": {
-                "score": 9.073929
+                "score": 8.447806
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2576,7 +2576,7 @@
             "id": "3e903e4d-d8dd-4799-8491-0c5c7677b9e3",
             "links": {},
             "meta": {
-                "score": 9.0722065
+                "score": 8.444975
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2639,7 +2639,7 @@
             "id": "57061c05-9047-4d20-a0f7-0afe79a0957b",
             "links": {},
             "meta": {
-                "score": 9.066821
+                "score": 8.439669
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2711,7 +2711,7 @@
             "id": "de14eb42-6922-4e6e-9706-4e439b13ea98",
             "links": {},
             "meta": {
-                "score": 8.801454
+                "score": 8.108135
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2783,7 +2783,7 @@
             "id": "10def3d1-2a69-4c59-a9dc-082a0aafa116",
             "links": {},
             "meta": {
-                "score": 8.776607
+                "score": 8.082048
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2859,7 +2859,7 @@
             "id": "89549b26-6280-409c-b93f-10e7f0dba54c",
             "links": {},
             "meta": {
-                "score": 8.621661
+                "score": 7.901243
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2922,7 +2922,7 @@
             "id": "7afd607f-c90a-478c-ac8f-670fed5c3e13",
             "links": {},
             "meta": {
-                "score": 8.51991
+                "score": 7.7883425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2985,7 +2985,7 @@
             "id": "40673fc5-860c-417f-9993-606c8ee9ad60",
             "links": {},
             "meta": {
-                "score": 8.243708
+                "score": 7.4746656
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3057,7 +3057,7 @@
             "id": "0bb1bd05-6e38-4489-b2bb-9aaa1bd5500c",
             "links": {},
             "meta": {
-                "score": 8.191088
+                "score": 7.4119797
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3120,7 +3120,7 @@
             "id": "747b5dbc-d1e1-4a8e-b02c-4ad36b1cacf6",
             "links": {},
             "meta": {
-                "score": 8.171208
+                "score": 7.389641
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3184,7 +3184,7 @@
             "id": "b039ad8d-c98f-42d4-89fc-ff4eeabe1bac",
             "links": {},
             "meta": {
-                "score": 8.165044
+                "score": 7.3841143
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3248,7 +3248,7 @@
             "id": "04cc39b7-1153-4a92-999e-d8f6de4e488b",
             "links": {},
             "meta": {
-                "score": 8.159254
+                "score": 7.380849
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3324,7 +3324,7 @@
             "id": "41f5830c-b102-44cc-8dbc-f8b763b4860e",
             "links": {},
             "meta": {
-                "score": 7.999027
+                "score": 7.19867
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3387,7 +3387,7 @@
             "id": "1cc5a8eb-15c0-4b63-9788-adeeac3759f6",
             "links": {},
             "meta": {
-                "score": 7.9616795
+                "score": 7.162854
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3450,7 +3450,7 @@
             "id": "558ea0cb-ab4b-4c00-9fbf-e41d01406f29",
             "links": {},
             "meta": {
-                "score": 7.9010086
+                "score": 7.0929675
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3525,7 +3525,7 @@
             "id": "3121b799-d90c-4454-a567-c48d281a8d4b",
             "links": {},
             "meta": {
-                "score": 7.898618
+                "score": 7.0909595
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3588,7 +3588,7 @@
             "id": "6e82750d-ef54-4a63-94f8-099864fb8872",
             "links": {},
             "meta": {
-                "score": 7.8837914
+                "score": 7.073403
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3651,7 +3651,7 @@
             "id": "d2e2ad8b-90b1-4be3-880d-6fa69c9a66e2",
             "links": {},
             "meta": {
-                "score": 7.8673086
+                "score": 7.060676
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3705,7 +3705,7 @@
             "id": "d2a3e866-dedc-4055-9400-d13773217026",
             "links": {},
             "meta": {
-                "score": 7.5678926
+                "score": 6.738231
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3781,7 +3781,7 @@
             "id": "56eceea9-d280-4bc2-b2b2-89ba492c0bbd",
             "links": {},
             "meta": {
-                "score": 7.520789
+                "score": 6.6855454
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3855,7 +3855,7 @@
             "id": "cf837428-5054-4413-9762-6442c504d1bc",
             "links": {},
             "meta": {
-                "score": 7.3769736
+                "score": 6.533578
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3919,7 +3919,7 @@
             "id": "71dc0103-f9af-4872-bfed-abc01a4a647f",
             "links": {},
             "meta": {
-                "score": 7.265962
+                "score": 6.4178085
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3973,7 +3973,7 @@
             "id": "e9d4064b-7e77-4c43-ac03-a386c09b4a1b",
             "links": {},
             "meta": {
-                "score": 7.1534576
+                "score": 6.3044314
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4019,7 +4019,7 @@
             "id": "0e16734d-a8f5-4e82-8444-232f30d37613",
             "links": {},
             "meta": {
-                "score": 7.1462464
+                "score": 6.298052
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4073,7 +4073,7 @@
             "id": "597a61c0-590c-4ac2-865d-13912c28e6db",
             "links": {},
             "meta": {
-                "score": 6.7253857
+                "score": 5.865047
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4147,246 +4147,7 @@
             "id": "47ddcb84-4da3-461b-b249-3baf46ff52e8",
             "links": {},
             "meta": {
-                "score": 6.6254444
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Kian Egypt"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Proven working experience as a <em class=\"search-highlight\">logistics</em> managerRecord of successful distribution and <em class=\"search-highlight\">logistics</em> managementBe"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We are looking for a reliable <em class=\"search-highlight\">logistics</em> manager to be responsible for the overall supply chain management",
-                            "<em class=\"search-highlight\">Logistics</em> manager responsibilities include organising and monitoring storage and distribution of goods.Job",
-                            "responsibilities:Strategically plan and manage <em class=\"search-highlight\">logistics</em>, warehouse, transportation and customer servicesDirect"
-                        ],
-                        "value": [
-                            "Logistics",
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em> Manager"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "130c7060-e941-40da-9c26-0963042e79f3",
-            "links": {},
-            "meta": {
-                "score": 6.414087
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Andalus Electrical solutions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s degree in business administration, <em class=\"search-highlight\">logistics</em>, supply chain, or relevant field.A minimum of"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "supply chain dutiesMust demonstrate strong attention to detail in order to oversee daily operations and <em class=\"search-highlight\">logistics</em>.Research"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistic</em> Coordinator"
-                        ],
-                        "value": [
-                            "Logistic"
-                        ]
-                    }
-                ]
-            },
-            "id": "dd0ea1b8-c945-4820-9122-9f86be68bfac",
-            "links": {},
-            "meta": {
-                "score": 6.3877344
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>",
-                            "<em class=\"search-highlight\">Logistics</em> Management",
-                            "<em class=\"search-highlight\">Logistics</em> Operations"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em> Specialist"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "21d093b4-24dd-472f-aaa2-a663b2722a33",
-            "links": {},
-            "meta": {
-                "score": 6.1628804
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "MFN Family"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Sales Specialist - Freight Forwarding and <em class=\"search-highlight\">logistics</em>"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "59bd91ee-d3fd-4ee9-8b45-57172c7a5a4a",
-            "links": {},
-            "meta": {
-                "score": 5.8800893
+                "score": 5.7612944
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4431,61 +4192,7 @@
             "id": "f41301d1-0239-4237-adf8-2fbd8e392c90",
             "links": {},
             "meta": {
-                "score": 5.8336363
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Movibilecases"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "in inventory auditsExcellent organization skillsGood communication and negotiation abilitiesBSc in <em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "47c9438a-3ead-425d-aeee-5ba6237c8925",
-            "links": {},
-            "meta": {
-                "score": 5.829432
+                "score": 5.7559433
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4540,7 +4247,61 @@
             "id": "eaa819b3-007f-4c8f-a2a6-86837c986380",
             "links": {},
             "meta": {
-                "score": 5.828506
+                "score": 5.751812
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Movibilecases"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "in inventory auditsExcellent organization skillsGood communication and negotiation abilitiesBSc in <em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "47c9438a-3ead-425d-aeee-5ba6237c8925",
+            "links": {},
+            "meta": {
+                "score": 5.7497125
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4594,7 +4355,97 @@
             "id": "efd0f81c-7175-4f7e-a96e-da5a8179b96e",
             "links": {},
             "meta": {
-                "score": 5.8264112
+                "score": 5.7494082
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pure Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "99f2bd54-9bb9-4a91-9f86-d6a04c29d7ec",
+            "links": {},
+            "meta": {
+                "score": 5.742597
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ibramar shipping Co"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "d3fb8d17-e3f0-4fed-ab08-d8fc64c97884",
+            "links": {},
+            "meta": {
+                "score": 5.7372656
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4648,719 +4499,7 @@
             "id": "0c81e8dc-92f6-47af-b250-ecee2fdd6f71",
             "links": {},
             "meta": {
-                "score": 5.8170137
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Sky logistics"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "2-4 years working experience in industrial Engineering and /or <em class=\"search-highlight\">logistics</em> /Quality Departments Bachelor's"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "Sky <em class=\"search-highlight\">logistics</em>"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Planning and coordinating the implementation of the Process Improvement projectRecommend innovative <em class=\"search-highlight\">logistics</em>",
-                            "developing proposals and recommendations.Responsible for utilizes digitalization /automation to enhance <em class=\"search-highlight\">logistics</em>"
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "bdc7dcd0-3e2d-4a4f-b589-e0eb3d9a645a",
-            "links": {},
-            "meta": {
-                "score": 5.8102436
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "SGL"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "9684c3d4-903b-416e-9af4-19ea3a942b55",
-            "links": {},
-            "meta": {
-                "score": 5.8066893
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "OPPO Egypt "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "46f362ba-7872-43fd-824a-ba0601cbd08c",
-            "links": {},
-            "meta": {
-                "score": 5.8031178
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pure Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "99f2bd54-9bb9-4a91-9f86-d6a04c29d7ec",
-            "links": {},
-            "meta": {
-                "score": 5.802796
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Ibramar shipping Co"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "d3fb8d17-e3f0-4fed-ab08-d8fc64c97884",
-            "links": {},
-            "meta": {
-                "score": 5.801814
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Caduceus Lane"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "7604e658-d47b-49d4-bd25-a1e75c5e204b",
-            "links": {},
-            "meta": {
-                "score": 5.80177
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "28d7bf70-76c4-4c90-a8e6-97c25ea1b880",
-            "links": {},
-            "meta": {
-                "score": 5.7999997
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "18d11d1e-58b3-4f1e-bd08-f23f3812ad61",
-            "links": {},
-            "meta": {
-                "score": 5.799933
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Tagaddod"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "71fcdd7c-c67a-4c79-81c4-08f7b8c1d248",
-            "links": {},
-            "meta": {
-                "score": 5.799931
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "feb4d6b2-0c79-4d94-af9b-45f014c72fa0",
-            "links": {},
-            "meta": {
-                "score": 5.7996635
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "As-Salam International Hospital"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "9e329a60-5b6b-4c73-b2ef-3f198665217a",
-            "links": {},
-            "meta": {
-                "score": 5.7991257
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smart Solutions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "ff39722d-50f5-4330-85f4-e93b625ffc6a",
-            "links": {},
-            "meta": {
-                "score": 5.798768
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ECOBAT"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "8636e480-ecb5-4a9e-93d4-fd386b1c0790",
-            "links": {},
-            "meta": {
-                "score": 5.798387
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Faragalla Food Industries"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor degree of Commerce “English Department” or Bachelor of <em class=\"search-highlight\">logistics</em> from Arab Academy.   "
-                        ],
-                        "value": [
-                            "logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "613e27f8-8547-45d8-b111-bc16e058e7b0",
-            "links": {},
-            "meta": {
-                "score": 5.7974105
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Cairoscan"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "4fd186c4-3a4e-4721-8c4c-2b8964ed3019",
-            "links": {},
-            "meta": {
-                "score": 5.797015
+                "score": 5.735951
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5405,7 +4544,574 @@
             "id": "0902df07-d33e-4517-8519-ac918d86e5fc",
             "links": {},
             "meta": {
-                "score": 5.796834
+                "score": 5.731372
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "OPPO Egypt "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "46f362ba-7872-43fd-824a-ba0601cbd08c",
+            "links": {},
+            "meta": {
+                "score": 5.726694
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "28d7bf70-76c4-4c90-a8e6-97c25ea1b880",
+            "links": {},
+            "meta": {
+                "score": 5.721825
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Fibers club"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "c0a093bb-c910-4843-b5f1-9789d58f8da3",
+            "links": {},
+            "meta": {
+                "score": 5.7217264
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "ff39722d-50f5-4330-85f4-e93b625ffc6a",
+            "links": {},
+            "meta": {
+                "score": 5.7211456
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "As-Salam International Hospital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "9e329a60-5b6b-4c73-b2ef-3f198665217a",
+            "links": {},
+            "meta": {
+                "score": 5.7199283
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "feb4d6b2-0c79-4d94-af9b-45f014c72fa0",
+            "links": {},
+            "meta": {
+                "score": 5.7195363
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "John Snow InC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "bcac0910-f3d3-4e20-96b7-769db3d882af",
+            "links": {},
+            "meta": {
+                "score": 5.7193274
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "18d11d1e-58b3-4f1e-bd08-f23f3812ad61",
+            "links": {},
+            "meta": {
+                "score": 5.7191606
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tagaddod"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "71fcdd7c-c67a-4c79-81c4-08f7b8c1d248",
+            "links": {},
+            "meta": {
+                "score": 5.7191477
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SGL"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "9684c3d4-903b-416e-9af4-19ea3a942b55",
+            "links": {},
+            "meta": {
+                "score": 5.713788
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Caduceus Lane"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "7604e658-d47b-49d4-bd25-a1e75c5e204b",
+            "links": {},
+            "meta": {
+                "score": 5.7108665
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECOBAT"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "8636e480-ecb5-4a9e-93d4-fd386b1c0790",
+            "links": {},
+            "meta": {
+                "score": 5.7055154
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Cairoscan"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "4fd186c4-3a4e-4721-8c4c-2b8964ed3019",
+            "links": {},
+            "meta": {
+                "score": 5.7040834
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5450,52 +5156,7 @@
             "id": "fb9474bd-a704-407c-8f0a-68f9e717e673",
             "links": {},
             "meta": {
-                "score": 5.7966013
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "GLC"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "72677f93-bff4-4b0a-8def-d7d9a0d734a0",
-            "links": {},
-            "meta": {
-                "score": 5.79617
+                "score": 5.7035847
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5549,52 +5210,7 @@
             "id": "e7163a54-47e6-41d7-a53a-0a4f34798adc",
             "links": {},
             "meta": {
-                "score": 5.795713
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "5b8e2c64-9250-40bb-a174-9132da2ac5e4",
-            "links": {},
-            "meta": {
-                "score": 5.7949867
+                "score": 5.702073
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5639,7 +5255,97 @@
             "id": "8f50e39b-8ecb-4836-8439-051e7505a0cb",
             "links": {},
             "meta": {
-                "score": 5.79441
+                "score": 5.702012
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GLC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "72677f93-bff4-4b0a-8def-d7d9a0d734a0",
+            "links": {},
+            "meta": {
+                "score": 5.701719
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "5b8e2c64-9250-40bb-a174-9132da2ac5e4",
+            "links": {},
+            "meta": {
+                "score": 5.700996
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5684,52 +5390,7 @@
             "id": "69eca274-2478-4ffc-8309-7d9ff3203bf7",
             "links": {},
             "meta": {
-                "score": 5.7930007
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "AMCO"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    }
-                ]
-            },
-            "id": "87ecc3be-1a4d-479a-b62a-7f18b88f9b9e",
-            "links": {},
-            "meta": {
-                "score": 5.791886
+                "score": 5.6987514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5774,7 +5435,7 @@
             "id": "5a0a1604-5bde-4fc9-bb64-b9972396fad6",
             "links": {},
             "meta": {
-                "score": 5.7917395
+                "score": 5.697721
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5791,7 +5452,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Grand Plast "
+                            "AMCO"
                         ]
                     }
                 ],
@@ -5800,15 +5461,6 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Logistics</em>"
-                        ],
-                        "value": [
-                            "Logistics"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's degree in <em class=\"search-highlight\">Logistics</em>\\ Supply Chain or related field.Minimum 2 years of experience.The position"
                         ],
                         "value": [
                             "Logistics"
@@ -5825,10 +5477,181 @@
                     }
                 ]
             },
-            "id": "d8385bd2-ad9a-4f5c-8f70-14ef52b987d2",
+            "id": "87ecc3be-1a4d-479a-b62a-7f18b88f9b9e",
             "links": {},
             "meta": {
-                "score": 5.790955
+                "score": 5.696365
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EVA Cosmetics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "ce9b3c0f-769a-4c4c-b40d-5f3f728f5c02",
+            "links": {},
+            "meta": {
+                "score": 5.695286
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "4417b030-22c4-44ad-af36-02a723fb0961",
+            "links": {},
+            "meta": {
+                "score": 5.688942
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mamiba "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "4a37e738-a538-414c-bf79-ad693fa74377",
+            "links": {},
+            "meta": {
+                "score": 5.684786
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>/Supply Chain"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "32697dc3-8246-4c93-a400-db5c747ce4ff",
+            "links": {},
+            "meta": {
+                "score": 5.6819263
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5873,7 +5696,55 @@
             "id": "ce816282-86c2-470e-be78-60aff695ff02",
             "links": {},
             "meta": {
-                "score": 5.7907014
+                "score": 5.681581
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "GIECO"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Logistics</em>"
+                        ],
+                        "value": [
+                            "Logistics"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "yearPrepares periodic reports regarding the department activities and achievements to be submitted to the <em class=\"search-highlight\">Logistics</em>",
+                            "of office for personal or business needPerforming other duties related to the job as assigned by the <em class=\"search-highlight\">Logistics</em>",
+                            "management and procurement functions of purchasing, expediting, shipping, receipt and inspections, and <em class=\"search-highlight\">logistics</em>.Develop"
+                        ],
+                        "value": [
+                            "Logistics",
+                            "logistics"
+                        ]
+                    }
+                ]
+            },
+            "id": "1a096280-a39a-473d-9395-a097ff5de4b2",
+            "links": {},
+            "meta": {
+                "score": 5.67456
             },
             "relationships": {},
             "type": "talentSearch"

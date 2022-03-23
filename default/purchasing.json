@@ -12,7 +12,70 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "GLC"
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "expectations, etc.Liaise with suppliers and project managers regarding updates and details of goodsCreate <em class=\"search-highlight\">purchase</em>"
+                        ],
+                        "value": [
+                            "purchase"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "8dd71034-9905-4805-a6b3-b2d891a3cc67",
+            "links": {},
+            "meta": {
+                "score": 9.404547
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Solutions"
                         ]
                     }
                 ],
@@ -29,7 +92,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "related field.\n2-4 years of experience in a manufacturing/production environment, coordination and <em class=\"search-highlight\">purchasing</em>"
+                            "management, engineering or a similar field is preferred.1-3 years of experience.Good working knowledge of <em class=\"search-highlight\">purchasing</em>"
                         ],
                         "value": [
                             "purchasing"
@@ -47,12 +110,13 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Issue <em class=\"search-highlight\">purchase</em> orders and Execute the procurement process according to the approved <em class=\"search-highlight\">purchase</em> orders.",
-                            "<em class=\"search-highlight\">Purchase</em> Raw & Packing materials for manufacturing plant."
+                            "suppliers according to key business criteria.Preparing proposals, requesting quotes, and negotiating <em class=\"search-highlight\">purchase</em>",
+                            "terms and conditions.Preparing and issuing <em class=\"search-highlight\">purchase</em> orders and agreements.Monitoring supplier performance",
+                            "and resolving issues and concerns.Inspecting and evaluating the quality of <em class=\"search-highlight\">purchased</em> items and resolving"
                         ],
                         "value": [
-                            "Purchase",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -66,10 +130,10 @@
                     }
                 ]
             },
-            "id": "72677f93-bff4-4b0a-8def-d7d9a0d734a0",
+            "id": "ff39722d-50f5-4330-85f4-e93b625ffc6a",
             "links": {},
             "meta": {
-                "score": 9.530273
+                "score": 9.402042
             },
             "relationships": {},
             "type": "talentSearch"
@@ -131,8 +195,8 @@
                         ],
                         "value": [
                             "purchasing",
-                            "purchased",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -149,7 +213,7 @@
             "id": "feb4d6b2-0c79-4d94-af9b-45f014c72fa0",
             "links": {},
             "meta": {
-                "score": 9.530171
+                "score": 9.398504
             },
             "relationships": {},
             "type": "talentSearch"
@@ -166,7 +230,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Smart Solutions"
+                            "Alumil"
                         ]
                     }
                 ],
@@ -181,15 +245,6 @@
                         ]
                     },
                     {
-                        "name": "requirements",
-                        "snippets": [
-                            "management, engineering or a similar field is preferred.1-3 years of experience.Good working knowledge of <em class=\"search-highlight\">purchasing</em>"
-                        ],
-                        "value": [
-                            "purchasing"
-                        ]
-                    },
-                    {
                         "name": "roles",
                         "snippets": [
                             "<em class=\"search-highlight\">Purchasing</em>/Procurement"
@@ -201,13 +256,10 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "suppliers according to key business criteria.Preparing proposals, requesting quotes, and negotiating <em class=\"search-highlight\">purchase</em>",
-                            "terms and conditions.Preparing and issuing <em class=\"search-highlight\">purchase</em> orders and agreements.Monitoring supplier performance",
-                            "and resolving issues and concerns.Inspecting and evaluating the quality of <em class=\"search-highlight\">purchased</em> items and resolving"
+                            "materials and prices.Maintains and updates supplier contacts and contractsChecks utilization of new <em class=\"search-highlight\">purchases</em>"
                         ],
                         "value": [
-                            "purchased",
-                            "purchase"
+                            "purchases"
                         ]
                     },
                     {
@@ -221,87 +273,10 @@
                     }
                 ]
             },
-            "id": "ff39722d-50f5-4330-85f4-e93b625ffc6a",
+            "id": "0902df07-d33e-4517-8519-ac918d86e5fc",
             "links": {},
             "meta": {
-                "score": 9.529607
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Bingo Global"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "5+ years of experience as a <em class=\"search-highlight\">purchasing</em> specialist or in a similar role.Bachelor's degree in business",
-                            "management, or a similar field preferred.CPM or APICS certification preferred.Good working knowledge of <em class=\"search-highlight\">purchasing</em>",
-                            "and problem-solving skills.Proficiency in Microsoft Office and with business application software, <em class=\"search-highlight\">purchasing</em>"
-                        ],
-                        "value": [
-                            "purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "suppliers according to key business criteria.Preparing proposals, requesting quotes, and negotiating <em class=\"search-highlight\">purchase</em>",
-                            "terms and conditions.Preparing and issuing <em class=\"search-highlight\">purchase</em> orders and agreements.Monitoring supplier performance",
-                            "and resolving issues and concerns.Inspecting and evaluating the quality of <em class=\"search-highlight\">purchased</em> items and resolving"
-                        ],
-                        "value": [
-                            "purchased",
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "fb9474bd-a704-407c-8f0a-68f9e717e673",
-            "links": {},
-            "meta": {
-                "score": 9.524686
+                "score": 9.397913
             },
             "relationships": {},
             "type": "talentSearch"
@@ -376,7 +351,7 @@
             "id": "0c81e8dc-92f6-47af-b250-ecee2fdd6f71",
             "links": {},
             "meta": {
-                "score": 9.523287
+                "score": 9.390574
             },
             "relationships": {},
             "type": "talentSearch"
@@ -393,133 +368,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "expectations, etc.Liaise with suppliers and project managers regarding updates and details of goodsCreate <em class=\"search-highlight\">purchase</em>"
-                        ],
-                        "value": [
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "8dd71034-9905-4805-a6b3-b2d891a3cc67",
-            "links": {},
-            "meta": {
-                "score": 9.510853
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Alumil"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "materials and prices.Maintains and updates supplier contacts and contractsChecks utilization of new <em class=\"search-highlight\">purchases</em>"
-                        ],
-                        "value": [
-                            "purchases"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "0902df07-d33e-4517-8519-ac918d86e5fc",
-            "links": {},
-            "meta": {
-                "score": 9.505254
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
+                            "GLC"
                         ]
                     }
                 ],
@@ -536,12 +385,10 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "administration, supply chain management, or a similar field preferredPrevious experience with Procurement, <em class=\"search-highlight\">Purchasing</em>",
-                            ", or in a similar role not less than 3 yearsGood knowledge in <em class=\"search-highlight\">purchasing</em> spare parts for machines is"
+                            "related field.\n2-4 years of experience in a manufacturing/production environment, coordination and <em class=\"search-highlight\">purchasing</em>"
                         ],
                         "value": [
-                            "purchasing",
-                            "Purchasing"
+                            "purchasing"
                         ]
                     },
                     {
@@ -556,12 +403,11 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Receive <em class=\"search-highlight\">purchase</em> requests from various departments and make sure they have the necessary approvals.Review",
-                            "product or service information, such as price, availability, and delivery schedule.Select products for <em class=\"search-highlight\">purchase</em>",
-                            "observing items.Estimate values according to knowledge of market price.Review quantity and quality of items <em class=\"search-highlight\">purchased</em>.Maintain"
+                            "Issue <em class=\"search-highlight\">purchase</em> orders and Execute the procurement process according to the approved <em class=\"search-highlight\">purchase</em> orders.",
+                            "<em class=\"search-highlight\">Purchase</em> Raw & Packing materials for manufacturing plant."
                         ],
                         "value": [
-                            "purchased",
+                            "Purchase",
                             "purchase"
                         ]
                     },
@@ -576,10 +422,87 @@
                     }
                 ]
             },
-            "id": "3950a288-e24b-4565-a7bb-11857cd134cf",
+            "id": "72677f93-bff4-4b0a-8def-d7d9a0d734a0",
             "links": {},
             "meta": {
-                "score": 9.495279
+                "score": 9.374973
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Bingo Global"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "5+ years of experience as a <em class=\"search-highlight\">purchasing</em> specialist or in a similar role.Bachelor's degree in business",
+                            "management, or a similar field preferred.CPM or APICS certification preferred.Good working knowledge of <em class=\"search-highlight\">purchasing</em>",
+                            "and problem-solving skills.Proficiency in Microsoft Office and with business application software, <em class=\"search-highlight\">purchasing</em>"
+                        ],
+                        "value": [
+                            "purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "suppliers according to key business criteria.Preparing proposals, requesting quotes, and negotiating <em class=\"search-highlight\">purchase</em>",
+                            "terms and conditions.Preparing and issuing <em class=\"search-highlight\">purchase</em> orders and agreements.Monitoring supplier performance",
+                            "and resolving issues and concerns.Inspecting and evaluating the quality of <em class=\"search-highlight\">purchased</em> items and resolving"
+                        ],
+                        "value": [
+                            "purchase",
+                            "purchased"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "fb9474bd-a704-407c-8f0a-68f9e717e673",
+            "links": {},
+            "meta": {
+                "score": 9.371844
             },
             "relationships": {},
             "type": "talentSearch"
@@ -648,7 +571,76 @@
             "id": "ce9b3c0f-769a-4c4c-b40d-5f3f728f5c02",
             "links": {},
             "meta": {
-                "score": 9.494746
+                "score": 9.340156
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mamiba "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Local <em class=\"search-highlight\">Purchasing</em>",
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "product or service information such as price, availability, and delivery schedule.Selects products for <em class=\"search-highlight\">purchase</em>",
+                            "negotiation strategies and close deals with optimal terms.Determines method of procurement such as direct <em class=\"search-highlight\">purchase</em>",
+                            "determines that statutory bid requirements are met.Maintains procurement records such as items or services <em class=\"search-highlight\">purchased</em>",
+                            "facets of Business Office operations.Other tasks, as may be assigned.Input new suppliers, RFQ, PO and <em class=\"search-highlight\">Purchase</em>"
+                        ],
+                        "value": [
+                            "Purchase",
+                            "purchase",
+                            "purchased"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "4a37e738-a538-414c-bf79-ad693fa74377",
+            "links": {},
+            "meta": {
+                "score": 9.320885
             },
             "relationships": {},
             "type": "talentSearch"
@@ -702,7 +694,7 @@
             "id": "ce816282-86c2-470e-be78-60aff695ff02",
             "links": {},
             "meta": {
-                "score": 9.492097
+                "score": 9.313227
             },
             "relationships": {},
             "type": "talentSearch"
@@ -719,7 +711,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Mamiba "
+                            ""
                         ]
                     }
                 ],
@@ -727,10 +719,20 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "Local <em class=\"search-highlight\">Purchasing</em>",
                             "<em class=\"search-highlight\">Purchasing</em>"
                         ],
                         "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "administration, supply chain management, or a similar field preferredPrevious experience with Procurement, <em class=\"search-highlight\">Purchasing</em>",
+                            ", or in a similar role not less than 3 yearsGood knowledge in <em class=\"search-highlight\">purchasing</em> spare parts for machines is"
+                        ],
+                        "value": [
+                            "purchasing",
                             "Purchasing"
                         ]
                     },
@@ -746,15 +748,13 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "product or service information such as price, availability, and delivery schedule.Selects products for <em class=\"search-highlight\">purchase</em>",
-                            "negotiation strategies and close deals with optimal terms.Determines method of procurement such as direct <em class=\"search-highlight\">purchase</em>",
-                            "determines that statutory bid requirements are met.Maintains procurement records such as items or services <em class=\"search-highlight\">purchased</em>",
-                            "facets of Business Office operations.Other tasks, as may be assigned.Input new suppliers, RFQ, PO and <em class=\"search-highlight\">Purchase</em>"
+                            "Receive <em class=\"search-highlight\">purchase</em> requests from various departments and make sure they have the necessary approvals.Review",
+                            "product or service information, such as price, availability, and delivery schedule.Select products for <em class=\"search-highlight\">purchase</em>",
+                            "observing items.Estimate values according to knowledge of market price.Review quantity and quality of items <em class=\"search-highlight\">purchased</em>.Maintain"
                         ],
                         "value": [
-                            "Purchase",
-                            "purchased",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -768,10 +768,10 @@
                     }
                 ]
             },
-            "id": "4a37e738-a538-414c-bf79-ad693fa74377",
+            "id": "3950a288-e24b-4565-a7bb-11857cd134cf",
             "links": {},
             "meta": {
-                "score": 9.491915
+                "score": 9.273942
             },
             "relationships": {},
             "type": "talentSearch"
@@ -845,7 +845,7 @@
             "id": "9aeecb55-7dbb-4b90-b02b-b57c49f7f0c9",
             "links": {},
             "meta": {
-                "score": 9.489187
+                "score": 9.264144
             },
             "relationships": {},
             "type": "talentSearch"
@@ -910,7 +910,210 @@
             "id": "3de989b4-1335-4222-b10a-45fa9f6e561a",
             "links": {},
             "meta": {
-                "score": 9.475584
+                "score": 9.252613
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RAM FOR INTERNATIONAL TRADING"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "The <em class=\"search-highlight\">purchasing</em> officer conducts the studies that help the organization to make the right decision with",
+                            "regard to <em class=\"search-highlight\">purchasing</em> operations.Maintaining computer records/files about company <em class=\"search-highlight\">purchases</em> and suppliersPrices",
+                            "according to the records specified for that.Bring samples of the items to be <em class=\"search-highlight\">purchased</em> from the market",
+                            "for inspection with the requesting party before deciding on the <em class=\"search-highlight\">purchase</em>.Follow up the arrival of items",
+                            "and ensure that they conform to the specifications recorded in the <em class=\"search-highlight\">purchase</em> order in coordination with"
+                        ],
+                        "value": [
+                            "purchasing",
+                            "purchases",
+                            "purchase",
+                            "purchased"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchase</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchase"
+                        ]
+                    }
+                ]
+            },
+            "id": "6e8faea2-d2d8-4f1a-b9ff-9ade07f7e3a2",
+            "links": {},
+            "meta": {
+                "score": 9.23795
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Egyptian British Co."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Work outdoor to buy and deliver different factory needs & <em class=\"search-highlight\">purchasing</em> requests as assigned.",
+                            "Make sure all <em class=\"search-highlight\">purchased</em> items has the proper papers and documentations; <em class=\"search-highlight\">purchase</em> & order requests, invoices"
+                        ],
+                        "value": [
+                            "purchasing",
+                            "purchase",
+                            "purchased"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "24c60844-3312-4532-ae11-5e1ef9347520",
+            "links": {},
+            "meta": {
+                "score": 9.203722
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mobica"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Reviewing <em class=\"search-highlight\">purchase</em> requisitions and item code and ensuring the accuracy of the description of the items",
+                            " and their quantities.Receiving <em class=\"search-highlight\">purchase</em> requisitions from planning & sales departments.Preparing and",
+                            "follow up the approving of <em class=\"search-highlight\">purchase</em> orders from concerned departments.Ensuring that <em class=\"search-highlight\">purchase</em> orders",
+                            ", in the required quantity, in the right quality and on time.Communicating with suppliers regarding <em class=\"search-highlight\">purchase</em>",
+                            "orders deliveries.Follow up delivery of <em class=\"search-highlight\">purchase</em> orders until the delivery is complete.Daily follow-up"
+                        ],
+                        "value": [
+                            "purchase"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Foreign <em class=\"search-highlight\">Purchasing</em> and Logistic Specialist"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "232a79af-da5c-4d4a-a717-1497f22855f1",
+            "links": {},
+            "meta": {
+                "score": 9.202138
             },
             "relationships": {},
             "type": "talentSearch"
@@ -982,7 +1185,7 @@
             "id": "a69bdcb9-25be-4cc7-b5a5-cd503401f3ec",
             "links": {},
             "meta": {
-                "score": 9.470377
+                "score": 9.198688
             },
             "relationships": {},
             "type": "talentSearch"
@@ -999,7 +1202,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "RAM FOR INTERNATIONAL TRADING"
+                            "TE Origin "
                         ]
                     }
                 ],
@@ -1007,6 +1210,7 @@
                     {
                         "name": "skills",
                         "snippets": [
+                            "International <em class=\"search-highlight\">Purchasing</em>",
                             "<em class=\"search-highlight\">Purchasing</em>"
                         ],
                         "value": [
@@ -1025,147 +1229,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "The <em class=\"search-highlight\">purchasing</em> officer conducts the studies that help the organization to make the right decision with",
-                            "regard to <em class=\"search-highlight\">purchasing</em> operations.Maintaining computer records/files about company <em class=\"search-highlight\">purchases</em> and suppliersPrices",
-                            "according to the records specified for that.Bring samples of the items to be <em class=\"search-highlight\">purchased</em> from the market",
-                            "for inspection with the requesting party before deciding on the <em class=\"search-highlight\">purchase</em>.Follow up the arrival of items",
-                            "and ensure that they conform to the specifications recorded in the <em class=\"search-highlight\">purchase</em> order in coordination with"
-                        ],
-                        "value": [
-                            "purchases",
-                            "purchasing",
-                            "purchased",
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchase</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchase"
-                        ]
-                    }
-                ]
-            },
-            "id": "6e8faea2-d2d8-4f1a-b9ff-9ade07f7e3a2",
-            "links": {},
-            "meta": {
-                "score": 9.461278
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Egyptian British Co."
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Work outdoor to buy and deliver different factory needs & <em class=\"search-highlight\">purchasing</em> requests as assigned.",
-                            "Make sure all <em class=\"search-highlight\">purchased</em> items has the proper papers and documentations; <em class=\"search-highlight\">purchase</em> & order requests, invoices"
-                        ],
-                        "value": [
-                            "purchasing",
-                            "purchased",
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "24c60844-3312-4532-ae11-5e1ef9347520",
-            "links": {},
-            "meta": {
-                "score": 9.450729
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Mobica"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Reviewing <em class=\"search-highlight\">purchase</em> requisitions and item code and ensuring the accuracy of the description of the items",
-                            " and their quantities.Receiving <em class=\"search-highlight\">purchase</em> requisitions from planning & sales departments.Preparing and",
-                            "follow up the approving of <em class=\"search-highlight\">purchase</em> orders from concerned departments.Ensuring that <em class=\"search-highlight\">purchase</em> orders",
-                            ", in the required quantity, in the right quality and on time.Communicating with suppliers regarding <em class=\"search-highlight\">purchase</em>",
-                            "orders deliveries.Follow up delivery of <em class=\"search-highlight\">purchase</em> orders until the delivery is complete.Daily follow-up"
+                            "selling points to improve or distinguish existing productsFind, research and work with new suppliers to <em class=\"search-highlight\">purchase</em>"
                         ],
                         "value": [
                             "purchase"
@@ -1174,7 +1238,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Foreign <em class=\"search-highlight\">Purchasing</em> and Logistic Specialist"
+                            "Foreign <em class=\"search-highlight\">Purchasing</em> Specialist"
                         ],
                         "value": [
                             "Purchasing"
@@ -1182,10 +1246,10 @@
                     }
                 ]
             },
-            "id": "232a79af-da5c-4d4a-a717-1497f22855f1",
+            "id": "80f6ed42-cefd-4f98-aa22-4dbc14c9b7ba",
             "links": {},
             "meta": {
-                "score": 9.448096
+                "score": 9.184001
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1259,71 +1323,7 @@
             "id": "8801e4e2-3152-4d7c-883c-3e48d792fca9",
             "links": {},
             "meta": {
-                "score": 9.445979
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "TE Origin "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "International <em class=\"search-highlight\">Purchasing</em>",
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "selling points to improve or distinguish existing productsFind, research and work with new suppliers to <em class=\"search-highlight\">purchase</em>"
-                        ],
-                        "value": [
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Foreign <em class=\"search-highlight\">Purchasing</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "80f6ed42-cefd-4f98-aa22-4dbc14c9b7ba",
-            "links": {},
-            "meta": {
-                "score": 9.439492
+                "score": 9.171846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1381,8 +1381,8 @@
                             "and resolving issues and concerns.Inspecting and evaluating the quality of <em class=\"search-highlight\">purchased</em> items and resolving"
                         ],
                         "value": [
-                            "purchased",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -1399,7 +1399,70 @@
             "id": "1ad1f39b-b8aa-48f8-b3c8-e6de2be5d09d",
             "links": {},
             "meta": {
-                "score": 9.431221
+                "score": 9.13564
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DevartLab"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Responsible for executing <em class=\"search-highlight\">purchasing</em> and supply ordersCarrying out the tasks assigned.Keeping and archiving"
+                        ],
+                        "value": [
+                            "purchasing"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "c2e48b62-46ee-4aca-bd14-a9a72dbee8e1",
+            "links": {},
+            "meta": {
+                "score": 9.129855
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1475,70 +1538,7 @@
             "id": "5e7a2d11-8421-4b43-983b-ce7195695c09",
             "links": {},
             "meta": {
-                "score": 9.418307
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "DevartLab"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Responsible for executing <em class=\"search-highlight\">purchasing</em> and supply ordersCarrying out the tasks assigned.Keeping and archiving"
-                        ],
-                        "value": [
-                            "purchasing"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "c2e48b62-46ee-4aca-bd14-a9a72dbee8e1",
-            "links": {},
-            "meta": {
-                "score": 9.417243
+                "score": 9.1238985
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1587,9 +1587,9 @@
                             "processes (Requisitions, <em class=\"search-highlight\">purchase</em> orders, contracts, invoices, master data) are compliance with department"
                         ],
                         "value": [
+                            "purchase",
                             "purchasing",
-                            "purchased",
-                            "purchase"
+                            "purchased"
                         ]
                     },
                     {
@@ -1606,7 +1606,7 @@
             "id": "e8b29eb9-e3ca-48f8-abce-1a8d065e472c",
             "links": {},
             "meta": {
-                "score": 9.402446
+                "score": 9.108819
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1660,7 +1660,7 @@
             "id": "b5df0371-f7ae-418f-8cbf-883a588062f0",
             "links": {},
             "meta": {
-                "score": 9.39318
+                "score": 9.094173
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1725,7 +1725,7 @@
             "id": "3e393fdf-739a-45ad-ae9a-cf6b85505949",
             "links": {},
             "meta": {
-                "score": 9.392314
+                "score": 9.093006
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1792,7 +1792,7 @@
             "id": "593564e1-6125-48ce-aedc-60d6ac7519e8",
             "links": {},
             "meta": {
-                "score": 9.37241
+                "score": 9.053253
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1839,8 +1839,8 @@
                             "prices.Generate and analyze reports as needed to illuminate any problems or trends relevant to the <em class=\"search-highlight\">purchasing</em>"
                         ],
                         "value": [
-                            "purchasing",
-                            "purchase"
+                            "purchase",
+                            "purchasing"
                         ]
                     },
                     {
@@ -1857,7 +1857,52 @@
             "id": "ee554f1c-55b4-49e8-8723-04639376c1b3",
             "links": {},
             "meta": {
-                "score": 9.366101
+                "score": 9.043342
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Midea Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "(Manufacturing ,Process, Equipment, <em class=\"search-highlight\">Purchasing</em> ) Chinese Engineers"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "779729b2-045c-4737-983b-a44fe416a853",
+            "links": {},
+            "meta": {
+                "score": 8.962079
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1918,8 +1963,8 @@
                             "and resolving issues and concerns.Inspecting and evaluating the quality of <em class=\"search-highlight\">purchased</em> items and resolving"
                         ],
                         "value": [
-                            "purchased",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -1936,7 +1981,7 @@
             "id": "77a19d52-f34c-4267-92c5-2a955497c30f",
             "links": {},
             "meta": {
-                "score": 9.295065
+                "score": 8.907516
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2003,52 +2048,7 @@
             "id": "ded390ec-74ab-423e-ae63-d6c035577532",
             "links": {},
             "meta": {
-                "score": 9.188543
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Midea Egypt"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "(Manufacturing ,Process, Equipment, <em class=\"search-highlight\">Purchasing</em> ) Chinese Engineers"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "779729b2-045c-4737-983b-a44fe416a853",
-            "links": {},
-            "meta": {
-                "score": 9.184557
+                "score": 8.759496
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2127,7 +2127,7 @@
             "id": "334fe609-39db-44fe-bd89-80a32a0272c7",
             "links": {},
             "meta": {
-                "score": 9.174522
+                "score": 8.720167
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2192,7 +2192,7 @@
             "id": "1bba234e-5cc6-4443-b9ab-b2ce0422ddae",
             "links": {},
             "meta": {
-                "score": 9.145313
+                "score": 8.697409
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2240,8 +2240,8 @@
                             "systems and processes.Assist in day to day <em class=\"search-highlight\">purchasing</em> activities.Participate in Negotiating contracts"
                         ],
                         "value": [
-                            "purchasing",
-                            "purchase"
+                            "purchase",
+                            "purchasing"
                         ]
                     },
                     {
@@ -2258,7 +2258,7 @@
             "id": "d0cbf878-6317-4219-975b-314d2e18b90a",
             "links": {},
             "meta": {
-                "score": 9.141859
+                "score": 8.690345
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2325,7 +2325,7 @@
             "id": "101fe22c-6bd4-4451-b6e5-bb9aa53764ba",
             "links": {},
             "meta": {
-                "score": 9.140983
+                "score": 8.689578
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2373,8 +2373,8 @@
                             "suppliers, and shipments details /shipping docs for foreignManaging daily <em class=\"search-highlight\">purchasing</em> activitiesEvaluating"
                         ],
                         "value": [
-                            "purchasing",
-                            "purchase"
+                            "purchase",
+                            "purchasing"
                         ]
                     },
                     {
@@ -2391,7 +2391,7 @@
             "id": "0ef9ef45-76a7-4974-9b52-8bce56ecf9d0",
             "links": {},
             "meta": {
-                "score": 9.139821
+                "score": 8.688128
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2467,7 +2467,7 @@
             "id": "53d7125b-8c33-41db-8704-a1ec04af81ae",
             "links": {},
             "meta": {
-                "score": 9.121525
+                "score": 8.653063
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2524,8 +2524,8 @@
                             "Prepare weekly and monthly reports on <em class=\"search-highlight\">purchases</em>, including cost analyses.Follow up the order during the"
                         ],
                         "value": [
-                            "purchases",
                             "purchasing",
+                            "purchases",
                             "purchased"
                         ]
                     },
@@ -2543,7 +2543,7 @@
             "id": "aff65d48-5428-4a1b-899f-6a4db770479d",
             "links": {},
             "meta": {
-                "score": 9.116087
+                "score": 8.647907
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2607,7 +2607,7 @@
             "id": "9c47ad6b-121f-4e11-ae5f-d307e92851cb",
             "links": {},
             "meta": {
-                "score": 9.093434
+                "score": 8.624263
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2665,9 +2665,9 @@
                             "& material planning , logistics , finance )Handle budget sheet between ( <em class=\"search-highlight\">purchasing</em> -  material planning"
                         ],
                         "value": [
-                            "Purchasing",
+                            "purchase",
                             "purchasing",
-                            "purchase"
+                            "Purchasing"
                         ]
                     },
                     {
@@ -2684,7 +2684,7 @@
             "id": "960b0501-c409-4a8f-98af-e20f1cafc68c",
             "links": {},
             "meta": {
-                "score": 8.963321
+                "score": 8.436023
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2747,7 +2747,7 @@
             "id": "638b15a3-894a-4e82-86b1-de568f70e06f",
             "links": {},
             "meta": {
-                "score": 8.954237
+                "score": 8.432271
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2822,7 +2822,7 @@
             "id": "ba8dd7ef-f805-40d0-a079-02be23fc80a0",
             "links": {},
             "meta": {
-                "score": 8.951615
+                "score": 8.422558
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2885,7 +2885,7 @@
             "id": "6cccaa5a-d64e-40b8-afff-dcfb4a683df3",
             "links": {},
             "meta": {
-                "score": 8.922773
+                "score": 8.391848
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2953,7 +2953,7 @@
             "id": "1cfbc394-048b-48b6-a2b0-d5dead4408af",
             "links": {},
             "meta": {
-                "score": 8.920691
+                "score": 8.388893
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3029,7 +3029,7 @@
             "id": "a30d6875-374d-4a8c-b4c8-e991ad0c2985",
             "links": {},
             "meta": {
-                "score": 8.903833
+                "score": 8.356759
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3090,8 +3090,8 @@
                         ],
                         "value": [
                             "purchasing",
-                            "purchased",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -3108,7 +3108,7 @@
             "id": "9de4ac19-8a97-447b-8680-a75bae6d179d",
             "links": {},
             "meta": {
-                "score": 8.899894
+                "score": 8.352865
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3187,7 +3187,7 @@
             "id": "4697887c-9e9e-4ae6-a962-e2638ae61198",
             "links": {},
             "meta": {
-                "score": 8.894266
+                "score": 8.3488455
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3241,7 +3241,7 @@
             "id": "575860c3-69fc-4563-9c3b-7861b5a57b40",
             "links": {},
             "meta": {
-                "score": 8.821607
+                "score": 8.258425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3309,7 +3309,7 @@
             "id": "2a37b840-86e8-4b40-9110-9c3eefc4f1bd",
             "links": {},
             "meta": {
-                "score": 8.809035
+                "score": 8.245041
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3372,7 +3372,7 @@
             "id": "38985e24-6262-4a14-9ace-e5a67bced0b6",
             "links": {},
             "meta": {
-                "score": 8.806946
+                "score": 8.238584
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3421,8 +3421,8 @@
                             "levels by considering the rotating cycle in the enterprise.In determining the terms of payment for <em class=\"search-highlight\">purchases</em>"
                         ],
                         "value": [
-                            "purchases",
                             "purchase",
+                            "purchases",
                             "Purchasing"
                         ]
                     },
@@ -3440,7 +3440,7 @@
             "id": "83dd035d-41fe-4ba3-82e9-3e71fc6e8f76",
             "links": {},
             "meta": {
-                "score": 8.799964
+                "score": 8.233446
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3499,8 +3499,8 @@
                         ],
                         "value": [
                             "Purchase",
-                            "Purchased",
-                            "purchasing"
+                            "purchasing",
+                            "Purchased"
                         ]
                     },
                     {
@@ -3517,7 +3517,7 @@
             "id": "1a1d82d2-cd13-4dc6-ae95-2b2a693bed44",
             "links": {},
             "meta": {
-                "score": 8.781144
+                "score": 8.19859
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3592,7 +3592,7 @@
             "id": "29528781-4924-4f40-b378-5e1951fb5d6c",
             "links": {},
             "meta": {
-                "score": 8.773298
+                "score": 8.187514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3649,8 +3649,8 @@
                             "collaborate with different departments to ensure clarity of requirements and budgets.Building and developing <em class=\"search-highlight\">purchasing</em>"
                         ],
                         "value": [
-                            "purchases",
                             "purchasing",
+                            "purchases",
                             "Purchasing"
                         ]
                     },
@@ -3668,7 +3668,7 @@
             "id": "a47e87b6-c77d-4879-b478-c36453a5ae6f",
             "links": {},
             "meta": {
-                "score": 8.7696295
+                "score": 8.185559
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3718,8 +3718,8 @@
                             "on the computer.Supporting the <em class=\"search-highlight\">Purchasing</em> Manager in any of the tasks assigned to him when requested"
                         ],
                         "value": [
-                            "Purchasing",
-                            "purchase"
+                            "purchase",
+                            "Purchasing"
                         ]
                     },
                     {
@@ -3736,87 +3736,7 @@
             "id": "f155868b-0f46-4783-8f1e-dd3778801bb6",
             "links": {},
             "meta": {
-                "score": 8.750469
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Local <em class=\"search-highlight\">purchasing</em>",
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "purchasing",
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor Degree is a must.5-7  years of experience as local <em class=\"search-highlight\">purchasing</em> specialist (Manufacturing sector"
-                        ],
-                        "value": [
-                            "purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "terms of agreement and pricing.Track orders and ensure timely delivery.Monitor stock levels and verify <em class=\"search-highlight\">purchase</em>",
-                            "key suppliers.Coordinate with warehouse staff to ensure proper storage.Maintain updated records of <em class=\"search-highlight\">purchased</em>",
-                            "orders on approved / specified vendors.Make sure that <em class=\"search-highlight\">purchasing</em> documents are completed properly and",
-                            "the terms and conditions of <em class=\"search-highlight\">purchase</em> are appropriate.Ensure regular and effective follow up of open",
-                            "ordersFollows policies and procedures established by the Manager and monitors activates of <em class=\"search-highlight\">purchasing</em>"
-                        ],
-                        "value": [
-                            "purchasing",
-                            "purchased",
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchase</em> Specialist"
-                        ],
-                        "value": [
-                            "Purchase"
-                        ]
-                    }
-                ]
-            },
-            "id": "f69a6303-cbd9-4f0c-a359-565a3f88af06",
-            "links": {},
-            "meta": {
-                "score": 8.686392
+                "score": 8.170162
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3883,7 +3803,87 @@
             "id": "fec1ebf7-6f66-4d48-8f03-f4150485cf43",
             "links": {},
             "meta": {
-                "score": 8.683123
+                "score": 8.08532
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Local <em class=\"search-highlight\">purchasing</em>",
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "purchasing",
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree is a must.5-7  years of experience as local <em class=\"search-highlight\">purchasing</em> specialist (Manufacturing sector"
+                        ],
+                        "value": [
+                            "purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "terms of agreement and pricing.Track orders and ensure timely delivery.Monitor stock levels and verify <em class=\"search-highlight\">purchase</em>",
+                            "key suppliers.Coordinate with warehouse staff to ensure proper storage.Maintain updated records of <em class=\"search-highlight\">purchased</em>",
+                            "orders on approved / specified vendors.Make sure that <em class=\"search-highlight\">purchasing</em> documents are completed properly and",
+                            "the terms and conditions of <em class=\"search-highlight\">purchase</em> are appropriate.Ensure regular and effective follow up of open",
+                            "ordersFollows policies and procedures established by the Manager and monitors activates of <em class=\"search-highlight\">purchasing</em>"
+                        ],
+                        "value": [
+                            "purchase",
+                            "purchasing",
+                            "purchased"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchase</em> Specialist"
+                        ],
+                        "value": [
+                            "Purchase"
+                        ]
+                    }
+                ]
+            },
+            "id": "f69a6303-cbd9-4f0c-a359-565a3f88af06",
+            "links": {},
+            "meta": {
+                "score": 8.083383
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3949,7 +3949,7 @@
             "id": "598730db-ada7-470b-9e67-13464bbce33d",
             "links": {},
             "meta": {
-                "score": 8.676405
+                "score": 8.076009
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4025,7 +4025,7 @@
             "id": "37692fd1-0cc7-4026-8f4f-7c732328be07",
             "links": {},
             "meta": {
-                "score": 8.635085
+                "score": 8.01842
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4093,7 +4093,7 @@
             "id": "0689929f-1714-4a59-ae92-6fe8b0eea291",
             "links": {},
             "meta": {
-                "score": 8.467166
+                "score": 7.8228607
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4158,7 +4158,7 @@
             "id": "68782bb8-e727-4b65-8192-e51be7da3b9c",
             "links": {},
             "meta": {
-                "score": 8.466387
+                "score": 7.821926
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4238,7 +4238,7 @@
             "id": "98fcf4c4-4592-40c1-8abe-e58c99ac0465",
             "links": {},
             "meta": {
-                "score": 8.407028
+                "score": 7.745862
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4288,9 +4288,9 @@
                             "prepares bid forms and handles bidding process, analyzes bid results and makes recommendations.Control <em class=\"search-highlight\">purchasing</em>"
                         ],
                         "value": [
+                            "purchase",
                             "purchases",
-                            "purchasing",
-                            "purchase"
+                            "purchasing"
                         ]
                     },
                     {
@@ -4307,7 +4307,7 @@
             "id": "3d8e3625-9a60-43ff-93cb-eb3909e6ff42",
             "links": {},
             "meta": {
-                "score": 8.375671
+                "score": 7.713385
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4376,7 +4376,7 @@
             "id": "46eef568-0e6f-4059-9b77-777694efdedf",
             "links": {},
             "meta": {
-                "score": 8.373622
+                "score": 7.71146
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4427,8 +4427,8 @@
                         ],
                         "value": [
                             "Purchase",
-                            "purchasing",
                             "Purchases",
+                            "purchasing",
                             "purchase"
                         ]
                     },
@@ -4446,7 +4446,7 @@
             "id": "779a8fbf-47d1-4c8c-b8a6-cb8c59b9f79f",
             "links": {},
             "meta": {
-                "score": 8.372049
+                "score": 7.7097025
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4520,7 +4520,7 @@
             "id": "f8b1417e-5f8c-439f-adf6-0ad2ec8d3860",
             "links": {},
             "meta": {
-                "score": 8.338439
+                "score": 7.661307
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4583,7 +4583,7 @@
             "id": "fce40c27-dc5c-4126-9708-78e87b48f91d",
             "links": {},
             "meta": {
-                "score": 8.32449
+                "score": 7.6501403
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4656,7 +4656,7 @@
             "id": "6bea9946-b90d-477c-964f-34d28ee9a5d6",
             "links": {},
             "meta": {
-                "score": 8.268398
+                "score": 7.5780363
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4706,8 +4706,8 @@
                             ". • Provides <em class=\"search-highlight\">purchasing</em> planning and control information by collecting, analyzing, and summary "
                         ],
                         "value": [
-                            "purchases",
                             "purchasing",
+                            "purchases",
                             "purchase"
                         ]
                     },
@@ -4725,7 +4725,7 @@
             "id": "0ba2938c-8e8c-4281-9c10-f411149dd6ec",
             "links": {},
             "meta": {
-                "score": 8.235394
+                "score": 7.5481477
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4779,7 +4779,7 @@
             "id": "bc54ba51-f278-4367-9334-05843e65b6ab",
             "links": {},
             "meta": {
-                "score": 8.222558
+                "score": 7.5345283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4828,8 +4828,8 @@
                             "products, delivery information and invoicesPrepare reports on <em class=\"search-highlight\">purchases</em>, including cost analysesCoordinate"
                         ],
                         "value": [
-                            "purchases",
                             "purchased",
+                            "purchases",
                             "Purchasing"
                         ]
                     },
@@ -4847,7 +4847,76 @@
             "id": "458403b7-3dbe-4f0d-bef3-50166890be44",
             "links": {},
             "meta": {
-                "score": 8.219826
+                "score": 7.530986
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "correspondence with suppliers and related to the price offers and specifications and policies required to <em class=\"search-highlight\">purchase</em>",
+                            "conditions of shipment and papers necessary for customs clearance and so on until the completion of <em class=\"search-highlight\">purchases</em>",
+                            "of procurement contracts at times agreed upon with the suppliers.Propose improvement of the current <em class=\"search-highlight\">purchasing</em>",
+                            "organizational needs & market conditions.Manage risk relating to quality, cost, delivery, and supply of <em class=\"search-highlight\">purchase</em>.Write",
+                            "prepares bid forms and handles bidding process, analyzes bid results and makes recommendations.Control <em class=\"search-highlight\">purchasing</em>"
+                        ],
+                        "value": [
+                            "purchase",
+                            "purchases",
+                            "purchasing"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Manager - مدير مشتريات"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "d14c18d2-8360-496d-b1a4-bf11018af647",
+            "links": {},
+            "meta": {
+                "score": 7.468368
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4920,7 +4989,7 @@
             "id": "9fb537f0-12a0-4dfc-bcc7-a2a7926e6e5d",
             "links": {},
             "meta": {
-                "score": 8.171361
+                "score": 7.466061
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4978,8 +5047,8 @@
                             "and control his daily activities & Items receiving and deliveryManaging the teams of (<em class=\"search-highlight\">Purchasing</em> specialist"
                         ],
                         "value": [
-                            "Purchasing",
-                            "purchase"
+                            "purchase",
+                            "Purchasing"
                         ]
                     },
                     {
@@ -4996,7 +5065,7 @@
             "id": "82b8b16a-6ea5-4d35-ac60-d0e1c287b44b",
             "links": {},
             "meta": {
-                "score": 8.168149
+                "score": 7.4645424
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5058,8 +5127,8 @@
                             "purchase",
                             "purchasing",
                             "purchases",
-                            "purchased",
-                            "Purchasing"
+                            "Purchasing",
+                            "purchased"
                         ]
                     },
                     {
@@ -5076,76 +5145,7 @@
             "id": "6e352ffa-466b-424e-8cd5-bbc91c22637b",
             "links": {},
             "meta": {
-                "score": 8.166528
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "correspondence with suppliers and related to the price offers and specifications and policies required to <em class=\"search-highlight\">purchase</em>",
-                            "conditions of shipment and papers necessary for customs clearance and so on until the completion of <em class=\"search-highlight\">purchases</em>",
-                            "of procurement contracts at times agreed upon with the suppliers.Propose improvement of the current <em class=\"search-highlight\">purchasing</em>",
-                            "organizational needs & market conditions.Manage risk relating to quality, cost, delivery, and supply of <em class=\"search-highlight\">purchase</em>.Write",
-                            "prepares bid forms and handles bidding process, analyzes bid results and makes recommendations.Control <em class=\"search-highlight\">purchasing</em>"
-                        ],
-                        "value": [
-                            "purchases",
-                            "purchasing",
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Manager - مدير مشتريات"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "d14c18d2-8360-496d-b1a4-bf11018af647",
-            "links": {},
-            "meta": {
-                "score": 8.165719
+                "score": 7.4624634
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5217,7 +5217,7 @@
             "id": "547fa59e-4fbe-4901-a737-f182d16bb7d7",
             "links": {},
             "meta": {
-                "score": 8.160915
+                "score": 7.45726
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5295,7 +5295,7 @@
             "id": "b7caf12e-a7b9-4ffc-960a-69df4dec654a",
             "links": {},
             "meta": {
-                "score": 8.158513
+                "score": 7.4553885
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5364,7 +5364,7 @@
             "id": "13a785b9-4e16-42df-bd61-b969e563ce50",
             "links": {},
             "meta": {
-                "score": 8.09545
+                "score": 7.3885593
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5412,8 +5412,8 @@
                             "of quantities of stocks of materials and equipment to ensure that shortages are avoided.Monitor the <em class=\"search-highlight\">purchasing</em>"
                         ],
                         "value": [
-                            "purchasing",
-                            "purchase"
+                            "purchase",
+                            "purchasing"
                         ]
                     },
                     {
@@ -5430,7 +5430,7 @@
             "id": "94d24d1a-db00-40f5-ad22-82407df91776",
             "links": {},
             "meta": {
-                "score": 8.065107
+                "score": 7.3529253
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5502,7 +5502,7 @@
             "id": "0f999a15-df46-493e-885f-157f6acee701",
             "links": {},
             "meta": {
-                "score": 7.907728
+                "score": 7.168275
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5565,7 +5565,7 @@
             "id": "09b70d67-1946-4dc3-9f33-196093480c27",
             "links": {},
             "meta": {
-                "score": 7.793809
+                "score": 7.0471206
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5627,8 +5627,8 @@
                             "purchase",
                             "purchasing",
                             "purchases",
-                            "purchased",
-                            "Purchasing"
+                            "Purchasing",
+                            "purchased"
                         ]
                     },
                     {
@@ -5645,7 +5645,7 @@
             "id": "3aab8e5f-5b27-4aa9-8f0d-4be53e1c2591",
             "links": {},
             "meta": {
-                "score": 7.7416615
+                "score": 6.985139
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5712,7 +5712,7 @@
             "id": "681cb14d-208f-4ad2-a3c0-60db60df6a50",
             "links": {},
             "meta": {
-                "score": 7.719023
+                "score": 6.9649687
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5771,8 +5771,8 @@
                         ],
                         "value": [
                             "Purchase",
-                            "purchasing",
-                            "purchase"
+                            "purchase",
+                            "purchasing"
                         ]
                     },
                     {
@@ -5789,7 +5789,75 @@
             "id": "cffc7225-3d85-41b8-86e1-ea2b8c77cbf1",
             "links": {},
             "meta": {
-                "score": 7.651274
+                "score": 6.884655
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Issue the <em class=\"search-highlight\">purchase</em>/work order/fax of commitment/contract for securing the required services/materials",
+                            "Abide by procurement policies and procedures during the whole <em class=\"search-highlight\">purchase</em> cycle.",
+                            "Review freight forwarder invoices for freight and customs related to the issued foreign <em class=\"search-highlight\">purchase</em> orders",
+                            "Review suppliers’ invoices and ensuring its compatibility with the <em class=\"search-highlight\">purchase</em> order payment terms.",
+                            "Improve <em class=\"search-highlight\">purchasing</em> cycle from the local market by trying to avail the required materials through local"
+                        ],
+                        "value": [
+                            "purchase",
+                            "purchasing"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> & Contracting Team Leader (Foreign & Local)"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "bf0d9d69-d35a-4e74-92c5-04e72d0cf498",
+            "links": {},
+            "meta": {
+                "score": 6.8580785
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5861,75 +5929,7 @@
             "id": "54755e93-af6a-453c-a72c-7a10eddd4051",
             "links": {},
             "meta": {
-                "score": 7.621352
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Issue the <em class=\"search-highlight\">purchase</em>/work order/fax of commitment/contract for securing the required services/materials",
-                            "Abide by procurement policies and procedures during the whole <em class=\"search-highlight\">purchase</em> cycle.",
-                            "Review freight forwarder invoices for freight and customs related to the issued foreign <em class=\"search-highlight\">purchase</em> orders",
-                            "Review suppliers’ invoices and ensuring its compatibility with the <em class=\"search-highlight\">purchase</em> order payment terms.",
-                            "Improve <em class=\"search-highlight\">purchasing</em> cycle from the local market by trying to avail the required materials through local"
-                        ],
-                        "value": [
-                            "purchasing",
-                            "purchase"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> & Contracting Team Leader (Foreign & Local)"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "bf0d9d69-d35a-4e74-92c5-04e72d0cf498",
-            "links": {},
-            "meta": {
-                "score": 7.6208086
+                "score": 6.854518
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5986,8 +5986,8 @@
                             "key suppliers.Coordinate with warehouse staff to ensure proper storage.Maintain updated records of <em class=\"search-highlight\">purchased</em>"
                         ],
                         "value": [
-                            "purchased",
-                            "purchase"
+                            "purchase",
+                            "purchased"
                         ]
                     },
                     {
@@ -6004,7 +6004,7 @@
             "id": "77f8696c-22c4-4602-874b-153e58e508ab",
             "links": {},
             "meta": {
-                "score": 7.5597453
+                "score": 6.786516
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6058,7 +6058,7 @@
             "id": "558ea0cb-ab4b-4c00-9fbf-e41d01406f29",
             "links": {},
             "meta": {
-                "score": 7.5356054
+                "score": 6.7649374
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6137,7 +6137,7 @@
             "id": "ff141549-68da-4170-bd77-c3a92b4a80e8",
             "links": {},
             "meta": {
-                "score": 7.5313134
+                "score": 6.7569876
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6187,8 +6187,8 @@
                             "report reflecting the status of <em class=\"search-highlight\">purchase</em> orders even they are opened or closed.Follow up on the stock"
                         ],
                         "value": [
-                            "purchasing",
-                            "purchase"
+                            "purchase",
+                            "purchasing"
                         ]
                     },
                     {
@@ -6205,7 +6205,7 @@
             "id": "44203cb6-aa5d-4c1f-bd3d-1529e609618c",
             "links": {},
             "meta": {
-                "score": 7.5125384
+                "score": 6.7399745
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6265,9 +6265,9 @@
                             "reports on <em class=\"search-highlight\">purchases</em> made and performing cost analyses.Attending and contributing to meetings with staff"
                         ],
                         "value": [
-                            "purchases",
                             "Purchaser",
                             "purchased",
+                            "purchases",
                             "Purchasing"
                         ]
                     },
@@ -6285,7 +6285,7 @@
             "id": "7a14c286-1751-47f3-808f-8688baf9d258",
             "links": {},
             "meta": {
-                "score": 7.351927
+                "score": 6.5643315
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6335,8 +6335,8 @@
                             "on-going feasibility.Building and maintaining long-term relationships with vendors and suppliers.Approving <em class=\"search-highlight\">purchase</em>"
                         ],
                         "value": [
-                            "purchases",
                             "purchasing",
+                            "purchases",
                             "purchase",
                             "Purchasing"
                         ]
@@ -6355,7 +6355,7 @@
             "id": "6f2e25fa-47f2-4587-b316-1a7b3c8e1736",
             "links": {},
             "meta": {
-                "score": 7.2457433
+                "score": 6.4537854
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6419,7 +6419,7 @@
             "id": "b6df1611-20c6-42e8-b2c1-0f4d67359b85",
             "links": {},
             "meta": {
-                "score": 7.132198
+                "score": 6.332237
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6491,7 +6491,7 @@
             "id": "fd846591-b1b5-4d0a-8d3d-6692c3502df1",
             "links": {},
             "meta": {
-                "score": 7.0809646
+                "score": 6.27389
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6570,7 +6570,7 @@
             "id": "c8bd5743-7956-4b53-afed-8187d9dbbd2a",
             "links": {},
             "meta": {
-                "score": 7.056153
+                "score": 6.250324
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6636,7 +6636,7 @@
             "id": "44eef5fa-433e-4560-9c72-1210ad41d800",
             "links": {},
             "meta": {
-                "score": 7.047882
+                "score": 6.243905
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6691,7 +6691,7 @@
             "id": "d927b85e-d50d-4113-b3f7-77a600759c84",
             "links": {},
             "meta": {
-                "score": 7.046917
+                "score": 6.243112
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6754,7 +6754,63 @@
             "id": "393dcec6-8b7e-439e-b81e-f09712469706",
             "links": {},
             "meta": {
-                "score": 6.9419456
+                "score": 6.1324377
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Dream2000"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>",
+                            "<em class=\"search-highlight\">Purchasing</em> Management",
+                            "International <em class=\"search-highlight\">Purchasing</em>"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Purchasing</em> Specialist Mobile Phone & Accessories"
+                        ],
+                        "value": [
+                            "Purchasing"
+                        ]
+                    }
+                ]
+            },
+            "id": "158fbb62-0503-4c29-a6f9-1764513357d6",
+            "links": {},
+            "meta": {
+                "score": 6.0375986
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6814,8 +6870,8 @@
                         ],
                         "value": [
                             "Purchase",
-                            "purchases",
-                            "purchase"
+                            "purchase",
+                            "purchases"
                         ]
                     },
                     {
@@ -6832,63 +6888,7 @@
             "id": "edc0a861-a017-4689-bbb6-aa61f8852f6e",
             "links": {},
             "meta": {
-                "score": 6.8505273
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Dream2000"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>",
-                            "<em class=\"search-highlight\">Purchasing</em> Management",
-                            "International <em class=\"search-highlight\">Purchasing</em>"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em>/Procurement"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Purchasing</em> Specialist Mobile Phone & Accessories"
-                        ],
-                        "value": [
-                            "Purchasing"
-                        ]
-                    }
-                ]
-            },
-            "id": "158fbb62-0503-4c29-a6f9-1764513357d6",
-            "links": {},
-            "meta": {
-                "score": 6.85007
+                "score": 6.036132
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6952,7 +6952,7 @@
             "id": "1ab8f6bd-2a69-4d1b-b765-18146c705045",
             "links": {},
             "meta": {
-                "score": 6.830245
+                "score": 6.016993
             },
             "relationships": {},
             "type": "talentSearch"

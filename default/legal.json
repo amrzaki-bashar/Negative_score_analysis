@@ -62,7 +62,7 @@
             "id": "8072020b-a408-438c-8016-26c8f86b5662",
             "links": {},
             "meta": {
-                "score": 11.031246
+                "score": 10.883366
             },
             "relationships": {},
             "type": "talentSearch"
@@ -113,8 +113,8 @@
                             "all relevant stakeholder in HR and business related to <em class=\"search-highlight\">legal</em> changes.Provision of advice and subject"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -131,7 +131,7 @@
             "id": "fea5e537-c4b4-4292-8187-55c9e6f38b35",
             "links": {},
             "meta": {
-                "score": 11.026883
+                "score": 10.874478
             },
             "relationships": {},
             "type": "talentSearch"
@@ -211,7 +211,61 @@
             "id": "f6a3e21f-b4c2-4166-bc06-334fe89905b4",
             "links": {},
             "meta": {
-                "score": 11.0078
+                "score": 10.7460165
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Company <em class=\"search-highlight\">Legal</em> Officer (internal investigations)"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "a90d1b50-1d0d-4bbf-993a-41e55969355a",
+            "links": {},
+            "meta": {
+                "score": 10.6177025
             },
             "relationships": {},
             "type": "talentSearch"
@@ -286,7 +340,7 @@
             "id": "15bc2499-40c4-4afb-a404-bf045188d879",
             "links": {},
             "meta": {
-                "score": 10.937013
+                "score": 10.58942
             },
             "relationships": {},
             "type": "talentSearch"
@@ -303,18 +357,18 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
+                            "Al Dau Development "
                         ]
                     }
                 ],
                 "highlightedFields": [
                     {
-                        "name": "skills",
+                        "name": "requirements",
                         "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
+                            "development and management skills.Strong interpersonal and communication skills.Updated with all the <em class=\"search-highlight\">legal</em>"
                         ],
                         "value": [
-                            "Legal"
+                            "legal"
                         ]
                     },
                     {
@@ -327,9 +381,22 @@
                         ]
                     },
                     {
+                        "name": "description",
+                        "snippets": [
+                            "Manages <em class=\"search-highlight\">legal</em> risk within the business by taking responsibility for providing <em class=\"search-highlight\">legal</em> advice to the business",
+                            "’s senior leadership on all <em class=\"search-highlight\">legal</em> matters affecting their individual departmental transactions.Provides",
+                            "concerning applicable contracts required for operation of the business.Instructs and assists external <em class=\"search-highlight\">legal</em>",
+                            "partners where necessary identifying potential <em class=\"search-highlight\">legal</em> risks and assessing the issues impacting <em class=\"search-highlight\">legal</em>",
+                            "risk.Drafting sensitive and high-value <em class=\"search-highlight\">legal</em> documentation necessary for business operations"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    },
+                    {
                         "name": "job_title",
                         "snippets": [
-                            "Company <em class=\"search-highlight\">Legal</em> Officer (internal investigations)"
+                            "Corporate <em class=\"search-highlight\">Legal</em> Associate Manager"
                         ],
                         "value": [
                             "Legal"
@@ -337,10 +404,10 @@
                     }
                 ]
             },
-            "id": "a90d1b50-1d0d-4bbf-993a-41e55969355a",
+            "id": "dcc6e9c8-89d4-46c3-8c93-fd9fe8bffa53",
             "links": {},
             "meta": {
-                "score": 10.934427
+                "score": 10.554945
             },
             "relationships": {},
             "type": "talentSearch"
@@ -416,7 +483,7 @@
             "id": "ff604728-5122-426b-b72f-73c3c199cc73",
             "links": {},
             "meta": {
-                "score": 10.74219
+                "score": 10.269648
             },
             "relationships": {},
             "type": "talentSearch"
@@ -493,74 +560,7 @@
             "id": "ae54c8ac-0d32-463f-b9d6-a2b4e36bd2aa",
             "links": {},
             "meta": {
-                "score": 10.740532
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al Dau Development "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "development and management skills.Strong interpersonal and communication skills.Updated with all the <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Manages <em class=\"search-highlight\">legal</em> risk within the business by taking responsibility for providing <em class=\"search-highlight\">legal</em> advice to the business",
-                            "’s senior leadership on all <em class=\"search-highlight\">legal</em> matters affecting their individual departmental transactions.Provides",
-                            "concerning applicable contracts required for operation of the business.Instructs and assists external <em class=\"search-highlight\">legal</em>",
-                            "partners where necessary identifying potential <em class=\"search-highlight\">legal</em> risks and assessing the issues impacting <em class=\"search-highlight\">legal</em>",
-                            "risk.Drafting sensitive and high-value <em class=\"search-highlight\">legal</em> documentation necessary for business operations"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Corporate <em class=\"search-highlight\">Legal</em> Associate Manager"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "dcc6e9c8-89d4-46c3-8c93-fd9fe8bffa53",
-            "links": {},
-            "meta": {
-                "score": 10.728454
+                "score": 10.26813
             },
             "relationships": {},
             "type": "talentSearch"
@@ -626,7 +626,7 @@
             "id": "8b2b445a-09d3-476e-88c4-adfac23bf90b",
             "links": {},
             "meta": {
-                "score": 10.699741
+                "score": 10.223322
             },
             "relationships": {},
             "type": "talentSearch"
@@ -704,7 +704,7 @@
             "id": "52d9815e-5c02-4ba7-be20-c74f03a07d25",
             "links": {},
             "meta": {
-                "score": 10.588522
+                "score": 10.044358
             },
             "relationships": {},
             "type": "talentSearch"
@@ -755,8 +755,8 @@
                             "matters to internal departments within Hikma to safeguard Hikma’s rights and <em class=\"search-highlight\">legal</em> stance.Interprets"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -773,7 +773,43 @@
             "id": "e662f7b9-feef-4a95-aab3-1b0212588583",
             "links": {},
             "meta": {
-                "score": 10.346417
+                "score": 9.729105
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Professional Service - Proserv"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Office Manager - (<em class=\"search-highlight\">Legal</em> Background)"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "adc0ca28-72c6-45cd-bcef-597bb76e90c6",
+            "links": {},
+            "meta": {
+                "score": 9.709255
             },
             "relationships": {},
             "type": "talentSearch"
@@ -848,7 +884,7 @@
             "id": "be1c2f66-0679-4093-a1ef-fc3fbe6def04",
             "links": {},
             "meta": {
-                "score": 10.263081
+                "score": 9.606037
             },
             "relationships": {},
             "type": "talentSearch"
@@ -907,8 +943,8 @@
                             "agencies in other countries for <em class=\"search-highlight\">legal</em> cases and dispute resolutions.Devising contracts with agents,"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -925,43 +961,7 @@
             "id": "fae9dbfd-60ab-4806-864a-a39338c395ee",
             "links": {},
             "meta": {
-                "score": 10.253718
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Professional Service - Proserv"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Office Manager - (<em class=\"search-highlight\">Legal</em> Background)"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "adc0ca28-72c6-45cd-bcef-597bb76e90c6",
-            "links": {},
-            "meta": {
-                "score": 10.240245
+                "score": 9.599317
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1039,7 +1039,7 @@
             "id": "e313995e-b965-45de-995e-d31509f4933a",
             "links": {},
             "meta": {
-                "score": 10.16756
+                "score": 9.488996
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1070,8 +1070,8 @@
                             "<em class=\"search-highlight\">Legal</em> Drafting"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -1120,7 +1120,7 @@
             "id": "f5fb08e0-9a49-4667-b8c2-b5c74f695f1d",
             "links": {},
             "meta": {
-                "score": 9.752056
+                "score": 8.982309
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1187,7 +1187,7 @@
             "id": "3949cbe0-ebe0-43fd-93ce-0c04823f37e9",
             "links": {},
             "meta": {
-                "score": 9.629459
+                "score": 8.845031
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1241,7 +1241,7 @@
             "id": "4d0f3a7c-ff0b-44f6-b0d9-b99ed569f088",
             "links": {},
             "meta": {
-                "score": 9.566698
+                "score": 8.768676
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1319,7 +1319,7 @@
             "id": "a00c8fc3-5c6d-4b87-94b2-7b65854b8994",
             "links": {},
             "meta": {
-                "score": 9.4857645
+                "score": 8.672671
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1373,8 +1373,8 @@
                             "of the Hospital in related issuesDevelop and recommends policy and position on <em class=\"search-highlight\">legal</em> issuesTo act as"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -1391,7 +1391,7 @@
             "id": "512edc1f-cec7-426f-ab7b-5bce2b1ced82",
             "links": {},
             "meta": {
-                "score": 9.455653
+                "score": 8.643491
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1468,7 +1468,7 @@
             "id": "65496ae1-868e-41ca-9913-865ca2a71d51",
             "links": {},
             "meta": {
-                "score": 9.177979
+                "score": 8.320675
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1527,8 +1527,8 @@
                             "advice required.Conducts <em class=\"search-highlight\">legal</em> research in different fields of the law and communicating with other"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -1545,7 +1545,7 @@
             "id": "162f32a3-a29c-4ce3-8bfc-ce73fffb127b",
             "links": {},
             "meta": {
-                "score": 9.084065
+                "score": 8.21891
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1593,8 +1593,8 @@
                             "department by offering a <em class=\"search-highlight\">legal</em> opinion in their work when needed.Authenticate EGM & AGM & Board meetings"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -1611,7 +1611,7 @@
             "id": "eb175d32-f2fb-46fd-b1f9-6238445d437c",
             "links": {},
             "meta": {
-                "score": 8.933924
+                "score": 8.056377
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1674,7 +1674,7 @@
             "id": "b8043b77-bf10-4213-af67-c41f396439dc",
             "links": {},
             "meta": {
-                "score": 8.178309
+                "score": 7.2441716
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1741,7 +1741,7 @@
             "id": "0b1444a5-4696-4d82-a881-100c1ce59fe7",
             "links": {},
             "meta": {
-                "score": 8.138576
+                "score": 7.2041707
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1805,7 +1805,7 @@
             "id": "96bedbc8-b5ae-4424-88aa-39eab1de1d9e",
             "links": {},
             "meta": {
-                "score": 8.052022
+                "score": 7.1125846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1868,7 +1868,7 @@
             "id": "5b3c9cef-756a-41ec-8e3d-ee38b4440780",
             "links": {},
             "meta": {
-                "score": 7.7253513
+                "score": 6.7566648
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1926,8 +1926,8 @@
                             "ensure each meets the relevant <em class=\"search-highlight\">legal</em> requirements."
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -1944,7 +1944,600 @@
             "id": "a7ef1268-5e9e-4bf0-9683-c9c0f851b55d",
             "links": {},
             "meta": {
-                "score": 7.7204666
+                "score": 6.752408
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nacita"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "company and the company comply with the relevant regulations.Investigate with employees referred to <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "6418b386-317d-4d94-8541-bc74eb331fa8",
+            "links": {},
+            "meta": {
+                "score": 6.374896
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nacita"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Manage litigation by Follow up company <em class=\"search-highlight\">legal</em> issues in terms of lawsuits against/from the clients, Police",
+                            "reports, cases & governmental communications & representing the companies in front the Egyptian Court for <em class=\"search-highlight\">legal</em>",
+                            "Liaise and monitoring with relevant departments to ensure where <em class=\"search-highlight\">legal</em> risk have been appropriate courses",
+                            "appropriate approvals GAFI Authority Prepare Monthly – Quarterly – Annual Reports to MD for company's <em class=\"search-highlight\">legal</em>",
+                            "departments updates - Manage HQ and branches permit, licenses & commercial records validity, and renewals <em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal",
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "b733b5bc-5226-4c8c-8934-288296429bd6",
+            "links": {},
+            "meta": {
+                "score": 6.3641434
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Milkys - The Milkman"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Drafting, reviewing, and negotiating terms of contracts and other <em class=\"search-highlight\">legal</em> documents.Act as a special invitee",
+                            "and to participate in management team meetings of the Business.Conduct <em class=\"search-highlight\">legal</em> research, supervising researchers",
+                            "procedural matters.Supervising the renewal of corporate licenses and other authorizations.Identifying <em class=\"search-highlight\">legal</em>",
+                            "transactions.Prepare a training plan for management and staff of the Business to create awareness of <em class=\"search-highlight\">legal</em>",
+                            "all internal support divisions of the Business, including the company.Ensure corporate filings for <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "90a9c1a9-6958-4dd8-9c40-ed302f1392f5",
+            "links": {},
+            "meta": {
+                "score": 6.3591304
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smartera 3S "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "professionalism, and confidentiality,Proficient with Microsoft Office Suite or related software,Having <em class=\"search-highlight\">Legal</em>",
+                            "Layers Egyptian Syndication,Ability to review and prepare:Employment contracts, custodians, or any <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "Legal",
+                            "legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "and regulatory changes that impact the work,To be responsible for representing the company for all <em class=\"search-highlight\">legal</em>",
+                            "aspects at front of Egyptian courts and <em class=\"search-highlight\">legal</em> representatives."
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "84685c9f-b5ef-4253-9cd4-2f3146ec54fa",
+            "links": {},
+            "meta": {
+                "score": 6.3503666
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smartera 3S "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Ability to review and prepare:\n\nEmployment contracts, custodians, or any <em class=\"search-highlight\">legal</em> forms with employees\nPartnership"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "To be responsible for representing the company for all <em class=\"search-highlight\">legal</em> aspects at front of Egyptian courts and",
+                            "<em class=\"search-highlight\">legal</em> representatives."
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "a8d5dd41-2da1-429a-af86-8146cdc3da15",
+            "links": {},
+            "meta": {
+                "score": 6.323703
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Food & Consumable Goods - Egypt S.A.E"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>",
+                            "<em class=\"search-highlight\">Legal</em> Affairs"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "leadership skillsAbility to Influence/relationship Management SkillsAcquired Industrial work’s experience as <em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "41dd1d41-a702-4e98-9770-5389a8d6d8fd",
+            "links": {},
+            "meta": {
+                "score": 6.2833567
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElEZZ  Construction & Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "5bc51575-fd7c-4e76-aafc-cf10e6d9a0e7",
+            "links": {},
+            "meta": {
+                "score": 6.257589
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "24 Task"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "4ba095d6-f129-4743-8a23-1b4f98230a7b",
+            "links": {},
+            "meta": {
+                "score": 6.2466426
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nozha Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "cases and lawsuits before the courts and preparing preliminary defense memorandaCoordination with all <em class=\"search-highlight\">legal</em>",
+                            "units in government departments, bodies and institutions in the country in all matters related to <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "f862d373-96c0-45c9-b360-9677e6118540",
+            "links": {},
+            "meta": {
+                "score": 6.1919737
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Marine & Engineering Services Co (MESCO)"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Draft, review, and negotiate contracts, leases, and other <em class=\"search-highlight\">legal</em> documentStrategically counsel Company",
+                            "regarding the <em class=\"search-highlight\">legal</em> matters Identify <em class=\"search-highlight\">legal</em> or contractual issues and develop new approaches to resolve",
+                            "complex issuesProvide <em class=\"search-highlight\">legal</em> advice to senior management regarding various corporate and business matters"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "43e76ddc-2553-4c8e-ab69-22e44d036601",
+            "links": {},
+            "meta": {
+                "score": 6.172078
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mazzika Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "6ea1feb0-17c3-4d32-9e90-431ac151884e",
+            "links": {},
+            "meta": {
+                "score": 6.169022
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2012,7 +2605,97 @@
             "id": "8c68e042-a3c8-4391-ae1b-a217814b1c05",
             "links": {},
             "meta": {
-                "score": 7.084692
+                "score": 6.126728
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "732d43cc-110a-4f7d-ac70-4ff4d9e8def6",
+            "links": {},
+            "meta": {
+                "score": 6.110884
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGY TRADE"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em> Accounting"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "3-5 experience in the same field.Previous tax experience in a <em class=\"search-highlight\">legal</em> accounting office is a Must.Bachelor's"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "7bd89798-d5e3-4f0b-aa4a-a236f480eedf",
+            "links": {},
+            "meta": {
+                "score": 6.1040926
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2088,7 +2771,7 @@
             "id": "698e5da8-e3f0-4da0-b456-cb25d48faf6a",
             "links": {},
             "meta": {
-                "score": 6.907655
+                "score": 5.9499683
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2143,8 +2826,8 @@
                             "A Leading distribution company in Greater Cairo is hiring “<em class=\"search-highlight\">Legal</em> Manager” to lead all its <em class=\"search-highlight\">legal</em> activities"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     },
                     {
@@ -2161,690 +2844,7 @@
             "id": "9cdc214d-6cb2-48aa-a4fc-b7f019696bdc",
             "links": {},
             "meta": {
-                "score": 6.890196
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smartera 3S "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Ability to review and prepare:\n\nEmployment contracts, custodians, or any <em class=\"search-highlight\">legal</em> forms with employees\nPartnership"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "To be responsible for representing the company for all <em class=\"search-highlight\">legal</em> aspects at front of Egyptian courts and",
-                            "<em class=\"search-highlight\">legal</em> representatives."
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "a8d5dd41-2da1-429a-af86-8146cdc3da15",
-            "links": {},
-            "meta": {
-                "score": 6.455945
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smartera 3S "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "professionalism, and confidentiality,Proficient with Microsoft Office Suite or related software,Having <em class=\"search-highlight\">Legal</em>",
-                            "Layers Egyptian Syndication,Ability to review and prepare:Employment contracts, custodians, or any <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal",
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "and regulatory changes that impact the work,To be responsible for representing the company for all <em class=\"search-highlight\">legal</em>",
-                            "aspects at front of Egyptian courts and <em class=\"search-highlight\">legal</em> representatives."
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "84685c9f-b5ef-4253-9cd4-2f3146ec54fa",
-            "links": {},
-            "meta": {
-                "score": 6.4520946
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nacita"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "company and the company comply with the relevant regulations.Investigate with employees referred to <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "6418b386-317d-4d94-8541-bc74eb331fa8",
-            "links": {},
-            "meta": {
-                "score": 6.4452868
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "International Food & Consumable Goods - Egypt S.A.E"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>",
-                            "<em class=\"search-highlight\">Legal</em> Affairs"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "leadership skillsAbility to Influence/relationship Management SkillsAcquired Industrial work’s experience as <em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "41dd1d41-a702-4e98-9770-5389a8d6d8fd",
-            "links": {},
-            "meta": {
-                "score": 6.436186
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nacita"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Manage litigation by Follow up company <em class=\"search-highlight\">legal</em> issues in terms of lawsuits against/from the clients, Police",
-                            "reports, cases & governmental communications & representing the companies in front the Egyptian Court for <em class=\"search-highlight\">legal</em>",
-                            "Liaise and monitoring with relevant departments to ensure where <em class=\"search-highlight\">legal</em> risk have been appropriate courses",
-                            "appropriate approvals GAFI Authority Prepare Monthly – Quarterly – Annual Reports to MD for company's <em class=\"search-highlight\">legal</em>",
-                            "departments updates - Manage HQ and branches permit, licenses & commercial records validity, and renewals <em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal",
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "b733b5bc-5226-4c8c-8934-288296429bd6",
-            "links": {},
-            "meta": {
-                "score": 6.435693
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Milkys - The Milkman"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Drafting, reviewing, and negotiating terms of contracts and other <em class=\"search-highlight\">legal</em> documents.Act as a special invitee",
-                            "and to participate in management team meetings of the Business.Conduct <em class=\"search-highlight\">legal</em> research, supervising researchers",
-                            "procedural matters.Supervising the renewal of corporate licenses and other authorizations.Identifying <em class=\"search-highlight\">legal</em>",
-                            "transactions.Prepare a training plan for management and staff of the Business to create awareness of <em class=\"search-highlight\">legal</em>",
-                            "all internal support divisions of the Business, including the company.Ensure corporate filings for <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "90a9c1a9-6958-4dd8-9c40-ed302f1392f5",
-            "links": {},
-            "meta": {
-                "score": 6.432556
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "24 Task"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "4ba095d6-f129-4743-8a23-1b4f98230a7b",
-            "links": {},
-            "meta": {
-                "score": 6.410792
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ElEZZ  Construction & Trading"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "5bc51575-fd7c-4e76-aafc-cf10e6d9a0e7",
-            "links": {},
-            "meta": {
-                "score": 6.409998
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nozha Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "cases and lawsuits before the courts and preparing preliminary defense memorandaCoordination with all <em class=\"search-highlight\">legal</em>",
-                            "units in government departments, bodies and institutions in the country in all matters related to <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "f862d373-96c0-45c9-b360-9677e6118540",
-            "links": {},
-            "meta": {
-                "score": 6.3795257
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Mazzika Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "6ea1feb0-17c3-4d32-9e90-431ac151884e",
-            "links": {},
-            "meta": {
-                "score": 6.3716187
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Marine & Engineering Services Co (MESCO)"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Draft, review, and negotiate contracts, leases, and other <em class=\"search-highlight\">legal</em> documentStrategically counsel Company",
-                            "regarding the <em class=\"search-highlight\">legal</em> matters Identify <em class=\"search-highlight\">legal</em> or contractual issues and develop new approaches to resolve",
-                            "complex issuesProvide <em class=\"search-highlight\">legal</em> advice to senior management regarding various corporate and business matters"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "43e76ddc-2553-4c8e-ab69-22e44d036601",
-            "links": {},
-            "meta": {
-                "score": 6.371546
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "732d43cc-110a-4f7d-ac70-4ff4d9e8def6",
-            "links": {},
-            "meta": {
-                "score": 6.3413434
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EGY TRADE"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em> Accounting"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "3-5 experience in the same field.Previous tax experience in a <em class=\"search-highlight\">legal</em> accounting office is a Must.Bachelor's"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "7bd89798-d5e3-4f0b-aa4a-a236f480eedf",
-            "links": {},
-            "meta": {
-                "score": 6.3349366
+                "score": 5.9289436
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2889,7 +2889,7 @@
             "id": "8ff0c8da-1086-4ee3-bf83-337daa496eba",
             "links": {},
             "meta": {
-                "score": 6.178273
+                "score": 5.8610244
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2935,7 +2935,7 @@
             "id": "6c2aa672-e139-4022-9b7e-475bac685dae",
             "links": {},
             "meta": {
-                "score": 6.17813
+                "score": 5.8608227
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2990,7 +2990,7 @@
             "id": "d5431094-5ebf-4a4b-b748-ca08d143c131",
             "links": {},
             "meta": {
-                "score": 6.043722
+                "score": 5.672397
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3061,7 +3061,7 @@
             "id": "447db6ca-3cc7-46bf-9801-2f59e2513cce",
             "links": {},
             "meta": {
-                "score": 5.9875793
+                "score": 5.6033444
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3113,8 +3113,8 @@
                             "contracts, follow-up and supervise modifications, termination of contracts and agreements.Providing <em class=\"search-highlight\">legal</em>"
                         ],
                         "value": [
-                            "legal",
-                            "Legal"
+                            "Legal",
+                            "legal"
                         ]
                     }
                 ]
@@ -3122,7 +3122,7 @@
             "id": "d47891f3-c354-408e-b9ca-f8533a4e0f6b",
             "links": {},
             "meta": {
-                "score": 5.9121804
+                "score": 5.517091
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3185,7 +3185,7 @@
             "id": "39b46dd0-a496-43b8-94ce-a119eda45ecc",
             "links": {},
             "meta": {
-                "score": 5.900336
+                "score": 5.4509754
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3244,7 +3244,7 @@
             "id": "ea7f81c3-6ce5-428d-9a94-bde6a5d5154c",
             "links": {},
             "meta": {
-                "score": 5.77901
+                "score": 5.353075
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3298,7 +3298,7 @@
             "id": "fcd525a3-977b-4699-9798-c49861e6c2da",
             "links": {},
             "meta": {
-                "score": 5.7634044
+                "score": 5.3222475
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3334,7 +3334,7 @@
             "id": "8f267316-15ab-4b61-9780-502739a5ff72",
             "links": {},
             "meta": {
-                "score": 5.7104893
+                "score": 5.273348
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3393,7 +3393,7 @@
             "id": "6c401ec7-728a-43dd-99f6-64d4213e23ed",
             "links": {},
             "meta": {
-                "score": 5.6856866
+                "score": 5.2394495
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3462,7 +3462,7 @@
             "id": "e99ce476-64e9-45b2-9963-122ed55d0f69",
             "links": {},
             "meta": {
-                "score": 5.661825
+                "score": 5.200661
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3507,7 +3507,7 @@
             "id": "215a85f8-50e8-4788-90dd-743022c765bd",
             "links": {},
             "meta": {
-                "score": 5.622793
+                "score": 5.1648993
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3552,7 +3552,7 @@
             "id": "14cd5f22-e0f3-437e-b40b-b7eb26cd3053",
             "links": {},
             "meta": {
-                "score": 5.5916533
+                "score": 5.1239157
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3608,7 +3608,7 @@
             "id": "feadd750-bd6b-4001-a614-2018537573db",
             "links": {},
             "meta": {
-                "score": 5.356143
+                "score": 4.8599353
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3663,7 +3663,7 @@
             "id": "410e32b4-fd3a-4876-97f8-9e93ec02b8dc",
             "links": {},
             "meta": {
-                "score": 5.34995
+                "score": 4.8508587
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3722,7 +3722,7 @@
             "id": "b6ceb1af-bd10-4ed7-b37d-35651633c574",
             "links": {},
             "meta": {
-                "score": 5.336011
+                "score": 4.8386273
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3776,7 +3776,7 @@
             "id": "73023a4d-095f-4c39-bc0f-05058b5bed8c",
             "links": {},
             "meta": {
-                "score": 5.2814827
+                "score": 4.7755284
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3812,7 +3812,7 @@
             "id": "c32a8287-0400-49cb-9308-c29b24b18649",
             "links": {},
             "meta": {
-                "score": 5.023642
+                "score": 4.497548
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3857,7 +3857,7 @@
             "id": "dccb6f04-d48a-4c0e-aaeb-004c9e4371ea",
             "links": {},
             "meta": {
-                "score": 4.8769984
+                "score": 4.335854
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3893,7 +3893,7 @@
             "id": "e0e1096b-51f1-422d-8ac8-0f5def309ead",
             "links": {},
             "meta": {
-                "score": 4.676344
+                "score": 4.1296115
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3958,7 +3958,7 @@
             "id": "6a544d79-1790-40be-a258-c34df87436f0",
             "links": {},
             "meta": {
-                "score": 4.66571
+                "score": 4.1121573
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4012,7 +4012,52 @@
             "id": "faebaa84-5d8d-4043-99e1-e20482ff0bef",
             "links": {},
             "meta": {
-                "score": 4.6522083
+                "score": 4.0994253
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EFS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "c2fa73c6-d00d-44d5-bba8-e03403dc86c9",
+            "links": {},
+            "meta": {
+                "score": 4.01489
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4066,52 +4111,7 @@
             "id": "d72df9aa-252b-445d-92e7-310b4b25d4fa",
             "links": {},
             "meta": {
-                "score": 4.5684056
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EFS"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "c2fa73c6-d00d-44d5-bba8-e03403dc86c9",
-            "links": {},
-            "meta": {
-                "score": 4.5681906
+                "score": 3.9955606
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4156,7 +4156,7 @@
             "id": "b56486fb-d3cc-4332-82d9-7d676cb7d55a",
             "links": {},
             "meta": {
-                "score": 4.336319
+                "score": 3.7790725
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4210,7 +4210,7 @@
             "id": "6ae8ca7d-b354-4a29-b58d-626164e420c5",
             "links": {},
             "meta": {
-                "score": 4.2731276
+                "score": 3.7138202
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4246,7 +4246,43 @@
             "id": "3c902545-71b2-44f1-9655-ea375433aa59",
             "links": {},
             "meta": {
-                "score": 4.201278
+                "score": 3.644375
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Support Legal"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "company_name",
+                        "snippets": [
+                            "Support <em class=\"search-highlight\">Legal</em>"
+                        ],
+                        "value": [
+                            "Legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "9fe0c29d-dfe0-47a5-b7f4-b85aaa8fc5bb",
+            "links": {},
+            "meta": {
+                "score": 3.409332
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4300,7 +4336,7 @@
             "id": "2397ba4d-e8a0-434b-ad9c-1aa89222f420",
             "links": {},
             "meta": {
-                "score": 3.9334924
+                "score": 3.3751493
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4345,7 +4381,7 @@
             "id": "49ab5bf7-4447-4bd3-853f-013add7b98f5",
             "links": {},
             "meta": {
-                "score": 3.8475683
+                "score": 3.2933254
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4392,7 +4428,7 @@
             "id": "1685df85-845d-476a-ba79-48c701ae57be",
             "links": {},
             "meta": {
-                "score": 3.8378265
+                "score": 3.2834678
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4437,7 +4473,7 @@
             "id": "e64109e6-0e66-46eb-8b7e-00255d0b09bd",
             "links": {},
             "meta": {
-                "score": 3.7609787
+                "score": 3.209035
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4497,7 +4533,7 @@
             "id": "48f13fcc-c94d-424a-8f8c-da4661a7b4ed",
             "links": {},
             "meta": {
-                "score": 3.7477021
+                "score": 3.1962533
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4542,43 +4578,7 @@
             "id": "c9a00dd9-7124-4b88-9d37-37f34a2ffa72",
             "links": {},
             "meta": {
-                "score": 3.7074125
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Support Legal"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "company_name",
-                        "snippets": [
-                            "Support <em class=\"search-highlight\">Legal</em>"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "9fe0c29d-dfe0-47a5-b7f4-b85aaa8fc5bb",
-            "links": {},
-            "meta": {
-                "score": 3.4921608
+                "score": 3.1565144
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4632,7 +4632,7 @@
             "id": "3949c80e-600b-4bff-b8a1-5df6464f9ebb",
             "links": {},
             "meta": {
-                "score": 2.464918
+                "score": 2.1558383
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4668,7 +4668,7 @@
             "id": "b5a9aaf4-e7b5-466c-b579-82c82b5b977b",
             "links": {},
             "meta": {
-                "score": 2.4161468
+                "score": 2.1131883
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4704,7 +4704,7 @@
             "id": "5cd88d80-5f5e-42c4-b9cd-62f6d743c290",
             "links": {},
             "meta": {
-                "score": 2.4161246
+                "score": 2.1131656
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4740,7 +4740,7 @@
             "id": "a66b876e-f6d6-4967-a3f1-fb4f2b54884c",
             "links": {},
             "meta": {
-                "score": 2.4161239
+                "score": 2.1131647
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4776,7 +4776,7 @@
             "id": "4b61fbab-3144-4eb0-9301-30f6df815402",
             "links": {},
             "meta": {
-                "score": 2.4161043
+                "score": 2.1131449
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4812,43 +4812,7 @@
             "id": "f2b4bdc5-223d-4dd9-a488-a2863d265a57",
             "links": {},
             "meta": {
-                "score": 2.4161007
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "information flows.Good problem-solving and negotiation skills.An understanding of procedures, standards, and <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "01edfe3d-4e28-4739-bb56-f3645b191b9e",
-            "links": {},
-            "meta": {
-                "score": 0.7211488
+                "score": 2.113141
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4884,7 +4848,43 @@
             "id": "463050b3-13ea-4fe1-9c42-6fe501ac9840",
             "links": {},
             "meta": {
-                "score": 0.71060884
+                "score": 0.69353217
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "information flows.Good problem-solving and negotiation skills.An understanding of procedures, standards, and <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "01edfe3d-4e28-4739-bb56-f3645b191b9e",
+            "links": {},
+            "meta": {
+                "score": 0.68386227
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4930,7 +4930,7 @@
             "id": "da1a13fb-5e2f-417b-912b-7e6dfef8e00a",
             "links": {},
             "meta": {
-                "score": 0.692279
+                "score": 0.6598283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4966,88 +4966,7 @@
             "id": "19caf4a7-7aa4-4f16-8f4f-0a3f66a0a6fe",
             "links": {},
             "meta": {
-                "score": 0.65293825
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "information flows.Good problem-solving and negotiation skills.An understanding of procedures, standards, and <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "e27dc7f9-3593-433b-adf9-674d492d8509",
-            "links": {},
-            "meta": {
-                "score": 0.6196197
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Smart Solutions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "information flows.Good problem-solving and negotiation skills.An understanding of procedures, standards and <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "to Company policy.Receives accident reports from Safety Officer and coordinate with Head Office for <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "beb5af4f-0511-4786-892a-2a562abbef9e",
-            "links": {},
-            "meta": {
-                "score": 0.57992554
+                "score": 0.5984435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5092,7 +5011,88 @@
             "id": "bccb1967-9c44-456b-8f57-03c797c99bb3",
             "links": {},
             "meta": {
-                "score": 0.57705903
+                "score": 0.56940913
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "information flows.Good problem-solving and negotiation skills.An understanding of procedures, standards, and <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "e27dc7f9-3593-433b-adf9-674d492d8509",
+            "links": {},
+            "meta": {
+                "score": 0.56062895
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "information flows.Good problem-solving and negotiation skills.An understanding of procedures, standards and <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "to Company policy.Receives accident reports from Safety Officer and coordinate with Head Office for <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "beb5af4f-0511-4786-892a-2a562abbef9e",
+            "links": {},
+            "meta": {
+                "score": 0.53569543
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5128,7 +5128,7 @@
             "id": "cd423b28-ca98-4234-8ef5-15fa6da35fbd",
             "links": {},
             "meta": {
-                "score": 0.53305227
+                "score": 0.5095974
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5164,52 +5164,7 @@
             "id": "ac9c8093-aed1-4852-9fd6-cfa6dfdb96e4",
             "links": {},
             "meta": {
-                "score": 0.5054571
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Greater Cairo Foundries Co. S.A.E"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "observation, organizational, and leadership skills.In-depth knowledge of quality control procedures and <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "compliance.Supervising inspectors, technicians, and other staff members and providing guidance.Ensuring <em class=\"search-highlight\">legal</em>"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "fc99388f-5589-40ec-94f7-237986b59e1a",
-            "links": {},
-            "meta": {
-                "score": 0.49698892
+                "score": 0.49982807
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5245,79 +5200,7 @@
             "id": "9d6f0e82-9cd3-4602-9df7-3c6733a434e5",
             "links": {},
             "meta": {
-                "score": 0.4890131
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Eltakamol"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Experience in law firmsExperience in <em class=\"search-highlight\">legal</em> adviceAbility to make future plansCommunication with foreign"
-                        ],
-                        "value": [
-                            "legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "978b2ebe-33dd-4b8c-b4ab-33a82824d04a",
-            "links": {},
-            "meta": {
-                "score": 0.48809847
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Ghabbour Auto"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Office Manager for the VP of <em class=\"search-highlight\">Legal</em> Affairs.Manages the agenda of the Vice President.Following up on VIP"
-                        ],
-                        "value": [
-                            "Legal"
-                        ]
-                    }
-                ]
-            },
-            "id": "495baeb8-40cd-4632-a6de-c32f15178684",
-            "links": {},
-            "meta": {
-                "score": 0.48291916
+                "score": 0.47214898
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5364,7 +5247,7 @@
             "id": "babc270b-ba17-43b8-b2c9-d54941740e3e",
             "links": {},
             "meta": {
-                "score": 0.48200205
+                "score": 0.4655061
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5400,7 +5283,7 @@
             "id": "275631f5-4a92-4af7-bd21-bf28551990e7",
             "links": {},
             "meta": {
-                "score": 0.45799813
+                "score": 0.45183238
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5445,7 +5328,124 @@
             "id": "3154d0a1-e2e7-44ae-b7d0-0c976ef44d32",
             "links": {},
             "meta": {
-                "score": 0.45672208
+                "score": 0.45177522
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Greater Cairo Foundries Co. S.A.E"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "observation, organizational, and leadership skills.In-depth knowledge of quality control procedures and <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "compliance.Supervising inspectors, technicians, and other staff members and providing guidance.Ensuring <em class=\"search-highlight\">legal</em>"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "fc99388f-5589-40ec-94f7-237986b59e1a",
+            "links": {},
+            "meta": {
+                "score": 0.44938695
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Eltakamol"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Experience in law firmsExperience in <em class=\"search-highlight\">legal</em> adviceAbility to make future plansCommunication with foreign"
+                        ],
+                        "value": [
+                            "legal"
+                        ]
+                    }
+                ]
+            },
+            "id": "978b2ebe-33dd-4b8c-b4ab-33a82824d04a",
+            "links": {},
+            "meta": {
+                "score": 0.4473889
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "NEXtCARE"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "succeed.Ability to comprehend, capture as well as interpret basic customer informationEmployment status: <em class=\"search-highlight\">Legally</em>"
+                        ],
+                        "value": [
+                            "Legally"
+                        ]
+                    }
+                ]
+            },
+            "id": "dbe871d9-af2c-4d74-a548-52a98a6e8ce6",
+            "links": {},
+            "meta": {
+                "score": 0.43851942
             },
             "relationships": {},
             "type": "talentSearch"

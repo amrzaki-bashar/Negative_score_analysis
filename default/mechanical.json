@@ -68,7 +68,7 @@
             "id": "9243d433-e6d7-4020-bd40-d291afe23a4c",
             "links": {},
             "meta": {
-                "score": 9.109819
+                "score": 9.007958
             },
             "relationships": {},
             "type": "talentSearch"
@@ -85,7 +85,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Kandil Industries"
+                            "MAAP Electromechanical Engineers"
                         ]
                     }
                 ],
@@ -94,15 +94,6 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor Degree of Faculty of Engineering - <em class=\"search-highlight\">Mechanical</em> Department - Machine Design FieldVery good at"
                         ],
                         "value": [
                             "Mechanical"
@@ -120,7 +111,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Maintenance Engineer"
+                            "<em class=\"search-highlight\">Mechanical</em> BIM Modeler"
                         ],
                         "value": [
                             "Mechanical"
@@ -128,10 +119,10 @@
                     }
                 ]
             },
-            "id": "ec2c2645-3804-4d1d-8de6-a3a137b0aa2f",
+            "id": "29ad9870-8bf5-4c78-8636-be7b895d09f9",
             "links": {},
             "meta": {
-                "score": 9.090229
+                "score": 8.971713
             },
             "relationships": {},
             "type": "talentSearch"
@@ -207,7 +198,7 @@
             "id": "c757cfb6-b17b-4b31-9e7b-2f1651cd96c5",
             "links": {},
             "meta": {
-                "score": 9.08778
+                "score": 8.96655
             },
             "relationships": {},
             "type": "talentSearch"
@@ -271,72 +262,7 @@
             "id": "bb7c5232-97cc-4f62-9252-7396638f9b10",
             "links": {},
             "meta": {
-                "score": 9.086151
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Engosoft"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em>",
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor of <em class=\"search-highlight\">Mechanical</em> engineeringHave a very good presentation skill.More than 2 years' experience as",
-                            "an Automotive <em class=\"search-highlight\">Mechanical</em> and electrical trainerBachelor from a government university with a general"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Automotive <em class=\"search-highlight\">Mechanic</em> Instructor"
-                        ],
-                        "value": [
-                            "Mechanic"
-                        ]
-                    }
-                ]
-            },
-            "id": "817e4d7b-6e26-4cca-a356-d7e50b1d59d0",
-            "links": {},
-            "meta": {
-                "score": 9.083978
+                "score": 8.965393
             },
             "relationships": {},
             "type": "talentSearch"
@@ -402,146 +328,7 @@
             "id": "1b318d8f-e60c-44bf-b964-3b8d71583956",
             "links": {},
             "meta": {
-                "score": 9.081002
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Engosoft"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em>",
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor of <em class=\"search-highlight\">Mechanical</em> engineeringHave a very good presentation skill.More than 2 years' experience in",
-                            "than very good “preferable”Previous design experience in HVAC, Firefighting and PlumbingUsing REVIT <em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Instructor"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "fec6c69c-c92d-4f4b-8be6-3862e797d4ba",
-            "links": {},
-            "meta": {
-                "score": 9.080156
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Marbella For Food Industry "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
-                            "<em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Education: Bachelor’s Degree in Engineering major <em class=\"search-highlight\">Mechanical</em> Power Engineering / Production & <em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "maintain the smooth running of the production line.Provide training and development opportunities to all <em class=\"search-highlight\">mechanical</em>",
-                            "installation or maintenance projects, leading the team of Technicians assigned to the task.Troubleshooting <em class=\"search-highlight\">mechanical</em>"
-                        ],
-                        "value": [
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "8debdc41-784e-4d2a-9ec4-e0ba9669de82",
-            "links": {},
-            "meta": {
-                "score": 9.080103
+                "score": 8.957777
             },
             "relationships": {},
             "type": "talentSearch"
@@ -615,7 +402,7 @@
             "id": "64697ea5-4ec6-4e42-a146-09a9717f8d54",
             "links": {},
             "meta": {
-                "score": 9.079598
+                "score": 8.954476
             },
             "relationships": {},
             "type": "talentSearch"
@@ -681,7 +468,274 @@
             "id": "f1846be4-ad1a-466a-b45c-211847bc0ec0",
             "links": {},
             "meta": {
-                "score": 9.079425
+                "score": 8.954285
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Marbella For Food Industry "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
+                            "<em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Education: Bachelor’s Degree in Engineering major <em class=\"search-highlight\">Mechanical</em> Power Engineering / Production & <em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "maintain the smooth running of the production line.Provide training and development opportunities to all <em class=\"search-highlight\">mechanical</em>",
+                            "installation or maintenance projects, leading the team of Technicians assigned to the task.Troubleshooting <em class=\"search-highlight\">mechanical</em>"
+                        ],
+                        "value": [
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "8debdc41-784e-4d2a-9ec4-e0ba9669de82",
+            "links": {},
+            "meta": {
+                "score": 8.953829
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kandil Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree of Faculty of Engineering - <em class=\"search-highlight\">Mechanical</em> Department - Machine Design FieldVery good at"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Maintenance Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "ec2c2645-3804-4d1d-8de6-a3a137b0aa2f",
+            "links": {},
+            "meta": {
+                "score": 8.942304
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Engosoft"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em>",
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor of <em class=\"search-highlight\">Mechanical</em> engineeringHave a very good presentation skill.More than 2 years' experience as",
+                            "an Automotive <em class=\"search-highlight\">Mechanical</em> and electrical trainerBachelor from a government university with a general"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Automotive <em class=\"search-highlight\">Mechanic</em> Instructor"
+                        ],
+                        "value": [
+                            "Mechanic"
+                        ]
+                    }
+                ]
+            },
+            "id": "817e4d7b-6e26-4cca-a356-d7e50b1d59d0",
+            "links": {},
+            "meta": {
+                "score": 8.93807
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Engosoft"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em>",
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor of <em class=\"search-highlight\">Mechanical</em> engineeringHave a very good presentation skill.More than 2 years' experience in",
+                            "than very good “preferable”Previous design experience in HVAC, Firefighting and PlumbingUsing REVIT <em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Instructor"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "fec6c69c-c92d-4f4b-8be6-3862e797d4ba",
+            "links": {},
+            "meta": {
+                "score": 8.93392
             },
             "relationships": {},
             "type": "talentSearch"
@@ -744,7 +798,7 @@
             "id": "b5622bf7-8dc0-4b57-b65e-96590046dbd1",
             "links": {},
             "meta": {
-                "score": 9.073301
+                "score": 8.923674
             },
             "relationships": {},
             "type": "talentSearch"
@@ -809,7 +863,70 @@
             "id": "6f4159e0-ced7-4cd9-88ac-f5d686f3919b",
             "links": {},
             "meta": {
-                "score": 9.072357
+                "score": 8.922755
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "IMUT International Marathon United Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Junior level <em class=\"search-highlight\">mechanical</em> Engineer,Experience in using solid work and auto cad.Experience from 1 to 3 years"
+                        ],
+                        "value": [
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "1bdd8fad-e8ae-411e-8acd-f0dbd64e7539",
+            "links": {},
+            "meta": {
+                "score": 8.917763
             },
             "relationships": {},
             "type": "talentSearch"
@@ -885,7 +1002,7 @@
             "id": "33380fad-134c-4c2c-bc34-7bb1b2e08a20",
             "links": {},
             "meta": {
-                "score": 9.0714245
+                "score": 8.910123
             },
             "relationships": {},
             "type": "talentSearch"
@@ -902,7 +1019,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "MAAP Electromechanical Engineers"
+                            "EL Banna Contracting "
                         ]
                     }
                 ],
@@ -928,7 +1045,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> BIM Modeler"
+                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
                         ],
                         "value": [
                             "Mechanical"
@@ -936,10 +1053,10 @@
                     }
                 ]
             },
-            "id": "29ad9870-8bf5-4c78-8636-be7b895d09f9",
+            "id": "efa50e6f-57b1-45e6-a925-021e74ab1e62",
             "links": {},
             "meta": {
-                "score": 9.065764
+                "score": 8.892973
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1006,124 +1123,7 @@
             "id": "91d8e599-b5f8-4625-a91a-909141b62bfc",
             "links": {},
             "meta": {
-                "score": 9.06522
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EL Banna Contracting "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "efa50e6f-57b1-45e6-a925-021e74ab1e62",
-            "links": {},
-            "meta": {
-                "score": 9.06259
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "IMUT International Marathon United Technology"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Junior level <em class=\"search-highlight\">mechanical</em> Engineer,Experience in using solid work and auto cad.Experience from 1 to 3 years"
-                        ],
-                        "value": [
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "1bdd8fad-e8ae-411e-8acd-f0dbd64e7539",
-            "links": {},
-            "meta": {
-                "score": 9.06194
+                "score": 8.880341
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1187,7 +1187,70 @@
             "id": "a4e610d7-1f1a-4c9f-b6a0-438630088533",
             "links": {},
             "meta": {
-                "score": 9.046233
+                "score": 8.832654
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "UFM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "the carpentry activities as well.Plan, coordinate, and lead the operation and maintenance for all the <em class=\"search-highlight\">mechanical</em>"
+                        ],
+                        "value": [
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Maintenance Site Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "edbb67fc-c5e2-4019-bbb2-2a28242a022d",
+            "links": {},
+            "meta": {
+                "score": 8.821388
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1250,7 +1313,7 @@
             "id": "5c2a968f-819d-437d-896b-37b689b6ec8e",
             "links": {},
             "meta": {
-                "score": 9.035218
+                "score": 8.796481
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1313,7 +1376,62 @@
             "id": "8445d863-0b38-4c0e-bfe9-3c785530d782",
             "links": {},
             "meta": {
-                "score": 9.03202
+                "score": 8.793453
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pure Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em>",
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "115aa885-27c7-4b15-9a4c-6d35c51533d8",
+            "links": {},
+            "meta": {
+                "score": 8.765674
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1387,7 +1505,7 @@
             "id": "f198ded4-1fd3-49ce-84cc-ee929a714062",
             "links": {},
             "meta": {
-                "score": 9.0260515
+                "score": 8.761316
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1404,7 +1522,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "UFM"
+                            "ECS - Energy & Contracting Solutions"
                         ]
                     }
                 ],
@@ -1430,7 +1548,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "the carpentry activities as well.Plan, coordinate, and lead the operation and maintenance for all the <em class=\"search-highlight\">mechanical</em>"
+                            "construction activities.Prepare Requests for Information (RFI) when necessary.Research, design, and evaluate <em class=\"search-highlight\">mechanical</em>"
                         ],
                         "value": [
                             "mechanical"
@@ -1439,7 +1557,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Maintenance Site Engineer"
+                            "Senior <em class=\"search-highlight\">Mechanical</em> Technical Office Engineer"
                         ],
                         "value": [
                             "Mechanical"
@@ -1447,10 +1565,10 @@
                     }
                 ]
             },
-            "id": "edbb67fc-c5e2-4019-bbb2-2a28242a022d",
+            "id": "835ce387-4a07-41ed-a2aa-b42c930b78f7",
             "links": {},
             "meta": {
-                "score": 9.02518
+                "score": 8.756499
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1523,7 +1641,7 @@
             "id": "9eb8d65a-1833-44c6-8135-282346bccece",
             "links": {},
             "meta": {
-                "score": 9.009613
+                "score": 8.750432
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1586,7 +1704,7 @@
             "id": "47dfcc4b-3eaf-43d8-9d39-ff97d8b229fc",
             "links": {},
             "meta": {
-                "score": 9.009599
+                "score": 8.748346
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1659,189 +1777,7 @@
             "id": "4910b0b4-9d19-42e1-80df-a0871e8eb734",
             "links": {},
             "meta": {
-                "score": 9.002091
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "MEP Construction"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
-                            "<em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc. of <em class=\"search-highlight\">Mechanical</em> Engineering.From 7 to 10 years of experienceinfrastructure, pump station, WWPTConstruction"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Mechanical</em> Tender Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "a1e965e9-4580-4ef9-8998-ab57a8cdf39e",
-            "links": {},
-            "meta": {
-                "score": 9.000913
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Pure Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em>",
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "115aa885-27c7-4b15-9a4c-6d35c51533d8",
-            "links": {},
-            "meta": {
-                "score": 9.000448
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ECS - Energy & Contracting Solutions"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "construction activities.Prepare Requests for Information (RFI) when necessary.Research, design, and evaluate <em class=\"search-highlight\">mechanical</em>"
-                        ],
-                        "value": [
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Mechanical</em> Technical Office Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "835ce387-4a07-41ed-a2aa-b42c930b78f7",
-            "links": {},
-            "meta": {
-                "score": 8.996822
+                "score": 8.745268
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1915,7 +1851,7 @@
             "id": "36dbef4e-51f6-4c21-942f-666864c9b671",
             "links": {},
             "meta": {
-                "score": 8.9935055
+                "score": 8.734252
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1969,7 +1905,134 @@
             "id": "05dcb44c-c749-46c6-a090-f9f83e4bdb4f",
             "links": {},
             "meta": {
-                "score": 8.986448
+                "score": 8.727991
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Egypro FME"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "the carpentry activities as wellPlan, coordinate, and lead the operation and maintenance for all the <em class=\"search-highlight\">mechanical</em>"
+                        ],
+                        "value": [
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Maintenance Site Manager"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "efe93105-a695-4d48-a423-00e4886695f5",
+            "links": {},
+            "meta": {
+                "score": 8.72236
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MEP Construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
+                            "<em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc. of <em class=\"search-highlight\">Mechanical</em> Engineering.From 7 to 10 years of experienceinfrastructure, pump station, WWPTConstruction"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Mechanical</em> Tender Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "a1e965e9-4580-4ef9-8998-ab57a8cdf39e",
+            "links": {},
+            "meta": {
+                "score": 8.715356
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2033,70 +2096,7 @@
             "id": "0617ce7e-03c9-4396-94b2-5c707aa8abf8",
             "links": {},
             "meta": {
-                "score": 8.984718
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Egypro FME"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "the carpentry activities as wellPlan, coordinate, and lead the operation and maintenance for all the <em class=\"search-highlight\">mechanical</em>"
-                        ],
-                        "value": [
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Maintenance Site Manager"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "efe93105-a695-4d48-a423-00e4886695f5",
-            "links": {},
-            "meta": {
-                "score": 8.980644
+                "score": 8.69901
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2162,7 +2162,70 @@
             "id": "cc575164-9113-4aef-af2b-4b91db5f7756",
             "links": {},
             "meta": {
-                "score": 8.980162
+                "score": 8.694732
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "INTECH"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "facilities in order to meet agreed deadlines.Prepares daily progress reports to Project Manager.Implements <em class=\"search-highlight\">mechanical</em>"
+                        ],
+                        "value": [
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Project Engineer - <em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "4806eccb-c62a-483d-b829-dcb9e7ae3dd2",
+            "links": {},
+            "meta": {
+                "score": 8.672094
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2227,70 +2290,7 @@
             "id": "eac7f080-c998-41f8-86e2-74d5b1db4630",
             "links": {},
             "meta": {
-                "score": 8.964765
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "INTECH"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "facilities in order to meet agreed deadlines.Prepares daily progress reports to Project Manager.Implements <em class=\"search-highlight\">mechanical</em>"
-                        ],
-                        "value": [
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior Project Engineer - <em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "4806eccb-c62a-483d-b829-dcb9e7ae3dd2",
-            "links": {},
-            "meta": {
-                "score": 8.956556
+                "score": 8.658112
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2365,7 +2365,7 @@
             "id": "c22fec7e-6793-460a-a749-ec764f662166",
             "links": {},
             "meta": {
-                "score": 8.956016
+                "score": 8.647672
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2430,7 +2430,7 @@
             "id": "4204b23b-8b2d-4258-a606-b478e794ba39",
             "links": {},
             "meta": {
-                "score": 8.945846
+                "score": 8.63829
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2503,7 +2503,7 @@
             "id": "814bff14-0776-4c47-8ae1-5f99d6e17d72",
             "links": {},
             "meta": {
-                "score": 8.842603
+                "score": 8.448653
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2582,7 +2582,7 @@
             "id": "23d637c1-3be4-42c7-9946-b9117aa53fe2",
             "links": {},
             "meta": {
-                "score": 8.776811
+                "score": 8.368397
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2645,7 +2645,7 @@
             "id": "e4b16fad-62c1-4dc5-b75f-59d7eda9572c",
             "links": {},
             "meta": {
-                "score": 8.754605
+                "score": 8.327722
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2709,7 +2709,7 @@
             "id": "791695b1-6be2-4a73-bdac-528072818955",
             "links": {},
             "meta": {
-                "score": 8.752222
+                "score": 8.320527
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2773,7 +2773,7 @@
             "id": "71fa1192-1be3-49c1-88e3-b955386fe41a",
             "links": {},
             "meta": {
-                "score": 8.74925
+                "score": 8.317469
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2837,7 +2837,7 @@
             "id": "82045e66-9ce8-4a84-bec1-b88f1df94bb1",
             "links": {},
             "meta": {
-                "score": 8.727584
+                "score": 8.296407
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2900,7 +2900,7 @@
             "id": "61583a8a-af9f-45b1-b28e-964712a9a0e8",
             "links": {},
             "meta": {
-                "score": 8.708906
+                "score": 8.265873
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2964,7 +2964,7 @@
             "id": "2a13b8be-b74b-4613-9300-cb3d03894193",
             "links": {},
             "meta": {
-                "score": 8.702046
+                "score": 8.254277
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3027,82 +3027,7 @@
             "id": "d5412717-7b9c-41ac-bf80-82072c92bf07",
             "links": {},
             "meta": {
-                "score": 8.698757
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em>",
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor degree in Engineering (<em class=\"search-highlight\">Mechanical</em>).4-6 Years of experience.Proficiency in Microsoft Office ("
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "activities to meet the management targetMonitor progress of work on site to align the performance of the <em class=\"search-highlight\">Mechanical</em>-Plumbing",
-                            "storage of material needed to prepare site requisition for any needed site material.Manage and direct the <em class=\"search-highlight\">mechanical</em>-Plumbing"
-                        ],
-                        "value": [
-                            "Mechanical",
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "MEP Engineer - <em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "758ab7ed-535b-4077-9bf0-bb9dc8ba9513",
-            "links": {},
-            "meta": {
-                "score": 8.69133
+                "score": 8.249987
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3178,7 +3103,82 @@
             "id": "7c8ec3ee-acfe-458a-adf0-43e3ccb1a3ae",
             "links": {},
             "meta": {
-                "score": 8.691125
+                "score": 8.244141
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em>",
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor degree in Engineering (<em class=\"search-highlight\">Mechanical</em>).4-6 Years of experience.Proficiency in Microsoft Office ("
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "activities to meet the management targetMonitor progress of work on site to align the performance of the <em class=\"search-highlight\">Mechanical</em>-Plumbing",
+                            "storage of material needed to prepare site requisition for any needed site material.Manage and direct the <em class=\"search-highlight\">mechanical</em>-Plumbing"
+                        ],
+                        "value": [
+                            "Mechanical",
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "MEP Engineer - <em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "758ab7ed-535b-4077-9bf0-bb9dc8ba9513",
+            "links": {},
+            "meta": {
+                "score": 8.240379
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3254,7 +3254,7 @@
             "id": "4f360da5-a69a-4541-9137-96642138371e",
             "links": {},
             "meta": {
-                "score": 8.687574
+                "score": 8.235666
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3320,7 +3320,7 @@
             "id": "9c2336b5-96fa-4d9e-b82e-319ecfc815eb",
             "links": {},
             "meta": {
-                "score": 8.680682
+                "score": 8.229917
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3394,7 +3394,61 @@
             "id": "4e2fdb5b-93d5-4bb3-baa4-931933b436c6",
             "links": {},
             "meta": {
-                "score": 8.645908
+                "score": 8.177413
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Two-Wires"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Draftsman needed with the below requirements :Should have skills in Autocad - Revit - BIM "
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Draftsman"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "2662f013-8230-4a10-8962-0e9aa5d6c202",
+            "links": {},
+            "meta": {
+                "score": 8.121459
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3467,61 +3521,7 @@
             "id": "a52abf6d-4f49-45ba-961a-93244c309fbc",
             "links": {},
             "meta": {
-                "score": 8.539448
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Two-Wires"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Draftsman needed with the below requirements :Should have skills in Autocad - Revit - BIM "
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Draftsman"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "2662f013-8230-4a10-8962-0e9aa5d6c202",
-            "links": {},
-            "meta": {
-                "score": 8.515901
+                "score": 8.034654
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3568,8 +3568,8 @@
                             "this role will also be expected to engage actively in research and income generation with a focus on <em class=\"search-highlight\">Mechanical</em>"
                         ],
                         "value": [
-                            "Mechanical",
-                            "Mechanics"
+                            "Mechanics",
+                            "Mechanical"
                         ]
                     },
                     {
@@ -3587,7 +3587,7 @@
             "id": "20655623-4b28-4eaf-970c-aaaf54309070",
             "links": {},
             "meta": {
-                "score": 8.507739
+                "score": 8.005342
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3641,7 +3641,7 @@
             "id": "819ffa4b-b82a-46c1-acff-0a0bea407ef3",
             "links": {},
             "meta": {
-                "score": 8.506888
+                "score": 8.003358
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3688,8 +3688,8 @@
                             "this role will also be expected to engage actively in research and income generation with a focus on <em class=\"search-highlight\">Mechanical</em>"
                         ],
                         "value": [
-                            "Mechanical",
-                            "Mechanics"
+                            "Mechanics",
+                            "Mechanical"
                         ]
                     },
                     {
@@ -3706,7 +3706,7 @@
             "id": "10d203fa-af98-4152-aa6f-d6f2e91f1af1",
             "links": {},
             "meta": {
-                "score": 8.503909
+                "score": 8.000123
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3770,7 +3770,7 @@
             "id": "2ed092d5-993c-4933-baec-ba3a1c9b2bae",
             "links": {},
             "meta": {
-                "score": 8.482668
+                "score": 7.9584203
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3827,7 +3827,71 @@
             "id": "d4e8b51b-7b74-4a2f-b6a7-8439c6453567",
             "links": {},
             "meta": {
-                "score": 8.455349
+                "score": 7.933992
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Alhamd Contracting Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
+                            "<em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc of <em class=\"search-highlight\">Mechanical</em> Engineering from a reputable University.5 to 7 Years' Experience in HVAC, Firefighting"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Mechanical</em> Technical Office Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "e62fa5db-4e21-477f-af42-c5be8f6e5a3a",
+            "links": {},
+            "meta": {
+                "score": 7.89765
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3899,7 +3963,7 @@
             "id": "792d51a4-f664-45de-81ad-608afb9c7dcb",
             "links": {},
             "meta": {
-                "score": 8.434035
+                "score": 7.8963346
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3916,7 +3980,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Alhamd Contracting Company"
+                            "System Technique"
                         ]
                     }
                 ],
@@ -3924,17 +3988,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
-                            "<em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc of <em class=\"search-highlight\">Mechanical</em> Engineering from a reputable University.5 to 7 Years' Experience in HVAC, Firefighting"
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
                         ],
                         "value": [
                             "Mechanical"
@@ -3952,7 +4006,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Senior <em class=\"search-highlight\">Mechanical</em> Technical Office Engineer"
+                            "<em class=\"search-highlight\">Mechanical</em> Site Engineer"
                         ],
                         "value": [
                             "Mechanical"
@@ -3960,10 +4014,10 @@
                     }
                 ]
             },
-            "id": "e62fa5db-4e21-477f-af42-c5be8f6e5a3a",
+            "id": "46378740-3412-490f-9cb7-ce1eed953bc4",
             "links": {},
             "meta": {
-                "score": 8.433909
+                "score": 7.8416705
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4027,61 +4081,7 @@
             "id": "8e18ce93-9655-4cb5-a510-6b26d8dca0b9",
             "links": {},
             "meta": {
-                "score": 8.3876505
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "System Technique"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Site Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "46378740-3412-490f-9cb7-ce1eed953bc4",
-            "links": {},
-            "meta": {
-                "score": 8.382779
+                "score": 7.8400073
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4144,7 +4144,7 @@
             "id": "6ca42058-9f39-4961-9510-077b6ef0a369",
             "links": {},
             "meta": {
-                "score": 8.380993
+                "score": 7.8265753
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4208,7 +4208,7 @@
             "id": "f3d32a83-e13a-4e9a-8256-e59e5b1901fb",
             "links": {},
             "meta": {
-                "score": 8.376319
+                "score": 7.819719
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4281,7 +4281,7 @@
             "id": "7fc06338-9f18-4de0-a38d-483ea36e813a",
             "links": {},
             "meta": {
-                "score": 8.36546
+                "score": 7.8090253
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4298,30 +4298,11 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Equity Developments"
+                            ""
                         ]
                     }
                 ],
                 "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
-                            "<em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor’s degree in <em class=\"search-highlight\">Mechanical</em> EngineeringExperience from 4 to 8 yearsExperience at commercial & residential"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
                     {
                         "name": "roles",
                         "snippets": [
@@ -4334,18 +4315,17 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Generally responsible for implementations and monitoring of all <em class=\"search-highlight\">mechanical</em>-related works at site as per",
-                            "and applicable standards or specifications prior to execution of any jobs.Plans the execution of all <em class=\"search-highlight\">Mechanical</em>"
+                            "Reviewing shop drawings for <em class=\"search-highlight\">mechanical</em> systems.",
+                            "Reviewing material submittals and data sheets of <em class=\"search-highlight\">mechanical</em> equipment in line with specifications and"
                         ],
                         "value": [
-                            "Mechanical",
                             "mechanical"
                         ]
                     },
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Site Engineer"
+                            "<em class=\"search-highlight\">Mechanical</em> Supervision Engineer (Consultant)"
                         ],
                         "value": [
                             "Mechanical"
@@ -4353,10 +4333,10 @@
                     }
                 ]
             },
-            "id": "1d5069a6-305b-4c2a-9a1c-d8d649ea6d52",
+            "id": "a6c01676-bb66-4049-90df-fdea304ff8cc",
             "links": {},
             "meta": {
-                "score": 8.299572
+                "score": 7.7629175
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4433,7 +4413,82 @@
             "id": "6e742bb7-78cb-4f65-abd4-0b25d178a6f4",
             "links": {},
             "meta": {
-                "score": 8.297931
+                "score": 7.727566
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Equity Developments"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
+                            "<em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in <em class=\"search-highlight\">Mechanical</em> EngineeringExperience from 4 to 8 yearsExperience at commercial & residential"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Generally responsible for implementations and monitoring of all <em class=\"search-highlight\">mechanical</em>-related works at site as per",
+                            "and applicable standards or specifications prior to execution of any jobs.Plans the execution of all <em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical",
+                            "mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Site Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "1d5069a6-305b-4c2a-9a1c-d8d649ea6d52",
+            "links": {},
+            "meta": {
+                "score": 7.7256975
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4471,8 +4526,8 @@
                             "BSC of Power <em class=\"search-highlight\">Mechanics</em> Engineering “for <em class=\"search-highlight\">Mechanical</em> Maintenance Engineer”  BSC of Power Electric or Electronic"
                         ],
                         "value": [
-                            "Mechanical",
-                            "Mechanics"
+                            "Mechanics",
+                            "Mechanical"
                         ]
                     },
                     {
@@ -4498,7 +4553,7 @@
             "id": "823a7ee5-d916-43a1-9845-894924de1c11",
             "links": {},
             "meta": {
-                "score": 8.296722
+                "score": 7.724995
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4552,7 +4607,7 @@
             "id": "6812ef23-4763-4e59-a528-aaa1e02b7a7d",
             "links": {},
             "meta": {
-                "score": 8.275344
+                "score": 7.7037115
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4615,62 +4670,7 @@
             "id": "4633659f-4a3a-425f-aa36-b1a3b7ef50a6",
             "links": {},
             "meta": {
-                "score": 8.264693
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Reviewing shop drawings for <em class=\"search-highlight\">mechanical</em> systems.",
-                            "Reviewing material submittals and data sheets of <em class=\"search-highlight\">mechanical</em> equipment in line with specifications and"
-                        ],
-                        "value": [
-                            "mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Supervision Engineer (Consultant)"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "a6c01676-bb66-4049-90df-fdea304ff8cc",
-            "links": {},
-            "meta": {
-                "score": 8.255867
+                "score": 7.69287
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4744,7 +4744,7 @@
             "id": "bfd591f7-f49f-45de-b2ac-95bfeff821af",
             "links": {},
             "meta": {
-                "score": 8.240422
+                "score": 7.655712
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4800,7 +4800,72 @@
             "id": "4bc6da4d-c854-40a9-92cc-10000ac0fe20",
             "links": {},
             "meta": {
-                "score": 8.193979
+                "score": 7.6061835
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HTC group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
+                            "<em class=\"search-highlight\">Mechanical</em>"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's Degree in <em class=\"search-highlight\">Mechanical</em> Engineering3-5 years of experienceVery good computer skills, i.e.; specialized",
+                            "<em class=\"search-highlight\">Mechanical</em> software, AutoCAD, MS office.The candidate must be a team player and a hard-worker.Attention"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "MEP <em class=\"search-highlight\">Mechanical</em> Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "455299a8-f2e2-4648-9226-b6d9f2020406",
+            "links": {},
+            "meta": {
+                "score": 7.5014625
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4863,7 +4928,7 @@
             "id": "32c62eec-08c3-4abc-9a24-804240c5c326",
             "links": {},
             "meta": {
-                "score": 8.114695
+                "score": 7.498689
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4936,72 +5001,7 @@
             "id": "57ffda4c-8f3c-4c21-bcb3-7ef1eb4e3d30",
             "links": {},
             "meta": {
-                "score": 8.114338
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "HTC group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering",
-                            "<em class=\"search-highlight\">Mechanical</em>"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Bachelor's Degree in <em class=\"search-highlight\">Mechanical</em> Engineering3-5 years of experienceVery good computer skills, i.e.; specialized",
-                            "<em class=\"search-highlight\">Mechanical</em> software, AutoCAD, MS office.The candidate must be a team player and a hard-worker.Attention"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "MEP <em class=\"search-highlight\">Mechanical</em> Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "455299a8-f2e2-4648-9226-b6d9f2020406",
-            "links": {},
-            "meta": {
-                "score": 8.114111
+                "score": 7.4944286
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5068,7 +5068,7 @@
             "id": "04f1efd5-9fe3-4304-b15c-c311a355ec17",
             "links": {},
             "meta": {
-                "score": 8.105853
+                "score": 7.488402
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5142,7 +5142,7 @@
             "id": "b33e2992-2967-481d-89d4-cf99d99b7640",
             "links": {},
             "meta": {
-                "score": 8.097089
+                "score": 7.478452
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5217,7 +5217,7 @@
             "id": "1739aade-e29a-4d93-8878-ca81c930f569",
             "links": {},
             "meta": {
-                "score": 8.095507
+                "score": 7.4726524
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5294,7 +5294,7 @@
             "id": "0b056513-a67a-4387-930c-43d576b777c1",
             "links": {},
             "meta": {
-                "score": 8.072611
+                "score": 7.454901
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5358,7 +5358,7 @@
             "id": "f5fbfdee-dcb1-4032-8df1-e7d2b51a738f",
             "links": {},
             "meta": {
-                "score": 8.031783
+                "score": 7.3998265
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5433,7 +5433,7 @@
             "id": "849e00b7-502b-43aa-a1a1-6c2258687dde",
             "links": {},
             "meta": {
-                "score": 8.016085
+                "score": 7.383486
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5497,7 +5497,7 @@
             "id": "4e612747-a1d0-4929-963e-4ec3ccc65517",
             "links": {},
             "meta": {
-                "score": 7.961798
+                "score": 7.315646
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5572,7 +5572,7 @@
             "id": "6faf60c9-dcfb-4f9f-a74e-7be3a1275f16",
             "links": {},
             "meta": {
-                "score": 7.9417763
+                "score": 7.295214
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5635,7 +5635,7 @@
             "id": "134ec6a9-f9d1-4d5f-a4ba-6cb393a30701",
             "links": {},
             "meta": {
-                "score": 7.913435
+                "score": 7.2700973
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5699,7 +5699,7 @@
             "id": "75e1ca8b-cef4-4735-aecf-8123cdff1c10",
             "links": {},
             "meta": {
-                "score": 7.910811
+                "score": 7.260295
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5773,7 +5773,7 @@
             "id": "a25cb848-9ab7-4ce4-9589-44d32d9c3a63",
             "links": {},
             "meta": {
-                "score": 7.904574
+                "score": 7.251319
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5836,7 +5836,7 @@
             "id": "eef9cfe5-9c36-4f9f-9f9e-2c2c1b2ee1d2",
             "links": {},
             "meta": {
-                "score": 7.87809
+                "score": 7.2191873
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5913,7 +5913,7 @@
             "id": "7bba2faf-3588-4323-8052-2df981a717d8",
             "links": {},
             "meta": {
-                "score": 7.8724475
+                "score": 7.216083
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5977,7 +5977,7 @@
             "id": "25e00a99-07a5-45da-8062-bc52ac7662f6",
             "links": {},
             "meta": {
-                "score": 7.827821
+                "score": 7.155525
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6043,7 +6043,7 @@
             "id": "a843ab01-d793-4322-93fe-a2a61984029c",
             "links": {},
             "meta": {
-                "score": 7.792055
+                "score": 7.1227794
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6116,7 +6116,7 @@
             "id": "cf2da71b-b19f-4053-9a4a-24db2855560b",
             "links": {},
             "meta": {
-                "score": 7.7894187
+                "score": 7.120378
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6180,7 +6180,7 @@
             "id": "89df8b94-6d80-4890-b372-c9fec6f88f68",
             "links": {},
             "meta": {
-                "score": 7.7890306
+                "score": 7.120168
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6253,7 +6253,7 @@
             "id": "b78c2912-4af8-4a24-b737-a96ad4600e08",
             "links": {},
             "meta": {
-                "score": 7.782177
+                "score": 7.1132617
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6327,7 +6327,7 @@
             "id": "2a4f7b09-6261-4bcb-8a1e-befbb6c0d372",
             "links": {},
             "meta": {
-                "score": 7.5725727
+                "score": 6.8750024
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6391,7 +6391,61 @@
             "id": "3d9d055b-fe31-4afb-869e-10bf949a7984",
             "links": {},
             "meta": {
-                "score": 7.5612245
+                "score": 6.85792
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "KB Architects "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
+                        ],
+                        "value": [
+                            "Mechanical"
+                        ]
+                    }
+                ]
+            },
+            "id": "d458dc2b-1c94-449a-a404-3ef92e560085",
+            "links": {},
+            "meta": {
+                "score": 6.8382063
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6455,61 +6509,7 @@
             "id": "c953b0c3-3d77-4e6d-aec9-df39ed6b109c",
             "links": {},
             "meta": {
-                "score": 7.53657
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "KB Architects "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineering"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Engineering - <em class=\"search-highlight\">Mechanical</em>/Electrical"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Mechanical</em> Engineer"
-                        ],
-                        "value": [
-                            "Mechanical"
-                        ]
-                    }
-                ]
-            },
-            "id": "d458dc2b-1c94-449a-a404-3ef92e560085",
-            "links": {},
-            "meta": {
-                "score": 7.536282
+                "score": 6.831668
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6585,7 +6585,7 @@
             "id": "1055bca2-b335-4bc9-b119-d2a9c225d6d2",
             "links": {},
             "meta": {
-                "score": 7.53471
+                "score": 6.8305635
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6650,7 +6650,7 @@
             "id": "ab2388c7-696e-4cf0-a230-6f6c95513b83",
             "links": {},
             "meta": {
-                "score": 7.5276113
+                "score": 6.824391
             },
             "relationships": {},
             "type": "talentSearch"

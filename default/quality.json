@@ -71,7 +71,7 @@
             "id": "bc8fbc92-0fb9-4cf7-939d-2d2d5cd62bd9",
             "links": {},
             "meta": {
-                "score": 7.1960616
+                "score": 7.115149
             },
             "relationships": {},
             "type": "talentSearch"
@@ -88,7 +88,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Egy Yarn"
+                            "Safa International Travel"
                         ]
                     }
                 ],
@@ -96,7 +96,6 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
                             "<em class=\"search-highlight\">Quality</em> Assurance",
                             "<em class=\"search-highlight\">Quality</em>"
                         ],
@@ -107,7 +106,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "A bachelor's degree in textile field.Previous experience at least 5 years in <em class=\"search-highlight\">quality</em>.Excellent communication"
+                            "Very Good English command2 years experience in <em class=\"search-highlight\">quality</em> monitoringExcellent sales skillsCustomer service"
                         ],
                         "value": [
                             "quality"
@@ -125,9 +124,8 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Gaining an understanding of the client's needs and requirements and communicating them and the <em class=\"search-highlight\">quality</em>",
-                            "standards to the production teams.Devising ways to improve the manufacturing process to ensure higher-<em class=\"search-highlight\">quality</em>",
-                            "monitoring their compliance.Overseeing product development procedures to identify any deviations from <em class=\"search-highlight\">quality</em>"
+                            "performance and plot the needed PIP enhancing team performanceEnhance the team members sales skillsUsing <em class=\"search-highlight\">quality</em>",
+                            "performanceReleasing newcomers after the shadowing process.Preparing and analyzing internal and external <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
                             "quality"
@@ -136,7 +134,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Manager"
+                            "<em class=\"search-highlight\">Quality</em> Assurance Specialist ( Tourism Background )"
                         ],
                         "value": [
                             "Quality"
@@ -144,10 +142,10 @@
                     }
                 ]
             },
-            "id": "29594d4b-3c24-49de-812f-f2448596d289",
+            "id": "a21cf729-0571-4bf2-81af-284cd634991b",
             "links": {},
             "meta": {
-                "score": 7.18743
+                "score": 7.1053815
             },
             "relationships": {},
             "type": "talentSearch"
@@ -224,7 +222,7 @@
             "id": "0e19fa23-9a2d-4095-96df-432dade9bfad",
             "links": {},
             "meta": {
-                "score": 7.184765
+                "score": 7.0885715
             },
             "relationships": {},
             "type": "talentSearch"
@@ -241,7 +239,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Safa International Travel"
+                            "Egy Yarn"
                         ]
                     }
                 ],
@@ -249,6 +247,7 @@
                     {
                         "name": "skills",
                         "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
                             "<em class=\"search-highlight\">Quality</em> Assurance",
                             "<em class=\"search-highlight\">Quality</em>"
                         ],
@@ -259,7 +258,7 @@
                     {
                         "name": "requirements",
                         "snippets": [
-                            "Very Good English command2 years experience in <em class=\"search-highlight\">quality</em> monitoringExcellent sales skillsCustomer service"
+                            "A bachelor's degree in textile field.Previous experience at least 5 years in <em class=\"search-highlight\">quality</em>.Excellent communication"
                         ],
                         "value": [
                             "quality"
@@ -277,8 +276,9 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "performance and plot the needed PIP enhancing team performanceEnhance the team members sales skillsUsing <em class=\"search-highlight\">quality</em>",
-                            "performanceReleasing newcomers after the shadowing process.Preparing and analyzing internal and external <em class=\"search-highlight\">quality</em>"
+                            "Gaining an understanding of the client's needs and requirements and communicating them and the <em class=\"search-highlight\">quality</em>",
+                            "standards to the production teams.Devising ways to improve the manufacturing process to ensure higher-<em class=\"search-highlight\">quality</em>",
+                            "monitoring their compliance.Overseeing product development procedures to identify any deviations from <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
                             "quality"
@@ -287,7 +287,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Specialist ( Tourism Background )"
+                            "<em class=\"search-highlight\">Quality</em> Control Manager"
                         ],
                         "value": [
                             "Quality"
@@ -295,10 +295,385 @@
                     }
                 ]
             },
-            "id": "a21cf729-0571-4bf2-81af-284cd634991b",
+            "id": "29594d4b-3c24-49de-812f-f2448596d289",
             "links": {},
             "meta": {
-                "score": 7.179873
+                "score": 7.087729
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SmartTech Systems"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Engineer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "a36ebf0f-3443-4eb2-b858-836c79da58ae",
+            "links": {},
+            "meta": {
+                "score": 7.084137
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TurnDigital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Quality</em> Control Engineer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "d64bbd04-cef5-44c6-b3ec-91ec97f7566f",
+            "links": {},
+            "meta": {
+                "score": 7.0827074
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Surveyor Engineer ( QS )"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "c7bf81e1-bf97-4a53-8444-0868e822f513",
+            "links": {},
+            "meta": {
+                "score": 7.081464
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "PaySky"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "preferred.Knowledge of various testing types/techniques.5+ Years of experience in the testing field.<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer (Payment)"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "9c259472-ad59-4734-a5ce-a05fa9566432",
+            "links": {},
+            "meta": {
+                "score": 7.072666
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TechnoBit Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "understanding of equipment maintenance.Zero to Five years as an R D Technician, R D Chemist or Plant <em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "This position will operate under the general guidance of the Director of <em class=\"search-highlight\">Quality</em> and R D - Insulation"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Chemist"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "6dc25c3f-0b1e-4e28-824f-e0734ad45b5e",
+            "links": {},
+            "meta": {
+                "score": 7.0721
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nola Bakery"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Following up on <em class=\"search-highlight\">quality</em> of production lines and solving any technical problems as they arise.Participating",
+                            "Ensuring the application of <em class=\"search-highlight\">quality</em> standards (ISO 22000 - OSHAH) in all processes.Ensuring the application"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control Specialist"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "2f5af8c1-664e-4be2-ad45-f39ea0b80bd6",
+            "links": {},
+            "meta": {
+                "score": 7.06508
             },
             "relationships": {},
             "type": "talentSearch"
@@ -374,7 +749,7 @@
             "id": "3d84bae2-5527-4d25-9e4a-54acdef16945",
             "links": {},
             "meta": {
-                "score": 7.175069
+                "score": 7.0603056
             },
             "relationships": {},
             "type": "talentSearch"
@@ -391,7 +766,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "TechnoBit Group"
+                            "American Academy"
                         ]
                     }
                 ],
@@ -399,9 +774,9 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
                             "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">quality</em>"
+                            "<em class=\"search-highlight\">quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Control"
                         ],
                         "value": [
                             "Quality",
@@ -409,9 +784,55 @@
                         ]
                     },
                     {
-                        "name": "requirements",
+                        "name": "roles",
                         "snippets": [
-                            "understanding of equipment maintenance.Zero to Five years as an R D Technician, R D Chemist or Plant <em class=\"search-highlight\">Quality</em>"
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Officer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "f3f954de-b20e-4bbc-b0bb-8456d8df1b34",
+            "links": {},
+            "meta": {
+                "score": 7.0587845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Yodawy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control"
                         ],
                         "value": [
                             "Quality"
@@ -429,7 +850,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "This position will operate under the general guidance of the Director of <em class=\"search-highlight\">Quality</em> and R D - Insulation"
+                            "We are looking for a <em class=\"search-highlight\">Quality</em> Control Engineer with 1-3 years of experience who will be responsible for"
                         ],
                         "value": [
                             "Quality"
@@ -438,7 +859,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Chemist"
+                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer"
                         ],
                         "value": [
                             "Quality"
@@ -446,75 +867,10 @@
                     }
                 ]
             },
-            "id": "6dc25c3f-0b1e-4e28-824f-e0734ad45b5e",
+            "id": "2a77a6fa-4bb6-43fe-a73f-ab8bc2b559ae",
             "links": {},
             "meta": {
-                "score": 7.171403
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "PaySky"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "preferred.Knowledge of various testing types/techniques.5+ Years of experience in the testing field.<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer (Payment)"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "9c259472-ad59-4734-a5ce-a05fa9566432",
-            "links": {},
-            "meta": {
-                "score": 7.168846
+                "score": 7.056544
             },
             "relationships": {},
             "type": "talentSearch"
@@ -593,7 +949,340 @@
             "id": "d4f4600d-7d03-449f-9285-1c66ccf98f97",
             "links": {},
             "meta": {
-                "score": 7.1643767
+                "score": 7.0509973
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nahdet Misr Publishing Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Nahdet Misr Publishing Group is hiring Business Process & <em class=\"search-highlight\">Quality</em> Assurance - Internship for 6 monthAbout"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Business Process & <em class=\"search-highlight\">Quality</em> Assurance Intern"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "e7447e08-aa84-4032-90ae-a26d4ed1bebe",
+            "links": {},
+            "meta": {
+                "score": 7.0422187
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Bavaya"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Ensure that clients are receiving superior <em class=\"search-highlight\">quality</em> performance and that all <em class=\"search-highlight\">quality</em> guidelines are being",
+                            "calibrations to ensure accuracy.Encourage agents to always do their best.Help to manage and maintain any <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Specialist"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "775dc0f4-8c6a-408e-a069-e71029bdec0c",
+            "links": {},
+            "meta": {
+                "score": 7.0376043
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Marcyrl Pharmaceutical Industry"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "calibration of assigned equipment and devices.Coordinating with the production department to follow <em class=\"search-highlight\">Quality</em>",
+                            "feedback.Communicating with assigned department.Issuing SOPs according to guidelines in order.Following up with <em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control Specialist"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "2761afe3-07a0-4a90-99d3-11a87d5d279a",
+            "links": {},
+            "meta": {
+                "score": 7.036973
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Zeina Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job Responsibilities & DutiesComplete the <em class=\"search-highlight\">quality</em> control shift  activity.Responsible for recording inspection",
+                            "data on production lines after inspection based on production orders and work instructions in <em class=\"search-highlight\">quality</em>",
+                            "accept or reject the semi-final and final product and record the results and decision in the appropriate <em class=\"search-highlight\">quality</em>",
+                            "acceptable according to the production order.Stamping the certified product data sheet with the seal of the <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control Specialist - Sharqia"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "0f45f355-2573-4ee4-b4fa-23dcbbc06654",
+            "links": {},
+            "meta": {
+                "score": 7.0363197
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Caduceus Lane"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "The <em class=\"search-highlight\">Quality</em> Control Specialist holds primary responsibility of review and ensure the <em class=\"search-highlight\">quality</em> of content",
+                            "or assists with the editorial development, compliance of content to corporate' guidelines and global <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control Specialist - Alexandria"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "78e63c54-759d-498d-b6da-e26bcfbfa86a",
+            "links": {},
+            "meta": {
+                "score": 7.0308647
             },
             "relationships": {},
             "type": "talentSearch"
@@ -667,705 +1356,7 @@
             "id": "17800b33-c241-4f03-9413-818cadf43b08",
             "links": {},
             "meta": {
-                "score": 7.1615868
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nola Bakery"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Following up on <em class=\"search-highlight\">quality</em> of production lines and solving any technical problems as they arise.Participating",
-                            "Ensuring the application of <em class=\"search-highlight\">quality</em> standards (ISO 22000 - OSHAH) in all processes.Ensuring the application"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Specialist"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "2f5af8c1-664e-4be2-ad45-f39ea0b80bd6",
-            "links": {},
-            "meta": {
-                "score": 7.161567
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "SmartTech Systems"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "a36ebf0f-3443-4eb2-b858-836c79da58ae",
-            "links": {},
-            "meta": {
-                "score": 7.161477
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Surveyor Engineer ( QS )"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "c7bf81e1-bf97-4a53-8444-0868e822f513",
-            "links": {},
-            "meta": {
-                "score": 7.1603703
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Premier Services and Recruitment"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> controller From 2 to 5 years of experience  "
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            ", Rest ssured ,TestNg or Junit )Experience: HR & Payroll systemsDesign, develop and implement best <em class=\"search-highlight\">quality</em>",
-                            "cases and test automation scriptsWriting and executing test cases and test plans.Ensure the performance,<em class=\"search-highlight\">Quality</em>",
-                            "our products and components.Ensuring deliverable are released to specification as well as the highest <em class=\"search-highlight\">quality</em>",
-                            "standards in compliance with the organizational processes and standards.Report test execution and project <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Controller (QC)"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "8e2dc7a1-0702-4d69-bafd-7432e7171fd7",
-            "links": {},
-            "meta": {
-                "score": 7.158881
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "TurnDigital"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Quality</em> Control Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "d64bbd04-cef5-44c6-b3ec-91ec97f7566f",
-            "links": {},
-            "meta": {
-                "score": 7.1581893
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "American Academy"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Officer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "f3f954de-b20e-4bbc-b0bb-8456d8df1b34",
-            "links": {},
-            "meta": {
-                "score": 7.157834
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nahdet Misr Publishing Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Nahdet Misr Publishing Group is hiring Business Process & <em class=\"search-highlight\">Quality</em> Assurance - Internship for 6 monthAbout"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Business Process & <em class=\"search-highlight\">Quality</em> Assurance Intern"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "e7447e08-aa84-4032-90ae-a26d4ed1bebe",
-            "links": {},
-            "meta": {
-                "score": 7.157298
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Yodawy"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We are looking for a <em class=\"search-highlight\">Quality</em> Control Engineer with 1-3 years of experience who will be responsible for"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "2a77a6fa-4bb6-43fe-a73f-ab8bc2b559ae",
-            "links": {},
-            "meta": {
-                "score": 7.15485
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Marcyrl Pharmaceutical Industry"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "calibration of assigned equipment and devices.Coordinating with the production department to follow <em class=\"search-highlight\">Quality</em>",
-                            "feedback.Communicating with assigned department.Issuing SOPs according to guidelines in order.Following up with <em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Specialist"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "2761afe3-07a0-4a90-99d3-11a87d5d279a",
-            "links": {},
-            "meta": {
-                "score": 7.153779
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Bavaya"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Ensure that clients are receiving superior <em class=\"search-highlight\">quality</em> performance and that all <em class=\"search-highlight\">quality</em> guidelines are being",
-                            "calibrations to ensure accuracy.Encourage agents to always do their best.Help to manage and maintain any <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Specialist"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "775dc0f4-8c6a-408e-a069-e71029bdec0c",
-            "links": {},
-            "meta": {
-                "score": 7.153697
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Zeina Group"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Job Responsibilities & DutiesComplete the <em class=\"search-highlight\">quality</em> control shift  activity.Responsible for recording inspection",
-                            "data on production lines after inspection based on production orders and work instructions in <em class=\"search-highlight\">quality</em>",
-                            "accept or reject the semi-final and final product and record the results and decision in the appropriate <em class=\"search-highlight\">quality</em>",
-                            "acceptable according to the production order.Stamping the certified product data sheet with the seal of the <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Specialist - Sharqia"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "0f45f355-2573-4ee4-b4fa-23dcbbc06654",
-            "links": {},
-            "meta": {
-                "score": 7.150997
+                "score": 7.0250854
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1441,7 +1432,7 @@
             "id": "267a8aa7-e597-493c-a005-d9b5a3c87f2d",
             "links": {},
             "meta": {
-                "score": 7.1493692
+                "score": 6.9806457
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1458,7 +1449,149 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Caduceus Lane"
+                            "Premier Services and Recruitment"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> controller From 2 to 5 years of experience  "
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            ", Rest ssured ,TestNg or Junit )Experience: HR & Payroll systemsDesign, develop and implement best <em class=\"search-highlight\">quality</em>",
+                            "cases and test automation scriptsWriting and executing test cases and test plans.Ensure the performance,<em class=\"search-highlight\">Quality</em>",
+                            "our products and components.Ensuring deliverable are released to specification as well as the highest <em class=\"search-highlight\">quality</em>",
+                            "standards in compliance with the organizational processes and standards.Report test execution and project <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Controller (QC)"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "8e2dc7a1-0702-4d69-bafd-7432e7171fd7",
+            "links": {},
+            "meta": {
+                "score": 6.9721217
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> control engineer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Implementation of <em class=\"search-highlight\">Quality</em> Control Program, including the coordination, performance and execution of construction",
+                            "Responsible for assuring that the <em class=\"search-highlight\">quality</em> of the work meets the project’s contractual requirements, and"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control Engineer Architecture"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "53c3fa21-5dd2-4b0d-99b5-4952bc1a1333",
+            "links": {},
+            "meta": {
+                "score": 6.959336
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
                         ]
                     }
                 ],
@@ -1486,18 +1619,17 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "The <em class=\"search-highlight\">Quality</em> Control Specialist holds primary responsibility of review and ensure the <em class=\"search-highlight\">quality</em> of content",
-                            "or assists with the editorial development, compliance of content to corporate' guidelines and global <em class=\"search-highlight\">quality</em>"
+                            "process all purchase orders in accordance with company policyProvide quarterly inspection data and <em class=\"search-highlight\">quality</em>",
+                            "validation plansParticipate in all QA meetingsProvide engineers with necessary analysis toolsDetermines <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
                             "quality"
                         ]
                     },
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Specialist - Alexandria"
+                            "<em class=\"search-highlight\">Quality</em> Engineer - QC/QA"
                         ],
                         "value": [
                             "Quality"
@@ -1505,10 +1637,139 @@
                     }
                 ]
             },
-            "id": "78e63c54-759d-498d-b6da-e26bcfbfa86a",
+            "id": "addb4f95-fb2d-48c0-bf75-06990c8de262",
             "links": {},
             "meta": {
-                "score": 7.148606
+                "score": 6.9580545
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "APEX Pharma"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Documentation Officer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "53f867a2-6956-43f9-9b34-3bd290ea4e09",
+            "links": {},
+            "meta": {
+                "score": 6.950415
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Hitop"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "attention to detail to identify defects including Functional/ Non Functional defects.Passionate about <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are hiring Software <em class=\"search-highlight\">Quality</em> Engineer with the following Job Responsibilities and Qualifications:Designing"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Software <em class=\"search-highlight\">Quality</em> Engineer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "8425f5f1-10ca-4dfa-a612-f64290e86191",
+            "links": {},
+            "meta": {
+                "score": 6.9499764
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1584,7 +1845,7 @@
             "id": "53a9d709-93b3-4b89-ab92-df7a43543b92",
             "links": {},
             "meta": {
-                "score": 7.135839
+                "score": 6.9491253
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1601,7 +1862,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Hitop"
+                            "LEONI Wiring System Egypt S.A.E"
                         ]
                     }
                 ],
@@ -1609,80 +1870,9 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "attention to detail to identify defects including Functional/ Non Functional defects.Passionate about <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We are hiring Software <em class=\"search-highlight\">Quality</em> Engineer with the following Job Responsibilities and Qualifications:Designing"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Software <em class=\"search-highlight\">Quality</em> Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "8425f5f1-10ca-4dfa-a612-f64290e86191",
-            "links": {},
-            "meta": {
-                "score": 7.130468
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>",
                             "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> control engineer"
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
                         ],
                         "value": [
                             "Quality"
@@ -1698,20 +1888,9 @@
                         ]
                     },
                     {
-                        "name": "description",
-                        "snippets": [
-                            "Implementation of <em class=\"search-highlight\">Quality</em> Control Program, including the coordination, performance and execution of construction",
-                            "Responsible for assuring that the <em class=\"search-highlight\">quality</em> of the work meets the project’s contractual requirements, and"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Engineer Architecture"
+                            "<em class=\"search-highlight\">Quality</em> Control Engineer"
                         ],
                         "value": [
                             "Quality"
@@ -1719,10 +1898,10 @@
                     }
                 ]
             },
-            "id": "53c3fa21-5dd2-4b0d-99b5-4952bc1a1333",
+            "id": "f21e7a84-8583-417d-a5ab-e80541290afe",
             "links": {},
             "meta": {
-                "score": 7.126776
+                "score": 6.93515
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1739,73 +1918,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "process all purchase orders in accordance with company policyProvide quarterly inspection data and <em class=\"search-highlight\">quality</em>",
-                            "validation plansParticipate in all QA meetingsProvide engineers with necessary analysis toolsDetermines <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Engineer - QC/QA"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "addb4f95-fb2d-48c0-bf75-06990c8de262",
-            "links": {},
-            "meta": {
-                "score": 7.126041
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "APEX Pharma"
+                            "IdealRatings"
                         ]
                     }
                 ],
@@ -1814,8 +1927,72 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Assist in ensuring the <em class=\"search-highlight\">quality</em> of large dataset.Run analysis to identify the weaknesses of the tested"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Analyst"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "31a756e8-a6af-4317-a946-9f9788017bce",
+            "links": {},
+            "meta": {
+                "score": 6.928682
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Fawry Banking & Payment Technology Services"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">quality</em>",
                             "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">quality</em>"
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
                         ],
                         "value": [
                             "Quality",
@@ -1832,9 +2009,20 @@
                         ]
                     },
                     {
+                        "name": "description",
+                        "snippets": [
+                            "We’re seeking to hire an experienced <em class=\"search-highlight\">quality</em> assurance specialist/analyst to do Interpret, build upon",
+                            ", and comply with company <em class=\"search-highlight\">quality</em> assurance standards, processing through records and tracking systems",
+                            "communicate results with the concerned management.Assists in developing, creating, and implementing various <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Documentation Officer"
+                            "<em class=\"search-highlight\">Quality</em> Assurance Analyst"
                         ],
                         "value": [
                             "Quality"
@@ -1842,10 +2030,147 @@
                     }
                 ]
             },
-            "id": "53f867a2-6956-43f9-9b34-3bd290ea4e09",
+            "id": "020b5262-aa11-4e3f-be70-2d071eb46592",
             "links": {},
             "meta": {
-                "score": 7.1222124
+                "score": 6.925366
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Akhnaton For construction"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            " Assure that the <em class=\"search-highlight\">quality</em> plan for the project is implemented and submit the required <em class=\"search-highlight\">quality</em> documentationInspect",
+                            "the incoming materials to the site to ensure <em class=\"search-highlight\">quality</em> and conformity with approved material submittals",
+                            "issue NCR in case of any non-conformity cases.Carry out daily inspections on-site to ensure that the <em class=\"search-highlight\">quality</em>",
+                            "on-site in participation with the consultant and submit the results pullout test, water test…etc.Attend <em class=\"search-highlight\">quality</em>",
+                            "meetings on-site for reviewing <em class=\"search-highlight\">quality</em> issues with the consultant, following up the approved requests"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control Engineer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "8e3cc5a3-e5e1-4c1c-9e59-6ed96f6f89d3",
+            "links": {},
+            "meta": {
+                "score": 6.9243436
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Happy Joe's Pizza & Ice Cream - Middle East"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                        ],
+                        "value": [
+                            "Quality",
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Translate or develop <em class=\"search-highlight\">quality</em> control standards for food, cleanliness, hygiene, customer service, etc.Conduct",
+                            "periodic visits for store to verify adherence to standardsUses <em class=\"search-highlight\">quality</em> monitoring data management system",
+                            "Prepares and analyzes <em class=\"search-highlight\">quality</em> reports. "
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Coordinator"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "6ce78984-dd48-466f-9175-8c6c05f4b824",
+            "links": {},
+            "meta": {
+                "score": 6.919888
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1924,195 +2249,7 @@
             "id": "a1541ee1-89ee-47e2-ad7c-10e14b8b821f",
             "links": {},
             "meta": {
-                "score": 7.121791
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "LEONI Wiring System Egypt S.A.E"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "f21e7a84-8583-417d-a5ab-e80541290afe",
-            "links": {},
-            "meta": {
-                "score": 7.1216135
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "IdealRatings"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Assist in ensuring the <em class=\"search-highlight\">quality</em> of large dataset.Run analysis to identify the weaknesses of the tested"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Analyst"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "31a756e8-a6af-4317-a946-9f9788017bce",
-            "links": {},
-            "meta": {
-                "score": 7.1164947
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Fawry Banking & Payment Technology Services"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We’re seeking to hire an experienced <em class=\"search-highlight\">quality</em> assurance specialist/analyst to do Interpret, build upon",
-                            ", and comply with company <em class=\"search-highlight\">quality</em> assurance standards, processing through records and tracking systems",
-                            "communicate results with the concerned management.Assists in developing, creating, and implementing various <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Analyst"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "020b5262-aa11-4e3f-be70-2d071eb46592",
-            "links": {},
-            "meta": {
-                "score": 7.111907
+                "score": 6.916368
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2191,7 +2328,7 @@
             "id": "5f89d977-796c-4b72-8d82-b249e8275ba0",
             "links": {},
             "meta": {
-                "score": 7.111118
+                "score": 6.9071565
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2208,7 +2345,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Akhnaton For construction"
+                            "Giza power"
                         ]
                     }
                 ],
@@ -2216,76 +2353,7 @@
                     {
                         "name": "skills",
                         "snippets": [
-                            "<em class=\"search-highlight\">quality</em>",
                             "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            " Assure that the <em class=\"search-highlight\">quality</em> plan for the project is implemented and submit the required <em class=\"search-highlight\">quality</em> documentationInspect",
-                            "the incoming materials to the site to ensure <em class=\"search-highlight\">quality</em> and conformity with approved material submittals",
-                            "issue NCR in case of any non-conformity cases.Carry out daily inspections on-site to ensure that the <em class=\"search-highlight\">quality</em>",
-                            "on-site in participation with the consultant and submit the results pullout test, water test…etc.Attend <em class=\"search-highlight\">quality</em>",
-                            "meetings on-site for reviewing <em class=\"search-highlight\">quality</em> issues with the consultant, following up the approved requests"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "8e3cc5a3-e5e1-4c1c-9e59-6ed96f6f89d3",
-            "links": {},
-            "meta": {
-                "score": 7.1111016
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Happy Joe's Pizza & Ice Cream - Middle East"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
                             "<em class=\"search-highlight\">quality</em>",
                             "<em class=\"search-highlight\">Quality</em> Assurance"
                         ],
@@ -2306,9 +2374,11 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "Translate or develop <em class=\"search-highlight\">quality</em> control standards for food, cleanliness, hygiene, customer service, etc.Conduct",
-                            "periodic visits for store to verify adherence to standardsUses <em class=\"search-highlight\">quality</em> monitoring data management system",
-                            "Prepares and analyzes <em class=\"search-highlight\">quality</em> reports. "
+                            "Oversee <em class=\"search-highlight\">quality</em> control procedures on fuels projects, maintenance activities and service orders, including",
+                            "Project Manager(s), Maintenance Managers and Service Order Managers to create current and relevant <em class=\"search-highlight\">quality</em>",
+                            "and communicate effectively with the Project Managers and Superintendents and Site Managers regarding <em class=\"search-highlight\">quality</em>",
+                            "claims, and determining an acceptable resolution.Maintain strict adherence to the budgetary guidelines, <em class=\"search-highlight\">quality</em>",
+                            "and follow the USACE 3 phase inspection process.Perform field inspections to ensure compliance and <em class=\"search-highlight\">quality</em>.Ensure"
                         ],
                         "value": [
                             "quality"
@@ -2317,7 +2387,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Coordinator"
+                            "Civil <em class=\"search-highlight\">Quality</em> Control Manager"
                         ],
                         "value": [
                             "Quality"
@@ -2325,10 +2395,64 @@
                     }
                 ]
             },
-            "id": "6ce78984-dd48-466f-9175-8c6c05f4b824",
+            "id": "dc417111-dd38-437b-8349-fde51d94ee22",
             "links": {},
             "meta": {
-                "score": 7.1108146
+                "score": 6.897954
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "WEmng"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Tester"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "fc9cd5ef-73d5-41ed-99d0-de7079947530",
+            "links": {},
+            "meta": {
+                "score": 6.8838415
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2405,7 +2529,7 @@
             "id": "fa475499-6e32-4622-aaf8-e10622e6786c",
             "links": {},
             "meta": {
-                "score": 7.1014223
+                "score": 6.8766494
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2422,7 +2546,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Giza power"
+                            "Dexef"
                         ]
                     }
                 ],
@@ -2431,132 +2555,7 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">quality</em>",
                             "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality",
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Oversee <em class=\"search-highlight\">quality</em> control procedures on fuels projects, maintenance activities and service orders, including",
-                            "Project Manager(s), Maintenance Managers and Service Order Managers to create current and relevant <em class=\"search-highlight\">quality</em>",
-                            "and communicate effectively with the Project Managers and Superintendents and Site Managers regarding <em class=\"search-highlight\">quality</em>",
-                            "claims, and determining an acceptable resolution.Maintain strict adherence to the budgetary guidelines, <em class=\"search-highlight\">quality</em>",
-                            "and follow the USACE 3 phase inspection process.Perform field inspections to ensure compliance and <em class=\"search-highlight\">quality</em>.Ensure"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Civil <em class=\"search-highlight\">Quality</em> Control Manager"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "dc417111-dd38-437b-8349-fde51d94ee22",
-            "links": {},
-            "meta": {
-                "score": 7.098388
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "WEmng"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Tester"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "fc9cd5ef-73d5-41ed-99d0-de7079947530",
-            "links": {},
-            "meta": {
-                "score": 7.092375
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Alicoegypt"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em>"
                         ],
                         "value": [
                             "Quality"
@@ -2574,7 +2573,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "according to project requirements, installation and fabrication sequence .Prepare and implement internal <em class=\"search-highlight\">quality</em>"
+                            "teams.Conduct post-release/ post-implementation testing.Work with cross-functional teams to ensure <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
                             "quality"
@@ -2583,7 +2582,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control Engineer"
+                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer"
                         ],
                         "value": [
                             "Quality"
@@ -2591,10 +2590,10 @@
                     }
                 ]
             },
-            "id": "986fa275-59f0-4b24-b822-93acb196cda1",
+            "id": "3c624e9b-0305-4da0-9530-919fe4f54b6c",
             "links": {},
             "meta": {
-                "score": 7.0816674
+                "score": 6.8592772
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2659,7 +2658,7 @@
             "id": "01fe10f1-c2a7-4866-87c4-5be7e23e8904",
             "links": {},
             "meta": {
-                "score": 7.080604
+                "score": 6.857799
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2676,82 +2675,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Titan Cement Egypt "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc in Science or Material <em class=\"search-highlight\">Quality</em> Engineering or Civil Engineering.3-7 years of experience in ready-mix"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "cost.Selecting the best raw material sources and make sure of all deliveries according to the selected <em class=\"search-highlight\">quality</em>.Planning",
-                            "laboratory facilities practices to fulfill test requirements train laboratory technicians to meet project <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Quality</em> Control Engineer - Ready-Mix"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "c3e7bb51-b907-4803-8afe-6e281e85e5f3",
-            "links": {},
-            "meta": {
-                "score": 7.079618
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Dexef"
+                            "Alicoegypt"
                         ]
                     }
                 ],
@@ -2760,7 +2684,8 @@
                         "name": "skills",
                         "snippets": [
                             "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em>"
                         ],
                         "value": [
                             "Quality"
@@ -2778,7 +2703,7 @@
                     {
                         "name": "description",
                         "snippets": [
-                            "teams.Conduct post-release/ post-implementation testing.Work with cross-functional teams to ensure <em class=\"search-highlight\">quality</em>"
+                            "according to project requirements, installation and fabrication sequence .Prepare and implement internal <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
                             "quality"
@@ -2787,7 +2712,7 @@
                     {
                         "name": "job_title",
                         "snippets": [
-                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer"
+                            "<em class=\"search-highlight\">Quality</em> Control Engineer"
                         ],
                         "value": [
                             "Quality"
@@ -2795,10 +2720,10 @@
                     }
                 ]
             },
-            "id": "3c624e9b-0305-4da0-9530-919fe4f54b6c",
+            "id": "986fa275-59f0-4b24-b822-93acb196cda1",
             "links": {},
             "meta": {
-                "score": 7.0790596
+                "score": 6.8564916
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2874,7 +2799,82 @@
             "id": "4291fb65-c552-467f-a3bb-7dc6d2132239",
             "links": {},
             "meta": {
-                "score": 7.0768557
+                "score": 6.85099
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Titan Cement Egypt "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc in Science or Material <em class=\"search-highlight\">Quality</em> Engineering or Civil Engineering.3-7 years of experience in ready-mix"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "cost.Selecting the best raw material sources and make sure of all deliveries according to the selected <em class=\"search-highlight\">quality</em>.Planning",
+                            "laboratory facilities practices to fulfill test requirements train laboratory technicians to meet project <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Quality</em> Control Engineer - Ready-Mix"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "c3e7bb51-b907-4803-8afe-6e281e85e5f3",
+            "links": {},
+            "meta": {
+                "score": 6.837276
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2930,7 +2930,7 @@
             "id": "ba3bef22-38a2-4c72-a10b-2bcc020e888c",
             "links": {},
             "meta": {
-                "score": 7.0593953
+                "score": 6.8218083
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2996,7 +2996,7 @@
             "id": "b2675241-6b4d-43f2-ae5b-6a284843d215",
             "links": {},
             "meta": {
-                "score": 7.054463
+                "score": 6.812661
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3077,7 +3077,7 @@
             "id": "f91646ae-fa3b-4a39-ab63-96ffea9585d7",
             "links": {},
             "meta": {
-                "score": 7.0519443
+                "score": 6.799193
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3156,7 +3156,7 @@
             "id": "88c9f076-b968-4835-b57e-bf98e867d689",
             "links": {},
             "meta": {
-                "score": 7.050369
+                "score": 6.7913313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3212,7 +3212,7 @@
             "id": "57d58d55-2a24-48fd-8ebb-766eee5c53d5",
             "links": {},
             "meta": {
-                "score": 7.0319996
+                "score": 6.7734575
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3287,7 +3287,7 @@
             "id": "c008865d-3905-47ec-b90d-ad5637b23f9a",
             "links": {},
             "meta": {
-                "score": 7.0271297
+                "score": 6.75591
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3351,7 +3351,7 @@
             "id": "a5e3b4e5-c9a4-42a4-b58a-7e0984f38eb2",
             "links": {},
             "meta": {
-                "score": 7.0133786
+                "score": 6.742819
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3417,7 +3417,7 @@
             "id": "a56f9679-00a9-43f6-95c1-132b6ca27e5d",
             "links": {},
             "meta": {
-                "score": 6.981478
+                "score": 6.689254
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3472,7 +3472,7 @@
             "id": "8496c585-ccd7-40a2-9da9-800cfab881bd",
             "links": {},
             "meta": {
-                "score": 6.980159
+                "score": 6.689131
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3527,7 +3527,7 @@
             "id": "f5448da5-dd4a-487d-8ee8-2d755e6e210c",
             "links": {},
             "meta": {
-                "score": 6.977152
+                "score": 6.6853848
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3602,7 +3602,7 @@
             "id": "753acf64-d615-43c4-a893-4f9fcea2c51c",
             "links": {},
             "meta": {
-                "score": 6.960343
+                "score": 6.653264
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3681,7 +3681,7 @@
             "id": "da1a13fb-5e2f-417b-912b-7e6dfef8e00a",
             "links": {},
             "meta": {
-                "score": 6.935289
+                "score": 6.6101956
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3747,7 +3747,7 @@
             "id": "5d18e62e-59f1-4445-b6b3-b88c88f93b31",
             "links": {},
             "meta": {
-                "score": 6.919068
+                "score": 6.597416
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3802,7 +3802,7 @@
             "id": "832e7b38-0f76-4b88-a595-f6e8c9b51821",
             "links": {},
             "meta": {
-                "score": 6.913971
+                "score": 6.5899014
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3871,7 +3871,7 @@
             "id": "b8627c0d-7d3a-49fe-a049-d8ef9523ab87",
             "links": {},
             "meta": {
-                "score": 6.912761
+                "score": 6.5879445
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3949,7 +3949,7 @@
             "id": "e11fb21b-ff31-424f-9e43-5017effd6b1f",
             "links": {},
             "meta": {
-                "score": 6.9102693
+                "score": 6.5701437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4014,7 +4014,72 @@
             "id": "5342e174-2a4b-4c17-a478-4bfe0b05d397",
             "links": {},
             "meta": {
-                "score": 6.8944216
+                "score": 6.562456
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Softxpert Incorporation "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "to products and projects.Ensuring deliverables are released to specification as well as the highest <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "6f3a8a29-bb89-4eb1-937b-6f485aa0e5b7",
+            "links": {},
+            "meta": {
+                "score": 6.551402
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4092,72 +4157,7 @@
             "id": "0c8a57cb-eae0-4620-94ff-df03059302f6",
             "links": {},
             "meta": {
-                "score": 6.891103
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Softxpert Incorporation "
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "to products and projects.Ensuring deliverables are released to specification as well as the highest <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Software <em class=\"search-highlight\">Quality</em> Control Engineer"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "6f3a8a29-bb89-4eb1-937b-6f485aa0e5b7",
-            "links": {},
-            "meta": {
-                "score": 6.8886228
+                "score": 6.549499
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4225,7 +4225,7 @@
             "id": "17d67387-632a-4d1f-9f2f-1f163e977e3a",
             "links": {},
             "meta": {
-                "score": 6.8822455
+                "score": 6.5432324
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4271,7 +4271,7 @@
             "id": "c0b76afb-7b9d-486b-8b93-9a4a847ff405",
             "links": {},
             "meta": {
-                "score": 6.8760886
+                "score": 6.5396886
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4349,7 +4349,7 @@
             "id": "8ea1eb44-13f5-40e9-a7cd-ce75fa9f4d46",
             "links": {},
             "meta": {
-                "score": 6.8581386
+                "score": 6.502748
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4415,7 +4415,7 @@
             "id": "676d1d49-2ecf-48b3-80e7-543ef725d35a",
             "links": {},
             "meta": {
-                "score": 6.840478
+                "score": 6.4844546
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4478,7 +4478,7 @@
             "id": "036687a8-ec49-4149-b3e0-28c2a6902748",
             "links": {},
             "meta": {
-                "score": 6.8062897
+                "score": 6.436765
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4556,7 +4556,7 @@
             "id": "1b57825c-9f9c-4e21-b393-ceee55433fe5",
             "links": {},
             "meta": {
-                "score": 6.759595
+                "score": 6.3577685
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4638,7 +4638,7 @@
             "id": "8e92b97b-4d33-4f7d-9e4d-d3cc5e1b1b85",
             "links": {},
             "meta": {
-                "score": 6.747156
+                "score": 6.3486166
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4714,7 +4714,7 @@
             "id": "a2b24593-e16a-40a7-b3d9-06fe89594f64",
             "links": {},
             "meta": {
-                "score": 6.741941
+                "score": 6.341121
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4793,7 +4793,7 @@
             "id": "f371a76d-51e0-41af-be9d-76f91ae221e9",
             "links": {},
             "meta": {
-                "score": 6.7378407
+                "score": 6.3396053
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4859,7 +4859,7 @@
             "id": "de82f7f4-34d2-4f09-b709-fed3f909a879",
             "links": {},
             "meta": {
-                "score": 6.722074
+                "score": 6.324168
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4923,7 +4923,7 @@
             "id": "afa6eb32-ebcb-4be7-96fb-f3d38a1e60d0",
             "links": {},
             "meta": {
-                "score": 6.7219133
+                "score": 6.321757
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4997,7 +4997,7 @@
             "id": "16c4d948-1019-4855-a197-5888abb7aea0",
             "links": {},
             "meta": {
-                "score": 6.6891923
+                "score": 6.276608
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5060,7 +5060,7 @@
             "id": "defe1f43-4264-4353-a980-19150e3ea05e",
             "links": {},
             "meta": {
-                "score": 6.68137
+                "score": 6.2667212
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5124,7 +5124,7 @@
             "id": "6324ffa6-0049-4183-a245-d7ebea323038",
             "links": {},
             "meta": {
-                "score": 6.6721525
+                "score": 6.245854
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5199,7 +5199,7 @@
             "id": "3fab2b74-a430-4e57-931f-b47976c9acb2",
             "links": {},
             "meta": {
-                "score": 6.659267
+                "score": 6.2354846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5279,7 +5279,7 @@
             "id": "c3d336c9-502a-4a2f-bb55-5c1ae5f33ba0",
             "links": {},
             "meta": {
-                "score": 6.6524377
+                "score": 6.2283125
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5358,7 +5358,7 @@
             "id": "d772a1c9-10ef-4f2a-9281-4ace9ccac8fb",
             "links": {},
             "meta": {
-                "score": 6.649648
+                "score": 6.2263703
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5432,7 +5432,7 @@
             "id": "39817e59-e3b4-4990-9427-676efa3cd322",
             "links": {},
             "meta": {
-                "score": 6.643485
+                "score": 6.2157993
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5497,7 +5497,7 @@
             "id": "8d827a40-b658-4202-8691-471f7ae638f8",
             "links": {},
             "meta": {
-                "score": 6.6390886
+                "score": 6.2150736
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5577,7 +5577,7 @@
             "id": "a0b95111-afcd-4c9e-b8f0-972ec599e9ad",
             "links": {},
             "meta": {
-                "score": 6.588177
+                "score": 6.1460977
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5659,81 +5659,7 @@
             "id": "be7743e6-9ad6-4d85-a333-cc819dd60771",
             "links": {},
             "meta": {
-                "score": 6.568703
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Control",
-                            "<em class=\"search-highlight\">Quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Assurance"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "dentistry or pharmacyExperience in hospitalsMust be pharmacy or medicine or dentistHave a diploma in <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Participating in the development of the <em class=\"search-highlight\">quality</em> department plan \nParticipate in the assessment of the"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Quality</em> Specialist"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "59e55da3-dc02-4d7f-a2ac-488d5fa78fac",
-            "links": {},
-            "meta": {
-                "score": 6.564638
+                "score": 6.117658
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5810,7 +5736,81 @@
             "id": "71036ef3-20ae-4bb6-b966-0cda78ef7eb7",
             "links": {},
             "meta": {
-                "score": 6.5642114
+                "score": 6.114602
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Control",
+                            "<em class=\"search-highlight\">Quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Assurance"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "dentistry or pharmacyExperience in hospitalsMust be pharmacy or medicine or dentistHave a diploma in <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Participating in the development of the <em class=\"search-highlight\">quality</em> department plan \nParticipate in the assessment of the"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Quality</em> Specialist"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "59e55da3-dc02-4d7f-a2ac-488d5fa78fac",
+            "links": {},
+            "meta": {
+                "score": 6.1117964
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5885,7 +5885,7 @@
             "id": "d8711614-2b98-4bdf-bb8a-bc23945f590d",
             "links": {},
             "meta": {
-                "score": 6.552502
+                "score": 6.097673
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5963,7 +5963,7 @@
             "id": "c5231c13-5e07-414b-8ba6-b83881b97636",
             "links": {},
             "meta": {
-                "score": 6.54374
+                "score": 6.0892706
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6028,7 +6028,7 @@
             "id": "6fde5989-08cb-46a0-9cc5-6277584824d1",
             "links": {},
             "meta": {
-                "score": 6.5301175
+                "score": 6.0783806
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6083,7 +6083,7 @@
             "id": "a4a3ecd0-9b9e-402e-ae5d-634460e66e2a",
             "links": {},
             "meta": {
-                "score": 6.5296874
+                "score": 6.0775776
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6150,7 +6150,7 @@
             "id": "b01980f5-97ac-4933-903a-daf53710b8f5",
             "links": {},
             "meta": {
-                "score": 6.5271735
+                "score": 6.074939
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6218,7 +6218,7 @@
             "id": "84c836ca-0aff-4fd7-951f-6ea584f76458",
             "links": {},
             "meta": {
-                "score": 6.524097
+                "score": 6.071441
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6294,7 +6294,7 @@
             "id": "76df39ac-20a0-4701-9c14-f91322e95c76",
             "links": {},
             "meta": {
-                "score": 6.4754815
+                "score": 6.000964
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6377,7 +6377,7 @@
             "id": "87c48819-f5d6-4502-8226-40115994a139",
             "links": {},
             "meta": {
-                "score": 6.398261
+                "score": 5.9150443
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6455,7 +6455,73 @@
             "id": "77cb25bc-c0ab-4fc9-a196-0f3cf7451da2",
             "links": {},
             "meta": {
-                "score": 6.3847795
+                "score": 5.8956175
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nile Projects & Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>",
+                            "<em class=\"search-highlight\">Quality</em> Assurance",
+                            "<em class=\"search-highlight\">Quality</em> Control"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em>"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Monitor inbound & Outbound calls and evaluate agents performance concerning the <em class=\"search-highlight\">quality</em> of service offered",
+                            "performance.Give recommendations for process improvements based on the customer experience and feedback.Design <em class=\"search-highlight\">quality</em>"
+                        ],
+                        "value": [
+                            "quality"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Quality</em> Assurance Specialist (Call Center)"
+                        ],
+                        "value": [
+                            "Quality"
+                        ]
+                    }
+                ]
+            },
+            "id": "8d652034-bc9e-4ba7-88bf-b809b9963cb1",
+            "links": {},
+            "meta": {
+                "score": 5.8928294
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6533,73 +6599,7 @@
             "id": "450b78ed-62b7-4cac-b8d4-61a75937db44",
             "links": {},
             "meta": {
-                "score": 6.3814044
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nile Projects & Trading"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>",
-                            "<em class=\"search-highlight\">Quality</em> Assurance",
-                            "<em class=\"search-highlight\">Quality</em> Control"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em>"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Monitor inbound & Outbound calls and evaluate agents performance concerning the <em class=\"search-highlight\">quality</em> of service offered",
-                            "performance.Give recommendations for process improvements based on the customer experience and feedback.Design <em class=\"search-highlight\">quality</em>"
-                        ],
-                        "value": [
-                            "quality"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Quality</em> Assurance Specialist (Call Center)"
-                        ],
-                        "value": [
-                            "Quality"
-                        ]
-                    }
-                ]
-            },
-            "id": "8d652034-bc9e-4ba7-88bf-b809b9963cb1",
-            "links": {},
-            "meta": {
-                "score": 6.378673
+                "score": 5.892399
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6656,7 +6656,7 @@
             "id": "9eebb9ca-f956-461c-b3e6-6a489fc3a6fd",
             "links": {},
             "meta": {
-                "score": 6.374973
+                "score": 5.888701
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6720,7 +6720,7 @@
             "id": "e2dcda30-34bc-4f54-9758-28cb64892860",
             "links": {},
             "meta": {
-                "score": 6.339348
+                "score": 5.8422294
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6788,7 +6788,7 @@
             "id": "ec75f818-a041-4682-a6da-ed406ffe790d",
             "links": {},
             "meta": {
-                "score": 6.3165693
+                "score": 5.819534
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6852,7 +6852,7 @@
             "id": "ac902ec0-4075-4682-adc4-35fd2fc6e8e7",
             "links": {},
             "meta": {
-                "score": 6.3161516
+                "score": 5.818712
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6906,7 +6906,7 @@
             "id": "56001f72-2b3a-4665-ad62-7f69dd0ab082",
             "links": {},
             "meta": {
-                "score": 6.3082294
+                "score": 5.810197
             },
             "relationships": {},
             "type": "talentSearch"

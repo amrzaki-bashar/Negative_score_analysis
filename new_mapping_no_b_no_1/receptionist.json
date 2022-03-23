@@ -1,0 +1,4423 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> Requirements:Associate’s or bachelor’s degree in a related field.Prior experience as a <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> Job Description TemplateWe are looking for a <em class=\"search-highlight\">receptionist</em> to be responsible for greeting",
+                            "Prior experience as a <em class=\"search-highlight\">receptionist</em> is also helpful.<em class=\"search-highlight\">Receptionist</em> Responsibilities:Greet clients and visitors"
+                        ],
+                        "value": [
+                            "receptionist",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "36710cf5-afda-4f70-9cb7-8447a5123ed0",
+            "links": {},
+            "meta": {
+                "score": 15.094785
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Lagalerie Furniture"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Arabic & English – spoken, written and reading.Experience: Preferable 1 year of experience in a similar <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "As a Showroom <em class=\"search-highlight\">Receptionist</em>, you will be doing the following activities:Meet and greet customers at the"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Showroom <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0df372ae-7105-4b66-b4d4-6911f9f126ac",
+            "links": {},
+            "meta": {
+                "score": 15.090861
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MAM Electric"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "OnlyPresentableProfessional attitude and appearanceExcellent organizational skillsBachelor DegreeProven work experience as a <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "b0c28eb9-2c52-45fd-8ff5-6eac0f151587",
+            "links": {},
+            "meta": {
+                "score": 14.869555
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RMS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> needed with no required years of experience.                                                                                                                            "
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "a942beb2-17a8-4ff8-be70-2579eecca411",
+            "links": {},
+            "meta": {
+                "score": 14.841563
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECH "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Prior experience as a <em class=\"search-highlight\">receptionist</em> is also helpful.Main Responsibilities & DutiesGreet clients and visitors"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "949ac5c7-36b9-4ef0-afcb-835db08162ac",
+            "links": {},
+            "meta": {
+                "score": 14.84103
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ARTOC Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">receptionist</em>, front office representative or a similar role.Presentable.Solid"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are seeking an enthusiastic, reliable, and highly organized <em class=\"search-highlight\">Receptionist</em> to help manage the day-to-day",
+                            "running of our office.As a <em class=\"search-highlight\">receptionist</em>, you will be the face of our office and the first person to"
+                        ],
+                        "value": [
+                            "receptionist",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "35776932-5aec-4d50-9c76-7f09000f1c24",
+            "links": {},
+            "meta": {
+                "score": 14.837484
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree, additional certification in Office Management is a plusProven work experience as a <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a <em class=\"search-highlight\">Receptionist</em> to manage our front desk on a daily basis and to perform a variety",
+                            "accommodations, and prepare vouchersKeep updated records of office expenses and costsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "4735e8c3-9101-43ea-9c88-5afe3f81bc81",
+            "links": {},
+            "meta": {
+                "score": 14.787131
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DUC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "edc17ca0-4770-402d-8fdb-88e80e9782a2",
+            "links": {},
+            "meta": {
+                "score": 14.615931
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MWG"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>-Beauty clinics -Mansoura"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "271f85de-2e59-4f89-837a-40f20426d23e",
+            "links": {},
+            "meta": {
+                "score": 14.614833
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "To be"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> position Daily except Fridays From 10 am to 5 pm Male or femaleThe salary may increase by"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "95c954f9-7c5f-474a-94e4-bc0d37509fe5",
+            "links": {},
+            "meta": {
+                "score": 14.509884
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Jebal Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "48c3a56e-a7f5-4e61-b26e-122370d8dadb",
+            "links": {},
+            "meta": {
+                "score": 14.425109
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sparks preschool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Talented <em class=\"search-highlight\">Receptionist</em>?",
+                            "Sparks Preschool in New Cairo is searching for a friendly <em class=\"search-highlight\">receptionist</em> to join their dynamic team. "
+                        ],
+                        "value": [
+                            "receptionist",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "76289fa0-70a5-4725-bc57-f7b50f1780b3",
+            "links": {},
+            "meta": {
+                "score": 14.408781
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Move For Management Services"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "accommodations, and prepare vouchersKeep updated records of office expenses and costsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "af4af78e-bdb9-42aa-86f0-ac55a7ee01ec",
+            "links": {},
+            "meta": {
+                "score": 14.303286
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            " AL-FIKRY HOLDING"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Perform other clerical <em class=\"search-highlight\">receptionist</em> duties such as filing, photocopying, collating, faxing, etc\nDevelop"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Front Desk Admin"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0b2e2504-ab1c-4ad7-8e5d-af4a3d3845fa",
+            "links": {},
+            "meta": {
+                "score": 14.269557
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "INTECH"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "13e11aed-d1fc-492f-a31c-2e731eee54a0",
+            "links": {},
+            "meta": {
+                "score": 14.191764
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "f45 Training"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Client Services"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "23be5071-6df2-48c1-b7f1-0bed490bcd4b",
+            "links": {},
+            "meta": {
+                "score": 14.162179
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Middle East Dental Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar role.Proficiency in"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> and clinic manager"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "f769e4e0-2e82-4d65-ab12-bc2b4e6eb25a",
+            "links": {},
+            "meta": {
+                "score": 14.1551485
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "NATCO Mercedes-Benz"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "947926bd-439a-4e60-a0fa-fbf7518f4979",
+            "links": {},
+            "meta": {
+                "score": 14.129924
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Customer Service Representative"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0bc57f67-99e1-42b4-8546-9cae0ab66c80",
+            "links": {},
+            "meta": {
+                "score": 14.107859
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "New Event"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> ( Real Estate)"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "e77004e5-a9e8-4e58-9233-41ef89ad9d2b",
+            "links": {},
+            "meta": {
+                "score": 14.105028
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Administrative Assistant / <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "84b61fb2-0088-4c5b-801f-3f09e58ec3d3",
+            "links": {},
+            "meta": {
+                "score": 14.085807
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MWG"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Desk <em class=\"search-highlight\">Receptionist</em> - Beauty Clinics (New Cairo Only )"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "3139dda4-3047-46bc-a60e-2ae60efc92e8",
+            "links": {},
+            "meta": {
+                "score": 14.076398
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Tibaglobe"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "3dcc6260-afd9-4e7a-800a-4af66f4a4cc4",
+            "links": {},
+            "meta": {
+                "score": 14.045389
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "wael farid interiors"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar roleProficiency in Microsoft"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a <em class=\"search-highlight\">Receptionist</em> to manage our front desk on a daily basis and to perform a variety",
+                            "As a <em class=\"search-highlight\">Receptionist</em>, you will be the first point of contact for our company.",
+                            "Our <em class=\"search-highlight\">Receptionist’s</em> duties include offering administrative support across the organization. "
+                        ],
+                        "value": [
+                            "Receptionist’s",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "8741d4d6-90dc-42f6-b599-5d4d3748ead7",
+            "links": {},
+            "meta": {
+                "score": 14.041357
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "WATAD Capital"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Office Admin & <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "208f1a15-591b-4576-a169-a3aa57f65940",
+            "links": {},
+            "meta": {
+                "score": 14.03989
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SSC Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Any relevant bachelor’s degree must be a graduate.Proven work experience as a <em class=\"search-highlight\">Receptionist</em>,  Customer"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "cce53d6c-e222-4f0f-ad78-ecf565e028cd",
+            "links": {},
+            "meta": {
+                "score": 14.029861
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ZO Skin Health"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "6c14fdc3-0ae9-4a5f-938b-52db014cc182",
+            "links": {},
+            "meta": {
+                "score": 14.013324
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Capital Hotel"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a <em class=\"search-highlight\">receptionist</em> to join our team at our hotel located in Downtown Cairo.- You will"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Desk <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "d2f2d3a2-bf67-40a8-bd6f-48049072a29f",
+            "links": {},
+            "meta": {
+                "score": 14.011947
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Telecom Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "dc9193f3-620b-453e-8ebe-cf43fda64d66",
+            "links": {},
+            "meta": {
+                "score": 14.00458
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Heliopower"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Office Admin / <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "b09ddbca-9304-474f-9ab1-417262037ea5",
+            "links": {},
+            "meta": {
+                "score": 13.998691
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Concrete For Real Estate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Admin Assistant"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "8e0c88f7-46d0-404b-9f40-1e2294bb365c",
+            "links": {},
+            "meta": {
+                "score": 13.978699
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "IMAGE"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "20ce4596-6b74-461b-b2ce-98115f16bd5c",
+            "links": {},
+            "meta": {
+                "score": 13.952899
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sky logistics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "s degree in a related field.Excellent written and verbal communication skills.Prior experience as a <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "1d4c99da-885a-4cbd-98d8-8f7021a116df",
+            "links": {},
+            "meta": {
+                "score": 13.910559
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "A2Z Lingerie"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "e34c83a3-4d67-4d50-939a-7c91020dbe66",
+            "links": {},
+            "meta": {
+                "score": 13.908737
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Alyaqout Clinics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> - Nasr City"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "d87f78df-008b-4cae-ac90-62518c11a1e2",
+            "links": {},
+            "meta": {
+                "score": 13.908082
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Alyaqout Clinics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> - Mohandessin"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "a52bc5b8-587c-43f4-bfbc-f5c43ca94f22",
+            "links": {},
+            "meta": {
+                "score": 13.907949
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Macro Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc DegreeProven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar roleProficiency"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "office supplies and keep inventory of stockUpdate calendars and schedule meetingsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "892bba38-f58e-495e-b05e-d63b528bc509",
+            "links": {},
+            "meta": {
+                "score": 13.784234
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ramtrade"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "ca8ce1ef-0c5a-4de6-9ce8-29a9534675c0",
+            "links": {},
+            "meta": {
+                "score": 13.730428
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "64f06ca2-1e48-4128-a635-e0756cbb7fd7",
+            "links": {},
+            "meta": {
+                "score": 13.722858
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "SIPES"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "95a0bc68-ea0c-4f5e-9d8d-a06a7f2f32b8",
+            "links": {},
+            "meta": {
+                "score": 13.668331
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "El-Taisser Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "8396f11e-808a-4db7-8fb5-05b847e30286",
+            "links": {},
+            "meta": {
+                "score": 13.592626
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Speed Tech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "58bdac3e-281f-4947-b94f-d8e54b944584",
+            "links": {},
+            "meta": {
+                "score": 13.588042
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Sales Admin"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "ded42f15-55c1-46b2-92f3-e9d1f91bf4d1",
+            "links": {},
+            "meta": {
+                "score": 13.571376
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart GYM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> /Indoor Sales"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "90e03e22-3d15-4716-9521-210a2c78b28e",
+            "links": {},
+            "meta": {
+                "score": 13.525245
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Gazala Steel Fabrication GSF"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "5f36d4e1-1737-4c22-b890-8d65dc352e15",
+            "links": {},
+            "meta": {
+                "score": 13.362194
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MENA For Contracting & Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree & Proven experience as <em class=\"search-highlight\">receptionist</em> or front desk agent.\nFemales only."
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Perform other clerical <em class=\"search-highlight\">receptionist</em> duties such as filing, photocopying, transcribing and faxing."
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> - Mohandessin"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0b62145d-9f7f-4346-b1aa-abd2ce4149b9",
+            "links": {},
+            "meta": {
+                "score": 13.350289
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ATRIC Developments"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Females only.Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar role.Proficiency"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "supplies and keep inventory of stock.Update calendars and schedule meetings.Perform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> (Front Office)"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "3c40b691-5079-45ac-b693-14e9ace1aeeb",
+            "links": {},
+            "meta": {
+                "score": 13.292665
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TSS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "accommodations, and prepare vouchersKeep updated records of office expenses and costsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Desk <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "fc3e3877-adf2-49fd-80c5-c56ccafe00b3",
+            "links": {},
+            "meta": {
+                "score": 13.273948
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Secretary/<em class=\"search-highlight\">Receptionist</em> ( Alexandria )"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "617966a6-fd72-46c8-8592-cd57c83c5e32",
+            "links": {},
+            "meta": {
+                "score": 13.273487
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "A dental clinic located in Giza is looking for a dental <em class=\"search-highlight\">receptionist</em> / assistant."
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Dental <em class=\"search-highlight\">Receptionist</em> & Assistant"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "2ce3153c-96ee-47df-811c-eaebbba40643",
+            "links": {},
+            "meta": {
+                "score": 13.178845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Adrenalin Park"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Front Office Sales"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "e6e7ab15-a1a3-4717-9360-2d8966988f2d",
+            "links": {},
+            "meta": {
+                "score": 13.166908
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Argonaut for Mechanical and Electrical Works"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Admin Assistant"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "44f58619-eb99-43d8-9987-639eea2e2100",
+            "links": {},
+            "meta": {
+                "score": 13.150142
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Orchidia Pharmaceutical Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "3c8289c5-e62c-4b41-b41f-8fc561b4f7e4",
+            "links": {},
+            "meta": {
+                "score": 13.072756
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Seoudi Supermarket"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Office - <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "d35c2979-a014-46c7-bece-9fd162a37866",
+            "links": {},
+            "meta": {
+                "score": 13.059697
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> ( AL-Mansoura )"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "5161dafc-3a69-4719-a9a8-15a86fba6743",
+            "links": {},
+            "meta": {
+                "score": 12.972354
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "4f89f135-7875-4a91-bd76-06e7f8dea2db",
+            "links": {},
+            "meta": {
+                "score": 12.892151
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Go Green Real Estate"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin Assistant / <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "6d293f27-2803-44b5-88a4-290812a0c423",
+            "links": {},
+            "meta": {
+                "score": 12.884528
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "JRM for Communications"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Administrative Assistant / <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "befda208-e3e0-4874-bf35-2c43053ea9cf",
+            "links": {},
+            "meta": {
+                "score": 12.869707
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "STIO Life Science"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Previous working experience as <em class=\"search-highlight\">receptionist</em> for 2-3 yearsProficient in Microsoft OfficeStrong phone skillsDemonstrated"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionists</em> are employed across almost every industry. "
+                        ],
+                        "value": [
+                            "Receptionists"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "c9614965-924a-4403-9d84-11ad42e2d1fe",
+            "links": {},
+            "meta": {
+                "score": 12.85541
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Fajr Center"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Customer Service & <em class=\"search-highlight\">Receptionist</em> agent"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "47188d23-d001-4a61-91a8-f263d82687f1",
+            "links": {},
+            "meta": {
+                "score": 12.766345
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Clinique du Caire"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Clinic Admin / <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "96cca1a7-f73b-4755-93aa-a4e19df5cf32",
+            "links": {},
+            "meta": {
+                "score": 12.761696
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "جمعية دار الأرقم"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "ba511318-d7b2-40a4-b1e6-0cf62eed1042",
+            "links": {},
+            "meta": {
+                "score": 12.667848
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Döhler Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "b586f618-3e71-41ee-ad48-a24f1c5b8b07",
+            "links": {},
+            "meta": {
+                "score": 12.524884
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Alyaa"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar roleProficiency in Microsoft"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "accommodations, and prepare vouchersKeep updated records of office expenses and costsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0c57a10d-c8cf-473c-8b49-f7b5460a61af",
+            "links": {},
+            "meta": {
+                "score": 12.425099
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Darna Developments "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Office Admin/ <em class=\"search-highlight\">Receptionist</em> (Real Estate company)"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "dddecde1-f880-4073-9e56-429824247fdd",
+            "links": {},
+            "meta": {
+                "score": 12.389343
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "systemCheck frequently the levels of office supplies and place appropriate ordersUndertake occasional <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Secretary - <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "459b6352-7732-43b3-9602-5b86c75fcf60",
+            "links": {},
+            "meta": {
+                "score": 12.246193
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Order front office supplies and keep inventory of stock.Perform other clerical .<em class=\"search-highlight\">Receptionist</em> duties such"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "5a289bc1-9154-4d12-a6c4-6e9a309b8034",
+            "links": {},
+            "meta": {
+                "score": 12.160038
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al Rabat"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>/Front Office"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "6174486d-3c28-4e83-aa4a-d7fd699d4860",
+            "links": {},
+            "meta": {
+                "score": 12.071557
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar role.Proficiency in"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "controlling access via the reception desk (monitor logbook, issue visitor badges).Perform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Site <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "fc99bc43-6527-4ed3-8734-59b306d81862",
+            "links": {},
+            "meta": {
+                "score": 12.068893
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al Ahly Medical Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0a43e328-3ade-4254-a6c7-235856bc01ea",
+            "links": {},
+            "meta": {
+                "score": 11.683857
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Roaia"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Females Only.Bachelor's Degree of any major.RequirementsProven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "accommodations, and prepare vouchersKeep updated records of office expenses and costsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "4a91964d-845b-49dd-923e-4ee48f9a10f6",
+            "links": {},
+            "meta": {
+                "score": 11.642242
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Next Home"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "controlling access via the reception desk (monitor logbook, issue visitor badges)Perform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> / Real Estate"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "032f37ae-cc70-4ea7-84cb-210411ffb16b",
+            "links": {},
+            "meta": {
+                "score": 11.617096
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "IL CAZAR Development"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We’re hiring a <em class=\"search-highlight\">Receptionist</em> :Job ResponsibilitiesHandles front office reception, including greeting customer"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "bac66051-3b12-4160-9f9a-fac7d1263068",
+            "links": {},
+            "meta": {
+                "score": 11.599273
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "emtelak"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>/Front Office Admin"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "2c961f64-cbe7-4f8d-9d2b-3f6aa5ce8867",
+            "links": {},
+            "meta": {
+                "score": 11.575361
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Future Fitness EMS Corner "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Fitness Center <em class=\"search-highlight\">Receptionist</em> / Social Media Specialist"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "440482f0-b087-4928-ae31-ab4aaaa1545a",
+            "links": {},
+            "meta": {
+                "score": 11.386927
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ORA Clinics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Prior experience as a <em class=\"search-highlight\">receptionist</em> or in related field.\nConsistent, professional dress and manner."
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "ad5fe008-9649-430d-97e3-8ff722364f32",
+            "links": {},
+            "meta": {
+                "score": 11.324389
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Blanche dental clinic"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "78cea9d6-2de0-4dd0-b651-bfb01d770e29",
+            "links": {},
+            "meta": {
+                "score": 11.134947
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elite Medical Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> for clinic to handled the below:Answer calls Customer service Assist the clients Fix the"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "b1bc97a8-f722-4b7a-bedf-3479e1926ee4",
+            "links": {},
+            "meta": {
+                "score": 11.061393
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "The benchmark"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>  Job Duties: Answer and direct phone calls in a polite and friendly mannerWelcome visitors"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0646a3d7-8522-4968-a68d-9708ae6a66c8",
+            "links": {},
+            "meta": {
+                "score": 10.864714
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Generations Labs"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Clinic <em class=\"search-highlight\">Receptionist</em> / Lab Technician (Sampling Specialist)"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "f47ac405-4b52-4f71-987b-1168ce411105",
+            "links": {},
+            "meta": {
+                "score": 10.69657
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Jebaal"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor Degree .Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar role"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "48b469a9-2a21-4f8e-b91a-e534ad62b39a",
+            "links": {},
+            "meta": {
+                "score": 10.570624
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Basata Microfinance Solutions "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Desk <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "9962244b-f0b8-47d3-8bfd-8cfd2eb7085a",
+            "links": {},
+            "meta": {
+                "score": 10.537683
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Uptown International School UISEgypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "a0713d8b-d0e1-4fda-8cf4-41579e0edc37",
+            "links": {},
+            "meta": {
+                "score": 10.512989
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Equity Developments"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "2 years of experience as a <em class=\"search-highlight\">Receptionist</em> for administrative building.University Degree is a must.Excellent"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> / Front Office Specialist"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "7ad29a3e-ca7c-45e9-97ba-cf1d44a4505c",
+            "links": {},
+            "meta": {
+                "score": 10.421792
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ultra Dental Care and Esthetics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Ultra Dental Center is looking for a talented and qualified Customer Service  <em class=\"search-highlight\">Receptionist</em>.",
+                            "controlling access via the reception deskEnsure reception area is tidy and presentablePerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist",
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Customer Service <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0d9a6bb3-dd4c-4619-949b-ba02372c368d",
+            "links": {},
+            "meta": {
+                "score": 10.4156475
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Psychology Center"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "issue visitor badges)Order front office supplies and keep an inventory of stockPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Admin Assistant - Sheikh Zayed"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "9a2e5bee-6819-4564-8375-786397c65c13",
+            "links": {},
+            "meta": {
+                "score": 9.850678
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Wham Clinics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "neededHigh University Degree is a mustGood in EnglishHighly Presentable.Proven work experience as a <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "8827cec3-3dd1-4839-8838-c9b468b83030",
+            "links": {},
+            "meta": {
+                "score": 9.769817
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ocean Blue Heliopolis"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Work experience as a Hotel Front Desk Agent, <em class=\"search-highlight\">Receptionist</em>, or similar roleExperience with hotel reservations"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a Hotel Front Desk <em class=\"search-highlight\">Receptionist</em> to serve as our guests’ first point of contact and",
+                            "manage all aspects of their accommodation.Hotel Front Desk <em class=\"search-highlight\">Receptionist</em> Responsibilities include registering"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Desk/<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "ea3bf098-5f7c-40d6-86d8-a6ff1ccd36c2",
+            "links": {},
+            "meta": {
+                "score": 9.707711
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "CompuGeorge"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Business administration - preferable English section.The language school is a mustPrior experience as a <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> & Admin Assistant"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "1a99fc47-a76b-4f00-90f4-b4298bcf74c2",
+            "links": {},
+            "meta": {
+                "score": 9.57222
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Lighting "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar roleProficiency in Microsoft Office"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "accommodations, and prepare vouchersKeep updated records of office expenses and costsPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Office & <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "650058fa-6b36-4f17-a8d2-d878b3bd55a5",
+            "links": {},
+            "meta": {
+                "score": 9.556552
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Talaat Moustafa Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Front Desk <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "2978fc32-82aa-4f88-860c-6e6ad611a972",
+            "links": {},
+            "meta": {
+                "score": 9.553485
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Property Hills"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "appropriate ordersMake travel arrangementsDocument expenses and hand in reportsUndertake occasional <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Admin Assistant & <em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "adf525cc-504b-4575-ae38-b3f189f9e0fe",
+            "links": {},
+            "meta": {
+                "score": 9.50123
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar role.Proficiency in"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "(monitor logbook, issue visitor badges).Perform other clerical <em class=\"search-highlight\">receptionist</em> duties such as filing, photocopying"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "8d59a99b-fd02-496d-9502-36aa8eab671f",
+            "links": {},
+            "meta": {
+                "score": 9.309885
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Next Door Consultancy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Perform other clerical <em class=\"search-highlight\">receptionist</em> duties such as filing, photocopying. "
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> - Real Estate"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "c7ff0b90-5ce8-40ee-a193-e15e79bf88e8",
+            "links": {},
+            "meta": {
+                "score": 9.302968
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MG Developments"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "dec9a237-e332-4dc7-abc4-9c48c4d06acd",
+            "links": {},
+            "meta": {
+                "score": 9.284623
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MTI Automotive"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> - Abu Rawash"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "a9ffb7e3-2ec9-4838-a738-93358380fef7",
+            "links": {},
+            "meta": {
+                "score": 9.00345
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "La Parisienne "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "and nearby areas residents.Associate's or bachelor's degree in related field.Prior experience as a <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em> is responsible for greeting visitors and delivering exceptional customer service assistance"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "2db7c5d4-1a5b-4de6-af0a-915bb43a94fb",
+            "links": {},
+            "meta": {
+                "score": 8.815646
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sidera Immigration Consulting Inc."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "838fa8a0-7568-4fa1-be91-c1495b16dde0",
+            "links": {},
+            "meta": {
+                "score": 8.757698
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Job RequirementsProven work experience as a <em class=\"search-highlight\">Receptionist</em>, Front Office Representative or similar roleProficiency"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "screening and forwarding incoming phone callsReceiving and sorting daily mailPerform other clerical <em class=\"search-highlight\">receptionist</em>"
+                        ],
+                        "value": [
+                            "receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "0f41241f-b89a-43ef-97e8-c4361fdb2c8e",
+            "links": {},
+            "meta": {
+                "score": 8.590314
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Windrose Academy"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Receptionist</em>"
+                        ],
+                        "value": [
+                            "Receptionist"
+                        ]
+                    }
+                ]
+            },
+            "id": "f8c1f7d2-36ba-4646-a5a9-e3bf9bc5d783",
+            "links": {},
+            "meta": {
+                "score": 8.485275
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        }
+    ],
+    "meta": {
+        "totalResultsCount": 135
+    }
+}

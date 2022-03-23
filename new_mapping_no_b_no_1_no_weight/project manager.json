@@ -1,0 +1,12 @@
+{
+    "message": "RequestError(400, 'search_phase_execution_exception', \"Similarities must not produce negative scores, but got:\\n-0.1688035 = score from ScriptedSimilarity(weightScript=[Script{type=inline, lang='painless', idOrCode='double idf = Math.log(((field.docCount-term.docFreq+0.5)/(term.docFreq+0.5))); return query.boost * idf;', options={}, params={}}], script=[Script{type=inline, lang='painless', idOrCode='double tf = ((doc.freq)/(doc.freq)); return weight * tf ;', options={}, params={}}]) computed from:\\n  -0.1688035 = weight\\n  0.9 = query.boost\\n  10747 = field.docCount\\n  440093 = field.sumDocFreq\\n  514397 = field.sumTotalTermFreq\\n  5876 = term.docFreq\\n  21147 = term.totalTermFreq\\n  3.4028235E38 = doc.freq\\n  1 = doc.length\\n\")",
+    "params": {
+        "index_name": "jobs_no_b_no_1_no_weight",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "pageSize": 100,
+        "query": "project manager",
+        "searchFilters": {},
+        "startIndex": 0
+    }
+}

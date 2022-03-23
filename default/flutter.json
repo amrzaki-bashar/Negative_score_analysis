@@ -58,7 +58,7 @@
             "id": "c28bb471-cf0d-443c-9761-bcfd01a8c3c1",
             "links": {},
             "meta": {
-                "score": 16.558437
+                "score": 16.28773
             },
             "relationships": {},
             "type": "talentSearch"
@@ -121,7 +121,7 @@
             "id": "cb3ba5b6-d255-4dfc-a815-a1a20ba3b86f",
             "links": {},
             "meta": {
-                "score": 16.259409
+                "score": 15.665652
             },
             "relationships": {},
             "type": "talentSearch"
@@ -187,7 +187,109 @@
             "id": "ab4fd4a8-4d39-4632-a1f4-07d699c87327",
             "links": {},
             "meta": {
-                "score": 16.16201
+                "score": 15.504835
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Caelum Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Information Technology, Engineering, or equivalent discipline.A minimum of 3 years of experience in <em class=\"search-highlight\">flutter</em>",
+                            " cross-platform mobile development.Strong knowledge of the <em class=\"search-highlight\">flutter</em> plugins/packages and have experience",
+                            "for networking.Experience with profiling and debugging mobile applications.Strong knowledge of the <em class=\"search-highlight\">flutter</em>",
+                            "state management and architectural patterns: <em class=\"search-highlight\">flutter</em> BLoC, Provider, Redux, MobX, MVP, MVVM, and TDD"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "9a6015bf-0326-45b1-8da8-4736d8c20fa1",
+            "links": {},
+            "meta": {
+                "score": 15.42705
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LavaLoon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "the full mobile development lifecycleSolid knowledge in building and deploying moderate to complex <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "featuresWrite readable, concise, and well-documented codeWrite clean, and optimized codeBuild custom <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Mobile Developer - <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "6ccc16f7-37ad-489c-91b7-ffd276f2c07a",
+            "links": {},
+            "meta": {
+                "score": 15.387296
             },
             "relationships": {},
             "type": "talentSearch"
@@ -241,7 +343,7 @@
             "id": "1a541f61-393d-4568-a5c4-a7e1b257e435",
             "links": {},
             "meta": {
-                "score": 16.053762
+                "score": 15.349612
             },
             "relationships": {},
             "type": "talentSearch"
@@ -304,7 +406,73 @@
             "id": "e1fa984d-451f-4e97-a38b-0ffc18525734",
             "links": {},
             "meta": {
-                "score": 16.006876
+                "score": 15.266681
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Troylab"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Technical Certificate: Have Certificate with <em class=\"search-highlight\">Flutter</em> for both iOS and Android.Soft Skills:Excellent communication",
+                            "clients per second.Business Skills:Must have contributed with at least three Android, iOS, apps with <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Job Summary:<em class=\"search-highlight\">Flutter</em> is commonly used to design mobile apps and their Web counterparts, which often involves",
+                            "development paradigms.Responsibility:You will create multi-platform apps for iOS and Android using Google's <em class=\"search-highlight\">Flutter</em>",
+                            "focus will be on creating new experiences.Tasks:Develop and maintain iOS and Android applications using <em class=\"search-highlight\">Flutter</em>.Maintain"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em> Developer"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "cd435853-d23b-4c9f-8303-d433a685833d",
+            "links": {},
+            "meta": {
+                "score": 15.236119
             },
             "relationships": {},
             "type": "talentSearch"
@@ -371,73 +539,7 @@
             "id": "37fd27a3-8112-45a5-b826-d97e2b9d20c9",
             "links": {},
             "meta": {
-                "score": 15.986982
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Troylab"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Technical Certificate: Have Certificate with <em class=\"search-highlight\">Flutter</em> for both iOS and Android.Soft Skills:Excellent communication",
-                            "clients per second.Business Skills:Must have contributed with at least three Android, iOS, apps with <em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Job Summary:<em class=\"search-highlight\">Flutter</em> is commonly used to design mobile apps and their Web counterparts, which often involves",
-                            "development paradigms.Responsibility:You will create multi-platform apps for iOS and Android using Google's <em class=\"search-highlight\">Flutter</em>",
-                            "focus will be on creating new experiences.Tasks:Develop and maintain iOS and Android applications using <em class=\"search-highlight\">Flutter</em>.Maintain"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Flutter</em> Developer"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "cd435853-d23b-4c9f-8303-d433a685833d",
-            "links": {},
-            "meta": {
-                "score": 15.980434
+                "score": 15.235927
             },
             "relationships": {},
             "type": "talentSearch"
@@ -492,109 +594,7 @@
             "id": "48fbc86b-bd01-4e4a-ad64-5e8cd8bd8752",
             "links": {},
             "meta": {
-                "score": 15.918355
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Caelum Egypt"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "Information Technology, Engineering, or equivalent discipline.A minimum of 3 years of experience in <em class=\"search-highlight\">flutter</em>",
-                            " cross-platform mobile development.Strong knowledge of the <em class=\"search-highlight\">flutter</em> plugins/packages and have experience",
-                            "for networking.Experience with profiling and debugging mobile applications.Strong knowledge of the <em class=\"search-highlight\">flutter</em>",
-                            "state management and architectural patterns: <em class=\"search-highlight\">flutter</em> BLoC, Provider, Redux, MobX, MVP, MVVM, and TDD"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Flutter</em> Developer"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "9a6015bf-0326-45b1-8da8-4736d8c20fa1",
-            "links": {},
-            "meta": {
-                "score": 15.889762
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "LavaLoon"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "the full mobile development lifecycleSolid knowledge in building and deploying moderate to complex <em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "featuresWrite readable, concise, and well-documented codeWrite clean, and optimized codeBuild custom <em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Mobile Developer - <em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "6ccc16f7-37ad-489c-91b7-ffd276f2c07a",
-            "links": {},
-            "meta": {
-                "score": 15.887255
+                "score": 15.151973
             },
             "relationships": {},
             "type": "talentSearch"
@@ -648,7 +648,7 @@
             "id": "5991d684-c296-432b-b27a-046f5c78a7ed",
             "links": {},
             "meta": {
-                "score": 15.869124
+                "score": 15.080603
             },
             "relationships": {},
             "type": "talentSearch"
@@ -704,7 +704,7 @@
             "id": "45b6f58f-39ea-4cde-a79a-87b4658505df",
             "links": {},
             "meta": {
-                "score": 15.817265
+                "score": 15.007019
             },
             "relationships": {},
             "type": "talentSearch"
@@ -758,7 +758,7 @@
             "id": "eb03508c-2988-4c87-aa06-f326f1b43fb8",
             "links": {},
             "meta": {
-                "score": 15.508814
+                "score": 14.588438
             },
             "relationships": {},
             "type": "talentSearch"
@@ -812,7 +812,7 @@
             "id": "8515f3b3-bf87-4b62-b61f-3f6048562740",
             "links": {},
             "meta": {
-                "score": 15.508317
+                "score": 14.587783
             },
             "relationships": {},
             "type": "talentSearch"
@@ -868,7 +868,7 @@
             "id": "95290dc5-771f-4df5-a880-447129da4915",
             "links": {},
             "meta": {
-                "score": 15.405931
+                "score": 14.450673
             },
             "relationships": {},
             "type": "talentSearch"
@@ -922,7 +922,7 @@
             "id": "e8bc933c-996c-438d-976c-ad9ac9b0c6ad",
             "links": {},
             "meta": {
-                "score": 15.36869
+                "score": 14.400214
             },
             "relationships": {},
             "type": "talentSearch"
@@ -960,8 +960,8 @@
                             "concepts.Deep understanding of design patterns.Experience building and deploying a moderately complex <em class=\"search-highlight\">Flutter</em>"
                         ],
                         "value": [
-                            "Flutter",
-                            "flutter"
+                            "flutter",
+                            "Flutter"
                         ]
                     },
                     {
@@ -987,7 +987,7 @@
             "id": "4cf36a74-9944-4a20-9cf7-a52a754b1b31",
             "links": {},
             "meta": {
-                "score": 15.339262
+                "score": 14.354183
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1041,7 +1041,7 @@
             "id": "1d3e0ab9-c444-4258-9fdd-db21330e852a",
             "links": {},
             "meta": {
-                "score": 14.309762
+                "score": 13.115194
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1087,7 +1087,7 @@
             "id": "aacbb0fc-7fb7-48b9-bd3e-ec6bbe4da535",
             "links": {},
             "meta": {
-                "score": 13.744724
+                "score": 12.566002
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1153,7 +1153,7 @@
             "id": "e2ff2fff-aa9a-46d7-a030-f984ca336df6",
             "links": {},
             "meta": {
-                "score": 13.737908
+                "score": 12.4607115
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1216,7 +1216,7 @@
             "id": "e4c4b324-02ba-4765-8d1f-3a22d5a58030",
             "links": {},
             "meta": {
-                "score": 13.58609
+                "score": 12.291185
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1273,7 +1273,7 @@
             "id": "fe4227da-9580-40dd-b3bf-8e0524b240f6",
             "links": {},
             "meta": {
-                "score": 13.5641
+                "score": 12.2722225
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1328,7 +1328,7 @@
             "id": "fe059a23-dcd4-4925-99af-9c8c08844d5e",
             "links": {},
             "meta": {
-                "score": 13.448956
+                "score": 12.139582
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1392,7 +1392,7 @@
             "id": "d61c4c04-cf9f-490e-bdf4-c6be9475280d",
             "links": {},
             "meta": {
-                "score": 13.330845
+                "score": 12.006136
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1457,7 +1457,7 @@
             "id": "e1ceb8d1-cfd5-4afa-82d4-efd64e0b70f4",
             "links": {},
             "meta": {
-                "score": 13.236267
+                "score": 11.906042
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1511,7 +1511,7 @@
             "id": "130d2300-1a0f-4b5c-b1f6-03a7a1f0f92a",
             "links": {},
             "meta": {
-                "score": 13.048101
+                "score": 11.774934
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1575,7 +1575,7 @@
             "id": "30fddd30-8421-4342-af6f-f94ed4808ae9",
             "links": {},
             "meta": {
-                "score": 12.9937525
+                "score": 11.641888
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1639,7 +1639,7 @@
             "id": "7baa2c81-28be-406b-b294-b24c178b3c6b",
             "links": {},
             "meta": {
-                "score": 12.599199
+                "score": 11.218703
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1706,7 +1706,7 @@
             "id": "d018a583-00df-4fa5-ba60-8c41184f29be",
             "links": {},
             "meta": {
-                "score": 12.588667
+                "score": 11.207369
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1760,7 +1760,7 @@
             "id": "0dea36e3-c93f-4590-bd9c-b9926d542d0e",
             "links": {},
             "meta": {
-                "score": 12.576174
+                "score": 11.198982
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1805,7 +1805,7 @@
             "id": "aeceb53c-6b77-45ac-80de-ce73c9e533d4",
             "links": {},
             "meta": {
-                "score": 12.364664
+                "score": 10.978132
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1869,7 +1869,7 @@
             "id": "6a2525fb-dc1c-433a-82e2-95a73527d8f3",
             "links": {},
             "meta": {
-                "score": 12.131513
+                "score": 10.724132
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1923,7 +1923,7 @@
             "id": "9992e7ee-3290-4d99-aa40-9d0192213eb4",
             "links": {},
             "meta": {
-                "score": 11.889072
+                "score": 10.476632
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1959,7 +1959,178 @@
             "id": "5768f338-1953-4d06-9975-325d91ffa7e0",
             "links": {},
             "meta": {
-                "score": 11.344753
+                "score": 9.970581
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "iSchool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".. etc).Experience in working with c# and unity game engine.Experience with WordPress.familiar with <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "45301d3e-d21e-4e67-b4b6-4cdf16633f94",
+            "links": {},
+            "meta": {
+                "score": 9.560166
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "iSchool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            ".. etc).Experience in working with c# and unity game engine.Experience with WordPress.familiar with <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ca58e650-5111-4623-a7c6-c5cb00a769e0",
+            "links": {},
+            "meta": {
+                "score": 9.560165
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "iSchool"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "0a27acd5-85e9-498f-97c3-c301ee9733fe",
+            "links": {},
+            "meta": {
+                "score": 9.529203
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Ctopya"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "developerProfessional experience with expert-level knowledge of two or more languages (react-native or <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "86977086-aa56-4c50-80a3-856fe6d67868",
+            "links": {},
+            "meta": {
+                "score": 9.260246
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2025,7 +2196,133 @@
             "id": "f2812255-0091-4454-9bc2-2540e07b1ecb",
             "links": {},
             "meta": {
-                "score": 10.668078
+                "score": 9.233678
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EGIC"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "ce787c1c-9ba0-4f27-a210-ce68a4ce1676",
+            "links": {},
+            "meta": {
+                "score": 9.176157
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Venu Apps"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "payment.Familiar with DevOps (CI/CD), TDD and test automation.Basic knowledge  about front end frame work <em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "88307b8d-68e2-4a7f-bdb1-de87da8b54e3",
+            "links": {},
+            "meta": {
+                "score": 8.993382
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Our Education"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Flutter</em>"
+                        ],
+                        "value": [
+                            "Flutter"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "ensuring that the application will adhere to them.Cross-platform mobile development (react native or <em class=\"search-highlight\">flutter</em>"
+                        ],
+                        "value": [
+                            "flutter"
+                        ]
+                    }
+                ]
+            },
+            "id": "56945644-38fd-41cd-970c-49b1fc912391",
+            "links": {},
+            "meta": {
+                "score": 8.831729
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2079,7 +2376,7 @@
             "id": "ee26f9fd-ea54-44ac-bba0-233d413d90e9",
             "links": {},
             "meta": {
-                "score": 9.855422
+                "score": 8.432793
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2125,178 +2422,7 @@
             "id": "7f799914-d3d5-4085-84e0-8b39a6072f1a",
             "links": {},
             "meta": {
-                "score": 9.768071
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "iSchool"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            ".. etc).Experience in working with c# and unity game engine.Experience with WordPress.familiar with <em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "45301d3e-d21e-4e67-b4b6-4cdf16633f94",
-            "links": {},
-            "meta": {
-                "score": 9.665886
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "iSchool"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            ".. etc).Experience in working with c# and unity game engine.Experience with WordPress.familiar with <em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "ca58e650-5111-4623-a7c6-c5cb00a769e0",
-            "links": {},
-            "meta": {
-                "score": 9.665886
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "iSchool"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "0a27acd5-85e9-498f-97c3-c301ee9733fe",
-            "links": {},
-            "meta": {
-                "score": 9.634409
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Ctopya"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "developerProfessional experience with expert-level knowledge of two or more languages (react-native or <em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "86977086-aa56-4c50-80a3-856fe6d67868",
-            "links": {},
-            "meta": {
-                "score": 9.562173
+                "score": 8.380313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2351,88 +2477,7 @@
             "id": "3c0017b7-f990-44c6-9ef6-972b775b634b",
             "links": {},
             "meta": {
-                "score": 9.516407
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "EGIC"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "ce787c1c-9ba0-4f27-a210-ce68a4ce1676",
-            "links": {},
-            "meta": {
-                "score": 9.497945
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Venu Apps"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "payment.Familiar with DevOps (CI/CD), TDD and test automation.Basic knowledge  about front end frame work <em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "88307b8d-68e2-4a7f-bdb1-de87da8b54e3",
-            "links": {},
-            "meta": {
-                "score": 9.403343
+                "score": 8.103811
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2495,7 +2540,7 @@
             "id": "9c451b65-e623-4fc2-97e5-c9c42cbc473e",
             "links": {},
             "meta": {
-                "score": 9.359895
+                "score": 7.950846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2512,7 +2557,7 @@
                     {
                         "name": "company_name",
                         "value": [
-                            "Our Education"
+                            "Learnovia"
                         ]
                     }
                 ],
@@ -2525,22 +2570,13 @@
                         "value": [
                             "Flutter"
                         ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "ensuring that the application will adhere to them.Cross-platform mobile development (react native or <em class=\"search-highlight\">flutter</em>"
-                        ],
-                        "value": [
-                            "flutter"
-                        ]
                     }
                 ]
             },
-            "id": "56945644-38fd-41cd-970c-49b1fc912391",
+            "id": "5e09aac2-e92b-4c11-a3df-77bc402fe641",
             "links": {},
             "meta": {
-                "score": 9.290155
+                "score": 7.911976
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2595,43 +2631,7 @@
             "id": "04a72052-272c-4a66-95d6-1a8742a1a109",
             "links": {},
             "meta": {
-                "score": 8.992178
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Learnovia"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Flutter</em>"
-                        ],
-                        "value": [
-                            "Flutter"
-                        ]
-                    }
-                ]
-            },
-            "id": "5e09aac2-e92b-4c11-a3df-77bc402fe641",
-            "links": {},
-            "meta": {
-                "score": 8.5679455
+                "score": 7.599819
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2685,7 +2685,7 @@
             "id": "9ceaf6a3-1b0e-4a96-bb6e-1a5fadd01441",
             "links": {},
             "meta": {
-                "score": 8.256421
+                "score": 7.5295763
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2721,7 +2721,7 @@
             "id": "d11a3e58-e1a2-4cea-a49f-a1cc18a35d63",
             "links": {},
             "meta": {
-                "score": 7.8126287
+                "score": 7.0479164
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2766,7 +2766,7 @@
             "id": "4dd6d9d5-82ad-43c4-b61b-4da0e991b66a",
             "links": {},
             "meta": {
-                "score": 7.0614696
+                "score": 6.2385564
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2811,7 +2811,7 @@
             "id": "b9ef0f56-a1ed-486b-bdd4-69ffc8e8212e",
             "links": {},
             "meta": {
-                "score": 5.5720286
+                "score": 4.7446184
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2847,7 +2847,7 @@
             "id": "4ab6bdf4-cb01-4bea-a021-52ce1454cd9c",
             "links": {},
             "meta": {
-                "score": 5.244467
+                "score": 4.4323387
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2883,7 +2883,7 @@
             "id": "dae3a8f6-a1b3-4803-be1a-19059ce1db69",
             "links": {},
             "meta": {
-                "score": 1.6508133
+                "score": 1.6026781
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2919,7 +2919,7 @@
             "id": "dcc88d6d-a042-4282-bfc0-56873dbfb7be",
             "links": {},
             "meta": {
-                "score": 1.0190911
+                "score": 1.0020925
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2964,7 +2964,7 @@
             "id": "4c2c650a-6118-4132-b139-6b00786fd5ac",
             "links": {},
             "meta": {
-                "score": 1.0071687
+                "score": 0.94342095
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3000,7 +3000,7 @@
             "id": "22b3db90-274e-45f4-99b9-a0d2c3eecefb",
             "links": {},
             "meta": {
-                "score": 0.88080126
+                "score": 0.85355145
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3036,7 +3036,7 @@
             "id": "fc9cd5ef-73d5-41ed-99d0-de7079947530",
             "links": {},
             "meta": {
-                "score": 0.84295857
+                "score": 0.8181735
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3072,7 +3072,7 @@
             "id": "e495aa72-ef30-440e-9f33-eb3248d215da",
             "links": {},
             "meta": {
-                "score": 0.6767542
+                "score": 0.6603741
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3108,7 +3108,7 @@
             "id": "b3262b28-4289-439e-9c90-8b28006c4724",
             "links": {},
             "meta": {
-                "score": 0.61380386
+                "score": 0.5657106
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3144,7 +3144,7 @@
             "id": "4a5ff163-f758-4eb0-8e49-f2b815365755",
             "links": {},
             "meta": {
-                "score": 0.5268589
+                "score": 0.48150685
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3180,7 +3180,7 @@
             "id": "64844eab-a6b7-407b-95ff-525072df7153",
             "links": {},
             "meta": {
-                "score": 0.46865407
+                "score": 0.44812992
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3216,7 +3216,7 @@
             "id": "ca487132-f026-43a1-a718-a909f3cd1537",
             "links": {},
             "meta": {
-                "score": 0.45352596
+                "score": 0.43410513
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3252,7 +3252,7 @@
             "id": "3edf814c-846c-44dd-8598-bd537f0d3892",
             "links": {},
             "meta": {
-                "score": 0.41173354
+                "score": 0.36936477
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3288,7 +3288,7 @@
             "id": "ae321570-ecc0-483d-ab9c-03175ca18d13",
             "links": {},
             "meta": {
-                "score": 0.38230267
+                "score": 0.34576678
             },
             "relationships": {},
             "type": "talentSearch"
