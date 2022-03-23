@@ -1,0 +1,4160 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "New Plan "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Cost <em class=\"search-highlight\">Accountant</em>",
+                            "Income <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "relocate as the project will be at port-said with accommodationWrite in the industry experience (Cost <em class=\"search-highlight\">accountant</em>",
+                            "/ income <em class=\"search-highlight\">accountant</em>)"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Cost And Income <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "95d9c886-516c-4371-8706-ca554aec9c25",
+            "links": {},
+            "meta": {
+                "score": 10.755534
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "01electronics"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in accounting or relevant field.A minimum of 3 years experience as a tax <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "As the tax <em class=\"search-highlight\">accountant</em>, your chief goal will be to recommend effective tax strategies that comply with"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "433a50d8-01d2-4746-b570-fec466f82eb1",
+            "links": {},
+            "meta": {
+                "score": 10.734365
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Simplex"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in <em class=\"search-highlight\">Accountant</em>, Finance.Excellent communication and analysis skills.3-5 Years Experience"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Cost <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "1cfb9b7f-d08d-4eb4-8dd6-a57a79e61eb4",
+            "links": {},
+            "meta": {
+                "score": 10.632456
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ps"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em> needed must be graduated from faculty of commerce English sectionHave from 1-3 years have"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "d033651a-f172-460c-9625-c4819504d0de",
+            "links": {},
+            "meta": {
+                "score": 10.624173
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Infotech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "looking for an <em class=\"search-highlight\">accountant</em> as a main role and administration in general that can attend meetings and write"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "6f855122-6bde-4351-bcaf-085af9f5465f",
+            "links": {},
+            "meta": {
+                "score": 10.619566
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Proven experience as A general <em class=\"search-highlight\">Accountant</em>.Previous experience in the food and beverage industry is preferable.Males"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em> - Retail"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "f937e311-6d05-468d-bce9-6da33034b6ae",
+            "links": {},
+            "meta": {
+                "score": 10.616222
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Jadara"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "SITE <em class=\"search-highlight\">ACCOUNTANT</em>"
+                        ],
+                        "value": [
+                            "accountant",
+                            "ACCOUNTANT"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking to hire (Site <em class=\"search-highlight\">accountant</em>) (to work in Sharm El-Sheikh) with the following details:Work"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Site <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "60ecb154-1250-48e4-a77c-e1391dbb7b8c",
+            "links": {},
+            "meta": {
+                "score": 10.613095
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Talabeyah"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "tax <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "-Proven work experience as a Tax <em class=\"search-highlight\">Accountant</em>-Excellent knowledge of tax accounting, tax compliance and"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ac5dbd0c-a341-4163-b416-caf579ed2a28",
+            "links": {},
+            "meta": {
+                "score": 10.565767
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "A1 educenter"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "decf2fb1-c40e-4922-b716-46b8bec7eb75",
+            "links": {},
+            "meta": {
+                "score": 10.513611
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Queens Health Care"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Solid knowledge of medical terminology and billing.Proven experience working as a Patient's Account <em class=\"search-highlight\">Accountant</em>.Strong"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Patients Accounts <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "c09568ca-68a6-4718-a98d-4fe3fb988775",
+            "links": {},
+            "meta": {
+                "score": 10.5110035
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Food Brand"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "22413fef-341e-4b0a-b387-f5e841b431d0",
+            "links": {},
+            "meta": {
+                "score": 10.50475
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Mozare3"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "Cost <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "accountant",
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "MalesProven work experience as a Cost <em class=\"search-highlight\">Accountant</em>, Cost Analyst, <em class=\"search-highlight\">Accountant</em> or similar roleThorough knowledge"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Cost <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "614ecbfb-4cdf-41ad-95e8-f5e41bc7174a",
+            "links": {},
+            "meta": {
+                "score": 10.4955845
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Naqla"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "tax <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Experience:BS degree in Accounting, Finance or relevant5 - 7 years Proven work experience as a Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Taxes <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "9b419691-2d46-4e07-9b5c-4ea95f009322",
+            "links": {},
+            "meta": {
+                "score": 10.482677
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Safwa Engineering Industry"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor's degree in Accounting or Finance 2 to 5 years of experience as an <em class=\"search-highlight\">accountant</em>  ( preferable"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "df322c6d-20ef-4992-8850-b367bf77b37d",
+            "links": {},
+            "meta": {
+                "score": 10.455244
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Rashideen Egypt for Trade "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Fixed Shift from 2 PM To 9 PM (Night Shift).Experience: 1 to 2 years of experience as AR <em class=\"search-highlight\">accountant</em>,"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b0b72e7d-abfc-4dbf-aebc-29a0e18383a0",
+            "links": {},
+            "meta": {
+                "score": 10.452526
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Pure Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ec4b7159-a3e2-4685-8a73-ddecb1f213c0",
+            "links": {},
+            "meta": {
+                "score": 10.444385
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "HSK"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "9d3ae1dd-9aa8-4a0e-933d-853350925157",
+            "links": {},
+            "meta": {
+                "score": 10.387657
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Naqla"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>",
+                            "Logistic <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em> -Alexandria"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "f41301d1-0239-4237-adf8-2fbd8e392c90",
+            "links": {},
+            "meta": {
+                "score": 10.385422
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Kandil Industries"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Receivable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Accounts Receivable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b7442053-d5d6-4acf-b182-a1bb3eea7cbf",
+            "links": {},
+            "meta": {
+                "score": 10.344731
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "4D Group Construction & Trading"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "an organization's report, from cost-productivity and margins all the way down to expenditures.Senior <em class=\"search-highlight\">Accountant</em>",
+                            "A successful Senior <em class=\"search-highlight\">Accountant</em> combines excellent analytical skills with a thorough knowledge of accounting"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "03b246ae-77a8-491a-b37d-32f3dac15a22",
+            "links": {},
+            "meta": {
+                "score": 10.325666
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Egyptian Company For Integrated Contracting ( ECIC ) "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "tax <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in accounting or relevant field.A minimum of 3 years experience as a tax <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "c8650982-423d-418d-bb51-593d8edd9e6f",
+            "links": {},
+            "meta": {
+                "score": 10.325197
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Handicap International "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "the requester.Translating the documents when not done initiallySubmitting the documentation to the <em class=\"search-highlight\">accountant</em>",
+                            "manager in order to prepare the withdrawal request.Performing weekly and monthly cash counts with the <em class=\"search-highlight\">accountant</em>",
+                            "or managerPreparing the monthly bank reconciliation with a close follow up of the <em class=\"search-highlight\">accountant</em> or manager3.2",
+                            "job description and ensure the registration of the entries in the system during the absence of the <em class=\"search-highlight\">accountant</em>.Movements"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em> (Cashier)"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "7a69d179-0881-4e22-8862-1a2ef2cd45ca",
+            "links": {},
+            "meta": {
+                "score": 10.317213
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MENASSAT"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Receivables <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "4a42a14c-a8e4-48eb-aab5-2a9a28345761",
+            "links": {},
+            "meta": {
+                "score": 10.315079
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Maryzad"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Solataqa and Maryzad.About the roleIn retrospect with the mentioned above; we are seeking a seasoned <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ada67c9f-d908-492a-8b04-13bfd0edf6e5",
+            "links": {},
+            "meta": {
+                "score": 10.315041
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Multi Commerce"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Prepare balance sheets, profit, and loss statements, and other financial reports.<em class=\"search-highlight\">Accountant</em> duties and"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "90377fd2-6c0f-4d2c-9a38-2e42f4f86a5d",
+            "links": {},
+            "meta": {
+                "score": 10.313893
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RE united group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We're looking to hire “\"<em class=\"search-highlight\">Accountant</em>”\"He or she will handle all accounting process from JV posting up to"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "1d57e43e-5f82-4e2d-8a7c-a0a94170d688",
+            "links": {},
+            "meta": {
+                "score": 10.312804
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "or Finance - graduated with very good grade.Years of experience:Minimum 5 years of experience as an <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "join it’s finance team based in the company’s headquarters in Sheikh ZayedExperience working as an <em class=\"search-highlight\">accountant</em>.Prepare"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "d11d7480-6122-4b23-8aca-a9511930e5f4",
+            "links": {},
+            "meta": {
+                "score": 10.302529
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Alouf Travel"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "tax <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Bachelor’s degree in accounting.A minimum of 3 years experience as a tax <em class=\"search-highlight\">accountant</em> or similar role.Good"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a tax <em class=\"search-highlight\">accountant</em> to prepare tax payments and returns for our company, to succeed in",
+                            "Tax <em class=\"search-highlight\">Accountant</em> responsibilities also include organizing and maintaining records of tax payments.",
+                            "to recommend tax strategies that comply with laws and promote our company’s financial well-being.Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "accountant",
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "2124ee61-a782-4588-8d97-52a0640c5df9",
+            "links": {},
+            "meta": {
+                "score": 10.273738
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nozha Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>:Monetary transactions according to established procedures.Cashier function according"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "90e24c13-6c1d-4877-8cfd-e3e621504072",
+            "links": {},
+            "meta": {
+                "score": 10.258844
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "chief <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "Qualification as a Chartered <em class=\"search-highlight\">Accountant</em> or Certified Public <em class=\"search-highlight\">Accountant</em>, or equivalent is preferable.Requires"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Chief <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b30a25d8-10fe-4fd7-948e-ff88e995dee9",
+            "links": {},
+            "meta": {
+                "score": 10.249133
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EquiTie"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "ledger that allows for the platform to be owned by its users EquiTie is looking for an experienced <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "91d44dad-9410-45e2-aa56-a2f4254a113c",
+            "links": {},
+            "meta": {
+                "score": 10.227462
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Accounts Payable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "10faa0a0-3cb6-442e-9a65-1ffdf1c97b9e",
+            "links": {},
+            "meta": {
+                "score": 10.223004
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "FlairsTech"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Accounts Receivable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "45600812-1951-4e9e-9e87-e93c7141edda",
+            "links": {},
+            "meta": {
+                "score": 10.223004
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "J&T EXPRESS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "d73b7dbc-c135-4c0b-9bff-50d7a261d80c",
+            "links": {},
+            "meta": {
+                "score": 10.222999
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Unitrans Global Logistics "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Logistics <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b7911e83-6b39-4d37-b96c-4e0cfdd98a4e",
+            "links": {},
+            "meta": {
+                "score": 10.222991
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Receivable & Bookkeeping <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "bd1ab847-6f7b-4248-8f14-e1fa71ed31c1",
+            "links": {},
+            "meta": {
+                "score": 10.222978
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "German International University"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "d0455d1c-c6c2-4fe2-8edc-676ff6443829",
+            "links": {},
+            "meta": {
+                "score": 10.222864
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Leeds"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "3c02ba02-448c-4e8b-b3c2-b94f31ebc491",
+            "links": {},
+            "meta": {
+                "score": 10.221485
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Copartners"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "4f5c68c7-a8ac-4977-969d-981746bb3d88",
+            "links": {},
+            "meta": {
+                "score": 10.22146
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "National Electricity Technology Co."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Oversee general accounting operations by controlling and verifying our financial transactions.Senior <em class=\"search-highlight\">Accountant</em>",
+                            "A successful Senior <em class=\"search-highlight\">Accountant</em> combines excellent analytical skills with a thorough knowledge of accounting",
+                            "The ideal candidate has also experience collaborating with a team of Junior Accountants.Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ab09b34c-a956-4fe7-acb4-7d3ee16acadf",
+            "links": {},
+            "meta": {
+                "score": 10.22133
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elshennawy Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Accounts Payable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "8db245ad-369d-4a3a-961e-6ace23ab10e3",
+            "links": {},
+            "meta": {
+                "score": 10.221289
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Accounts Receivable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "4ecf4fbf-34ad-4dbf-ae00-6e1119db0b93",
+            "links": {},
+            "meta": {
+                "score": 10.221139
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "9a7bd589-d8ca-488c-aa23-53b5fbd020ff",
+            "links": {},
+            "meta": {
+                "score": 10.220883
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Talabeyah"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "df54e0ac-cbed-497b-ae58-2eb4f0b8ca37",
+            "links": {},
+            "meta": {
+                "score": 10.220806
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Transmar International "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Tax & General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ac01f9eb-3fec-433e-abc3-7ca1eccb9c7e",
+            "links": {},
+            "meta": {
+                "score": 10.22078
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Receivable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "9738c09c-0b50-4fd9-83e4-37a3fadfb4e5",
+            "links": {},
+            "meta": {
+                "score": 10.220487
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "MAS for Engineering & Trading co."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Banking & Importing <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "7e94de2a-95f9-464d-bc51-84a3a0d19eda",
+            "links": {},
+            "meta": {
+                "score": 10.216368
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Smart GYM"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Bank <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "87f66db3-30af-4642-8d71-de73fc2c350e",
+            "links": {},
+            "meta": {
+                "score": 10.216166
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "LS Egypt "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "e351a8c0-6871-4ad1-90d4-534ceaae523a",
+            "links": {},
+            "meta": {
+                "score": 10.215926
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Chubb life Insurance"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "9b782344-ae99-47be-8ce8-86c5fa72e665",
+            "links": {},
+            "meta": {
+                "score": 10.21581
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Project <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ef2701ce-b0e0-41c5-bcc1-18263ca53b46",
+            "links": {},
+            "meta": {
+                "score": 10.215388
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "caliteck "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "f016b25b-3070-4f44-ab6b-665001b9be71",
+            "links": {},
+            "meta": {
+                "score": 10.215032
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RE/MAX Avalon"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b84b0be6-01a5-4c26-89de-a490f8c16ea9",
+            "links": {},
+            "meta": {
+                "score": 10.2149315
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ElMehy Engineering Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Budgeting <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "28ea587f-dbdf-4cbc-895b-a7be79b04813",
+            "links": {},
+            "meta": {
+                "score": 10.214872
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Somabay"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior General Ledger <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "07d0bf21-0348-49a8-8ef8-e48a352fbe64",
+            "links": {},
+            "meta": {
+                "score": 10.21474
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Spinneys Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior A/P <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ec4cc832-6d1a-4165-8fed-6cc52efd1bc3",
+            "links": {},
+            "meta": {
+                "score": 10.214179
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Elattal Holding "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Receivables <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "f09f1e6b-1e7f-4155-a9fb-93a8b4b707b3",
+            "links": {},
+            "meta": {
+                "score": 10.207944
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Junior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "af942db2-0cde-4590-a1e8-ead8cd1572b4",
+            "links": {},
+            "meta": {
+                "score": 10.206825
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ECS - Energy & Contracting Solutions"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General Ledger Section Head - Chief <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "5697913d-0330-4250-a785-17952acb3bb6",
+            "links": {},
+            "meta": {
+                "score": 10.206307
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "8c311252-46ae-4357-b18e-9757385500a7",
+            "links": {},
+            "meta": {
+                "score": 10.206273
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Abrag for trading and industry"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "AR <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "df8b28a2-bc92-4b70-bd95-57573550780a",
+            "links": {},
+            "meta": {
+                "score": 10.206049
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Etisal EG"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "bac3b1f6-79c9-4757-a996-9053d6010d39",
+            "links": {},
+            "meta": {
+                "score": 10.205543
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Cost <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "0a0e0471-327a-46bd-b49c-853cde6e8009",
+            "links": {},
+            "meta": {
+                "score": 10.205341
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ENBLOM "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Site <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "87d02328-3545-46be-ac28-5c2be5185dd3",
+            "links": {},
+            "meta": {
+                "score": 10.20525
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Energya Cables"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "c2a61488-c4ce-4142-800d-c03d3a91f142",
+            "links": {},
+            "meta": {
+                "score": 10.205117
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Rashideen Egypt for Trade "
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em> Cashier"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "36923033-d205-4a61-8ae9-243573ad804a",
+            "links": {},
+            "meta": {
+                "score": 10.204244
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "46921368-c1ac-429c-a040-c7d3baeba699",
+            "links": {},
+            "meta": {
+                "score": 10.204021
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "AL-SHABLAN MEDICAL"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "11a08886-b8d9-4628-b607-ab96446c8f1f",
+            "links": {},
+            "meta": {
+                "score": 10.203908
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sharaf Minerals"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "c734fde9-ed03-4832-979a-f868223edaa5",
+            "links": {},
+            "meta": {
+                "score": 10.201038
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Eltakamol"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are Hiring for the biggest companies in Saudi Arabia(Cost <em class=\"search-highlight\">Accountant</em>) Collecting and analyzing data"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Cost <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "570b89f0-fa2c-493f-9859-eb939fbb47b9",
+            "links": {},
+            "meta": {
+                "score": 10.1996765
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Sigma Scan"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em> (Master or Diploma is a Must) - محاسب (ماجستير/دبلومة)"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "26263b04-ddda-42d0-a2df-5ac71de95b00",
+            "links": {},
+            "meta": {
+                "score": 10.196734
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "accountant",
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "d80ef1a3-f755-45a0-893f-1d34f578a536",
+            "links": {},
+            "meta": {
+                "score": 10.18715
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Metal & Steel Innovation"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "46ca9bf2-f921-4e70-9450-0ef18ca6abc8",
+            "links": {},
+            "meta": {
+                "score": 10.181251
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>",
+                            "general <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "From 2-4 years of experience as a General <em class=\"search-highlight\">Accountant</em>.Experience in any ERP system is mustExcellent knowledge"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "dd4d475d-ff6c-4da2-b19a-1e593b6ee548",
+            "links": {},
+            "meta": {
+                "score": 10.175199
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Cairo Three A  for Agricultural and Animal Production"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Tax <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b5b83bf3-43d6-4eb8-a6b7-d78647c4cbf8",
+            "links": {},
+            "meta": {
+                "score": 10.161541
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Gold's Gym Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "0596cb20-8473-493b-b750-5f470b252ce5",
+            "links": {},
+            "meta": {
+                "score": 10.161136
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Canex Aluminum"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "AP <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "f7c8a17c-261f-472c-8e29-e2836dc5e88a",
+            "links": {},
+            "meta": {
+                "score": 10.159701
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "de19edf0-8fb2-454e-911b-f7f4e399cb4c",
+            "links": {},
+            "meta": {
+                "score": 10.157018
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al Safa"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Site <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "0f7c0ce5-1be0-4573-9a6e-96bb7cd0d56f",
+            "links": {},
+            "meta": {
+                "score": 10.156759
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Orient Egypt"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "007039a1-26bd-48a9-b5e2-c92566fe47c7",
+            "links": {},
+            "meta": {
+                "score": 10.154584
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Yat Learning Centers"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "120bfe63-5216-42c2-95a3-4314e1acefc2",
+            "links": {},
+            "meta": {
+                "score": 10.149884
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "09b5bb2d-cc34-4d4e-a827-da1110adfab9",
+            "links": {},
+            "meta": {
+                "score": 10.143849
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nirvana Travel & Tourism"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General Ledger <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "976e55b7-843d-4529-8b50-e23cf40ee639",
+            "links": {},
+            "meta": {
+                "score": 10.140711
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nirvana Travel & Tourism"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Credit <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "a2b2aab7-5b03-4e50-bd9d-8c717d73743d",
+            "links": {},
+            "meta": {
+                "score": 10.140583
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Lewaa El Hamd Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Banking <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "5a3eaf16-55de-47fe-89a7-f66afd8f3d46",
+            "links": {},
+            "meta": {
+                "score": 10.139509
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "502a4ea8-6feb-475c-914c-053462e3bd3b",
+            "links": {},
+            "meta": {
+                "score": 10.135175
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "RAYA Auto"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "b8eafba7-665e-4606-881d-1000a84b4e71",
+            "links": {},
+            "meta": {
+                "score": 10.134988
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Biobusiness"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "bd28d9c7-0c48-42ee-940a-3b6f32be9e54",
+            "links": {},
+            "meta": {
+                "score": 10.13455
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Compu master"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Help Desk <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "3c052e14-b463-47d4-b0c9-6d73fdd95a6b",
+            "links": {},
+            "meta": {
+                "score": 10.133084
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Logistic Group"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "general <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "40301fbb-d588-4542-904a-c0eff64cb875",
+            "links": {},
+            "meta": {
+                "score": 10.131096
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Obegi Chemicals"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "82241115-7c3e-4b9a-a3bd-579c0250c337",
+            "links": {},
+            "meta": {
+                "score": 10.129167
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Madrab zaki"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "af060837-ca0e-4e94-89ed-b58ddf856d00",
+            "links": {},
+            "meta": {
+                "score": 10.121194
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "general <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "An <em class=\"search-highlight\">Accountant</em> helps businesses make critical financial decisions by collecting, tracking, and correcting"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "bdb904c4-084e-46b5-ad72-b2cbd6201b3b",
+            "links": {},
+            "meta": {
+                "score": 10.1173115
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Partner & More"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "f544a199-2467-4354-a93d-c36d26ab075f",
+            "links": {},
+            "meta": {
+                "score": 10.113369
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "International Business Systems I.B.S."
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "a43886c3-44ce-4fd9-85b4-6ad81378cb79",
+            "links": {},
+            "meta": {
+                "score": 10.112873
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "QuadraTech for Information Technology"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Payable <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "94b01e8a-dde6-4a3f-8755-eb55117bf8be",
+            "links": {},
+            "meta": {
+                "score": 10.112781
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Partner & More"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>- Warehouses"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
+            "links": {},
+            "meta": {
+                "score": 10.112764
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Financial <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "1e9d1929-cd2c-44ce-88ec-eccf1661a58e",
+            "links": {},
+            "meta": {
+                "score": 10.112458
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "EL Mohandess Press"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "General <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "1d7b5202-aaf9-4733-aa76-dc4c841f9ade",
+            "links": {},
+            "meta": {
+                "score": 10.111721
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Farm Fresh"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Cost <em class=\"search-highlight\">Accountant</em> & Stock Controller"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "e487f9c4-8d0a-447d-93f7-87275f4cf5f3",
+            "links": {},
+            "meta": {
+                "score": 10.1104555
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        }
+    ],
+    "meta": {
+        "totalResultsCount": 551
+    }
+}

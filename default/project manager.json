@@ -35,8 +35,8 @@
                             "managementResident in upper Egypt is preferred or to be allocated for <em class=\"search-highlight\">projects</em> out of Cairo"
                         ],
                         "value": [
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -60,8 +60,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -88,7 +88,7 @@
             "id": "557c0cba-f387-4410-8313-883eba3c8405",
             "links": {},
             "meta": {
-                "score": 11.741665
+                "score": 11.740372
             },
             "relationships": {},
             "type": "talentSearch"
@@ -120,8 +120,8 @@
                         ],
                         "value": [
                             "Manager",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -134,8 +134,8 @@
                         "value": [
                             "manager",
                             "Management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -159,8 +159,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -188,7 +188,7 @@
             "id": "125dee18-e3a1-41cd-a1be-6d828de170c9",
             "links": {},
             "meta": {
-                "score": 11.722579
+                "score": 11.721151
             },
             "relationships": {},
             "type": "talentSearch"
@@ -231,8 +231,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Project",
-                            "projects"
+                            "projects",
+                            "Project"
                         ]
                     },
                     {
@@ -255,10 +255,10 @@
                             "CEO, in addition to recommendations and observations, and discussing them with the senior executive <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
+                            "projects",
                             "manages",
-                            "Manage",
-                            "projects"
+                            "management",
+                            "Manage"
                         ]
                     },
                     {
@@ -285,7 +285,7 @@
             "id": "f3134833-7282-4b24-a11a-8887755a1d2d",
             "links": {},
             "meta": {
-                "score": 11.710536
+                "score": 11.709086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -317,8 +317,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -330,9 +330,9 @@
                             "<em class=\"search-highlight\">management</em>, or advertisement Artistic or creative skills is a core value"
                         ],
                         "value": [
+                            "projects",
                             "management",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -353,9 +353,9 @@
                             "and evaluating the outcomes and quality of completed projectsAssisting in the identification of the <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
+                            "projects",
                             "managers",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -373,7 +373,7 @@
             "id": "32f6b457-fe0c-4759-a5ec-58145d6dabd7",
             "links": {},
             "meta": {
-                "score": 11.680553
+                "score": 11.67899
             },
             "relationships": {},
             "type": "talentSearch"
@@ -414,10 +414,10 @@
                             "knowledge is neededProfessional Knowledge of MS <em class=\"search-highlight\">Project</em> is a MustCertification as a <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "project",
-                            "management",
                             "Management",
-                            "Project"
+                            "management",
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -461,7 +461,7 @@
             "id": "1764c7be-8659-408c-a61e-593248cb0499",
             "links": {},
             "meta": {
-                "score": 11.679452
+                "score": 11.677857
             },
             "relationships": {},
             "type": "talentSearch"
@@ -503,8 +503,8 @@
                             "<em class=\"search-highlight\">management</em> softwarePersonal Skills"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "project"
                         ]
                     },
@@ -528,9 +528,9 @@
                             "submissions with claim <em class=\"search-highlight\">manager</em>.Monitors the ongoing risk & opportunity <em class=\"search-highlight\">management</em> during all <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
-                            "management",
                             "manager",
                             "managements",
+                            "management",
                             "project"
                         ]
                     },
@@ -558,7 +558,7 @@
             "id": "f7fee180-5ffd-4d49-a674-2ecf42f03b6f",
             "links": {},
             "meta": {
-                "score": 11.674963
+                "score": 11.673374
             },
             "relationships": {},
             "type": "talentSearch"
@@ -610,10 +610,10 @@
                             "are complied with.Day-to-day <em class=\"search-highlight\">management</em> of the site, including supervising and monitoring the site labor"
                         ],
                         "value": [
-                            "managers",
                             "management",
-                            "Project",
-                            "projects"
+                            "projects",
+                            "managers",
+                            "Project"
                         ]
                     },
                     {
@@ -640,7 +640,7 @@
             "id": "8991a81f-005a-481a-b979-c7bf28723d93",
             "links": {},
             "meta": {
-                "score": 11.654155
+                "score": 11.65258
             },
             "relationships": {},
             "type": "talentSearch"
@@ -683,8 +683,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -706,10 +706,10 @@
                             "back on track.Clear communication of team progress and needs.Administration and maintenance of the <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
-                            "project",
+                            "projects",
                             "Manager",
                             "Project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -736,7 +736,7 @@
             "id": "1de49336-aee9-4519-bba7-f94dc87604ea",
             "links": {},
             "meta": {
-                "score": 11.583185
+                "score": 11.581311
             },
             "relationships": {},
             "type": "talentSearch"
@@ -778,8 +778,8 @@
                             "provisionsRevenue and Cost analysisSupplier <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "project"
                         ]
                     },
@@ -818,7 +818,7 @@
             "id": "463050b3-13ea-4fe1-9c42-6fe501ac9840",
             "links": {},
             "meta": {
-                "score": 11.556528
+                "score": 11.554483
             },
             "relationships": {},
             "type": "talentSearch"
@@ -861,10 +861,10 @@
                             "ManagementUnderstanding of SAP Solution <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "management",
                             "Manager",
-                            "project",
-                            "Project"
+                            "management",
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -887,13 +887,13 @@
                             "of enterprise <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em> methodology, standards, and processes.Coach to clarify assignments"
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
-                            "projects",
-                            "project’s",
                             "Management",
+                            "projects",
+                            "management",
                             "project",
-                            "management"
+                            "manage",
+                            "Manage",
+                            "project’s"
                         ]
                     },
                     {
@@ -920,7 +920,7 @@
             "id": "96ac31bc-db21-498f-bffc-d4f5f6ce478a",
             "links": {},
             "meta": {
-                "score": 11.537176
+                "score": 11.535128
             },
             "relationships": {},
             "type": "talentSearch"
@@ -981,12 +981,12 @@
                             "and lead all <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">managers</em> for different construction <em class=\"search-highlight\">projects</em>.Liaising with the client, other construction"
                         ],
                         "value": [
-                            "Manage",
                             "projects",
-                            "Manager",
-                            "project",
                             "managers",
-                            "Projects"
+                            "project",
+                            "Manage",
+                            "Projects",
+                            "Manager"
                         ]
                     },
                     {
@@ -1013,7 +1013,7 @@
             "id": "d12cd4d1-6173-4cbf-b229-65d40325561f",
             "links": {},
             "meta": {
-                "score": 11.512661
+                "score": 11.510484
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1055,9 +1055,9 @@
                             "problem-solving abilityHigh degree of professionalism and integrityExceptional organization and time <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "managing",
                             "management",
-                            "Project"
+                            "Project",
+                            "managing"
                         ]
                     },
                     {
@@ -1080,8 +1080,8 @@
                             "CoordinatorsSupport the ongoing business development efforts with planning and estimation of potential <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
-                            "management",
                             "Manager",
+                            "management",
                             "Project",
                             "projects"
                         ]
@@ -1101,7 +1101,7 @@
             "id": "75dd7cf6-92bc-4923-a422-fb749dda39db",
             "links": {},
             "meta": {
-                "score": 11.481849
+                "score": 11.479701
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1171,7 +1171,7 @@
             "id": "d1f3d1b3-6183-4c30-bace-22139e81f813",
             "links": {},
             "meta": {
-                "score": 11.472698
+                "score": 11.470542
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1213,11 +1213,11 @@
                             "<em class=\"search-highlight\">management</em> software tools+5 years of experience in <em class=\"search-highlight\">managing</em> IT <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
-                            "projects",
-                            "managing",
                             "Management",
-                            "project",
-                            "management"
+                            "managing",
+                            "management",
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -1259,7 +1259,7 @@
             "id": "68c08bda-fe8d-48ff-9306-bff80b7620bd",
             "links": {},
             "meta": {
-                "score": 11.462864
+                "score": 11.460614
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1300,9 +1300,9 @@
                             "in English (written and spoken)Courses in <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em> and planning are a must.Proficient user"
                         ],
                         "value": [
-                            "project",
                             "management",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -1350,7 +1350,7 @@
             "id": "780b1849-2bbf-4307-9d74-add6760b6f06",
             "links": {},
             "meta": {
-                "score": 11.4537325
+                "score": 11.451422
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1414,11 +1414,11 @@
                             "AM start) with a possibility to work assigned hours and/or adjust work schedule as requested by the <em class=\"search-highlight\">manager</em>21"
                         ],
                         "value": [
-                            "projects",
-                            "managed",
                             "manager",
+                            "projects",
+                            "Project",
                             "Manager",
-                            "Project"
+                            "managed"
                         ]
                     },
                     {
@@ -1445,7 +1445,7 @@
             "id": "0d5fd1db-49f9-486c-a144-5168326c6582",
             "links": {},
             "meta": {
-                "score": 11.450925
+                "score": 11.448643
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1488,9 +1488,9 @@
                             "<em class=\"search-highlight\">management</em> offices experience or equivalent."
                         ],
                         "value": [
-                            "project",
                             "management",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -1513,13 +1513,13 @@
                             "multiple and concurrent <em class=\"search-highlight\">projects</em> at the same time."
                         ],
                         "value": [
-                            "projects",
-                            "project’s",
                             "Management",
-                            "project",
-                            "Project",
                             "management",
-                            "Projects"
+                            "projects",
+                            "Project",
+                            "project",
+                            "Projects",
+                            "project’s"
                         ]
                     },
                     {
@@ -1537,7 +1537,7 @@
             "id": "cb81a606-a043-4c57-8237-e081e0e6222d",
             "links": {},
             "meta": {
-                "score": 11.437552
+                "score": 11.435256
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1580,10 +1580,10 @@
                             "<em class=\"search-highlight\">management</em> knowledgePrevious experience in the Information Technology field is a must."
                         ],
                         "value": [
-                            "project",
                             "management",
                             "Manager",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -1606,13 +1606,13 @@
                             "evaluation, and troubleshooting of all products in all stages of completion.<em class=\"search-highlight\">Manage</em> external contracts"
                         ],
                         "value": [
-                            "Manage",
-                            "projects",
                             "managing",
                             "manager",
-                            "Manager",
+                            "projects",
+                            "Project",
                             "project",
-                            "Project"
+                            "Manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -1639,7 +1639,7 @@
             "id": "cab4ff4d-4bce-4063-8575-7dc2ac88a0d9",
             "links": {},
             "meta": {
-                "score": 11.434922
+                "score": 11.432613
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1681,10 +1681,10 @@
                         ],
                         "value": [
                             "Management",
-                            "Manager",
-                            "project",
+                            "management",
                             "Project",
-                            "management"
+                            "project",
+                            "Manager"
                         ]
                     },
                     {
@@ -1707,12 +1707,12 @@
                             "schedule targets while <em class=\"search-highlight\">managing</em> external vendors where applicable.  "
                         ],
                         "value": [
-                            "project(s",
-                            "managing",
                             "Management",
-                            "Manager",
+                            "managing",
+                            "project(s",
                             "Project",
-                            "Projects"
+                            "Projects",
+                            "Manager"
                         ]
                     },
                     {
@@ -1739,7 +1739,7 @@
             "id": "7d855464-9f99-4e13-aae9-70f69dbbd47a",
             "links": {},
             "meta": {
-                "score": 11.43073
+                "score": 11.428412
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1804,12 +1804,12 @@
                             "of the design.Prepare periodic reports for <em class=\"search-highlight\">management</em> including the status of budgets, variance/change"
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
                             "Management",
-                            "Manager",
+                            "management",
                             "project",
-                            "management"
+                            "manage",
+                            "Manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -1836,7 +1836,7 @@
             "id": "428e8aa2-b105-4400-aba8-2847b356ae61",
             "links": {},
             "meta": {
-                "score": 11.4146805
+                "score": 11.41235
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1884,8 +1884,8 @@
                             "requirements, drawings, specifications, designs and codes.Deliver complete, accurate, and coordinated <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -1912,7 +1912,7 @@
             "id": "9c276545-c9a0-4292-83a2-b3d110d903e1",
             "links": {},
             "meta": {
-                "score": 11.411872
+                "score": 11.409555
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2009,7 +2009,7 @@
             "id": "863c149d-cbf2-46d6-b390-6c8c2a14bed8",
             "links": {},
             "meta": {
-                "score": 11.38672
+                "score": 11.38429
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2049,8 +2049,8 @@
                             "combination of education, experience, expertise, and competency to perform successfully according to the <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -2073,8 +2073,8 @@
                         ],
                         "value": [
                             "Manager",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -2101,7 +2101,7 @@
             "id": "9f8c9b79-72e5-4882-87f1-6209c23bbdf7",
             "links": {},
             "meta": {
-                "score": 11.367347
+                "score": 11.364919
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2142,10 +2142,10 @@
                             "<em class=\"search-highlight\">management</em> and software development.Good working knowledge of <em class=\"search-highlight\">project</em> estimation techniques.Excellent"
                         ],
                         "value": [
-                            "project",
                             "management",
                             "Manager",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -2168,12 +2168,12 @@
                             "and adheres to the deadlines.Creating a <em class=\"search-highlight\">project</em> budget and ensuring the <em class=\"search-highlight\">project</em> adheres to the budget"
                         ],
                         "value": [
-                            "projects",
                             "managing",
                             "manager",
-                            "Manager",
+                            "projects",
+                            "Project",
                             "project",
-                            "Project"
+                            "Manager"
                         ]
                     },
                     {
@@ -2200,7 +2200,7 @@
             "id": "444e7393-02cc-4115-a008-56fab0458031",
             "links": {},
             "meta": {
-                "score": 11.337593
+                "score": 11.33505
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2252,9 +2252,9 @@
                             "Provide input to the Section <em class=\"search-highlight\">Manager</em> on the performance of (line) reports. "
                         ],
                         "value": [
-                            "management",
-                            "Managers",
                             "Manager",
+                            "Managers",
+                            "management",
                             "project"
                         ]
                     },
@@ -2282,7 +2282,7 @@
             "id": "291cc9ec-7944-4b95-8486-3d463ab3277f",
             "links": {},
             "meta": {
-                "score": 11.333065
+                "score": 11.330591
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2345,10 +2345,10 @@
                             "inspections when necessary, oversee change order process and <em class=\"search-highlight\">manage</em> other <em class=\"search-highlight\">project</em> accounting functions"
                         ],
                         "value": [
-                            "management",
+                            "projects",
                             "manage",
-                            "project",
-                            "projects"
+                            "management",
+                            "project"
                         ]
                     },
                     {
@@ -2375,7 +2375,7 @@
             "id": "c0dfa6cb-1d96-40e2-b7a2-64fdc4ed323b",
             "links": {},
             "meta": {
-                "score": 11.309506
+                "score": 11.306913
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2475,7 +2475,7 @@
             "id": "235d7b80-ae59-4474-8f53-212657c44f61",
             "links": {},
             "meta": {
-                "score": 11.223046
+                "score": 11.220277
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2516,10 +2516,10 @@
                             "to work independently.Ability to <em class=\"search-highlight\">manage</em> competing priorities.Solid understanding of physical security"
                         ],
                         "value": [
-                            "manage",
                             "Management",
                             "Managing",
                             "Project",
+                            "manage",
                             "Projects"
                         ]
                     },
@@ -2545,8 +2545,8 @@
                         "value": [
                             "manages",
                             "manager",
-                            "project",
                             "management",
+                            "project",
                             "Projects"
                         ]
                     },
@@ -2565,7 +2565,7 @@
             "id": "481e54ba-ae3d-4aee-b9a7-46ab026cbfe0",
             "links": {},
             "meta": {
-                "score": 11.185221
+                "score": 11.182387
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2594,8 +2594,8 @@
                             "You will be <em class=\"search-highlight\">managing</em> USA accounts and communicating with other team members as well.You will be assisting"
                         ],
                         "value": [
-                            "managing",
                             "manager",
+                            "managing",
                             "project"
                         ]
                     },
@@ -2623,7 +2623,7 @@
             "id": "769ad994-4630-40da-864e-c446d5da3896",
             "links": {},
             "meta": {
-                "score": 11.109357
+                "score": 11.107177
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2652,8 +2652,8 @@
                             "You will be <em class=\"search-highlight\">managing</em> USA accounts and communicating with other team members as well.You will be assisting"
                         ],
                         "value": [
-                            "managing",
                             "manager",
+                            "managing",
                             "project"
                         ]
                     },
@@ -2681,7 +2681,7 @@
             "id": "674d80c9-d2f9-4ac4-b7ec-c1406e039ce4",
             "links": {},
             "meta": {
-                "score": 11.109313
+                "score": 11.107133
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2747,10 +2747,10 @@
                             "estimations with the resources and stakeholders.Successfully close and deliver software engineering <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
-                            "management",
+                            "projects",
                             "manage",
-                            "project",
-                            "projects"
+                            "management",
+                            "project"
                         ]
                     },
                     {
@@ -2777,7 +2777,7 @@
             "id": "96565c97-e438-4a50-a952-fe65d55b61c4",
             "links": {},
             "meta": {
-                "score": 11.101091
+                "score": 11.098091
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2865,7 +2865,7 @@
             "id": "79795e37-d171-4cd7-b8f2-080c8bbb9a66",
             "links": {},
             "meta": {
-                "score": 11.033162
+                "score": 11.030016
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2926,9 +2926,9 @@
                             "<em class=\"search-highlight\">project</em> performance.Facilitates decision-making using all modes of communication.Provide the customer"
                         ],
                         "value": [
-                            "project",
                             "Managing",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -2946,7 +2946,7 @@
             "id": "382d2af2-9ce6-45e8-975b-d8e360c1c4bb",
             "links": {},
             "meta": {
-                "score": 11.006603
+                "score": 11.003472
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2989,11 +2989,11 @@
                             "skillsSuperior <em class=\"search-highlight\">management</em> and delegation capabilitiesLeadership, <em class=\"search-highlight\">project</em>, and time <em class=\"search-highlight\">management</em> skills"
                         ],
                         "value": [
-                            "projects",
                             "Management",
-                            "project",
+                            "management",
+                            "projects",
                             "Project",
-                            "management"
+                            "project"
                         ]
                     },
                     {
@@ -3032,7 +3032,7 @@
             "id": "68454e95-3b73-4c4a-9946-686caa8ae1ff",
             "links": {},
             "meta": {
-                "score": 10.94676
+                "score": 10.943518
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3088,8 +3088,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -3107,7 +3107,7 @@
             "id": "303ca7f2-bf4b-4b5d-a2a3-a7fc612f8f95",
             "links": {},
             "meta": {
-                "score": 10.909791
+                "score": 10.906532
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3178,7 +3178,7 @@
             "id": "3193114e-b1dd-46c1-be7a-681899836ad7",
             "links": {},
             "meta": {
-                "score": 10.868998
+                "score": 10.865683
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3220,8 +3220,8 @@
                             "Professional (PMP) Experience with <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em> software toolsDeveloping and Tracking BudgetsProcess"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "project"
                         ]
                     },
@@ -3273,7 +3273,7 @@
             "id": "0be57571-6fd7-4f27-89cb-9bb0064aa5bc",
             "links": {},
             "meta": {
-                "score": 10.793422
+                "score": 10.789956
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3303,8 +3303,8 @@
                             "<em class=\"search-highlight\">Project</em> <em class=\"search-highlight\">manager</em>"
                         ],
                         "value": [
-                            "manager",
                             "Management",
+                            "manager",
                             "Project"
                         ]
                     },
@@ -3317,10 +3317,10 @@
                             "skillsStrong interpersonal skills and extremely resourcefulProven ability to complete <em class=\"search-highlight\">projects</em> according"
                         ],
                         "value": [
-                            "management",
                             "Management",
-                            "project",
-                            "projects"
+                            "management",
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -3343,10 +3343,10 @@
                             "approve fee submissions, proposals or tenders in accordance .Review and make recommendations to the <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "project",
                             "Manager",
                             "manage",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -3373,7 +3373,7 @@
             "id": "8296d250-931b-4e3e-8fa6-c1550f0ca26b",
             "links": {},
             "meta": {
-                "score": 10.770176
+                "score": 10.766676
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3403,9 +3403,9 @@
                             "ms <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
-                            "project",
                             "Management",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -3417,8 +3417,8 @@
                         ],
                         "value": [
                             "Management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -3441,8 +3441,8 @@
                             "new hire training.Consistently <em class=\"search-highlight\">manage</em> <em class=\"search-highlight\">project</em> profitability.Coordinates regular client visits to the"
                         ],
                         "value": [
-                            "management",
                             "manages",
+                            "management",
                             "manage",
                             "project"
                         ]
@@ -3462,7 +3462,7 @@
             "id": "3cfec126-61e3-4adc-bd1a-0db5011a8636",
             "links": {},
             "meta": {
-                "score": 10.764919
+                "score": 10.761412
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3505,8 +3505,8 @@
                         ],
                         "value": [
                             "Management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -3530,10 +3530,10 @@
                         ],
                         "value": [
                             "projects",
-                            "Manager",
-                            "project",
+                            "management",
                             "Project",
-                            "management"
+                            "project",
+                            "Manager"
                         ]
                     },
                     {
@@ -3551,7 +3551,7 @@
             "id": "c5d49629-24c8-4400-a4e9-5b6e00fb2f23",
             "links": {},
             "meta": {
-                "score": 10.762195
+                "score": 10.758689
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3593,8 +3593,8 @@
                             "alternatives, and select appropriate solutions.General Competencies expected of all Professionals and <em class=\"search-highlight\">Managers</em>"
                         ],
                         "value": [
-                            "managing",
                             "Managers",
+                            "managing",
                             "project"
                         ]
                     },
@@ -3618,11 +3618,11 @@
                             ", and communicates <em class=\"search-highlight\">project</em> progress/status to senior <em class=\"search-highlight\">management</em>.Schedules, coordinates and attends meetings"
                         ],
                         "value": [
-                            "projects",
-                            "project",
-                            "managers",
+                            "Manages",
                             "management",
-                            "Manages"
+                            "projects",
+                            "managers",
+                            "project"
                         ]
                     },
                     {
@@ -3649,7 +3649,7 @@
             "id": "2c92c38a-fdd8-4975-9e98-e199baa0481a",
             "links": {},
             "meta": {
-                "score": 10.746654
+                "score": 10.743153
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3714,10 +3714,10 @@
                             "met.Planning the timeline of each <em class=\"search-highlight\">project</em> and forecasting multiple complex <em class=\"search-highlight\">projects</em> with time- and resource-dependent"
                         ],
                         "value": [
-                            "project",
-                            "management",
                             "Managing",
-                            "projects"
+                            "management",
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -3735,7 +3735,7 @@
             "id": "0e62fbc5-ca2d-434e-ac09-55ce1038c3f8",
             "links": {},
             "meta": {
-                "score": 10.699077
+                "score": 10.69549
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3787,9 +3787,9 @@
                             "deliverables and inter-dependencies associated with <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
+                            "projects",
                             "management",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -3816,7 +3816,7 @@
             "id": "118fa96c-5fd6-441d-978e-2dc56f876da9",
             "links": {},
             "meta": {
-                "score": 10.681894
+                "score": 10.678327
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3882,7 +3882,7 @@
             "id": "7940daf7-a63f-42fc-add3-ea07532525e8",
             "links": {},
             "meta": {
-                "score": 10.572252
+                "score": 10.568818
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3913,8 +3913,8 @@
                             "<em class=\"search-highlight\">Project</em>"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "Project"
                         ]
                     },
@@ -3950,10 +3950,10 @@
                             "of <em class=\"search-highlight\">projects</em>.Supporting the coordination and <em class=\"search-highlight\">management</em> of <em class=\"search-highlight\">projects</em>.Researching information as required.Performing"
                         ],
                         "value": [
-                            "management",
                             "manager",
-                            "project",
-                            "projects"
+                            "management",
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -3971,7 +3971,7 @@
             "id": "b640395b-5187-4236-a722-3d7c9a8970a0",
             "links": {},
             "meta": {
-                "score": 10.512686
+                "score": 10.508877
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4035,7 +4035,7 @@
             "id": "2e0acd75-aacc-4580-9f52-322c02b44dae",
             "links": {},
             "meta": {
-                "score": 10.458662
+                "score": 10.455287
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4096,9 +4096,9 @@
                             "change order quotations.Communication with warehouse for supplies allocation and preparation.Evaluate <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
+                            "projects",
                             "Manage",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -4125,7 +4125,7 @@
             "id": "5af72a28-d875-4d92-b9a4-c5ebbb81274d",
             "links": {},
             "meta": {
-                "score": 10.420026
+                "score": 10.416113
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4168,8 +4168,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -4182,8 +4182,8 @@
                             "and adheres to the deadlines.Creating a <em class=\"search-highlight\">project</em> budget and ensuring the <em class=\"search-highlight\">project</em> adheres to the budget"
                         ],
                         "value": [
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -4201,7 +4201,7 @@
             "id": "b918fc11-5215-4395-99ff-8a1e2d05c756",
             "links": {},
             "meta": {
-                "score": 10.400857
+                "score": 10.396935
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4268,10 +4268,10 @@
                             ", operations department, and <em class=\"search-highlight\">projects</em>’ <em class=\"search-highlight\">managers</em> on the <em class=\"search-highlight\">projects</em>’ statuses and updates reflecting the"
                         ],
                         "value": [
-                            "managers",
+                            "projects",
                             "management",
-                            "Project",
-                            "projects"
+                            "managers",
+                            "Project"
                         ]
                     },
                     {
@@ -4298,7 +4298,7 @@
             "id": "651baabe-8ffe-44bb-83c8-2fa10c214d21",
             "links": {},
             "meta": {
-                "score": 10.384229
+                "score": 10.380287
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4343,15 +4343,15 @@
                             "meet budgetDevelop and <em class=\"search-highlight\">manage</em> a detailed <em class=\"search-highlight\">project</em> schedule and work planProvide <em class=\"search-highlight\">project</em> updates on a"
                         ],
                         "value": [
-                            "Manage",
-                            "project(s",
-                            "manage",
-                            "Manager",
-                            "project",
-                            "Project",
-                            "managers",
                             "Managing",
-                            "management"
+                            "project(s",
+                            "management",
+                            "managers",
+                            "Project",
+                            "project",
+                            "manage",
+                            "Manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -4378,7 +4378,7 @@
             "id": "34bbfd2a-25d1-4699-a6b8-d6eae7dedc8a",
             "links": {},
             "meta": {
-                "score": 10.286599
+                "score": 10.282593
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4421,8 +4421,8 @@
                             "industries and technologies.Bonus Points:Familiarity with software developmentGood sales skills & account <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
-                            "Management"
+                            "Management",
+                            "management"
                         ]
                     },
                     {
@@ -4446,12 +4446,12 @@
                             "Collaborate with account <em class=\"search-highlight\">managers</em>, designers,  developers and other team members on different projectsResolve"
                         ],
                         "value": [
-                            "manage",
-                            "projects",
                             "managing",
                             "manager",
+                            "projects",
+                            "managers",
                             "project",
-                            "managers"
+                            "manage"
                         ]
                     },
                     {
@@ -4469,7 +4469,7 @@
             "id": "8f12750e-179c-4cbe-90d3-ead753c4fa62",
             "links": {},
             "meta": {
-                "score": 10.286221
+                "score": 10.282202
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4509,8 +4509,8 @@
                             "emails between all <em class=\"search-highlight\">project</em> stockholders.Help his team prioritize the latest set of technical issuesAssist"
                         ],
                         "value": [
-                            "project",
-                            "manage"
+                            "manage",
+                            "project"
                         ]
                     },
                     {
@@ -4530,8 +4530,8 @@
                             "team to increase their agility at a pace that is sustainable and comfortable for the team.Plan for and <em class=\"search-highlight\">manage</em>"
                         ],
                         "value": [
-                            "Manage",
-                            "manage"
+                            "manage",
+                            "Manage"
                         ]
                     },
                     {
@@ -4558,7 +4558,7 @@
             "id": "4fd34ed5-e075-4560-9429-fd7976db17ae",
             "links": {},
             "meta": {
-                "score": 10.283388
+                "score": 10.279344
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4603,8 +4603,8 @@
                         ],
                         "value": [
                             "manager",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -4652,7 +4652,7 @@
             "id": "d876db2b-5daa-4404-b199-471df8d71275",
             "links": {},
             "meta": {
-                "score": 10.217283
+                "score": 10.213168
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4702,8 +4702,8 @@
                         ],
                         "value": [
                             "manager",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -4730,7 +4730,7 @@
             "id": "4b04d4a1-b254-4102-a73c-772779e11cc0",
             "links": {},
             "meta": {
-                "score": 10.188574
+                "score": 10.184463
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4800,7 +4800,7 @@
             "id": "955f8163-fed5-45fa-b3ca-c0a9ff39b8b3",
             "links": {},
             "meta": {
-                "score": 10.1806555
+                "score": 10.176539
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4840,10 +4840,10 @@
                             "attention to details.Excellent communication skills, literacy of common business etiquette and conflict <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
                             "Management",
-                            "project",
-                            "Project"
+                            "management",
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -4866,10 +4866,10 @@
                             "the <em class=\"search-highlight\">project</em> status to <em class=\"search-highlight\">Managers</em> on a regular basisPerform <em class=\"search-highlight\">project</em> analysis to identify areas for improvement"
                         ],
                         "value": [
-                            "managing",
                             "Managers",
-                            "project",
-                            "projects"
+                            "projects",
+                            "managing",
+                            "project"
                         ]
                     },
                     {
@@ -4887,7 +4887,7 @@
             "id": "9e93196d-d3c9-4854-80d9-70f2fc2a0649",
             "links": {},
             "meta": {
-                "score": 10.029533
+                "score": 10.025258
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4927,8 +4927,8 @@
                             "or related fieldProject <em class=\"search-highlight\">management</em> software proficientEffective communication skills to interface with"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "Project"
                         ]
                     },
@@ -4952,11 +4952,11 @@
                             "the day-to-day running of the <em class=\"search-highlight\">Project</em>.Responsible for <em class=\"search-highlight\">managing</em> a Staff/Labor in the projectTo be overall"
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
                             "managing",
+                            "Project",
                             "project",
-                            "Project"
+                            "manage",
+                            "Manage"
                         ]
                     },
                     {
@@ -4983,7 +4983,7 @@
             "id": "0bcc96f1-d131-4d18-9ac4-55dd9b95a521",
             "links": {},
             "meta": {
-                "score": 10.018115
+                "score": 10.013822
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5023,10 +5023,10 @@
                             "cross-functional <em class=\"search-highlight\">project</em> teams.<em class=\"search-highlight\">Project</em> <em class=\"search-highlight\">management</em> skills are essential to the role, as is significant"
                         ],
                         "value": [
-                            "project",
-                            "management",
                             "manage",
-                            "Project"
+                            "management",
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -5049,11 +5049,11 @@
                             "to internal teams and assist with schedule <em class=\"search-highlight\">management</em>.Make sure that clients’ needs are met as <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
-                            "Manage",
                             "projects",
-                            "Manager",
+                            "management",
                             "project",
-                            "management"
+                            "Manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -5080,7 +5080,7 @@
             "id": "8aae004c-b4cc-445a-99c9-0a4e8645bed2",
             "links": {},
             "meta": {
-                "score": 9.81645
+                "score": 9.812005
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5142,9 +5142,9 @@
                             ", operations department, and <em class=\"search-highlight\">projects</em>’ <em class=\"search-highlight\">managers</em> on the <em class=\"search-highlight\">projects</em>’ statuses and updates reflecting the"
                         ],
                         "value": [
-                            "managers",
+                            "projects",
                             "management",
-                            "projects"
+                            "managers"
                         ]
                     },
                     {
@@ -5171,7 +5171,7 @@
             "id": "d613fef2-efa7-4a55-a736-edadca7983dd",
             "links": {},
             "meta": {
-                "score": 9.786307
+                "score": 9.781848
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5237,8 +5237,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -5265,7 +5265,7 @@
             "id": "9779ae2a-f106-43da-aba3-a5e270ad55ac",
             "links": {},
             "meta": {
-                "score": 9.762333
+                "score": 9.757855
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5330,10 +5330,10 @@
                             "actual), order booking, OTD rate and etc.Attend meetings regularly and report related conditions to <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "project",
                             "management",
+                            "projects",
                             "Project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -5351,7 +5351,7 @@
             "id": "39cf4cd0-bedb-494d-8db2-94e1c9c5e5d5",
             "links": {},
             "meta": {
-                "score": 9.678558
+                "score": 9.674021
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5430,7 +5430,7 @@
             "id": "a488e09f-d9d0-46b1-b991-1c8455a82d9d",
             "links": {},
             "meta": {
-                "score": 9.6376095
+                "score": 9.633045
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5460,8 +5460,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -5503,11 +5503,11 @@
                             "modifications.Submitting Weekly / Monthly reports showing work progress /Problems & solutions / pending issues to General <em class=\"search-highlight\">Manager</em>.Control"
                         ],
                         "value": [
-                            "Manage",
                             "projects",
-                            "Manager",
                             "Project",
-                            "Projects"
+                            "Manage",
+                            "Projects",
+                            "Manager"
                         ]
                     },
                     {
@@ -5524,7 +5524,7 @@
             "id": "54b128ad-04d4-406b-bed0-6ab79f6182fc",
             "links": {},
             "meta": {
-                "score": 9.630524
+                "score": 9.629327
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5565,9 +5565,9 @@
                         ],
                         "value": [
                             "management",
+                            "projects",
                             "Project",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -5617,7 +5617,7 @@
             "id": "aea33cab-3d25-44d3-b82f-a977220c33b4",
             "links": {},
             "meta": {
-                "score": 9.578161
+                "score": 9.577137
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5677,8 +5677,8 @@
                             "conferencesWork with copywriters and designers to ensure content is informative and appealingCollaborate <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
-                            "manage"
+                            "manage",
+                            "management"
                         ]
                     },
                     {
@@ -5705,7 +5705,7 @@
             "id": "18876920-f3fa-4b6c-8105-68b0ab77b366",
             "links": {},
             "meta": {
-                "score": 9.554505
+                "score": 9.549884
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5759,10 +5759,10 @@
                             "administrative duties which include <em class=\"search-highlight\">project</em> closures, Translation Memory updates, and folder structure"
                         ],
                         "value": [
+                            "projects",
                             "management",
                             "Manage",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -5779,7 +5779,7 @@
             "id": "1dbf5e58-be19-41b0-9762-47ebadfab30e",
             "links": {},
             "meta": {
-                "score": 9.547585
+                "score": 9.546572
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5839,8 +5839,8 @@
                             "reviews.Providing mentorship to team members.Preparing daily, weekly, and monthly periodic reports for <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
                             "manager",
+                            "management",
                             "projects"
                         ]
                     },
@@ -5858,7 +5858,7 @@
             "id": "2917d08b-4392-4407-8ae0-52a5afbab56b",
             "links": {},
             "meta": {
-                "score": 9.53893
+                "score": 9.537766
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5889,8 +5889,8 @@
                         ],
                         "value": [
                             "Management",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -5901,8 +5901,8 @@
                             "timely delivery to multiple locations of pipe valves, fittings and specialty items required for the <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -5924,9 +5924,9 @@
                             "order quotations.- Communication with warehouse for supplies allocation and preparation.- Evaluate <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
+                            "projects",
                             "Manage",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -5953,7 +5953,7 @@
             "id": "fdc56cdc-e809-4eee-afe0-b518807effb5",
             "links": {},
             "meta": {
-                "score": 9.529319
+                "score": 9.524697
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6008,9 +6008,9 @@
                         ],
                         "value": [
                             "Project",
+                            "projects",
                             "Manage",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -6028,7 +6028,7 @@
             "id": "18f458fb-2d53-45cf-87b6-c1b8badff067",
             "links": {},
             "meta": {
-                "score": 9.527383
+                "score": 9.522774
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6059,8 +6059,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -6073,10 +6073,10 @@
                             "risks and maneuvers to avoid themThe capability of developing effective reporting that would include (<em class=\"search-highlight\">Project</em>"
                         ],
                         "value": [
-                            "project",
                             "management",
                             "Manager",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -6099,12 +6099,12 @@
                             "to <em class=\"search-highlight\">management</em> as neededIssue all <em class=\"search-highlight\">projects</em>’ invoices and paymentsManage the relationship with all internal"
                         ],
                         "value": [
-                            "manage",
                             "projects",
-                            "Manager",
-                            "project",
+                            "management",
                             "Project",
-                            "management"
+                            "project",
+                            "manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -6122,7 +6122,7 @@
             "id": "b4d13b11-881a-4291-a10d-9311857c6344",
             "links": {},
             "meta": {
-                "score": 9.518745
+                "score": 9.514121
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6152,8 +6152,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -6185,9 +6185,9 @@
                             "<em class=\"search-highlight\">manager</em>.Attends progress meetings, discusses, and suggests technical proposals.Supports planning and"
                         ],
                         "value": [
-                            "project",
                             "manager",
-                            "manage"
+                            "manage",
+                            "project"
                         ]
                     },
                     {
@@ -6214,7 +6214,7 @@
             "id": "b042ca40-8f8d-42f5-8f6d-c678fa19735e",
             "links": {},
             "meta": {
-                "score": 9.513415
+                "score": 9.508782
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6254,8 +6254,8 @@
                             "accuracyAttention to detailsGood communication & coordination with various people involved in the processGood time <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
-                            "projectAbility"
+                            "projectAbility",
+                            "management"
                         ]
                     },
                     {
@@ -6278,11 +6278,11 @@
                             ", for full <em class=\"search-highlight\">projects</em>’ scope achievability and meeting deadlines.Disseminate, review and present clinical"
                         ],
                         "value": [
-                            "projects",
-                            "Managers",
                             "Managing",
-                            "project",
-                            "management"
+                            "Managers",
+                            "management",
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -6299,7 +6299,7 @@
             "id": "233aace9-7ef3-4956-9d0d-1cba0b4efdc1",
             "links": {},
             "meta": {
-                "score": 9.503674
+                "score": 9.502404
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6331,8 +6331,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Project",
-                            "MANAGEMENT"
+                            "MANAGEMENT",
+                            "Project"
                         ]
                     },
                     {
@@ -6364,10 +6364,10 @@
                             "team members.Create a <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em> calendar for fulfilling each goal and objective."
                         ],
                         "value": [
-                            "managed",
                             "management",
+                            "projects",
                             "project",
-                            "projects"
+                            "managed"
                         ]
                     },
                     {
@@ -6384,7 +6384,7 @@
             "id": "17e48e91-179b-40be-a728-68cea42c4222",
             "links": {},
             "meta": {
-                "score": 9.46357
+                "score": 9.462169
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6448,12 +6448,12 @@
                             "in continuous improvement of development practices and <em class=\"search-highlight\">Project</em> <em class=\"search-highlight\">Management</em> practices "
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
-                            "projects",
                             "Management",
+                            "projects",
+                            "Project",
                             "project",
-                            "Project"
+                            "manage",
+                            "Manage"
                         ]
                     },
                     {
@@ -6470,7 +6470,7 @@
             "id": "f37d2afd-e6af-40fb-bc4f-3cd68cb50e99",
             "links": {},
             "meta": {
-                "score": 9.416444
+                "score": 9.414784
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6509,9 +6509,9 @@
                             "for international donors preferably including experience with USG funded <em class=\"search-highlight\">projects</em>;Experience with QuickBooks"
                         ],
                         "value": [
+                            "projects",
                             "management",
-                            "Project",
-                            "projects"
+                            "Project"
                         ]
                     },
                     {
@@ -6524,11 +6524,11 @@
                             "for all financial related matters;Ensure that all expenses incurred by the <em class=\"search-highlight\">project</em> are paid for in a"
                         ],
                         "value": [
-                            "projects",
                             "Management",
-                            "projecting",
+                            "projects",
+                            "Project",
                             "project",
-                            "Project"
+                            "projecting"
                         ]
                     },
                     {
@@ -6545,7 +6545,7 @@
             "id": "bcac0910-f3d3-4e20-96b7-769db3d882af",
             "links": {},
             "meta": {
-                "score": 9.36531
+                "score": 9.364271
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6587,9 +6587,9 @@
                             "tasks.Problem solver with creative approachOutstanding attention to details and ability to plan complex <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
+                            "projects",
                             "management",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -6613,8 +6613,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -6631,7 +6631,7 @@
             "id": "7559e614-cd44-4397-a857-85dbcbe468b2",
             "links": {},
             "meta": {
-                "score": 9.34407
+                "score": 9.342279
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6672,9 +6672,9 @@
                             ", or other <em class=\"search-highlight\">project</em> scheduling software"
                         ],
                         "value": [
-                            "Projects",
                             "project",
-                            "projects"
+                            "projects",
+                            "Projects"
                         ]
                     },
                     {
@@ -6695,9 +6695,9 @@
                             "material and equipment purchasing/ delivery either from internal or external suppliers.Responsible for <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
+                            "projects",
                             "management",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -6714,7 +6714,7 @@
             "id": "0244251a-d03f-488a-b019-732ae17c0ddc",
             "links": {},
             "meta": {
-                "score": 9.342563
+                "score": 9.34077
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6799,7 +6799,7 @@
             "id": "3d9126b4-27fa-4fb4-a0d5-77af1dff8cde",
             "links": {},
             "meta": {
-                "score": 9.315432
+                "score": 9.3106785
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6829,10 +6829,10 @@
                             "<em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em> software"
                         ],
                         "value": [
-                            "project",
-                            "management",
                             "Management",
-                            "Project"
+                            "management",
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -6875,8 +6875,8 @@
                             "the competing constraints on the <em class=\"search-highlight\">project</em> with the resources available.Satisfying the needs: task needs"
                         ],
                         "value": [
-                            "management",
                             "manager",
+                            "management",
                             "project"
                         ]
                     },
@@ -6904,7 +6904,7 @@
             "id": "f5fd2e5f-0e88-44c9-8d5d-c7663a3bf60f",
             "links": {},
             "meta": {
-                "score": 9.310472
+                "score": 9.305702
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6967,8 +6967,8 @@
                         ],
                         "value": [
                             "projects",
-                            "project",
-                            "Project"
+                            "Project",
+                            "project"
                         ]
                     },
                     {
@@ -6985,7 +6985,7 @@
             "id": "f821c270-b36e-4fe6-9e40-55b3039de6b5",
             "links": {},
             "meta": {
-                "score": 9.299984
+                "score": 9.2981
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7039,12 +7039,12 @@
                         ],
                         "value": [
                             "project(s",
-                            "Manage",
+                            "management",
                             "projects",
-                            "Manager",
-                            "project",
                             "Project",
-                            "management"
+                            "project",
+                            "Manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -7071,7 +7071,7 @@
             "id": "fb153ee5-42e1-498c-a16a-c5ba306f9b8f",
             "links": {},
             "meta": {
-                "score": 9.297369
+                "score": 9.292627
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7141,7 +7141,7 @@
             "id": "a5cde341-2ece-413e-8614-fba82bb666d6",
             "links": {},
             "meta": {
-                "score": 9.286417
+                "score": 9.284549
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7194,9 +7194,9 @@
                             "state regulations.Provide support to execution of all global operation emergency response plans and <em class=\"search-highlight\">manage</em>"
                         ],
                         "value": [
-                            "management",
                             "Management",
-                            "manage"
+                            "manage",
+                            "management"
                         ]
                     },
                     {
@@ -7223,7 +7223,7 @@
             "id": "0a61e57b-b25e-43e3-ba9c-8f0cbfc031eb",
             "links": {},
             "meta": {
-                "score": 9.264797
+                "score": 9.260185
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7275,12 +7275,12 @@
                             "up with the Site Team the Subcontractors Performance.All aspects of the <em class=\"search-highlight\">Project</em> Quality <em class=\"search-highlight\">Management</em> and"
                         ],
                         "value": [
-                            "project’s",
                             "Management",
-                            "project",
-                            "Project",
+                            "management",
                             "managers",
-                            "management"
+                            "Project",
+                            "project",
+                            "project’s"
                         ]
                     },
                     {
@@ -7307,7 +7307,7 @@
             "id": "a5b6b179-a243-4780-90bc-bacc66e12260",
             "links": {},
             "meta": {
-                "score": 9.259474
+                "score": 9.254716
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7381,7 +7381,7 @@
             "id": "94b2b428-857e-410e-8088-b86fa6d5442d",
             "links": {},
             "meta": {
-                "score": 9.253742
+                "score": 9.251749
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7458,7 +7458,7 @@
             "id": "00cb2aa2-37ee-4bad-bddd-67904a6e7eff",
             "links": {},
             "meta": {
-                "score": 9.251744
+                "score": 9.24973
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7510,8 +7510,8 @@
                             "<em class=\"search-highlight\">Manager</em>.Implements mechanical shop drawings on site."
                         ],
                         "value": [
-                            "management",
                             "Manager",
+                            "management",
                             "Project"
                         ]
                     },
@@ -7529,7 +7529,7 @@
             "id": "4806eccb-c62a-483d-b829-dcb9e7ae3dd2",
             "links": {},
             "meta": {
-                "score": 9.232255
+                "score": 9.2302475
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7582,8 +7582,8 @@
                         ],
                         "value": [
                             "management",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -7600,7 +7600,7 @@
             "id": "33d9b515-5527-4815-a3c8-4043dcb09e74",
             "links": {},
             "meta": {
-                "score": 9.189062
+                "score": 9.186956
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7641,10 +7641,10 @@
                             "critical thinking and decision-making skillsExcellent <em class=\"search-highlight\">project</em> <em class=\"search-highlight\">management</em> skills and strong ability to"
                         ],
                         "value": [
-                            "managing",
                             "management",
                             "project",
-                            "projects"
+                            "projects",
+                            "managing"
                         ]
                     },
                     {
@@ -7655,9 +7655,9 @@
                             "software.Troubleshoot hardware and software issues related to internal IT.Providing direction for IT team members.<em class=\"search-highlight\">Managing</em>"
                         ],
                         "value": [
-                            "Managing",
                             "manager",
-                            "projects"
+                            "projects",
+                            "Managing"
                         ]
                     },
                     {
@@ -7674,7 +7674,7 @@
             "id": "d30232b0-4db7-4c73-95bd-bc726e188d7d",
             "links": {},
             "meta": {
-                "score": 9.04868
+                "score": 9.047708
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7715,10 +7715,10 @@
                             "in software development <em class=\"search-highlight\">projects</em> is a plus."
                         ],
                         "value": [
-                            "managing",
+                            "projects",
                             "management",
-                            "project",
-                            "projects"
+                            "managing",
+                            "project"
                         ]
                     },
                     {
@@ -7742,9 +7742,9 @@
                         ],
                         "value": [
                             "manages",
-                            "Manage",
                             "manage",
-                            "projects"
+                            "projects",
+                            "Manage"
                         ]
                     },
                     {
@@ -7770,88 +7770,7 @@
             "id": "6d7de93e-a670-49b7-ac89-213e069ef515",
             "links": {},
             "meta": {
-                "score": 9.025183
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Aquatop Company"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Project</em> <em class=\"search-highlight\">Management</em>"
-                        ],
-                        "value": [
-                            "Management",
-                            "Project"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Project</em>/Program <em class=\"search-highlight\">Management</em>"
-                        ],
-                        "value": [
-                            "Management",
-                            "Project"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Structure a Hierarchy for a <em class=\"search-highlight\">project</em> sales and marketing teamHire a <em class=\"search-highlight\">Project</em> Sales team; utilise the most",
-                            "appropriate resources to find and recruit an effective <em class=\"search-highlight\">project</em> sales team Establish a standardised and",
-                            "uniform sales pitch for all respective <em class=\"search-highlight\">project</em> teams, tailoring each pitch to meet each respective client",
-                            "database and portfolio, actively follow up on entire <em class=\"search-highlight\">project</em> portfolio and ensure; <em class=\"search-highlight\">project</em> fulfilment",
-                            "’ <em class=\"search-highlight\">projects</em>.Utilise traditional and non-traditional marketing tools that’ll be efficient and effective"
-                        ],
-                        "value": [
-                            "projects",
-                            "project",
-                            "Project"
-                        ]
-                    },
-                    {
-                        "name": "career_level",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Manager"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Project</em> Sales Team <em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Manager",
-                            "Project"
-                        ]
-                    }
-                ]
-            },
-            "id": "4468a343-08ab-45ed-bbc2-a35003025336",
-            "links": {},
-            "meta": {
-                "score": 9.012361
+                "score": 9.024069
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7910,7 +7829,88 @@
             "id": "10f7d0cb-463c-4f6d-a1b9-424ee8c37d5a",
             "links": {},
             "meta": {
-                "score": 9.009614
+                "score": 9.00851
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Aquatop Company"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Project</em> <em class=\"search-highlight\">Management</em>"
+                        ],
+                        "value": [
+                            "Management",
+                            "Project"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Project</em>/Program <em class=\"search-highlight\">Management</em>"
+                        ],
+                        "value": [
+                            "Management",
+                            "Project"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Structure a Hierarchy for a <em class=\"search-highlight\">project</em> sales and marketing teamHire a <em class=\"search-highlight\">Project</em> Sales team; utilise the most",
+                            "appropriate resources to find and recruit an effective <em class=\"search-highlight\">project</em> sales team Establish a standardised and",
+                            "uniform sales pitch for all respective <em class=\"search-highlight\">project</em> teams, tailoring each pitch to meet each respective client",
+                            "database and portfolio, actively follow up on entire <em class=\"search-highlight\">project</em> portfolio and ensure; <em class=\"search-highlight\">project</em> fulfilment",
+                            "’ <em class=\"search-highlight\">projects</em>.Utilise traditional and non-traditional marketing tools that’ll be efficient and effective"
+                        ],
+                        "value": [
+                            "projects",
+                            "Project",
+                            "project"
+                        ]
+                    },
+                    {
+                        "name": "career_level",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Project</em> Sales Team <em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager",
+                            "Project"
+                        ]
+                    }
+                ]
+            },
+            "id": "4468a343-08ab-45ed-bbc2-a35003025336",
+            "links": {},
+            "meta": {
+                "score": 9.007481
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7999,7 +7999,7 @@
             "id": "192f6f2b-3d46-4391-83d0-7f89336b51d6",
             "links": {},
             "meta": {
-                "score": 9.007818
+                "score": 9.0067005
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8029,9 +8029,9 @@
                             "<em class=\"search-highlight\">Project</em> <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
+                            "manager",
                             "Management",
                             "Manager",
-                            "manager",
                             "Project"
                         ]
                     },
@@ -8055,8 +8055,8 @@
                             "appropriate to deliver engineering function specific outputs and defined milestones to business stakeholders.<em class=\"search-highlight\">Manages</em>"
                         ],
                         "value": [
-                            "managing",
                             "Manages",
+                            "managing",
                             "project"
                         ]
                     },
@@ -8083,7 +8083,7 @@
             "id": "59d3b927-382f-41b7-a98e-7d9c33d78a84",
             "links": {},
             "meta": {
-                "score": 8.992396
+                "score": 8.991181
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8114,8 +8114,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -8152,8 +8152,8 @@
                         "value": [
                             "manages",
                             "projects",
-                            "project",
                             "management",
+                            "project",
                             "Projects"
                         ]
                     },
@@ -8171,7 +8171,7 @@
             "id": "f7f14a80-9f7f-4e4f-994e-9ec7be242136",
             "links": {},
             "meta": {
-                "score": 8.971198
+                "score": 8.968652
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8202,8 +8202,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -8216,10 +8216,10 @@
                             "required.Egyptian <em class=\"search-highlight\">Projects</em> experience at the last 2 - 3 years is a must."
                         ],
                         "value": [
-                            "management",
-                            "Projects",
+                            "projects",
                             "manage",
-                            "projects"
+                            "management",
+                            "Projects"
                         ]
                     },
                     {
@@ -8240,8 +8240,8 @@
                             "according to schedule, specifications and budget.Preparing and submitting construction <em class=\"search-highlight\">project</em> budget"
                         ],
                         "value": [
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -8267,7 +8267,7 @@
             "id": "a55740b8-4f5e-4e65-8f7f-25fac17b16c6",
             "links": {},
             "meta": {
-                "score": 8.966317
+                "score": 8.964995
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8297,8 +8297,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Projects",
-                            "Project"
+                            "Project",
+                            "Projects"
                         ]
                     },
                     {
@@ -8327,7 +8327,7 @@
             "id": "389a5365-e743-43fe-9f7d-31ba0ab6a63e",
             "links": {},
             "meta": {
-                "score": 8.944009
+                "score": 8.939091
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8369,9 +8369,9 @@
                             "cycleExcellent analytical skillsStrong interpersonal skills and extremely resourcefulProven ability to complete <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
+                            "projects",
                             "management",
-                            "project",
-                            "projects"
+                            "project"
                         ]
                     },
                     {
@@ -8394,10 +8394,10 @@
                             "is delivered to their satisfaction.<em class=\"search-highlight\">Managing</em> <em class=\"search-highlight\">project</em> progress and adapt work as requiredEnsuring <em class=\"search-highlight\">projects</em>"
                         ],
                         "value": [
-                            "managing",
                             "Managing",
-                            "project",
-                            "projects"
+                            "projects",
+                            "managing",
+                            "project"
                         ]
                     },
                     {
@@ -8424,7 +8424,7 @@
             "id": "44b72a86-1849-4537-b36d-3538d300ae08",
             "links": {},
             "meta": {
-                "score": 8.933959
+                "score": 8.929027
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8469,8 +8469,8 @@
                             "time <em class=\"search-highlight\">management</em> abilityAble to multitask with a strong understanding of core <em class=\"search-highlight\">manager</em> duties"
                         ],
                         "value": [
-                            "management",
                             "manager",
+                            "management",
                             "project"
                         ]
                     },
@@ -8491,8 +8491,8 @@
                             "size of the projectCollaborate with subcontractors, engineers, architects and key team members of the <em class=\"search-highlight\">project</em>"
                         ],
                         "value": [
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -8519,7 +8519,7 @@
             "id": "0e34b535-41e2-4649-b812-1ecfccd8ef27",
             "links": {},
             "meta": {
-                "score": 8.924988
+                "score": 8.920049
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8573,8 +8573,8 @@
                         "value": [
                             "management",
                             "Projects",
-                            "project",
-                            "projects"
+                            "projects",
+                            "project"
                         ]
                     },
                     {
@@ -8592,7 +8592,7 @@
             "id": "b4aa57b7-7d3b-44f7-859d-4d0da5aa5a5c",
             "links": {},
             "meta": {
-                "score": 8.919476
+                "score": 8.914554
             },
             "relationships": {},
             "type": "talentSearch"

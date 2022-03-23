@@ -62,7 +62,7 @@
             "id": "efd0f81c-7175-4f7e-a96e-da5a8179b96e",
             "links": {},
             "meta": {
-                "score": 11.90646
+                "score": 11.905024
             },
             "relationships": {},
             "type": "talentSearch"
@@ -108,7 +108,7 @@
             "id": "99f2bd54-9bb9-4a91-9f86-d6a04c29d7ec",
             "links": {},
             "meta": {
-                "score": 11.892379
+                "score": 11.891119
             },
             "relationships": {},
             "type": "talentSearch"
@@ -163,7 +163,7 @@
             "id": "46f362ba-7872-43fd-824a-ba0601cbd08c",
             "links": {},
             "meta": {
-                "score": 11.879255
+                "score": 11.877825
             },
             "relationships": {},
             "type": "talentSearch"
@@ -228,7 +228,7 @@
             "id": "5b8e2c64-9250-40bb-a174-9132da2ac5e4",
             "links": {},
             "meta": {
-                "score": 11.871481
+                "score": 11.8698635
             },
             "relationships": {},
             "type": "talentSearch"
@@ -273,7 +273,7 @@
             "id": "28d7bf70-76c4-4c90-a8e6-97c25ea1b880",
             "links": {},
             "meta": {
-                "score": 11.851917
+                "score": 11.8504715
             },
             "relationships": {},
             "type": "talentSearch"
@@ -318,7 +318,7 @@
             "id": "71fcdd7c-c67a-4c79-81c4-08f7b8c1d248",
             "links": {},
             "meta": {
-                "score": 11.845581
+                "score": 11.844109
             },
             "relationships": {},
             "type": "talentSearch"
@@ -372,7 +372,7 @@
             "id": "8636e480-ecb5-4a9e-93d4-fd386b1c0790",
             "links": {},
             "meta": {
-                "score": 11.836259
+                "score": 11.83466
             },
             "relationships": {},
             "type": "talentSearch"
@@ -417,7 +417,7 @@
             "id": "e2f8a369-e02f-4215-b562-784cf4402e39",
             "links": {},
             "meta": {
-                "score": 11.66996
+                "score": 11.66789
             },
             "relationships": {},
             "type": "talentSearch"
@@ -483,7 +483,7 @@
             "id": "87fbbd27-fc87-4086-b335-5703d6402817",
             "links": {},
             "meta": {
-                "score": 11.610996
+                "score": 11.608653
             },
             "relationships": {},
             "type": "talentSearch"
@@ -540,7 +540,7 @@
             "id": "eaa819b3-007f-4c8f-a2a6-86837c986380",
             "links": {},
             "meta": {
-                "score": 11.564128
+                "score": 11.5627365
             },
             "relationships": {},
             "type": "talentSearch"
@@ -585,7 +585,7 @@
             "id": "1e5b8d4b-c281-4e0c-9e48-122aadacde53",
             "links": {},
             "meta": {
-                "score": 11.563097
+                "score": 11.560745
             },
             "relationships": {},
             "type": "talentSearch"
@@ -630,7 +630,7 @@
             "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
             "links": {},
             "meta": {
-                "score": 11.556491
+                "score": 11.555249
             },
             "relationships": {},
             "type": "talentSearch"
@@ -675,7 +675,7 @@
             "id": "7a098a83-01ab-45c0-ba18-d831e2a767e6",
             "links": {},
             "meta": {
-                "score": 11.53428
+                "score": 11.53186
             },
             "relationships": {},
             "type": "talentSearch"
@@ -740,7 +740,7 @@
             "id": "3a737bf5-2758-4da7-b506-2750711bdf1a",
             "links": {},
             "meta": {
-                "score": 11.48564
+                "score": 11.482982
             },
             "relationships": {},
             "type": "talentSearch"
@@ -776,7 +776,7 @@
             "id": "229f05dc-9e23-47f9-a620-dda0a7587aa3",
             "links": {},
             "meta": {
-                "score": 11.281456
+                "score": 11.279313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -812,7 +812,7 @@
             "id": "f1662b53-7d79-479c-849d-44f32ca67eda",
             "links": {},
             "meta": {
-                "score": 11.275542
+                "score": 11.273384
             },
             "relationships": {},
             "type": "talentSearch"
@@ -870,7 +870,54 @@
             "id": "1a6462e9-849b-4b4f-a7a5-59489b829f73",
             "links": {},
             "meta": {
-                "score": 11.255435
+                "score": 11.252425
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Just HR"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "We are looking for a capable <em class=\"search-highlight\">Warehouse</em> Associate to support our company’s <em class=\"search-highlight\">warehouse</em> operations.",
+                            "You will receive, input, sort, load, and unload products.perform various <em class=\"search-highlight\">warehouse</em> activities."
+                        ],
+                        "value": [
+                            "warehouse",
+                            "Warehouse"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Warehouse</em> Associate"
+                        ],
+                        "value": [
+                            "Warehouse"
+                        ]
+                    }
+                ]
+            },
+            "id": "d166bc3e-ad36-4a23-824a-5322896ba4aa",
+            "links": {},
+            "meta": {
+                "score": 11.195095
             },
             "relationships": {},
             "type": "talentSearch"
@@ -935,54 +982,7 @@
             "id": "c7c7f77a-d853-4868-aa03-c641296142e8",
             "links": {},
             "meta": {
-                "score": 11.19807
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Just HR"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "We are looking for a capable <em class=\"search-highlight\">Warehouse</em> Associate to support our company’s <em class=\"search-highlight\">warehouse</em> operations.",
-                            "You will receive, input, sort, load, and unload products.perform various <em class=\"search-highlight\">warehouse</em> activities."
-                        ],
-                        "value": [
-                            "warehouse",
-                            "Warehouse"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Warehouse</em> Associate"
-                        ],
-                        "value": [
-                            "Warehouse"
-                        ]
-                    }
-                ]
-            },
-            "id": "d166bc3e-ad36-4a23-824a-5322896ba4aa",
-            "links": {},
-            "meta": {
-                "score": 11.197514
+                "score": 11.194909
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1041,7 +1041,7 @@
             "id": "79795e37-d171-4cd7-b8f2-080c8bbb9a66",
             "links": {},
             "meta": {
-                "score": 11.151598
+                "score": 11.148418
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1089,7 +1089,7 @@
             "id": "a3f813f4-e7fa-4701-9ecf-97993b5ebc9d",
             "links": {},
             "meta": {
-                "score": 11.133124
+                "score": 11.130581
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1155,7 +1155,7 @@
             "id": "22f80cac-5d00-4275-b52b-c34c0d54ae8a",
             "links": {},
             "meta": {
-                "score": 11.037425
+                "score": 11.033998
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1224,7 +1224,7 @@
             "id": "9ceedbb8-329c-4c9c-94cf-395614d25dac",
             "links": {},
             "meta": {
-                "score": 11.025729
+                "score": 11.022302
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1280,7 +1280,7 @@
             "id": "6f0ce624-60ea-4b30-8269-60a9ee4a318f",
             "links": {},
             "meta": {
-                "score": 11.000019
+                "score": 10.996603
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1325,7 +1325,7 @@
             "id": "625c6777-c1e5-4a20-9863-b00896ab1091",
             "links": {},
             "meta": {
-                "score": 10.888302
+                "score": 10.884761
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1391,7 +1391,7 @@
             "id": "a7b189bc-60c7-4a07-9f5e-fc241fbf2c4a",
             "links": {},
             "meta": {
-                "score": 10.674685
+                "score": 10.670792
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1445,7 +1445,7 @@
             "id": "50518eaa-372c-4cf5-93c2-13f543fed1db",
             "links": {},
             "meta": {
-                "score": 10.631862
+                "score": 10.627981
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1501,7 +1501,7 @@
             "id": "b91dce43-47c7-43f7-9a3a-7f70a2016dd2",
             "links": {},
             "meta": {
-                "score": 10.547761
+                "score": 10.5437975
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1560,7 +1560,7 @@
             "id": "e5abfa74-a778-40e2-aeaa-2fc61a97ffdc",
             "links": {},
             "meta": {
-                "score": 10.43011
+                "score": 10.426026
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1606,7 +1606,7 @@
             "id": "0bc9c091-a381-4562-a2e5-d6703c20a29e",
             "links": {},
             "meta": {
-                "score": 10.2158785
+                "score": 10.2116165
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1651,7 +1651,7 @@
             "id": "ff605b05-ab5f-41e9-a1d6-760996558676",
             "links": {},
             "meta": {
-                "score": 10.191529
+                "score": 10.187246
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1687,7 +1687,7 @@
             "id": "50cc1b4b-d2a5-47be-ab7c-6a55f1cf0c8c",
             "links": {},
             "meta": {
-                "score": 10.129335
+                "score": 10.12537
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1723,7 +1723,7 @@
             "id": "d6e97b8e-8e42-4b13-8aca-71c7fb805a17",
             "links": {},
             "meta": {
-                "score": 9.845878
+                "score": 9.841679
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1789,7 +1789,7 @@
             "id": "82209131-abce-4370-9e79-7d02b45a804c",
             "links": {},
             "meta": {
-                "score": 9.844559
+                "score": 9.839961
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1843,7 +1843,7 @@
             "id": "49f58a19-c1a9-4e8d-b65f-0f8a3a0c898c",
             "links": {},
             "meta": {
-                "score": 9.664609
+                "score": 9.659912
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1908,7 +1908,7 @@
             "id": "f07030f4-61fd-49bf-b12e-df0d2067b891",
             "links": {},
             "meta": {
-                "score": 9.571421
+                "score": 9.566633
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1975,7 +1975,7 @@
             "id": "6abd43ab-8aa9-4a9e-befe-f209cc4f8ef2",
             "links": {},
             "meta": {
-                "score": 9.446428
+                "score": 9.441588
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2029,7 +2029,7 @@
             "id": "6f4936c5-20b8-4430-9f2e-6727ced271bb",
             "links": {},
             "meta": {
-                "score": 9.425491
+                "score": 9.420655
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2086,7 +2086,7 @@
             "id": "ccdfcdd0-e676-41a0-881d-5d32820cc10c",
             "links": {},
             "meta": {
-                "score": 9.422061
+                "score": 9.417233
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2131,7 +2131,7 @@
             "id": "d639ca17-7b09-4f2f-953e-ade22ca423b1",
             "links": {},
             "meta": {
-                "score": 9.419366
+                "score": 9.414554
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2188,7 +2188,7 @@
             "id": "11c3751b-16b1-49d4-9f58-d00d23c58483",
             "links": {},
             "meta": {
-                "score": 9.176562
+                "score": 9.171617
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2253,7 +2253,7 @@
             "id": "7112c665-1fa2-4c59-a774-c5e98fd7a753",
             "links": {},
             "meta": {
-                "score": 9.115313
+                "score": 9.110292
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2319,7 +2319,7 @@
             "id": "0cb3cdb2-52b9-4d9d-898a-a5b2118a54f6",
             "links": {},
             "meta": {
-                "score": 9.099853
+                "score": 9.09485
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2378,7 +2378,7 @@
             "id": "344aedf6-32aa-4146-b7c8-5a99b4b59a78",
             "links": {},
             "meta": {
-                "score": 9.044938
+                "score": 9.039935
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2449,7 +2449,7 @@
             "id": "6ec99f06-38ca-4cc8-ad03-31abcef06a60",
             "links": {},
             "meta": {
-                "score": 8.936743
+                "score": 8.931674
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2505,7 +2505,7 @@
             "id": "77243358-8bef-494e-87e0-30198a42f44d",
             "links": {},
             "meta": {
-                "score": 8.816877
+                "score": 8.811783
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2550,7 +2550,7 @@
             "id": "423ff5e3-0aef-48a4-a4cd-cefe871c7470",
             "links": {},
             "meta": {
-                "score": 8.700658
+                "score": 8.695769
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2604,7 +2604,7 @@
             "id": "f24628e4-295c-4b2f-b4b0-b003f0871469",
             "links": {},
             "meta": {
-                "score": 8.686601
+                "score": 8.681459
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2670,7 +2670,7 @@
             "id": "aea27c12-3782-47a4-8617-5d37f146f23f",
             "links": {},
             "meta": {
-                "score": 7.820257
+                "score": 7.814891
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2736,7 +2736,7 @@
             "id": "3f66aef6-93bd-4969-b2e4-b6463548ac8f",
             "links": {},
             "meta": {
-                "score": 7.7994103
+                "score": 7.794074
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2772,7 +2772,7 @@
             "id": "900823fc-67f5-4889-88dd-4896752f23bd",
             "links": {},
             "meta": {
-                "score": 7.7928896
+                "score": 7.7877665
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2826,7 +2826,7 @@
             "id": "7b4f9a9d-2319-4d58-a7f0-770f124575c5",
             "links": {},
             "meta": {
-                "score": 7.765582
+                "score": 7.7602587
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2893,7 +2893,7 @@
             "id": "7e11d5fd-9e33-465c-b5a7-213305615a7f",
             "links": {},
             "meta": {
-                "score": 7.6640525
+                "score": 7.6587014
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2938,7 +2938,7 @@
             "id": "7ebce6c1-a69d-4dce-9506-aafc54efc645",
             "links": {},
             "meta": {
-                "score": 7.624982
+                "score": 7.61966
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3007,7 +3007,7 @@
             "id": "ffdb09be-14b7-48d3-9072-8f20e61f81c6",
             "links": {},
             "meta": {
-                "score": 7.61241
+                "score": 7.6070657
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3072,7 +3072,7 @@
             "id": "0ba9dbed-0f66-44b6-9d38-c7bd1d41c1bd",
             "links": {},
             "meta": {
-                "score": 7.1008487
+                "score": 7.095496
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3117,7 +3117,7 @@
             "id": "b44ed904-9273-4cac-aa9f-511177e6d6dd",
             "links": {},
             "meta": {
-                "score": 6.93543
+                "score": 6.9345965
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3162,7 +3162,7 @@
             "id": "47c9438a-3ead-425d-aeee-5ba6237c8925",
             "links": {},
             "meta": {
-                "score": 6.92747
+                "score": 6.926618
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3198,7 +3198,7 @@
             "id": "18d11d1e-58b3-4f1e-bd08-f23f3812ad61",
             "links": {},
             "meta": {
-                "score": 6.905288
+                "score": 6.90443
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3234,7 +3234,7 @@
             "id": "db423f3b-1c87-44ad-8968-3ed5896ba09c",
             "links": {},
             "meta": {
-                "score": 6.8540645
+                "score": 6.8488917
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3290,7 +3290,7 @@
             "id": "aaafc113-5e6e-4293-bb9a-74a637e845d7",
             "links": {},
             "meta": {
-                "score": 6.8286533
+                "score": 6.8233333
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3326,7 +3326,7 @@
             "id": "90343a0c-b894-4bd6-a02d-7f8b8f9a2edb",
             "links": {},
             "meta": {
-                "score": 6.8066697
+                "score": 6.805474
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3367,8 +3367,8 @@
                             "are tracked and recorded.Arrange appropriate and safe transportation for stock to be delivered from <em class=\"search-highlight\">warehouse</em>"
                         ],
                         "value": [
-                            "warehouse",
                             "warehouses",
+                            "warehouse",
                             "Warehouse"
                         ]
                     }
@@ -3377,7 +3377,7 @@
             "id": "bc817fc1-40f2-4a99-9b6d-7c9d11c80550",
             "links": {},
             "meta": {
-                "score": 6.75077
+                "score": 6.749388
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3413,7 +3413,7 @@
             "id": "8a02f4bd-85b1-4aca-8b0b-680f1ec6fde0",
             "links": {},
             "meta": {
-                "score": 6.733257
+                "score": 6.728091
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3458,7 +3458,7 @@
             "id": "d6e25eb0-89f2-4a9c-8d1f-d506aceae065",
             "links": {},
             "meta": {
-                "score": 6.7267175
+                "score": 6.725262
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3512,7 +3512,7 @@
             "id": "fccfe8e3-7dad-4d2a-90de-6360be66b498",
             "links": {},
             "meta": {
-                "score": 6.7182727
+                "score": 6.712965
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3569,7 +3569,7 @@
             "id": "ac8f701b-cc1c-4c89-8a88-d591e5a58a35",
             "links": {},
             "meta": {
-                "score": 6.675836
+                "score": 6.670532
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3614,7 +3614,7 @@
             "id": "d3fbdb5c-ed53-4abd-be18-8a62ebec3109",
             "links": {},
             "meta": {
-                "score": 6.473322
+                "score": 6.4714003
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3668,7 +3668,7 @@
             "id": "5449ab94-e673-49e0-84f3-7cb92eb5d4f7",
             "links": {},
             "meta": {
-                "score": 6.4436073
+                "score": 6.4416084
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3729,7 +3729,7 @@
             "id": "8edbef08-3895-4c5c-a3a9-13824135b276",
             "links": {},
             "meta": {
-                "score": 6.404891
+                "score": 6.402829
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3784,7 +3784,7 @@
             "id": "615e6a06-24dc-4a71-9ef9-06987e186b5b",
             "links": {},
             "meta": {
-                "score": 6.2298503
+                "score": 6.2275705
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3838,7 +3838,7 @@
             "id": "dfa49d93-be1f-40b3-aa1e-eb0f32c31ed2",
             "links": {},
             "meta": {
-                "score": 6.1809864
+                "score": 6.1757617
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3883,7 +3883,7 @@
             "id": "be8475e0-3027-472f-88f0-7bb067288a7b",
             "links": {},
             "meta": {
-                "score": 6.1186514
+                "score": 6.11345
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3950,7 +3950,7 @@
             "id": "7b7e31db-f85c-455a-832b-3fe79dfcafe1",
             "links": {},
             "meta": {
-                "score": 6.053718
+                "score": 6.0485125
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3995,7 +3995,7 @@
             "id": "887e9918-5f4a-47f1-bd9a-9e9755aed510",
             "links": {},
             "meta": {
-                "score": 6.0393662
+                "score": 6.0369277
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4045,8 +4045,8 @@
                             "for all <em class=\"search-highlight\">warehouse</em> activity.Applying All GAP Polymers policy and standard on concern. "
                         ],
                         "value": [
-                            "warehouse",
                             "warehouses",
+                            "warehouse",
                             "Warehouse"
                         ]
                     },
@@ -4064,7 +4064,7 @@
             "id": "e7e26ca2-2bd7-4dff-9428-6caaa76287a1",
             "links": {},
             "meta": {
-                "score": 6.035732
+                "score": 6.0305295
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4127,7 +4127,7 @@
             "id": "0132897e-b730-42a1-aad8-ecfc372f35d7",
             "links": {},
             "meta": {
-                "score": 5.9153013
+                "score": 5.910126
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4193,7 +4193,7 @@
             "id": "0ed2c8ac-14c8-4d90-a589-031ca8c0adf3",
             "links": {},
             "meta": {
-                "score": 5.914425
+                "score": 5.9092555
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4262,7 +4262,7 @@
             "id": "d3f0ded6-9544-433c-a026-17e22ab690c6",
             "links": {},
             "meta": {
-                "score": 5.9002185
+                "score": 5.895054
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4312,9 +4312,9 @@
                             "and protocols to achieve an efficient warehouseSet <em class=\"search-highlight\">warehouse</em> and team goals in collaboration with executive"
                         ],
                         "value": [
+                            "warehouse’s",
                             "warehouse",
-                            "Warehouse",
-                            "warehouse’s"
+                            "Warehouse"
                         ]
                     },
                     {
@@ -4331,7 +4331,7 @@
             "id": "e7c7f182-7e4d-4c73-a29a-b91e902b1a1f",
             "links": {},
             "meta": {
-                "score": 5.8110347
+                "score": 5.805895
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4378,7 +4378,7 @@
             "id": "c9b74100-6b2c-4f36-83d5-e27fa48651aa",
             "links": {},
             "meta": {
-                "score": 5.642525
+                "score": 5.6397886
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4414,7 +4414,7 @@
             "id": "35e72845-ec4a-4758-96b9-03f5254c4bd1",
             "links": {},
             "meta": {
-                "score": 5.2675548
+                "score": 5.2646437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4469,7 +4469,7 @@
             "id": "1cc5a8eb-15c0-4b63-9788-adeeac3759f6",
             "links": {},
             "meta": {
-                "score": 5.0911474
+                "score": 5.0881305
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4514,7 +4514,7 @@
             "id": "41f5830c-b102-44cc-8dbc-f8b763b4860e",
             "links": {},
             "meta": {
-                "score": 5.065914
+                "score": 5.06292
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4559,7 +4559,7 @@
             "id": "91d59cb7-cc3b-4e73-b47c-3529b5759fb2",
             "links": {},
             "meta": {
-                "score": 4.850151
+                "score": 4.8470974
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4618,7 +4618,7 @@
             "id": "d3e652cf-ebd7-4fb1-809e-468344c293e4",
             "links": {},
             "meta": {
-                "score": 4.8488035
+                "score": 4.8457365
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4674,7 +4674,7 @@
             "id": "e68faae0-51be-4bba-8732-97026cf8064b",
             "links": {},
             "meta": {
-                "score": 4.7211003
+                "score": 4.7179914
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4710,7 +4710,7 @@
             "id": "56eceea9-d280-4bc2-b2b2-89ba492c0bbd",
             "links": {},
             "meta": {
-                "score": 4.699907
+                "score": 4.6968336
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4765,7 +4765,7 @@
             "id": "9b4e727a-4d72-451f-8a5a-0fdfca604919",
             "links": {},
             "meta": {
-                "score": 4.4888797
+                "score": 4.4857492
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4810,7 +4810,7 @@
             "id": "b3aa9597-23b0-4532-abcc-539101760215",
             "links": {},
             "meta": {
-                "score": 4.131179
+                "score": 4.1280627
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4855,7 +4855,7 @@
             "id": "3cab97fe-5760-4293-882c-fdb3fcf478d6",
             "links": {},
             "meta": {
-                "score": 3.922437
+                "score": 3.9193327
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4901,7 +4901,7 @@
             "id": "dc0815e0-2ef1-4c8b-a941-7de49fafac94",
             "links": {},
             "meta": {
-                "score": 3.666822
+                "score": 3.6637654
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4956,7 +4956,7 @@
             "id": "26f85a4c-96dc-4393-8ac8-19d4732377b9",
             "links": {},
             "meta": {
-                "score": 3.6122859
+                "score": 3.609224
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5003,7 +5003,7 @@
             "id": "84425029-c758-4ae8-a0c7-cf63bc7455b5",
             "links": {},
             "meta": {
-                "score": 3.4494302
+                "score": 3.4464192
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5063,7 +5063,7 @@
             "id": "da8ba307-39f3-4c7e-b8a5-48366c84d77a",
             "links": {},
             "meta": {
-                "score": 3.3356385
+                "score": 3.3326545
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5108,7 +5108,7 @@
             "id": "aa653771-e85f-4dea-909f-56b3749639e5",
             "links": {},
             "meta": {
-                "score": 1.0563017
+                "score": 1.0560042
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5153,7 +5153,7 @@
             "id": "29fa38bc-6a7c-4917-b555-efeb925514d2",
             "links": {},
             "meta": {
-                "score": 0.92444235
+                "score": 0.9239336
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5189,7 +5189,7 @@
             "id": "f7901de2-48e5-4f14-a560-513511620a86",
             "links": {},
             "meta": {
-                "score": 0.77942026
+                "score": 0.7792728
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5236,7 +5236,7 @@
             "id": "664630a0-bcec-4a67-949d-32c8ecfe0b38",
             "links": {},
             "meta": {
-                "score": 0.7090662
+                "score": 0.7089887
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5272,7 +5272,7 @@
             "id": "23402c50-f93b-4052-b23b-c45d88732b9c",
             "links": {},
             "meta": {
-                "score": 0.6960599
+                "score": 0.6959666
             },
             "relationships": {},
             "type": "talentSearch"

@@ -70,7 +70,7 @@
             "id": "831efd75-a16d-475f-9a97-f943e0ef8be6",
             "links": {},
             "meta": {
-                "score": 14.010342
+                "score": 14.008635
             },
             "relationships": {},
             "type": "talentSearch"
@@ -134,9 +134,9 @@
                             "monthly balance sheet and income statementEnsure that <em class=\"search-highlight\">accounting</em> records are accurate and reflect realityEnsure"
                         ],
                         "value": [
+                            "manage",
                             "Manager",
                             "Accounting",
-                            "manage",
                             "accounting"
                         ]
                     },
@@ -164,7 +164,7 @@
             "id": "b40fc9c3-6c13-4bae-b9de-36955089398c",
             "links": {},
             "meta": {
-                "score": 13.717273
+                "score": 13.714625
             },
             "relationships": {},
             "type": "talentSearch"
@@ -250,7 +250,7 @@
             "id": "e9a13cb3-063a-435b-830a-18dc81479a4f",
             "links": {},
             "meta": {
-                "score": 13.634752
+                "score": 13.6318035
             },
             "relationships": {},
             "type": "talentSearch"
@@ -316,8 +316,8 @@
                             "auditors and provides needed information for the annual external audit.Presents recommendations to <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
                             "Manages",
+                            "management",
                             "accounting"
                         ]
                     },
@@ -345,7 +345,7 @@
             "id": "a8f90586-07a9-4235-9df3-86b7d2e58c7b",
             "links": {},
             "meta": {
-                "score": 13.370455
+                "score": 13.3670435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -420,7 +420,7 @@
             "id": "1495940f-1925-4d09-ba73-a44a1a167b4f",
             "links": {},
             "meta": {
-                "score": 13.296046
+                "score": 13.2924385
             },
             "relationships": {},
             "type": "talentSearch"
@@ -472,8 +472,8 @@
                             "general ledger <em class=\"search-highlight\">accounting</em> functionsDevelop staff by <em class=\"search-highlight\">managing</em> performance, setting goals, providing ongoing"
                         ],
                         "value": [
-                            "managing",
                             "manage",
+                            "managing",
                             "accounting"
                         ]
                     },
@@ -501,7 +501,7 @@
             "id": "a4f8a477-e088-4f7b-b410-15a198bbdebe",
             "links": {},
             "meta": {
-                "score": 12.967732
+                "score": 12.963724
             },
             "relationships": {},
             "type": "talentSearch"
@@ -593,7 +593,7 @@
             "id": "4b9477e2-bffd-4136-8eef-664623ce064c",
             "links": {},
             "meta": {
-                "score": 12.900174
+                "score": 12.896021
             },
             "relationships": {},
             "type": "talentSearch"
@@ -625,10 +625,10 @@
                             "<em class=\"search-highlight\">Accounting</em>"
                         ],
                         "value": [
-                            "Accounting",
+                            "manager",
                             "Management",
                             "Manager",
-                            "manager"
+                            "Accounting"
                         ]
                     },
                     {
@@ -640,8 +640,8 @@
                         ],
                         "value": [
                             "management",
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -662,10 +662,10 @@
                             "the general <em class=\"search-highlight\">accounting</em> functions, including, but not limited to: accounts payable, accounts receivable"
                         ],
                         "value": [
-                            "managing",
-                            "Manage",
                             "manage",
-                            "accounting"
+                            "accounting",
+                            "Manage",
+                            "managing"
                         ]
                     },
                     {
@@ -692,7 +692,7 @@
             "id": "4e482f04-7e7f-4802-8677-51699c18702b",
             "links": {},
             "meta": {
-                "score": 12.208925
+                "score": 12.204004
             },
             "relationships": {},
             "type": "talentSearch"
@@ -745,8 +745,8 @@
                             "general ledger <em class=\"search-highlight\">accounting</em> functionsDevelop staff by <em class=\"search-highlight\">managing</em> performance, setting goals, providing ongoing"
                         ],
                         "value": [
-                            "managing",
                             "manage",
+                            "managing",
                             "accounting"
                         ]
                     },
@@ -774,7 +774,7 @@
             "id": "ed70a908-a721-4453-8a9a-4ecd68001da9",
             "links": {},
             "meta": {
-                "score": 12.187641
+                "score": 12.182738
             },
             "relationships": {},
             "type": "talentSearch"
@@ -817,8 +817,8 @@
                         ],
                         "value": [
                             "management",
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -839,8 +839,8 @@
                             "general ledger <em class=\"search-highlight\">accounting</em> functionsDevelop staff by <em class=\"search-highlight\">managing</em> performance, setting goals, providing ongoing"
                         ],
                         "value": [
-                            "managing",
                             "manage",
+                            "managing",
                             "accounting"
                         ]
                     },
@@ -868,7 +868,7 @@
             "id": "74939ee7-d41b-40b7-8932-afc898ae3c2e",
             "links": {},
             "meta": {
-                "score": 12.062451
+                "score": 12.057401
             },
             "relationships": {},
             "type": "talentSearch"
@@ -942,7 +942,7 @@
             "id": "cbe6b72d-707d-4b98-894c-618b96562185",
             "links": {},
             "meta": {
-                "score": 11.784298
+                "score": 11.782709
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1017,7 +1017,7 @@
             "id": "a62c6ebc-91ef-4d9a-b530-1440f8a228d4",
             "links": {},
             "meta": {
-                "score": 11.653093
+                "score": 11.651014
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1089,11 +1089,11 @@
                             " Maintaining and reconciling fixed assets schedulesSupervising <em class=\"search-highlight\">accounting</em> staff"
                         ],
                         "value": [
-                            "manage",
                             "managing",
                             "Managing",
+                            "management",
                             "accounting",
-                            "management"
+                            "manage"
                         ]
                     },
                     {
@@ -1120,7 +1120,7 @@
             "id": "075ecdeb-009d-42b3-955e-77699e8696e7",
             "links": {},
             "meta": {
-                "score": 11.620273
+                "score": 11.614797
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1204,7 +1204,7 @@
             "id": "afbf3f2a-bdb7-498c-b5c7-d780b2575032",
             "links": {},
             "meta": {
-                "score": 11.138507
+                "score": 11.135358
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1244,10 +1244,10 @@
                             "skills.Strong understanding of <em class=\"search-highlight\">accounting</em>, finance, and <em class=\"search-highlight\">management</em> principles.Proficiency with computers"
                         ],
                         "value": [
-                            "management",
                             "Management",
-                            "Accounting",
-                            "accounting"
+                            "management",
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -1294,7 +1294,7 @@
             "id": "255179ff-b8d6-431c-ba29-bbddf8602caa",
             "links": {},
             "meta": {
-                "score": 10.687047
+                "score": 10.681135
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1381,7 +1381,7 @@
             "id": "a1511e2f-b80f-4341-9ab4-86b0778be723",
             "links": {},
             "meta": {
-                "score": 10.407993
+                "score": 10.406875
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1469,7 +1469,7 @@
             "id": "e63c9090-18ff-4a49-8d74-eb7db273e55b",
             "links": {},
             "meta": {
-                "score": 10.393517
+                "score": 10.389455
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1535,8 +1535,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Accounting",
                             "manage",
+                            "Accounting",
                             "accounting"
                         ]
                     },
@@ -1563,7 +1563,7 @@
             "id": "5f4662a8-c114-4aaf-9d78-fcf3872e1e4c",
             "links": {},
             "meta": {
-                "score": 10.385869
+                "score": 10.3847475
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1594,8 +1594,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Accounting",
-                            "Manager"
+                            "Manager",
+                            "Accounting"
                         ]
                     },
                     {
@@ -1631,9 +1631,9 @@
                             "<em class=\"search-highlight\">Managing</em> all financial department employees and raising the level of employees to improve performance"
                         ],
                         "value": [
-                            "managing",
+                            "Managing",
                             "management",
-                            "Managing"
+                            "managing"
                         ]
                     },
                     {
@@ -1659,7 +1659,7 @@
             "id": "e1dfdb6f-d830-4da5-8206-fd7618fedb6a",
             "links": {},
             "meta": {
-                "score": 10.381337
+                "score": 10.380097
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1749,7 +1749,7 @@
             "id": "2c359b57-bc7a-474a-b03e-28cab2a888ef",
             "links": {},
             "meta": {
-                "score": 10.364256
+                "score": 10.363003
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1826,7 +1826,7 @@
             "id": "05e44d53-17d6-4801-b84e-c01305729534",
             "links": {},
             "meta": {
-                "score": 10.344207
+                "score": 10.342815
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1902,7 +1902,7 @@
             "id": "a8b6295a-7bd6-4e72-9eb8-03be97479ca2",
             "links": {},
             "meta": {
-                "score": 10.334529
+                "score": 10.333123
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1982,7 +1982,65 @@
             "id": "2ecec8d6-2dde-498c-96a4-7607f95dc218",
             "links": {},
             "meta": {
-                "score": 10.320313
+                "score": 10.31903
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "DBS"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accounting</em>",
+                            "Account <em class=\"search-highlight\">Management</em>"
+                        ],
+                        "value": [
+                            "Management",
+                            "Accounting"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "DBS is now hiring an Account <em class=\"search-highlight\">Manager</em> that supports and enables local “last miles” marketing execution",
+                            "services and provides expertise in marketing tools, engines, and campaigns-including support of marketing <em class=\"search-highlight\">managers</em>"
+                        ],
+                        "value": [
+                            "Manager",
+                            "managers"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Account <em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager"
+                        ]
+                    }
+                ]
+            },
+            "id": "db9d1b89-080a-4151-b3bc-7eb409f22650",
+            "links": {},
+            "meta": {
+                "score": 10.316577
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2043,9 +2101,9 @@
                             ", foreign exchange operations, cash <em class=\"search-highlight\">management</em>, cash, and treasury operations.Assisting in meeting the"
                         ],
                         "value": [
+                            "Managing",
                             "management",
-                            "Manage",
-                            "Managing"
+                            "Manage"
                         ]
                     },
                     {
@@ -2071,65 +2129,7 @@
             "id": "8921b5b6-2167-473b-8a6c-8fae7785b563",
             "links": {},
             "meta": {
-                "score": 10.3197775
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "DBS"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accounting</em>",
-                            "Account <em class=\"search-highlight\">Management</em>"
-                        ],
-                        "value": [
-                            "Management",
-                            "Accounting"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "DBS is now hiring an Account <em class=\"search-highlight\">Manager</em> that supports and enables local “last miles” marketing execution",
-                            "services and provides expertise in marketing tools, engines, and campaigns-including support of marketing <em class=\"search-highlight\">managers</em>"
-                        ],
-                        "value": [
-                            "managers",
-                            "Manager"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Account <em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Manager"
-                        ]
-                    }
-                ]
-            },
-            "id": "db9d1b89-080a-4151-b3bc-7eb409f22650",
-            "links": {},
-            "meta": {
-                "score": 10.317853
+                "score": 10.31562
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2169,8 +2169,8 @@
                             "10 years, preferably in the technology sector.Excellent knowledge experience in Egyptian <em class=\"search-highlight\">accounting</em> standards"
                         ],
                         "value": [
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -2220,7 +2220,7 @@
             "id": "6d04a6a1-c3ea-46f6-afc4-7fa73b2c5030",
             "links": {},
             "meta": {
-                "score": 10.268173
+                "score": 10.262116
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2250,8 +2250,8 @@
                             "<em class=\"search-highlight\">Accounting</em>"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "Accounting"
                         ]
                     },
@@ -2263,8 +2263,8 @@
                         ],
                         "value": [
                             "management",
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -2314,7 +2314,7 @@
             "id": "6e011dce-cf6b-44b5-a992-e208baf34627",
             "links": {},
             "meta": {
-                "score": 10.244992
+                "score": 10.238928
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2389,7 +2389,7 @@
             "id": "2a34f421-896a-4d70-9283-067cea4fc1dc",
             "links": {},
             "meta": {
-                "score": 10.213095
+                "score": 10.211842
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2430,8 +2430,8 @@
                             "principlesWorking knowledge of all statutory legislation and regulationsBS/MA degree in Finance, <em class=\"search-highlight\">Accounting</em>"
                         ],
                         "value": [
-                            "Accounting",
                             "manage",
+                            "Accounting",
                             "accounting"
                         ]
                     },
@@ -2478,7 +2478,7 @@
             "id": "caf24da2-9072-4a69-96f2-96766b3148f3",
             "links": {},
             "meta": {
-                "score": 10.205642
+                "score": 10.203827
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2521,8 +2521,8 @@
                             "analytical skills and an eye for detail.Outstanding leadership and managerial skills.Strong time and people <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
                             "manager",
+                            "management",
                             "accounting"
                         ]
                     },
@@ -2560,7 +2560,7 @@
             "id": "53483ff0-7fc5-48ed-b4e5-5b18f0acfde0",
             "links": {},
             "meta": {
-                "score": 10.177771
+                "score": 10.175862
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2623,9 +2623,9 @@
                             "mechanism & Power BI tools if possible.Finding the best opportunities for making correct performing in <em class=\"search-highlight\">managing</em>"
                         ],
                         "value": [
-                            "managing",
+                            "Managing",
                             "management",
-                            "Managing"
+                            "managing"
                         ]
                     },
                     {
@@ -2651,7 +2651,7 @@
             "id": "261205b5-1c7e-4b20-ba1f-a60fd06673d9",
             "links": {},
             "meta": {
-                "score": 10.105761
+                "score": 10.10372
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2729,7 +2729,7 @@
             "id": "e52d6bd4-bdac-484c-9068-1936fa57e9be",
             "links": {},
             "meta": {
-                "score": 10.095139
+                "score": 10.09312
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2779,8 +2779,8 @@
                             "records and draft reports to help real estate <em class=\"search-highlight\">managers</em> develop and handle their budgets.Prepare or contribute"
                         ],
                         "value": [
-                            "managers",
                             "management",
+                            "managers",
                             "accounting"
                         ]
                     },
@@ -2807,7 +2807,7 @@
             "id": "54fb4bad-7a89-493e-add8-54b34f5ba35e",
             "links": {},
             "meta": {
-                "score": 10.089857
+                "score": 10.087825
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2886,7 +2886,7 @@
             "id": "20cc51d1-ce57-4986-98cf-cc16ee7671df",
             "links": {},
             "meta": {
-                "score": 10.087348
+                "score": 10.081254
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2916,8 +2916,8 @@
                             "<em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Manager",
                             "Management",
+                            "Manager",
                             "Accounting"
                         ]
                     },
@@ -2952,9 +2952,9 @@
                         ],
                         "value": [
                             "Management",
-                            "Accounting",
                             "manager",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -2981,74 +2981,7 @@
             "id": "4a94cef3-64f8-47d6-b67c-9f7f98dbd594",
             "links": {},
             "meta": {
-                "score": 10.085618
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Al-Ahmady Motors"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "Account <em class=\"search-highlight\">Management</em>",
-                            "<em class=\"search-highlight\">Accounting</em>",
-                            "Financial <em class=\"search-highlight\">Management</em>"
-                        ],
-                        "value": [
-                            "Management",
-                            "Accounting"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accounting</em>/Finance"
-                        ],
-                        "value": [
-                            "Accounting"
-                        ]
-                    },
-                    {
-                        "name": "career_level",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Manager"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accounting</em> <em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Manager",
-                            "Accounting"
-                        ]
-                    }
-                ]
-            },
-            "id": "b9e9987c-166a-447a-bb99-3738d499ec2e",
-            "links": {},
-            "meta": {
-                "score": 10.076801
+                "score": 10.079516
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3125,7 +3058,74 @@
             "id": "7744cae4-de0c-4f67-a6f8-ef2e0e25a5e4",
             "links": {},
             "meta": {
-                "score": 10.073977
+                "score": 10.07192
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Al-Ahmady Motors"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "Account <em class=\"search-highlight\">Management</em>",
+                            "<em class=\"search-highlight\">Accounting</em>",
+                            "Financial <em class=\"search-highlight\">Management</em>"
+                        ],
+                        "value": [
+                            "Management",
+                            "Accounting"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accounting</em>/Finance"
+                        ],
+                        "value": [
+                            "Accounting"
+                        ]
+                    },
+                    {
+                        "name": "career_level",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accounting</em> <em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager",
+                            "Accounting"
+                        ]
+                    }
+                ]
+            },
+            "id": "b9e9987c-166a-447a-bb99-3738d499ec2e",
+            "links": {},
+            "meta": {
+                "score": 10.070712
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3209,7 +3209,7 @@
             "id": "fc734df4-36f0-4929-b208-53e5231d56d6",
             "links": {},
             "meta": {
-                "score": 10.056599
+                "score": 10.054434
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3299,7 +3299,7 @@
             "id": "866aa3df-b5fb-4836-8925-4b124d099ae6",
             "links": {},
             "meta": {
-                "score": 10.048152
+                "score": 10.046013
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3362,7 +3362,7 @@
             "id": "cb6fa18e-cabc-4c50-937e-fa56c9e6564d",
             "links": {},
             "meta": {
-                "score": 10.00226
+                "score": 10.000378
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3408,11 +3408,11 @@
                             "degree in <em class=\"search-highlight\">Accounting</em> or FinanceExperience on Cash <em class=\"search-highlight\">Management</em>.Working Conditions:Location : Nasr CityWorking"
                         ],
                         "value": [
-                            "Accounting",
-                            "manage",
                             "Management",
+                            "management",
                             "accounting",
-                            "management"
+                            "Accounting",
+                            "manage"
                         ]
                     },
                     {
@@ -3458,7 +3458,7 @@
             "id": "938750f3-8879-4e96-8da9-97698f27f26a",
             "links": {},
             "meta": {
-                "score": 9.901563
+                "score": 9.897067
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3498,8 +3498,8 @@
                             "of experience in <em class=\"search-highlight\">accounting</em> and/or financial analysis.Ability to synthesize large quantities of complex"
                         ],
                         "value": [
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -3546,7 +3546,7 @@
             "id": "fa084bb9-c540-4511-8515-9b43d08bd15f",
             "links": {},
             "meta": {
-                "score": 9.822521
+                "score": 9.819894
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3635,7 +3635,7 @@
             "id": "f48fdb15-e18f-4c6d-aaed-db65f1f9d818",
             "links": {},
             "meta": {
-                "score": 9.819394
+                "score": 9.816758
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3667,8 +3667,8 @@
                             "<em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Manager",
                             "Management",
+                            "Manager",
                             "Accounting"
                         ]
                     },
@@ -3682,8 +3682,8 @@
                             "supervisory skills.Excellent written and verbal communication skills.Excellent organizational and time <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "Manager",
                             "management",
+                            "Manager",
                             "Accounting",
                             "accounting"
                         ]
@@ -3707,8 +3707,8 @@
                             "general ledger <em class=\"search-highlight\">accounting</em> functionsDevelop staff by <em class=\"search-highlight\">managing</em> performance, setting goals, providing ongoing"
                         ],
                         "value": [
-                            "managing",
                             "Manager",
+                            "managing",
                             "Accounting",
                             "accounting"
                         ]
@@ -3737,7 +3737,7 @@
             "id": "eabee67b-4f1c-43df-88ff-008799c59a14",
             "links": {},
             "meta": {
-                "score": 9.795061
+                "score": 9.788888
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3826,7 +3826,7 @@
             "id": "a7e0a198-af84-4ff6-8c4f-18c3c905c8b2",
             "links": {},
             "meta": {
-                "score": 9.789107
+                "score": 9.786344
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3917,7 +3917,7 @@
             "id": "f54b9d2f-cece-4bd2-90c4-052af478204a",
             "links": {},
             "meta": {
-                "score": 9.762209
+                "score": 9.757613
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3999,7 +3999,7 @@
             "id": "b1556be8-5699-474b-b1ec-b1566a60f53c",
             "links": {},
             "meta": {
-                "score": 9.759634
+                "score": 9.755043
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4043,10 +4043,10 @@
                             "Experience in <em class=\"search-highlight\">management</em> and leadership roles."
                         ],
                         "value": [
-                            "management",
+                            "manager",
                             "Management",
-                            "Accounting",
-                            "manager"
+                            "management",
+                            "Accounting"
                         ]
                     },
                     {
@@ -4070,9 +4070,9 @@
                             "skills  Excellent organizational and planning skills  Able to <em class=\"search-highlight\">manage</em> and motivate staff"
                         ],
                         "value": [
-                            "management",
                             "Management",
-                            "manage"
+                            "manage",
+                            "management"
                         ]
                     },
                     {
@@ -4098,7 +4098,7 @@
             "id": "027a8aef-e36f-4a0d-9468-f93506d0f465",
             "links": {},
             "meta": {
-                "score": 9.74296
+                "score": 9.740178
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4139,8 +4139,8 @@
                             "SQL, Access, etc.Strong demonstrated use of Excel, Word, and PowerPointKnowledge of service workshop <em class=\"search-highlight\">accounting</em>"
                         ],
                         "value": [
-                            "AccountingAbility",
-                            "accounting"
+                            "accounting",
+                            "AccountingAbility"
                         ]
                     },
                     {
@@ -4193,7 +4193,7 @@
             "id": "01740639-a382-4c3b-861d-251139a08ddd",
             "links": {},
             "meta": {
-                "score": 9.627271
+                "score": 9.621065
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4278,7 +4278,7 @@
             "id": "bda93a70-9383-4803-8116-a1c4cde5d5f9",
             "links": {},
             "meta": {
-                "score": 9.615473
+                "score": 9.612499
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4325,8 +4325,8 @@
                             "To be responsible of <em class=\"search-highlight\">managing</em> accounts team.Overlooking all policies and procedures related to <em class=\"search-highlight\">accounting</em>"
                         ],
                         "value": [
-                            "managing",
-                            "accounting"
+                            "accounting",
+                            "managing"
                         ]
                     },
                     {
@@ -4353,7 +4353,7 @@
             "id": "1ab691f3-9916-4b40-a092-6642d06bf3cd",
             "links": {},
             "meta": {
-                "score": 9.599115
+                "score": 9.592898
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4420,7 +4420,7 @@
             "id": "b43cd8c0-a60e-420f-9ab0-d12210b6f0f4",
             "links": {},
             "meta": {
-                "score": 9.590671
+                "score": 9.587699
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4459,8 +4459,8 @@
                             "principlesWorking knowledge of all statutory legislation and regulationsBS/MA degree in Finance, <em class=\"search-highlight\">Accounting</em>"
                         ],
                         "value": [
-                            "Accounting",
                             "manage",
+                            "Accounting",
                             "accounting"
                         ]
                     },
@@ -4507,7 +4507,7 @@
             "id": "2c430551-ac24-451e-bfa3-506e4a955cb9",
             "links": {},
             "meta": {
-                "score": 9.398028
+                "score": 9.394997
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4588,7 +4588,7 @@
             "id": "47a6fc92-fe38-472c-8681-fc841d4b2a4c",
             "links": {},
             "meta": {
-                "score": 9.288211
+                "score": 9.281959
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4663,7 +4663,7 @@
             "id": "1dadb5db-cde9-4637-9c00-3629ee3e52b6",
             "links": {},
             "meta": {
-                "score": 9.239162
+                "score": 9.235771
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4715,9 +4715,9 @@
                             "arising significant internal control issuesUndertake any other tasks as assigned by Internal Audit <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "management",
                             "Management",
-                            "Manager"
+                            "Manager",
+                            "management"
                         ]
                     },
                     {
@@ -4743,7 +4743,7 @@
             "id": "6429b219-381d-4d8a-9aa2-3a9e6e017b55",
             "links": {},
             "meta": {
-                "score": 9.069583
+                "score": 9.066034
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4829,7 +4829,7 @@
             "id": "8ac74ec4-a312-429f-94f9-4eef6f8ed1e4",
             "links": {},
             "meta": {
-                "score": 9.021842
+                "score": 9.016858
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4895,8 +4895,8 @@
                             "operation of the existing cost <em class=\"search-highlight\">accounting</em> functions.Make estimates of new products costs."
                         ],
                         "value": [
-                            "Manage",
                             "Manager",
+                            "Manage",
                             "accounting"
                         ]
                     },
@@ -4923,7 +4923,7 @@
             "id": "17201bf5-8345-4cf8-95ec-d853e0e8ee14",
             "links": {},
             "meta": {
-                "score": 9.005939
+                "score": 9.002294
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4956,8 +4956,8 @@
                         ],
                         "value": [
                             "Management",
-                            "Accounting",
-                            "manager"
+                            "manager",
+                            "Accounting"
                         ]
                     },
                     {
@@ -4986,8 +4986,8 @@
                             ", and disciplining <em class=\"search-highlight\">managers</em>; communicating values, strategies, and objectives; assigning accountabilities"
                         ],
                         "value": [
-                            "managing",
                             "managers",
+                            "managing",
                             "management’s"
                         ]
                     },
@@ -5014,7 +5014,7 @@
             "id": "64e5bcd3-7bbb-41fc-825e-9884cc963f86",
             "links": {},
             "meta": {
-                "score": 9.005027
+                "score": 9.001401
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5090,7 +5090,7 @@
             "id": "05fa142b-2f00-4a0d-a21e-5fdb20caabe4",
             "links": {},
             "meta": {
-                "score": 8.986704
+                "score": 8.983058
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5176,7 +5176,7 @@
             "id": "e07d20c0-71ce-492f-af36-44bcec9aa963",
             "links": {},
             "meta": {
-                "score": 8.899108
+                "score": 8.895357
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5249,7 +5249,7 @@
             "id": "f1662b53-7d79-479c-849d-44f32ca67eda",
             "links": {},
             "meta": {
-                "score": 8.837441
+                "score": 8.835751
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5322,7 +5322,7 @@
             "id": "d4b1cf30-2117-41a9-adf8-24c9cef3e2da",
             "links": {},
             "meta": {
-                "score": 8.762716
+                "score": 8.760971
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5374,9 +5374,9 @@
                             "submission and being the link between the factory and the Tax accountantEstablish the factory's finance and <em class=\"search-highlight\">accounting</em>"
                         ],
                         "value": [
+                            "Managing",
                             "management",
                             "Manage",
-                            "Managing",
                             "accounting"
                         ]
                     },
@@ -5403,7 +5403,7 @@
             "id": "c32f08a8-3470-49c7-838d-1b3e54f8be75",
             "links": {},
             "meta": {
-                "score": 8.693402
+                "score": 8.68952
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5488,7 +5488,7 @@
             "id": "2755307f-2c39-4683-abee-b87cd217d15b",
             "links": {},
             "meta": {
-                "score": 8.642272
+                "score": 8.638313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5520,8 +5520,8 @@
                             "<em class=\"search-highlight\">Accounting</em> Software"
                         ],
                         "value": [
-                            "Manager",
                             "Management",
+                            "Manager",
                             "Accounting"
                         ]
                     },
@@ -5560,8 +5560,8 @@
                             "company's activity.Selecting subordinates and following up, evaluating, and developing their performance in <em class=\"search-highlight\">accounting</em>"
                         ],
                         "value": [
-                            "manage",
                             "manager",
+                            "manage",
                             "accounting"
                         ]
                     },
@@ -5588,7 +5588,7 @@
             "id": "22ff9b54-c7c2-41b1-be54-63e718ababc8",
             "links": {},
             "meta": {
-                "score": 8.625503
+                "score": 8.621541
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5676,7 +5676,7 @@
             "id": "a39997f0-02b8-4db0-80cb-1da55ae3ec29",
             "links": {},
             "meta": {
-                "score": 8.536793
+                "score": 8.532778
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5762,7 +5762,7 @@
             "id": "d1692da7-544f-438d-8cf9-89d87dcd4b8d",
             "links": {},
             "meta": {
-                "score": 8.440626
+                "score": 8.43654
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5836,7 +5836,7 @@
             "id": "fff87de4-0617-413e-b3e0-17272697fc08",
             "links": {},
             "meta": {
-                "score": 8.403846
+                "score": 8.399891
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5922,7 +5922,7 @@
             "id": "774e716f-679c-4d17-8e13-50725f1cf2a0",
             "links": {},
             "meta": {
-                "score": 8.398601
+                "score": 8.394505
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5952,8 +5952,8 @@
                             "Financial <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Manager",
                             "Management",
+                            "Manager",
                             "Accounting"
                         ]
                     },
@@ -5984,9 +5984,9 @@
                             "budget reports, preparation of budgets, and analysis of budgets.Advise on the procedures and financial <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "managing",
-                            "management",
                             "manage",
+                            "management",
+                            "managing",
                             "accounting"
                         ]
                     },
@@ -6014,7 +6014,7 @@
             "id": "6e7ea83e-c654-4e93-8b85-ce567034c3ec",
             "links": {},
             "meta": {
-                "score": 8.378796
+                "score": 8.372496
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6054,8 +6054,8 @@
                             "Bachelor's Degree in <em class=\"search-highlight\">Accounting</em>.12+ years of related experience, Cost <em class=\"search-highlight\">accounting</em> background is preferableMax"
                         ],
                         "value": [
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -6101,7 +6101,7 @@
             "id": "cb6d1901-c112-4f01-afce-fda598d3b870",
             "links": {},
             "meta": {
-                "score": 8.366979
+                "score": 8.360675
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6190,7 +6190,7 @@
             "id": "8fc79f6e-ecb1-47a4-9be3-99f55ff06cf1",
             "links": {},
             "meta": {
-                "score": 8.323689
+                "score": 8.31954
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6249,9 +6249,9 @@
                             "process.Monitor legislative and regulatory tax law developments, communicate the effects of these developments to <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "managing",
+                            "manage",
                             "management",
-                            "manage"
+                            "managing"
                         ]
                     },
                     {
@@ -6277,7 +6277,7 @@
             "id": "14cd5f22-e0f3-437e-b40b-b7eb26cd3053",
             "links": {},
             "meta": {
-                "score": 8.322095
+                "score": 8.317945
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6352,7 +6352,7 @@
             "id": "04381731-ccec-421e-ac67-a0695eed9da2",
             "links": {},
             "meta": {
-                "score": 8.319868
+                "score": 8.317294
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6406,8 +6406,8 @@
                             "on variances from the established budget, and the reasons for those variancesAssist <em class=\"search-highlight\">management</em> in the"
                         ],
                         "value": [
-                            "management",
                             "Management",
+                            "management",
                             "accounting"
                         ]
                     },
@@ -6434,7 +6434,7 @@
             "id": "57dd4306-ca4f-4ccc-bee0-1e08be8a8e7f",
             "links": {},
             "meta": {
-                "score": 8.302091
+                "score": 8.297951
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6464,8 +6464,8 @@
                             "Financial <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Manager",
                             "Management",
+                            "Manager",
                             "Accounting"
                         ]
                     },
@@ -6512,7 +6512,7 @@
             "id": "25aee83c-4487-4f25-acdd-89d92c9269f4",
             "links": {},
             "meta": {
-                "score": 8.297048
+                "score": 8.292898
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6604,7 +6604,73 @@
             "id": "fb153ee5-42e1-498c-a16a-c5ba306f9b8f",
             "links": {},
             "meta": {
-                "score": 8.236603
+                "score": 8.232402
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "I-redo"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accounting</em>",
+                            "Financial <em class=\"search-highlight\">Management</em>"
+                        ],
+                        "value": [
+                            "Management",
+                            "Accounting"
+                        ]
+                    },
+                    {
+                        "name": "requirements",
+                        "snippets": [
+                            "BSc degree in Finance, <em class=\"search-highlight\">Accounting</em>.Minimum of 3years of experience ."
+                        ],
+                        "value": [
+                            "Accounting"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accounting</em>/Finance"
+                        ],
+                        "value": [
+                            "Accounting"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "Supervise all regular <em class=\"search-highlight\">accounting</em> processes.<em class=\"search-highlight\">Manage</em> payroll, taxes and track balance sheets Organize and"
+                        ],
+                        "value": [
+                            "Manage",
+                            "accounting"
+                        ]
+                    }
+                ]
+            },
+            "id": "c1b749e7-3705-414f-8d57-ada9cf125035",
+            "links": {},
+            "meta": {
+                "score": 8.223796
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6689,73 +6755,7 @@
             "id": "936a7d5b-1042-4adc-998f-ea0177e4493e",
             "links": {},
             "meta": {
-                "score": 8.227856
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "I-redo"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accounting</em>",
-                            "Financial <em class=\"search-highlight\">Management</em>"
-                        ],
-                        "value": [
-                            "Management",
-                            "Accounting"
-                        ]
-                    },
-                    {
-                        "name": "requirements",
-                        "snippets": [
-                            "BSc degree in Finance, <em class=\"search-highlight\">Accounting</em>.Minimum of 3years of experience ."
-                        ],
-                        "value": [
-                            "Accounting"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accounting</em>/Finance"
-                        ],
-                        "value": [
-                            "Accounting"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "Supervise all regular <em class=\"search-highlight\">accounting</em> processes.<em class=\"search-highlight\">Manage</em> payroll, taxes and track balance sheets Organize and"
-                        ],
-                        "value": [
-                            "Manage",
-                            "accounting"
-                        ]
-                    }
-                ]
-            },
-            "id": "c1b749e7-3705-414f-8d57-ada9cf125035",
-            "links": {},
-            "meta": {
-                "score": 8.224788
+                "score": 8.223639
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6823,7 +6823,7 @@
             "id": "f41301d1-0239-4237-adf8-2fbd8e392c90",
             "links": {},
             "meta": {
-                "score": 8.2225895
+                "score": 8.221593
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6890,7 +6890,7 @@
             "id": "0b75fffa-8c33-48b8-bc42-f6d13545d512",
             "links": {},
             "meta": {
-                "score": 8.213843
+                "score": 8.212737
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6960,7 +6960,7 @@
             "id": "a43886c3-44ce-4fd9-85b4-6ad81378cb79",
             "links": {},
             "meta": {
-                "score": 8.211555
+                "score": 8.210672
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7016,7 +7016,7 @@
             "id": "46921368-c1ac-429c-a040-c7d3baeba699",
             "links": {},
             "meta": {
-                "score": 8.210859
+                "score": 8.209978
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7085,7 +7085,7 @@
             "id": "09ac3d3d-ce7d-40e9-b10d-3bdc7e38c17b",
             "links": {},
             "meta": {
-                "score": 8.20606
+                "score": 8.205055
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7156,7 +7156,7 @@
             "id": "f8296b34-3efe-48d1-96c1-aa918e3b76dc",
             "links": {},
             "meta": {
-                "score": 8.204884
+                "score": 8.20399
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7230,7 +7230,7 @@
             "id": "bcac0910-f3d3-4e20-96b7-769db3d882af",
             "links": {},
             "meta": {
-                "score": 8.197078
+                "score": 8.196168
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7288,7 +7288,7 @@
             "id": "91481c70-e05d-4588-97d8-7a9aff5f6e9e",
             "links": {},
             "meta": {
-                "score": 8.194237
+                "score": 8.193222
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7328,8 +7328,8 @@
                             "analytical, communication, and computer skills.Understanding of mathematics and <em class=\"search-highlight\">accounting</em> and financial"
                         ],
                         "value": [
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -7357,7 +7357,7 @@
             "id": "62f1f897-5b9f-4c24-bb5a-758ac03ea6e6",
             "links": {},
             "meta": {
-                "score": 8.190036
+                "score": 8.189019
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7416,8 +7416,8 @@
                             "and slow-moving items.Meet monthly, quarterly, and yearly strict closing deadlines.Produce various <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "Manage",
                             "management",
+                            "Manage",
                             "Accounting"
                         ]
                     }
@@ -7426,7 +7426,7 @@
             "id": "e487f9c4-8d0a-447d-93f7-87275f4cf5f3",
             "links": {},
             "meta": {
-                "score": 8.189328
+                "score": 8.188439
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7491,7 +7491,7 @@
             "id": "0448ae7a-1ef5-4f87-9118-5b44125774be",
             "links": {},
             "meta": {
-                "score": 8.177402
+                "score": 8.176391
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7538,7 +7538,7 @@
             "id": "aa6942c9-4481-446d-a944-0abc0b0f2667",
             "links": {},
             "meta": {
-                "score": 8.177249
+                "score": 8.17635
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7580,8 +7580,8 @@
                             "skillsAccuracy and attention to detailStrong problem solving and analytical skillsFamiliarity with financial <em class=\"search-highlight\">accounting</em>"
                         ],
                         "value": [
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -7607,7 +7607,7 @@
             "id": "9b419691-2d46-4e07-9b5c-4ea95f009322",
             "links": {},
             "meta": {
-                "score": 8.176417
+                "score": 8.175412
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7664,7 +7664,7 @@
             "id": "556e337e-2008-40c8-8d98-c651cfcbb23d",
             "links": {},
             "meta": {
-                "score": 8.160821
+                "score": 8.159827
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7731,7 +7731,7 @@
             "id": "b0b72e7d-abfc-4dbf-aebc-29a0e18383a0",
             "links": {},
             "meta": {
-                "score": 8.158682
+                "score": 8.15758
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7778,7 +7778,7 @@
             "id": "68d98dc4-51e3-447f-8418-3d67c88c0aea",
             "links": {},
             "meta": {
-                "score": 8.157684
+                "score": 8.156675
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7845,7 +7845,7 @@
             "id": "df322c6d-20ef-4992-8850-b367bf77b37d",
             "links": {},
             "meta": {
-                "score": 8.155948
+                "score": 8.154857
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7914,7 +7914,7 @@
             "id": "c95552c1-860b-454e-bd8c-43eb2694d44f",
             "links": {},
             "meta": {
-                "score": 8.155693
+                "score": 8.154577
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7955,8 +7955,8 @@
                             "creating financial statements , general ledger functions and the month-end/year end close processExcellent <em class=\"search-highlight\">accounting</em>"
                         ],
                         "value": [
-                            "Accounting",
-                            "accounting"
+                            "accounting",
+                            "Accounting"
                         ]
                     },
                     {
@@ -7983,7 +7983,7 @@
             "id": "4f5c68c7-a8ac-4977-969d-981746bb3d88",
             "links": {},
             "meta": {
-                "score": 8.1539
+                "score": 8.152816
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8039,7 +8039,7 @@
             "id": "d7286458-e9b0-4539-8e2c-b1b02c3c16d6",
             "links": {},
             "meta": {
-                "score": 8.150736
+                "score": 8.149626
             },
             "relationships": {},
             "type": "talentSearch"

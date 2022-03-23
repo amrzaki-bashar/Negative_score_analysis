@@ -32,9 +32,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -55,8 +55,8 @@
                             "Customer Care Consultant ( <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -65,7 +65,7 @@
             "id": "d543163f-ceb9-47af-ac4d-c8e15ae42a7a",
             "links": {},
             "meta": {
-                "score": 20.875069
+                "score": 20.872517
             },
             "relationships": {},
             "type": "talentSearch"
@@ -94,9 +94,9 @@
                             "<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
+                            "Home",
                             "Work",
                             "home",
-                            "Home",
                             "from"
                         ]
                     },
@@ -106,9 +106,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -119,11 +119,11 @@
                             "usage5 <em class=\"search-highlight\">working</em> days + 2 days off (Rotational)Profit shareSocial and Medical insurance"
                         ],
                         "value": [
-                            "Work",
-                            "working",
-                            "From",
                             "Home",
-                            "from"
+                            "Work",
+                            "from",
+                            "From",
+                            "working"
                         ]
                     },
                     {
@@ -132,8 +132,8 @@
                             "Customer Service Advisor - Vodafone Ireland (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -142,7 +142,7 @@
             "id": "1b29048f-c326-489d-980f-7cecd6c13a31",
             "links": {},
             "meta": {
-                "score": 20.84393
+                "score": 20.840096
             },
             "relationships": {},
             "type": "talentSearch"
@@ -180,9 +180,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -202,8 +202,8 @@
                             "Customer Care Representative - Ireland Account (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "Home",
+                            "Work",
                             "from"
                         ]
                     }
@@ -212,7 +212,7 @@
             "id": "75bc6c67-18ac-4636-8f03-3a04ad8bf02f",
             "links": {},
             "meta": {
-                "score": 20.685043
+                "score": 20.682846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -241,8 +241,8 @@
                             "Hours: Monday-Friday (3:00 PM-12:00 AM) (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home",
                             "Working"
                         ]
@@ -253,8 +253,8 @@
                             "Telemarketing Representative (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -263,7 +263,7 @@
             "id": "49e1dc7d-11e7-49a5-88cf-f797612838bb",
             "links": {},
             "meta": {
-                "score": 20.586939
+                "score": 20.584429
             },
             "relationships": {},
             "type": "talentSearch"
@@ -300,9 +300,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -320,8 +320,8 @@
                             "<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em> - German International Account Advisor - Bilingual German/English"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -330,7 +330,7 @@
             "id": "36a4c29d-f26b-418a-8662-968b6277fc95",
             "links": {},
             "meta": {
-                "score": 20.39064
+                "score": 20.38736
             },
             "relationships": {},
             "type": "talentSearch"
@@ -358,9 +358,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -371,11 +371,11 @@
                             "usage5 <em class=\"search-highlight\">working</em> days + 2 days off (Rotational)Profit shareSocial and Medical insurance"
                         ],
                         "value": [
-                            "Work",
-                            "working",
-                            "From",
                             "Home",
-                            "from"
+                            "Work",
+                            "from",
+                            "From",
+                            "working"
                         ]
                     },
                     {
@@ -384,8 +384,8 @@
                             "Call Center Advisor - Vodafone Ireland (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -394,7 +394,7 @@
             "id": "83e7ca78-82b1-4396-a992-ceda6884281a",
             "links": {},
             "meta": {
-                "score": 20.206312
+                "score": 20.20251
             },
             "relationships": {},
             "type": "talentSearch"
@@ -422,9 +422,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -433,8 +433,8 @@
                             "Customer Service Agent Vodafone UK /<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em> *GRADS ONLY *(Cairo Only)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -443,7 +443,7 @@
             "id": "ba512eb6-20d8-4e78-a859-795c922ee418",
             "links": {},
             "meta": {
-                "score": 20.197596
+                "score": 20.193756
             },
             "relationships": {},
             "type": "talentSearch"
@@ -471,9 +471,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -482,8 +482,8 @@
                             "Customer Service Agent Vodafone UK /<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em> /GRADS ONLY(Cairo Only)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -492,7 +492,7 @@
             "id": "c79dee17-4206-41f8-a786-85661912dc35",
             "links": {},
             "meta": {
-                "score": 20.196262
+                "score": 20.192425
             },
             "relationships": {},
             "type": "talentSearch"
@@ -523,8 +523,8 @@
                             "prepared to <em class=\"search-highlight\">work</em> long hours if required.An eye for detail and be very accurate in their <em class=\"search-highlight\">work</em>.Understand"
                         ],
                         "value": [
-                            "working",
-                            "work"
+                            "work",
+                            "working"
                         ]
                     },
                     {
@@ -533,9 +533,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -547,10 +547,10 @@
                             "Feel free to share samples of your <em class=\"search-highlight\">work</em> or portfolio of your published articles, along with your application"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "working",
-                            "work"
+                            "from",
+                            "working"
                         ]
                     },
                     {
@@ -559,8 +559,8 @@
                             "Copywriter (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -569,7 +569,7 @@
             "id": "b5690b5c-0bf4-4897-81ca-729ee307b5c6",
             "links": {},
             "meta": {
-                "score": 20.09937
+                "score": 20.095308
             },
             "relationships": {},
             "type": "talentSearch"
@@ -606,9 +606,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -619,9 +619,9 @@
                             "<em class=\"search-highlight\">from</em> anywhere.Looking forward to your application, please send it in English."
                         ],
                         "value": [
+                            "work",
                             "Work",
                             "home",
-                            "work",
                             "from"
                         ]
                     },
@@ -641,7 +641,7 @@
             "id": "3b96bae3-10f0-42a6-b904-76d20f418f05",
             "links": {},
             "meta": {
-                "score": 19.825274
+                "score": 19.820553
             },
             "relationships": {},
             "type": "talentSearch"
@@ -679,9 +679,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -701,8 +701,8 @@
                             "Customer Service Representative - Ireland Account (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "Home",
+                            "Work",
                             "from"
                         ]
                     }
@@ -711,7 +711,7 @@
             "id": "2e475703-81c0-4d44-b899-e44189a18111",
             "links": {},
             "meta": {
-                "score": 19.281641
+                "score": 19.275965
             },
             "relationships": {},
             "type": "talentSearch"
@@ -749,9 +749,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -771,8 +771,8 @@
                             "Customer Service Consultant -Ireland Account (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "Home",
+                            "Work",
                             "from"
                         ]
                     }
@@ -781,7 +781,7 @@
             "id": "339a5ae0-580c-4e1f-b11e-c13b9f03d53e",
             "links": {},
             "meta": {
-                "score": 19.281591
+                "score": 19.275917
             },
             "relationships": {},
             "type": "talentSearch"
@@ -811,9 +811,9 @@
                             "to details.Computer competency.Organizational and time management skills.Ability to accept and learn <em class=\"search-highlight\">from</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -822,9 +822,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -835,9 +835,9 @@
                             "business partner with our clients.Communicating effectivity with multiple buyers to ensure  smooth <em class=\"search-highlight\">work</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -846,8 +846,8 @@
                             "Virtual Assistant (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -856,7 +856,7 @@
             "id": "d0233962-1696-4a54-b9fc-50dc41c3d009",
             "links": {},
             "meta": {
-                "score": 19.012606
+                "score": 19.00651
             },
             "relationships": {},
             "type": "talentSearch"
@@ -886,9 +886,9 @@
                             "good understanding of motion graphics are preferred.Submission of a video editing reel of your best <em class=\"search-highlight\">work</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -897,9 +897,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -910,10 +910,10 @@
                             "Weekends: Saturdays & SundaysGraduates onlyDuties & Responsibilities:Will be <em class=\"search-highlight\">working</em> on (VSL - Ads) using"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "working",
-                            "work"
+                            "from",
+                            "working"
                         ]
                     },
                     {
@@ -922,8 +922,8 @@
                             "Video Editor (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -932,7 +932,7 @@
             "id": "d7e414dd-87a7-413a-b226-29eaeebc803c",
             "links": {},
             "meta": {
-                "score": 18.863192
+                "score": 18.856897
             },
             "relationships": {},
             "type": "talentSearch"
@@ -961,9 +961,9 @@
                             "<em class=\"search-highlight\">from</em> 5PM to 2AM Cairo time <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>.Excellent knowledge of Adobe Illustrator, InDesign, and Photoshop.Excellent"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -972,9 +972,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -984,9 +984,9 @@
                             "We're looking for someone who's flexible to <em class=\"search-highlight\">work</em> <em class=\"search-highlight\">from</em> 5PM to 2AM Cairo time (<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em> permanently) and"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -995,8 +995,8 @@
                             "UI/UX Designer (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1005,7 +1005,7 @@
             "id": "420faaa8-c0ee-43d5-b0ac-16da999562ec",
             "links": {},
             "meta": {
-                "score": 18.857656
+                "score": 18.851366
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1033,9 +1033,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1054,8 +1054,8 @@
                             "Customer Care Representative - (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)-Vodafone Ireland (VOIS)(New Salary Schemes)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1064,7 +1064,7 @@
             "id": "bdb5457f-8137-4d7e-b5dc-e0b1590cea09",
             "links": {},
             "meta": {
-                "score": 18.477192
+                "score": 18.470486
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1103,8 +1103,8 @@
                             "Vodafone Uk and Ireland Customer Service Representative / <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1113,7 +1113,7 @@
             "id": "d7e0973e-a53b-436d-8a3b-26c9c5d694ac",
             "links": {},
             "meta": {
-                "score": 17.742123
+                "score": 17.734695
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1154,9 +1154,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1169,10 +1169,10 @@
                             "recommendations/plans based on their accounts and our products offerings.Responsibilities will include <em class=\"search-highlight\">working</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "working",
-                            "work"
+                            "from",
+                            "working"
                         ]
                     },
                     {
@@ -1181,8 +1181,8 @@
                             "Customer Success Specialist (8,500K EGP - Full Time <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1191,7 +1191,7 @@
             "id": "f07db892-c125-40fb-9287-57a8d45fb571",
             "links": {},
             "meta": {
-                "score": 17.353445
+                "score": 17.345724
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1219,9 +1219,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1230,8 +1230,8 @@
                             "Call Center Agent (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1240,7 +1240,7 @@
             "id": "2c81c53a-fb2b-4999-8776-15456d436f7e",
             "links": {},
             "meta": {
-                "score": 16.47462
+                "score": 16.466324
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1279,9 +1279,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1290,8 +1290,8 @@
                             "Bilingual Italian/English Technical Support Advisor (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "Home",
+                            "Work",
                             "from"
                         ]
                     }
@@ -1300,7 +1300,7 @@
             "id": "bac32bdb-ef85-4842-a849-ab8ed4df75a1",
             "links": {},
             "meta": {
-                "score": 13.985718
+                "score": 13.97652
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1337,9 +1337,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1348,8 +1348,8 @@
                             "Translator (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "Home",
+                            "Work",
                             "from"
                         ]
                     }
@@ -1358,7 +1358,7 @@
             "id": "de77e0e1-9aea-4566-a94a-c89518c47b49",
             "links": {},
             "meta": {
-                "score": 13.910882
+                "score": 13.901698
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1395,9 +1395,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1415,8 +1415,8 @@
                             "English Offshore Account Representative/ <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1425,7 +1425,7 @@
             "id": "737f8c46-34fa-471b-addf-c04123f89cdd",
             "links": {},
             "meta": {
-                "score": 13.68213
+                "score": 13.672918
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1462,9 +1462,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1482,8 +1482,8 @@
                             "Administrative Assistant (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1492,7 +1492,7 @@
             "id": "96ffc65e-3f3d-411b-b8fd-07cf8c3ac5e8",
             "links": {},
             "meta": {
-                "score": 13.485013
+                "score": 13.475777
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1529,9 +1529,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1542,10 +1542,10 @@
                             "and mailing offers, making sure they’re in the CRM, making sure some salesperson reaches out)-Admin <em class=\"search-highlight\">work</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "working",
-                            "work"
+                            "from",
+                            "working"
                         ]
                     },
                     {
@@ -1554,8 +1554,8 @@
                             "Executive Assistant ( <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em> )"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1564,7 +1564,7 @@
             "id": "934ff191-6aa1-46a6-a5b6-0648ba0fcdf6",
             "links": {},
             "meta": {
-                "score": 12.145474
+                "score": 12.136216
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1601,9 +1601,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1612,8 +1612,8 @@
                             "Copywriter - (<em class=\"search-highlight\">Work</em> Form <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
-                            "Home"
+                            "Home",
+                            "Work"
                         ]
                     }
                 ]
@@ -1621,7 +1621,7 @@
             "id": "7a2882c7-4803-446c-a00b-106672f9d867",
             "links": {},
             "meta": {
-                "score": 11.964271
+                "score": 11.958241
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1651,8 +1651,8 @@
                             "sales copy formatsThe ability to maintain high-quality <em class=\"search-highlight\">work</em> while meeting tight deadlinesBeing alert"
                         ],
                         "value": [
-                            "from",
-                            "work"
+                            "work",
+                            "from"
                         ]
                     },
                     {
@@ -1661,9 +1661,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1673,10 +1673,10 @@
                             "We're looking for someone who's flexible with <em class=\"search-highlight\">working</em> <em class=\"search-highlight\">from</em> 5 PM to 1 AM <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em> permanently and can"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "working",
-                            "work"
+                            "from",
+                            "working"
                         ]
                     },
                     {
@@ -1685,8 +1685,8 @@
                             "Copy Editor (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1695,7 +1695,7 @@
             "id": "7bb4f0ee-3877-4e59-9fed-1ed8225da99d",
             "links": {},
             "meta": {
-                "score": 11.408379
+                "score": 11.399193
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1725,9 +1725,9 @@
                             "good understanding of motion graphics are preferred.Submission of a video editing reel of your best <em class=\"search-highlight\">work</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1736,9 +1736,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1748,9 +1748,9 @@
                             "We're looking for a dynamic Graphic Designer who's flexible with <em class=\"search-highlight\">working</em> <em class=\"search-highlight\">from</em> 3 PM to 12 AM (<em class=\"search-highlight\">from</em> the"
                         ],
                         "value": [
+                            "work",
                             "from",
-                            "working",
-                            "work"
+                            "working"
                         ]
                     },
                     {
@@ -1759,8 +1759,8 @@
                             "Video Editor (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> Office)"
                         ],
                         "value": [
-                            "Work",
-                            "From"
+                            "From",
+                            "Work"
                         ]
                     }
                 ]
@@ -1768,7 +1768,7 @@
             "id": "a0f13c10-7210-454a-81a1-b69c98f0a72f",
             "links": {},
             "meta": {
-                "score": 11.29406
+                "score": 11.291653
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1798,8 +1798,8 @@
                             "helped millions of people explore treatments and decisions that range <em class=\"search-highlight\">from</em> laser skin resurfacing to"
                         ],
                         "value": [
-                            "from",
-                            "work"
+                            "work",
+                            "from"
                         ]
                     },
                     {
@@ -1808,9 +1808,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1823,10 +1823,10 @@
                             "first contact to contract initiation and closure.<em class=\"search-highlight\">Works</em> closely with clients to facilitate activity <em class=\"search-highlight\">from</em>"
                         ],
                         "value": [
-                            "from",
-                            "home",
                             "Works",
-                            "work"
+                            "work",
+                            "home",
+                            "from"
                         ]
                     },
                     {
@@ -1835,8 +1835,8 @@
                             "Account Executive - Sales (29K EGP- Full Time <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>) - Tajmeeli"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1845,7 +1845,7 @@
             "id": "a0f6f338-0516-4e13-b510-e8e1c6b87881",
             "links": {},
             "meta": {
-                "score": 10.961334
+                "score": 10.9522295
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1873,9 +1873,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1887,8 +1887,8 @@
                         ],
                         "value": [
                             "working",
-                            "Working",
-                            "work"
+                            "work",
+                            "Working"
                         ]
                     },
                     {
@@ -1897,8 +1897,8 @@
                             "Digital Advertising Expert (Media Buyer) - Full Time <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1907,7 +1907,7 @@
             "id": "439fbc1b-778a-414f-9c09-e05d22574479",
             "links": {},
             "meta": {
-                "score": 10.725628
+                "score": 10.716576
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1945,9 +1945,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -1957,8 +1957,8 @@
                             "to the required daily target.Maintain a consistent quality standardWorking Hours: 9 hours starting <em class=\"search-highlight\">from</em>"
                         ],
                         "value": [
-                            "homes",
-                            "from"
+                            "from",
+                            "homes"
                         ]
                     },
                     {
@@ -1967,8 +1967,8 @@
                             "Telemarketing Agent (<em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>)"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -1977,7 +1977,7 @@
             "id": "e0650548-b465-4afb-b7ff-7b249f21c9a9",
             "links": {},
             "meta": {
-                "score": 10.282053
+                "score": 10.273096
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2015,9 +2015,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2027,8 +2027,8 @@
                             "to the required daily target.Maintain a consistent quality standardWorking Hours: 9 hours starting <em class=\"search-highlight\">from</em>"
                         ],
                         "value": [
-                            "homes",
-                            "from"
+                            "from",
+                            "homes"
                         ]
                     },
                     {
@@ -2037,8 +2037,8 @@
                             "Telemarketing Agent ( <em class=\"search-highlight\">Work</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em> )"
                         ],
                         "value": [
-                            "Work",
                             "From",
+                            "Work",
                             "Home"
                         ]
                     }
@@ -2047,7 +2047,7 @@
             "id": "0dac8329-1376-4443-93d7-be21e3063b47",
             "links": {},
             "meta": {
-                "score": 10.281499
+                "score": 10.272542
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2084,9 +2084,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2115,7 +2115,7 @@
             "id": "f97eea03-1b44-4754-b090-6d07d47cf62a",
             "links": {},
             "meta": {
-                "score": 10.21547
+                "score": 10.214354
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2157,10 +2157,10 @@
                             "<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>/ successful candidates will be transferred to full time in <em class=\"search-highlight\">work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "working",
-                            "work"
+                            "from",
+                            "working"
                         ]
                     }
                 ]
@@ -2168,7 +2168,7 @@
             "id": "f8464548-a733-44a0-9574-a7b7f300d66a",
             "links": {},
             "meta": {
-                "score": 9.861189
+                "score": 9.856174
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2196,9 +2196,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2227,7 +2227,7 @@
             "id": "0f05199e-688b-4e30-ad8c-977f31101537",
             "links": {},
             "meta": {
-                "score": 9.724017
+                "score": 9.722188
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2255,9 +2255,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2283,7 +2283,7 @@
             "id": "94b6898a-dc25-41e9-a858-013f76420108",
             "links": {},
             "meta": {
-                "score": 9.601715
+                "score": 9.599652
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2312,10 +2312,10 @@
                             "Remote <em class=\"search-highlight\">Working</em>"
                         ],
                         "value": [
-                            "Work",
                             "From",
-                            "Home",
-                            "Working"
+                            "Work",
+                            "Working",
+                            "Home"
                         ]
                     },
                     {
@@ -2324,9 +2324,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2346,7 +2346,7 @@
             "id": "a6b1e818-f2a2-4ea3-bee6-0431e313e4d2",
             "links": {},
             "meta": {
-                "score": 9.428952
+                "score": 9.423749
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2374,9 +2374,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2405,7 +2405,7 @@
             "id": "aeb294d2-0342-4c68-8c48-678e62e5ffcc",
             "links": {},
             "meta": {
-                "score": 8.840806
+                "score": 8.837516
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2433,9 +2433,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2464,7 +2464,7 @@
             "id": "eb46e3d1-f6b0-47fd-af0d-1918fc7f8ac9",
             "links": {},
             "meta": {
-                "score": 8.623861
+                "score": 8.620368
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2492,9 +2492,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2523,7 +2523,7 @@
             "id": "5ea43e52-a774-460e-9628-c129273cc72a",
             "links": {},
             "meta": {
-                "score": 8.456203
+                "score": 8.452565
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2551,9 +2551,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2582,7 +2582,7 @@
             "id": "0b0134dd-588d-4b04-9894-ccc998d7c6a1",
             "links": {},
             "meta": {
-                "score": 5.7619014
+                "score": 5.7612724
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2610,9 +2610,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2623,11 +2623,11 @@
                             "<em class=\"search-highlight\">From</em> HomePaid Training (<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>)Laptop/PCInternet AllowanceVPNSocial & Medical InsuranceMorning Shifts2"
                         ],
                         "value": [
-                            "Work",
-                            "From",
                             "work",
+                            "Work",
+                            "from",
                             "home",
-                            "from"
+                            "From"
                         ]
                     },
                     {
@@ -2644,7 +2644,7 @@
             "id": "29e02220-9feb-4ab0-ae07-0b6e0295d4c9",
             "links": {},
             "meta": {
-                "score": 5.7618318
+                "score": 5.7612023
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2672,9 +2672,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2685,11 +2685,11 @@
                             "<em class=\"search-highlight\">From</em> HomePaid Training (<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>)Laptop/PCInternet AllowanceVPNSocial & Medical InsuranceMorning Shifts2"
                         ],
                         "value": [
-                            "Work",
-                            "From",
                             "work",
+                            "Work",
+                            "from",
                             "home",
-                            "from"
+                            "From"
                         ]
                     },
                     {
@@ -2706,7 +2706,7 @@
             "id": "47c5e1bf-5e70-4d12-a2e2-27ec55340d96",
             "links": {},
             "meta": {
-                "score": 5.7390184
+                "score": 5.738391
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2756,8 +2756,8 @@
                             "respective costs.Supervise technical implementation team and manage all project implementation activities <em class=\"search-highlight\">from</em>"
                         ],
                         "value": [
-                            "from",
-                            "work"
+                            "work",
+                            "from"
                         ]
                     }
                 ]
@@ -2765,7 +2765,7 @@
             "id": "4c13fdbd-fa53-406b-b622-610fc87f586d",
             "links": {},
             "meta": {
-                "score": 5.4286265
+                "score": 5.426304
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2822,7 +2822,7 @@
             "id": "eb7a6416-f687-415d-9b28-b15b55f4d6df",
             "links": {},
             "meta": {
-                "score": 5.2647243
+                "score": 5.2602572
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2879,7 +2879,7 @@
             "id": "92749e96-9e3b-496c-babd-9ac530f8e937",
             "links": {},
             "meta": {
-                "score": 3.4235892
+                "score": 3.4228106
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2933,7 +2933,7 @@
             "id": "3772fad2-c7e0-4dbf-b484-a680fbdea097",
             "links": {},
             "meta": {
-                "score": 3.2221773
+                "score": 3.2209983
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2970,9 +2970,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -2982,8 +2982,8 @@
                             "<em class=\"search-highlight\">Working</em> hours start at 4 pm with room for flexibility."
                         ],
                         "value": [
-                            "Working",
-                            "work"
+                            "work",
+                            "Working"
                         ]
                     }
                 ]
@@ -2991,7 +2991,7 @@
             "id": "488f154b-8677-4144-a278-f36d1f91d3b1",
             "links": {},
             "meta": {
-                "score": 3.0313716
+                "score": 3.0300767
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3037,9 +3037,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -3047,7 +3047,7 @@
             "id": "a95afd0a-b751-49cd-ab9b-a2257fa579f4",
             "links": {},
             "meta": {
-                "score": 3.0065331
+                "score": 3.0039055
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3084,9 +3084,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3106,7 +3106,7 @@
             "id": "70f17b39-b13b-4f29-b915-1634b5d46513",
             "links": {},
             "meta": {
-                "score": 2.7097344
+                "score": 2.7082672
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3143,9 +3143,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3165,7 +3165,7 @@
             "id": "c64f8b30-1212-4f80-8d40-55556438ec7f",
             "links": {},
             "meta": {
-                "score": 2.7090774
+                "score": 2.70761
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3205,11 +3205,11 @@
                             "el matar.<em class=\"search-highlight\">Working</em> time: <em class=\"search-highlight\">From</em> 10:00 am to 6:00 PM _ Saturday to Thursday."
                         ],
                         "value": [
-                            "Work",
-                            "From",
                             "work",
+                            "Work",
                             "home",
-                            "Working"
+                            "Working",
+                            "From"
                         ]
                     }
                 ]
@@ -3217,7 +3217,7 @@
             "id": "fb64da6d-5466-41e6-b751-6c4327391638",
             "links": {},
             "meta": {
-                "score": 2.2477124
+                "score": 2.2461388
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3255,8 +3255,8 @@
                             "system <em class=\"search-highlight\">from</em> Accounting Staff.  "
                         ],
                         "value": [
-                            "from",
-                            "work"
+                            "work",
+                            "from"
                         ]
                     }
                 ]
@@ -3264,7 +3264,7 @@
             "id": "7876dade-191d-4cc4-9fe1-5f8b4711dd65",
             "links": {},
             "meta": {
-                "score": 2.1321032
+                "score": 2.13053
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3303,7 +3303,7 @@
             "id": "1b1b0890-5680-410a-9522-49425c957389",
             "links": {},
             "meta": {
-                "score": 1.3676744
+                "score": 1.3674157
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3332,8 +3332,8 @@
                             "<em class=\"search-highlight\">FROM</em> <em class=\"search-highlight\">HOME</em> - FREELANCING)) "
                         ],
                         "value": [
-                            "HOME",
                             "WORK",
+                            "HOME",
                             "FROM"
                         ]
                     },
@@ -3343,9 +3343,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -3353,7 +3353,7 @@
             "id": "5ab2f1ae-8331-4feb-b863-66f21be2010e",
             "links": {},
             "meta": {
-                "score": 1.3450999
+                "score": 1.3444861
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3390,9 +3390,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3401,8 +3401,8 @@
                             "This is a full-time remote sales position <em class=\"search-highlight\">working</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>."
                         ],
                         "value": [
-                            "home",
                             "working",
+                            "home",
                             "from"
                         ]
                     }
@@ -3411,7 +3411,7 @@
             "id": "769ad994-4630-40da-864e-c446d5da3896",
             "links": {},
             "meta": {
-                "score": 1.3010155
+                "score": 1.30076
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3448,9 +3448,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3459,8 +3459,8 @@
                             "This is a full-time remote sales position <em class=\"search-highlight\">working</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>."
                         ],
                         "value": [
-                            "home",
                             "working",
+                            "home",
                             "from"
                         ]
                     }
@@ -3469,7 +3469,7 @@
             "id": "674d80c9-d2f9-4ac4-b7ec-c1406e039ce4",
             "links": {},
             "meta": {
-                "score": 1.3010104
+                "score": 1.3007549
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3507,8 +3507,8 @@
                             "as the product is still to be established in the market, more potential for other products to come <em class=\"search-highlight\">from</em>"
                         ],
                         "value": [
-                            "from",
-                            "work"
+                            "work",
+                            "from"
                         ]
                     }
                 ]
@@ -3516,7 +3516,7 @@
             "id": "e95515d5-7bb5-47c6-af27-62655d996ffb",
             "links": {},
             "meta": {
-                "score": 1.2399491
+                "score": 1.2397306
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3544,8 +3544,8 @@
                             "<em class=\"search-highlight\">Work</em> 4-8 hours a dayProduce high quality workHave own PC/SoftwareWork <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">Home</em> acceptable except there"
                         ],
                         "value": [
-                            "Work",
                             "Home",
+                            "Work",
                             "from"
                         ]
                     }
@@ -3554,7 +3554,7 @@
             "id": "154dc246-12b5-40a9-9e83-3c3b1856a511",
             "links": {},
             "meta": {
-                "score": 1.2286202
+                "score": 1.2281052
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3593,9 +3593,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3607,8 +3607,8 @@
                             "business operations, facilities, and physical and intellectual property and to ensure a safe and secure <em class=\"search-highlight\">working</em>"
                         ],
                         "value": [
-                            "working",
-                            "work"
+                            "work",
+                            "working"
                         ]
                     }
                 ]
@@ -3616,7 +3616,7 @@
             "id": "35031a61-9517-4060-980f-d35e64e06ce0",
             "links": {},
             "meta": {
-                "score": 1.1694034
+                "score": 1.1691498
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3644,8 +3644,8 @@
                             "<em class=\"search-highlight\">Working</em> Hours: Sunday to Thursday <em class=\"search-highlight\">from</em> 09:00 AM to 5:00 PM.Weekend: Fridays and SaturdaysLocation: Heliopolis"
                         ],
                         "value": [
-                            "Working",
-                            "from"
+                            "from",
+                            "Working"
                         ]
                     },
                     {
@@ -3664,7 +3664,7 @@
             "id": "d4aca6b9-f624-452a-ac08-81252ce77446",
             "links": {},
             "meta": {
-                "score": 1.1412394
+                "score": 1.141025
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3703,9 +3703,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -3713,7 +3713,7 @@
             "id": "dd0e7052-991f-4f47-9a8f-0d487499862a",
             "links": {},
             "meta": {
-                "score": 1.1378615
+                "score": 1.1376333
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3750,9 +3750,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3762,9 +3762,9 @@
                             "around ~250KBenefitsMostly Remote <em class=\"search-highlight\">working</em> ( ~2 days <em class=\"search-highlight\">from</em> office  )Flexible <em class=\"search-highlight\">work</em> environment and cool"
                         ],
                         "value": [
+                            "work",
                             "from",
-                            "working",
-                            "work"
+                            "working"
                         ]
                     }
                 ]
@@ -3772,7 +3772,7 @@
             "id": "d629b0e7-0a4f-4008-aed2-e2f3fee477af",
             "links": {},
             "meta": {
-                "score": 1.1214213
+                "score": 1.1211021
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3811,9 +3811,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -3821,7 +3821,7 @@
             "id": "a1db180c-9009-4a8e-ad67-c6e568376cb7",
             "links": {},
             "meta": {
-                "score": 1.1131929
+                "score": 1.1129696
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3851,9 +3851,9 @@
                             "with Google Docs and Google SheetsAbility to <em class=\"search-highlight\">work</em> <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em> with a strong internet connectionAbility"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -3862,9 +3862,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -3872,7 +3872,7 @@
             "id": "6215bdb3-ec8d-43e8-b30c-6af72671b2c3",
             "links": {},
             "meta": {
-                "score": 1.1082036
+                "score": 1.1078608
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3900,9 +3900,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -3910,7 +3910,7 @@
             "id": "0e703ad3-2db2-49a1-bd95-ee8ff7a34585",
             "links": {},
             "meta": {
-                "score": 1.0997936
+                "score": 1.0996729
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3948,8 +3948,8 @@
                         ],
                         "value": [
                             "home",
-                            "Working",
-                            "from"
+                            "from",
+                            "Working"
                         ]
                     }
                 ]
@@ -3957,7 +3957,7 @@
             "id": "0bf9f946-af86-471c-9987-ae3b6be8ec94",
             "links": {},
             "meta": {
-                "score": 1.0878916
+                "score": 1.0875719
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3989,8 +3989,8 @@
                         "value": [
                             "Work",
                             "home",
-                            "Working",
-                            "from"
+                            "from",
+                            "Working"
                         ]
                     }
                 ]
@@ -3998,7 +3998,7 @@
             "id": "d28acc0f-baf7-4c15-8ed6-93e55bf59382",
             "links": {},
             "meta": {
-                "score": 1.078032
+                "score": 1.0778286
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4026,9 +4026,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4045,7 +4045,7 @@
             "id": "8755c83d-7c0d-40bd-bb17-0c50c8ff86da",
             "links": {},
             "meta": {
-                "score": 1.0556363
+                "score": 1.0554217
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4084,9 +4084,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4094,7 +4094,7 @@
             "id": "8f8d1a5a-b061-483d-892a-0b28563f80a8",
             "links": {},
             "meta": {
-                "score": 1.052804
+                "score": 1.0525929
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4123,9 +4123,9 @@
                             "<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em> after <em class=\"search-highlight\">work</em> time if the sales team needs any important reports to facilitate the <em class=\"search-highlight\">work</em> of the"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4144,7 +4144,7 @@
             "id": "9e00931b-0150-4542-b488-95ef1928bf7b",
             "links": {},
             "meta": {
-                "score": 1.0486658
+                "score": 1.0484229
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4181,9 +4181,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4200,7 +4200,7 @@
             "id": "144ed518-7f5e-49e1-be6f-9ad5a6a8976f",
             "links": {},
             "meta": {
-                "score": 1.0173043
+                "score": 1.0170498
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4239,9 +4239,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4260,7 +4260,7 @@
             "id": "1c6c1515-5dd7-47cf-afef-050b521d64c6",
             "links": {},
             "meta": {
-                "score": 1.0014663
+                "score": 1.0012654
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4288,9 +4288,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4298,7 +4298,7 @@
             "id": "caa423aa-b87a-4dc8-94e6-2bd7876cabc7",
             "links": {},
             "meta": {
-                "score": 0.988304
+                "score": 0.9880423
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4337,9 +4337,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4358,7 +4358,7 @@
             "id": "55dd3373-b47c-41a4-b3b9-0f10298bb510",
             "links": {},
             "meta": {
-                "score": 0.9868563
+                "score": 0.98665833
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4397,9 +4397,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4407,7 +4407,7 @@
             "id": "226f4b02-2e4c-4e61-bba9-6ae7ecaffb4f",
             "links": {},
             "meta": {
-                "score": 0.9868255
+                "score": 0.9866275
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4454,7 +4454,7 @@
             "id": "41fc911d-f771-4b5b-8a83-14d91fedf928",
             "links": {},
             "meta": {
-                "score": 0.9858635
+                "score": 0.9856899
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4482,9 +4482,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4492,7 +4492,7 @@
             "id": "f403e320-326c-424c-bb15-f4006c1bae3e",
             "links": {},
             "meta": {
-                "score": 0.97924596
+                "score": 0.9790186
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4520,9 +4520,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4530,7 +4530,7 @@
             "id": "ee3f0748-84ce-4f6b-a9fb-c7b5fecac396",
             "links": {},
             "meta": {
-                "score": 0.9713138
+                "score": 0.97090656
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4569,9 +4569,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4591,7 +4591,7 @@
             "id": "713d31de-29a4-4f1f-9255-3f68f91568f5",
             "links": {},
             "meta": {
-                "score": 0.96356684
+                "score": 0.9633735
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4620,8 +4620,8 @@
                             "within a PHP environmentWorking <em class=\"search-highlight\">from</em> Company Not <em class=\"search-highlight\">Home</em>"
                         ],
                         "value": [
-                            "working",
                             "Home",
+                            "working",
                             "from"
                         ]
                     }
@@ -4630,7 +4630,7 @@
             "id": "2922c96c-b6d7-450f-9a2f-fb5722a873c7",
             "links": {},
             "meta": {
-                "score": 0.96254915
+                "score": 0.96235466
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4659,11 +4659,11 @@
                             "hours <em class=\"search-highlight\">from</em> 7:30 to 4:30<em class=\"search-highlight\">Working</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">home</em>.Fixed days off"
                         ],
                         "value": [
-                            "working",
-                            "From",
+                            "from",
                             "home",
                             "Working",
-                            "from"
+                            "From",
+                            "working"
                         ]
                     }
                 ]
@@ -4671,7 +4671,7 @@
             "id": "350241a1-9081-4c82-813c-abdc6c96667b",
             "links": {},
             "meta": {
-                "score": 0.9613494
+                "score": 0.96107435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4700,8 +4700,8 @@
                             "Have <em class=\"search-highlight\">worked</em> on production servers with high scalability and user base . "
                         ],
                         "value": [
-                            "working",
-                            "worked"
+                            "worked",
+                            "working"
                         ]
                     },
                     {
@@ -4710,9 +4710,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4729,7 +4729,7 @@
             "id": "726e92a2-47e6-4a35-b7e9-d3069841eab4",
             "links": {},
             "meta": {
-                "score": 0.956736
+                "score": 0.9566193
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4768,9 +4768,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4787,7 +4787,7 @@
             "id": "9d893e88-3f15-43af-abf6-81c20ff661a0",
             "links": {},
             "meta": {
-                "score": 0.95411503
+                "score": 0.95392364
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4824,9 +4824,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4834,7 +4834,7 @@
             "id": "687c887e-d1fc-4438-9258-dda8f5550bb8",
             "links": {},
             "meta": {
-                "score": 0.9312894
+                "score": 0.9311033
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4864,8 +4864,8 @@
                             "<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>, with flexible hours.For part-timers: minimum availability is 10 hours per week with 2 hours"
                         ],
                         "value": [
-                            "home",
                             "working",
+                            "home",
                             "from"
                         ]
                     },
@@ -4875,9 +4875,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -4887,9 +4887,9 @@
                             "is 100% <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em> and we welcome part-time."
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4897,7 +4897,7 @@
             "id": "8eebcb7c-6e97-462a-9e14-8cf111867720",
             "links": {},
             "meta": {
-                "score": 0.92810404
+                "score": 0.9278414
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4925,9 +4925,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4935,7 +4935,7 @@
             "id": "eda4c95c-be2b-491c-8065-2bac1a408e01",
             "links": {},
             "meta": {
-                "score": 0.92268014
+                "score": 0.9224821
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4974,9 +4974,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -4984,7 +4984,7 @@
             "id": "62921725-7956-48c8-9d57-2847f037afb7",
             "links": {},
             "meta": {
-                "score": 0.9119618
+                "score": 0.91171515
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5021,9 +5021,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -5040,7 +5040,7 @@
             "id": "a06cf1e2-4b0f-4300-b2c5-522022e356c5",
             "links": {},
             "meta": {
-                "score": 0.9108849
+                "score": 0.91074586
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5070,8 +5070,8 @@
                             "of the best practices in developing web applications; Ability to <em class=\"search-highlight\">work</em> in a team.Fluent English. "
                         ],
                         "value": [
-                            "Work",
-                            "work"
+                            "work",
+                            "Work"
                         ]
                     },
                     {
@@ -5080,9 +5080,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -5090,7 +5090,7 @@
             "id": "b374661b-a272-4bf9-bdbd-5ed3abf1778f",
             "links": {},
             "meta": {
-                "score": 0.9061741
+                "score": 0.90605134
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5119,11 +5119,11 @@
                             "Interviews, Training, and <em class=\"search-highlight\">working</em> are <em class=\"search-highlight\">From</em> HOMEFIXED WEEKENDS: Saturdays and Sundays are off9 HOURS SHIFT"
                         ],
                         "value": [
-                            "working",
-                            "From",
-                            "FROM",
+                            "WORK",
                             "HOME",
-                            "WORK"
+                            "FROM",
+                            "From",
+                            "working"
                         ]
                     }
                 ]
@@ -5131,7 +5131,7 @@
             "id": "b98efb9e-d21f-4996-86d3-f8ef52405d2a",
             "links": {},
             "meta": {
-                "score": 0.89790744
+                "score": 0.8978086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5160,9 +5160,9 @@
                             "Cairo time <em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>.Good communication skills.Creativity and Graphic Design skills.Proficiency in Marketing"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -5171,9 +5171,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -5184,11 +5184,11 @@
                             "Weekends: Saturdays & SundaysJob Description:<em class=\"search-highlight\">Work</em> closely with our design teams to ensure all printed"
                         ],
                         "value": [
-                            "Work",
-                            "working",
                             "work",
+                            "Work",
+                            "from",
                             "home",
-                            "from"
+                            "working"
                         ]
                     }
                 ]
@@ -5196,7 +5196,7 @@
             "id": "f953776a-948c-41c8-a05e-31f15afe0204",
             "links": {},
             "meta": {
-                "score": 0.8951364
+                "score": 0.8948378
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5224,9 +5224,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -5234,7 +5234,7 @@
             "id": "b0b05070-2e4d-4745-9771-6322cb0c37f6",
             "links": {},
             "meta": {
-                "score": 0.89288527
+                "score": 0.8925972
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5271,9 +5271,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -5283,8 +5283,8 @@
                             "<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>."
                         ],
                         "value": [
-                            "home",
                             "working",
+                            "home",
                             "from"
                         ]
                     }
@@ -5293,7 +5293,7 @@
             "id": "ac5555a0-c9eb-49a2-90d2-c934faa7ff01",
             "links": {},
             "meta": {
-                "score": 0.8912594
+                "score": 0.89069563
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5330,9 +5330,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -5342,8 +5342,8 @@
                             "<em class=\"search-highlight\">from</em> <em class=\"search-highlight\">home</em>."
                         ],
                         "value": [
-                            "home",
                             "working",
+                            "home",
                             "from"
                         ]
                     }
@@ -5352,7 +5352,7 @@
             "id": "78361fab-060e-489e-9bd3-d3aefe018d28",
             "links": {},
             "meta": {
-                "score": 0.89123267
+                "score": 0.8906689
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5380,9 +5380,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -5390,7 +5390,7 @@
             "id": "e049679e-b4cd-46e0-a295-6d7c1d736901",
             "links": {},
             "meta": {
-                "score": 0.8857465
+                "score": 0.88560164
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5419,8 +5419,8 @@
                             "background is a must )Sensitive to user experience and good at finding problems <em class=\"search-highlight\">from</em> the user's point"
                         ],
                         "value": [
-                            "home",
                             "working",
+                            "home",
                             "from"
                         ]
                     }
@@ -5429,7 +5429,7 @@
             "id": "2368d5dc-22ec-4dc4-a13d-39cea31e7256",
             "links": {},
             "meta": {
-                "score": 0.8672374
+                "score": 0.8667372
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5457,9 +5457,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     },
                     {
@@ -5469,11 +5469,11 @@
                             "Conditions:\n\n9:00 to 5:00 pm <em class=\"search-highlight\">from</em> our office\n<em class=\"search-highlight\">Working</em> <em class=\"search-highlight\">From</em> <em class=\"search-highlight\">Home</em>\n8 PM to 4 AM\n2 AM to 10 PM"
                         ],
                         "value": [
-                            "Work",
-                            "From",
                             "Home",
+                            "Work",
+                            "from",
                             "Working",
-                            "from"
+                            "From"
                         ]
                     }
                 ]
@@ -5481,7 +5481,7 @@
             "id": "e2915b21-3f27-4c3c-bf11-eb30a2e2a991",
             "links": {},
             "meta": {
-                "score": 0.8646683
+                "score": 0.864435
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5526,7 +5526,7 @@
             "id": "389489b8-0c4e-41a6-9693-6460b5e44555",
             "links": {},
             "meta": {
-                "score": 0.8604516
+                "score": 0.86004573
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5567,9 +5567,9 @@
                             "<em class=\"search-highlight\">work</em>_<em class=\"search-highlight\">from</em>_<em class=\"search-highlight\">home</em>"
                         ],
                         "value": [
-                            "from",
+                            "work",
                             "home",
-                            "work"
+                            "from"
                         ]
                     }
                 ]
@@ -5577,7 +5577,7 @@
             "id": "3627c9f6-924f-402b-8be5-65666ddf9e53",
             "links": {},
             "meta": {
-                "score": 0.85816073
+                "score": 0.8580669
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5607,8 +5607,8 @@
                             "engineeringPrevious leadership or volunteer experienceWork Locations:Factory visits in Helwan/ 15th Of May (80%)<em class=\"search-highlight\">Home</em>"
                         ],
                         "value": [
-                            "work",
                             "Home",
+                            "work",
                             "from"
                         ]
                     }
@@ -5617,7 +5617,7 @@
             "id": "998e3c5f-a3ae-4a38-b6fe-16af0f3b4f87",
             "links": {},
             "meta": {
-                "score": 0.85793966
+                "score": 0.85770756
             },
             "relationships": {},
             "type": "talentSearch"

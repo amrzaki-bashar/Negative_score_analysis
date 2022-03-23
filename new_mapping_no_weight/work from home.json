@@ -1,0 +1,12 @@
+{
+    "message": "RequestError(400, 'search_phase_execution_exception', \"Similarities must not produce negative scores, but got:\\n-0.25142553 = score from ScriptedSimilarity(weightScript=[Script{type=inline, lang='painless', idOrCode='double idf = Math.log(((field.docCount-term.docFreq+0.5)/(term.docFreq+0.5))); return query.boost * idf;', options={}, params={}}], script=[Script{type=inline, lang='painless', idOrCode='double tf = ((doc.freq)/(doc.freq+1.2* (1 - 0.75))); return weight * tf ;', options={}, params={}}]) computed from:\\n  -0.25142553 = weight\\n  0.85 = query.boost\\n  9316 = field.docCount\\n  21121 = field.sumDocFreq\\n  21153 = field.sumTotalTermFreq\\n  5342 = term.docFreq\\n  21153 = term.totalTermFreq\\n  3.4028235E38 = doc.freq\\n  1 = doc.length\\n\")",
+    "params": {
+        "index_name": "jobs_no_weight",
+        "latitude": "0.0",
+        "longitude": "0.0",
+        "pageSize": 100,
+        "query": "work from home",
+        "searchFilters": {},
+        "startIndex": 0
+    }
+}

@@ -49,7 +49,7 @@
             "id": "817e4d7b-6e26-4cca-a356-d7e50b1d59d0",
             "links": {},
             "meta": {
-                "score": 15.631332
+                "score": 15.629216
             },
             "relationships": {},
             "type": "talentSearch"
@@ -103,7 +103,7 @@
             "id": "c9dd679c-7ea8-4c96-8afd-67eeaf264b73",
             "links": {},
             "meta": {
-                "score": 15.238917
+                "score": 15.237028
             },
             "relationships": {},
             "type": "talentSearch"
@@ -139,7 +139,7 @@
             "id": "2ecec8d6-2dde-498c-96a4-7607f95dc218",
             "links": {},
             "meta": {
-                "score": 15.161141
+                "score": 15.159255
             },
             "relationships": {},
             "type": "talentSearch"
@@ -203,7 +203,7 @@
             "id": "509645ef-8e7a-4d8e-980c-a3b5829372d1",
             "links": {},
             "meta": {
-                "score": 15.149063
+                "score": 15.145586
             },
             "relationships": {},
             "type": "talentSearch"
@@ -239,7 +239,7 @@
             "id": "1cd3a941-357f-4338-952d-72d2d7e03ff4",
             "links": {},
             "meta": {
-                "score": 14.629002
+                "score": 14.625608
             },
             "relationships": {},
             "type": "talentSearch"
@@ -275,7 +275,7 @@
             "id": "f93c975e-389e-4d47-a4e4-df8da2fa941a",
             "links": {},
             "meta": {
-                "score": 14.366763
+                "score": 14.362876
             },
             "relationships": {},
             "type": "talentSearch"
@@ -311,7 +311,7 @@
             "id": "4f2b5f32-1300-4cc9-8fcd-8d9d0b7056ec",
             "links": {},
             "meta": {
-                "score": 14.185902
+                "score": 14.1816845
             },
             "relationships": {},
             "type": "talentSearch"
@@ -356,7 +356,7 @@
             "id": "f2a8e0d6-d30d-4b49-8bae-a2042700c0d2",
             "links": {},
             "meta": {
-                "score": 13.743349
+                "score": 13.737978
             },
             "relationships": {},
             "type": "talentSearch"
@@ -421,7 +421,7 @@
             "id": "bf6dc5e1-d76f-43e3-851c-78d367e154f5",
             "links": {},
             "meta": {
-                "score": 13.6455765
+                "score": 13.640041
             },
             "relationships": {},
             "type": "talentSearch"
@@ -450,8 +450,8 @@
                             "Bazel, gdb, gcc, memory&CPU profiling;Experience with embedded and/or real-time systemsExperience in <em class=\"search-highlight\">Automotive</em>"
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     },
                     {
@@ -468,7 +468,7 @@
             "id": "0404d341-3ef0-4b90-872a-d67fd1de6c04",
             "links": {},
             "meta": {
-                "score": 13.638367
+                "score": 13.633433
             },
             "relationships": {},
             "type": "talentSearch"
@@ -497,8 +497,8 @@
                             "Bazel, gdb, gcc, memory&CPU profilingExperience with embedded and/or real-time systemsExperience in <em class=\"search-highlight\">Automotive</em>"
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     },
                     {
@@ -515,7 +515,7 @@
             "id": "878986f5-fe14-4515-8f57-0e7051eeaa68",
             "links": {},
             "meta": {
-                "score": 13.638011
+                "score": 13.633078
             },
             "relationships": {},
             "type": "talentSearch"
@@ -544,8 +544,8 @@
                             "<em class=\"search-highlight\">Automotive</em>"
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     },
                     {
@@ -571,7 +571,7 @@
             "id": "e96a0ec6-a34a-4e3b-bb56-10281491fcea",
             "links": {},
             "meta": {
-                "score": 12.80759
+                "score": 12.801404
             },
             "relationships": {},
             "type": "talentSearch"
@@ -616,7 +616,7 @@
             "id": "86aaf335-bf96-4941-afe2-fada1e52077d",
             "links": {},
             "meta": {
-                "score": 12.698702
+                "score": 12.692515
             },
             "relationships": {},
             "type": "talentSearch"
@@ -679,7 +679,7 @@
             "id": "b53859a8-ee37-47e9-9bbe-a60c0a689327",
             "links": {},
             "meta": {
-                "score": 12.6409235
+                "score": 12.634643
             },
             "relationships": {},
             "type": "talentSearch"
@@ -724,7 +724,7 @@
             "id": "cc0d1010-c827-4a2c-bf5c-e74ccc42e927",
             "links": {},
             "meta": {
-                "score": 11.573051
+                "score": 11.566336
             },
             "relationships": {},
             "type": "talentSearch"
@@ -778,7 +778,7 @@
             "id": "5080b68d-4ce8-49cc-8ff8-7fc6afc52f9a",
             "links": {},
             "meta": {
-                "score": 10.2192745
+                "score": 10.212256
             },
             "relationships": {},
             "type": "talentSearch"
@@ -814,7 +814,7 @@
             "id": "47ff4dd4-09bd-4e70-8971-4297adfe61f5",
             "links": {},
             "meta": {
-                "score": 10.071129
+                "score": 10.064346
             },
             "relationships": {},
             "type": "talentSearch"
@@ -860,7 +860,7 @@
             "id": "6761eae0-460d-4192-ad0e-89524adb8d31",
             "links": {},
             "meta": {
-                "score": 9.295682
+                "score": 9.294671
             },
             "relationships": {},
             "type": "talentSearch"
@@ -905,7 +905,7 @@
             "id": "19665a81-6c20-41b1-a4c2-539c2e9b4fd8",
             "links": {},
             "meta": {
-                "score": 9.258364
+                "score": 9.257252
             },
             "relationships": {},
             "type": "talentSearch"
@@ -951,7 +951,7 @@
             "id": "5223bdac-7996-4e7c-a93e-efd8738d73df",
             "links": {},
             "meta": {
-                "score": 9.237753
+                "score": 9.236512
             },
             "relationships": {},
             "type": "talentSearch"
@@ -987,7 +987,7 @@
             "id": "6773580a-df4d-4569-b056-99f97cb3d9e3",
             "links": {},
             "meta": {
-                "score": 9.19279
+                "score": 9.191552
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1023,7 +1023,7 @@
             "id": "f444ef93-b29b-4929-9f5e-7881cd47d32d",
             "links": {},
             "meta": {
-                "score": 9.170092
+                "score": 9.168855
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1068,7 +1068,7 @@
             "id": "0f691029-1ebc-4c13-b200-797afca24aeb",
             "links": {},
             "meta": {
-                "score": 9.1122875
+                "score": 9.110667
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1113,7 +1113,7 @@
             "id": "dfff7545-1be7-43cd-ab91-219557ced9b5",
             "links": {},
             "meta": {
-                "score": 9.011144
+                "score": 9.009208
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1151,8 +1151,8 @@
                             "Bachelor DegreeExperience in <em class=\"search-highlight\">automotive</em>2-4 years in the <em class=\"search-highlight\">Automotive</em> spare parts field.Experience in purchasing"
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     },
                     {
@@ -1169,7 +1169,7 @@
             "id": "39f979d9-1e5d-4273-b44d-cdd5f7d11a1c",
             "links": {},
             "meta": {
-                "score": 9.009037
+                "score": 9.007101
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1207,8 +1207,8 @@
                             "<em class=\"search-highlight\">Automotive</em> is a MUST).Good command of English is a must.Bachelor degree.Presentable.High communication"
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     }
                 ]
@@ -1216,7 +1216,7 @@
             "id": "94ce1d8d-522d-49c1-a875-14c6d14c0ee5",
             "links": {},
             "meta": {
-                "score": 8.975151
+                "score": 8.973215
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1262,7 +1262,7 @@
             "id": "9e0f5a4a-a709-4ad6-af78-df84c4489e7d",
             "links": {},
             "meta": {
-                "score": 8.959784
+                "score": 8.95786
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1298,7 +1298,7 @@
             "id": "806464e3-79cb-4fb0-819c-e1bde6979900",
             "links": {},
             "meta": {
-                "score": 8.933895
+                "score": 8.931975
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1345,7 +1345,7 @@
             "id": "34ff7230-783e-4fc8-8cd6-3aa712151c7d",
             "links": {},
             "meta": {
-                "score": 8.933292
+                "score": 8.931232
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1383,8 +1383,8 @@
                             "<em class=\"search-highlight\">Automotive</em> is a MUST).Good command of English is a must.Bachelor degree.Presentable.High communication"
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     }
                 ]
@@ -1392,7 +1392,7 @@
             "id": "b22103b6-1aeb-40ec-a217-5830d9202614",
             "links": {},
             "meta": {
-                "score": 8.928899
+                "score": 8.926841
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1429,7 +1429,7 @@
             "id": "7b6ef09a-cd34-4153-9f6e-88af01dfc760",
             "links": {},
             "meta": {
-                "score": 8.908391
+                "score": 8.906354
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1474,7 +1474,7 @@
             "id": "4204b23b-8b2d-4258-a606-b478e794ba39",
             "links": {},
             "meta": {
-                "score": 8.908159
+                "score": 8.906098
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1519,7 +1519,7 @@
             "id": "557fa3d4-9b08-4f5e-b2a5-e28162ffbe29",
             "links": {},
             "meta": {
-                "score": 8.769923
+                "score": 8.762942
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1564,7 +1564,7 @@
             "id": "8e889adf-8170-427b-8f97-98d8de2a218a",
             "links": {},
             "meta": {
-                "score": 8.651246
+                "score": 8.648697
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1609,7 +1609,7 @@
             "id": "7d089535-7581-48c9-b733-158b8377912e",
             "links": {},
             "meta": {
-                "score": 8.629972
+                "score": 8.627309
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1654,7 +1654,7 @@
             "id": "8547ea86-7986-40d5-81e9-2972bedbee38",
             "links": {},
             "meta": {
-                "score": 8.5817795
+                "score": 8.579138
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1699,7 +1699,7 @@
             "id": "b0b05070-2e4d-4745-9771-6322cb0c37f6",
             "links": {},
             "meta": {
-                "score": 8.570141
+                "score": 8.567377
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1746,7 +1746,7 @@
             "id": "0c8a57cb-eae0-4620-94ff-df03059302f6",
             "links": {},
             "meta": {
-                "score": 8.566934
+                "score": 8.564258
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1782,7 +1782,7 @@
             "id": "84e67a11-58b4-4821-b7ca-c0e7df49f6a1",
             "links": {},
             "meta": {
-                "score": 8.533846
+                "score": 8.531212
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1828,7 +1828,7 @@
             "id": "da4a46bd-5428-4d7f-a915-516b5ffdaa5e",
             "links": {},
             "meta": {
-                "score": 8.502037
+                "score": 8.499287
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1893,7 +1893,7 @@
             "id": "bde37353-4070-451b-8c03-a2693326339d",
             "links": {},
             "meta": {
-                "score": 8.302508
+                "score": 8.29558
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1938,7 +1938,7 @@
             "id": "18a41f63-9aa0-4b03-9d57-689dde58d318",
             "links": {},
             "meta": {
-                "score": 8.124143
+                "score": 8.120969
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1974,7 +1974,7 @@
             "id": "a0b95111-afcd-4c9e-b8f0-972ec599e9ad",
             "links": {},
             "meta": {
-                "score": 7.9885693
+                "score": 7.9853144
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2019,7 +2019,7 @@
             "id": "3042d95b-edfa-458e-bfe0-38fcb24900c5",
             "links": {},
             "meta": {
-                "score": 7.9603605
+                "score": 7.957037
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2064,7 +2064,7 @@
             "id": "23e31bb2-faff-4ede-9014-aae9c8e6e592",
             "links": {},
             "meta": {
-                "score": 7.910485
+                "score": 7.907111
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2109,7 +2109,7 @@
             "id": "3fe2a5de-bc6f-47a4-87f3-8b16c820a1cd",
             "links": {},
             "meta": {
-                "score": 7.815896
+                "score": 7.8124657
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2154,7 +2154,7 @@
             "id": "91b922db-68a2-4c71-9f00-c514b8a74ec2",
             "links": {},
             "meta": {
-                "score": 7.744553
+                "score": 7.7410054
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2190,7 +2190,7 @@
             "id": "a68c72e1-8984-4bac-b18d-e5c5b3211bf2",
             "links": {},
             "meta": {
-                "score": 7.670603
+                "score": 7.667092
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2228,8 +2228,8 @@
                             "( <em class=\"search-highlight\">Automotive</em> major is preferred).SAP User.English is a must."
                         ],
                         "value": [
-                            "Automotive",
-                            "automotive"
+                            "automotive",
+                            "Automotive"
                         ]
                     }
                 ]
@@ -2237,7 +2237,7 @@
             "id": "aa7df57a-49a3-4272-8def-f45afd5ded72",
             "links": {},
             "meta": {
-                "score": 7.455865
+                "score": 7.4521594
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2273,7 +2273,7 @@
             "id": "36616fec-15b6-41bc-a4e7-b372c664ad46",
             "links": {},
             "meta": {
-                "score": 7.3909464
+                "score": 7.387256
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2309,7 +2309,7 @@
             "id": "8eabb61e-959e-4bda-84bd-119f77c3c6e9",
             "links": {},
             "meta": {
-                "score": 7.3801937
+                "score": 7.37365
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2354,7 +2354,7 @@
             "id": "1055bca2-b335-4bc9-b119-d2a9c225d6d2",
             "links": {},
             "meta": {
-                "score": 7.0522237
+                "score": 7.048319
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2408,7 +2408,7 @@
             "id": "af55e665-1035-4c22-a7da-2d1614d3d65b",
             "links": {},
             "meta": {
-                "score": 6.953702
+                "score": 6.9497538
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2453,7 +2453,7 @@
             "id": "9bbf8150-0468-45e7-ac15-fdf08675b5d0",
             "links": {},
             "meta": {
-                "score": 6.917602
+                "score": 6.913674
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2489,7 +2489,7 @@
             "id": "54755e93-af6a-453c-a72c-7a10eddd4051",
             "links": {},
             "meta": {
-                "score": 6.707709
+                "score": 6.703723
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2534,7 +2534,7 @@
             "id": "662ad397-64f9-43e3-9ce9-5a092d1f3e36",
             "links": {},
             "meta": {
-                "score": 6.5216293
+                "score": 6.5174327
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2579,7 +2579,7 @@
             "id": "389d11f7-f30c-419b-8722-126766da406c",
             "links": {},
             "meta": {
-                "score": 6.252724
+                "score": 6.248598
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2615,7 +2615,7 @@
             "id": "c43edb62-9473-49d7-99df-0ced29203bc4",
             "links": {},
             "meta": {
-                "score": 6.205896
+                "score": 6.2017965
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2651,7 +2651,7 @@
             "id": "c2c5597d-82fb-4f95-96d0-a9cf6c3b4d5f",
             "links": {},
             "meta": {
-                "score": 6.11694
+                "score": 6.1128287
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2687,7 +2687,7 @@
             "id": "d2ac0c24-b0a7-4f9c-bf05-9badb81b71f7",
             "links": {},
             "meta": {
-                "score": 5.9044476
+                "score": 5.900316
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2732,7 +2732,7 @@
             "id": "442bf72b-5490-445d-a87a-afa3467fb8ef",
             "links": {},
             "meta": {
-                "score": 5.3121142
+                "score": 5.3079762
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2777,7 +2777,7 @@
             "id": "f7c71c41-36e0-42f8-b756-5df41daec409",
             "links": {},
             "meta": {
-                "score": 5.3082337
+                "score": 5.3040957
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2813,7 +2813,7 @@
             "id": "c5b1ca76-424c-4cdd-925f-e98024f24bfd",
             "links": {},
             "meta": {
-                "score": 5.282385
+                "score": 5.2782636
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2861,7 +2861,7 @@
             "id": "83912b4b-16d8-4b07-b204-7c33cbe16a0c",
             "links": {},
             "meta": {
-                "score": 5.2031837
+                "score": 5.199043
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2907,7 +2907,7 @@
             "id": "3e7930c1-0f29-470a-b736-b7402ab78946",
             "links": {},
             "meta": {
-                "score": 5.081825
+                "score": 5.077712
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2943,7 +2943,7 @@
             "id": "fbe29e3a-0c45-4335-88b1-574a91023255",
             "links": {},
             "meta": {
-                "score": 4.9229507
+                "score": 4.9219604
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2988,7 +2988,7 @@
             "id": "4dfcea00-5b09-49eb-923e-4108a93ad4e8",
             "links": {},
             "meta": {
-                "score": 4.8969464
+                "score": 4.8928633
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3033,7 +3033,7 @@
             "id": "254524fd-eeac-42d0-af3a-632d2718a321",
             "links": {},
             "meta": {
-                "score": 4.7628274
+                "score": 4.7614107
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3069,7 +3069,7 @@
             "id": "3dc1bc96-aeef-4fff-b3a1-ed8c7da8d991",
             "links": {},
             "meta": {
-                "score": 4.73846
+                "score": 4.737108
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3105,7 +3105,7 @@
             "id": "0300ea21-38d8-4fd0-873d-2fea6fc2bb72",
             "links": {},
             "meta": {
-                "score": 4.71302
+                "score": 4.7116284
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3141,7 +3141,7 @@
             "id": "6d46392a-c0e0-4f74-a6fe-a51638495049",
             "links": {},
             "meta": {
-                "score": 4.711233
+                "score": 4.709839
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3177,7 +3177,7 @@
             "id": "b08df5f7-7718-47ad-a320-177c9916fa23",
             "links": {},
             "meta": {
-                "score": 4.3809624
+                "score": 4.377015
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3222,7 +3222,7 @@
             "id": "dab4c557-7e32-4d50-b480-0cf5e4d198d0",
             "links": {},
             "meta": {
-                "score": 4.158209
+                "score": 4.1561985
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3258,7 +3258,7 @@
             "id": "168ab5ae-dac5-4f42-8e5f-4e56d28da289",
             "links": {},
             "meta": {
-                "score": 4.1475706
+                "score": 4.1456075
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3294,7 +3294,7 @@
             "id": "50de6f61-5dda-48ba-b148-7db1ebd3ef7e",
             "links": {},
             "meta": {
-                "score": 4.132857
+                "score": 4.13086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3330,7 +3330,7 @@
             "id": "4266898c-7844-496e-ae5e-c1f184837600",
             "links": {},
             "meta": {
-                "score": 4.1087384
+                "score": 4.1067505
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3366,7 +3366,7 @@
             "id": "8c5b68c0-b8e6-4a3e-9c61-241dff37dbc6",
             "links": {},
             "meta": {
-                "score": 3.9571967
+                "score": 3.955124
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3402,7 +3402,7 @@
             "id": "132005ad-1606-4e17-a862-c3d2ac7d16ce",
             "links": {},
             "meta": {
-                "score": 3.9570127
+                "score": 3.9549398
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3438,7 +3438,7 @@
             "id": "9f744eb5-6224-424b-801a-5bf7b2d20b43",
             "links": {},
             "meta": {
-                "score": 3.9567904
+                "score": 3.9547176
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3474,7 +3474,7 @@
             "id": "17979d45-8469-4046-8efc-77704f5565c1",
             "links": {},
             "meta": {
-                "score": 3.9566696
+                "score": 3.9545965
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3510,7 +3510,7 @@
             "id": "7986cd39-a38f-4ca1-9e4c-f1aa1e3502bb",
             "links": {},
             "meta": {
-                "score": 3.9563403
+                "score": 3.954267
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3546,7 +3546,7 @@
             "id": "ac8b2131-6e28-4dc8-ac5b-350d4eb0f700",
             "links": {},
             "meta": {
-                "score": 3.9557931
+                "score": 3.9537196
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3582,7 +3582,7 @@
             "id": "55edacf4-1786-41f5-95f9-ef33ecd4d9d8",
             "links": {},
             "meta": {
-                "score": 3.6349015
+                "score": 3.6327047
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3618,7 +3618,7 @@
             "id": "a9ffb7e3-2ec9-4838-a738-93358380fef7",
             "links": {},
             "meta": {
-                "score": 3.2417657
+                "score": 3.2395017
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3654,7 +3654,7 @@
             "id": "912e4893-2f2f-4a3e-b105-621db336fc0b",
             "links": {},
             "meta": {
-                "score": 2.840737
+                "score": 2.8384838
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3690,7 +3690,7 @@
             "id": "0660aed5-8d05-46ae-bff5-688bb435a5da",
             "links": {},
             "meta": {
-                "score": 2.4972355
+                "score": 2.4950485
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3726,7 +3726,7 @@
             "id": "49b6da37-aa60-4b6a-b88f-331463c52663",
             "links": {},
             "meta": {
-                "score": 2.453134
+                "score": 2.4509592
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3762,7 +3762,7 @@
             "id": "dfb5e0df-ba96-41b5-9357-47dbca528e02",
             "links": {},
             "meta": {
-                "score": 1.1300769
+                "score": 1.1297116
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3798,7 +3798,7 @@
             "id": "e02a70e2-3337-4269-9b92-ead3c28cdbd1",
             "links": {},
             "meta": {
-                "score": 0.9245709
+                "score": 0.9243973
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3834,7 +3834,7 @@
             "id": "e318b611-a9e7-4575-90f9-0aafef0994f3",
             "links": {},
             "meta": {
-                "score": 0.881072
+                "score": 0.8808923
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3870,7 +3870,7 @@
             "id": "a7c9a147-92f8-44cf-8c61-0b36af290ce8",
             "links": {},
             "meta": {
-                "score": 0.51938194
+                "score": 0.5193195
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3906,7 +3906,7 @@
             "id": "5eaf2f75-028f-4a96-97ab-6d8d9be0885c",
             "links": {},
             "meta": {
-                "score": 0.5072165
+                "score": 0.506781
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3942,7 +3942,7 @@
             "id": "ae1c221b-1748-4844-8b23-092223094538",
             "links": {},
             "meta": {
-                "score": 0.45903563
+                "score": 0.45880178
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3978,7 +3978,7 @@
             "id": "dcd75d38-a750-4cf7-a1fd-41fba8227999",
             "links": {},
             "meta": {
-                "score": 0.43237337
+                "score": 0.43212867
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4004,7 +4004,7 @@
             "id": "acc395c2-1d1e-4452-81ad-ccc58b342485",
             "links": {},
             "meta": {
-                "score": 0.4188215
+                "score": 0.41870233
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4049,7 +4049,7 @@
             "id": "9142782f-bb51-4bff-be07-0b1edd4b4b42",
             "links": {},
             "meta": {
-                "score": 0.4103032
+                "score": 0.41002357
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4086,7 +4086,7 @@
             "id": "59296505-7724-475d-bc11-ccf1651468fa",
             "links": {},
             "meta": {
-                "score": 0.3967338
+                "score": 0.39665315
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4133,7 +4133,7 @@
             "id": "1c9ad449-0fc1-4582-91b1-b21c63af5661",
             "links": {},
             "meta": {
-                "score": 0.39147708
+                "score": 0.39120793
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4169,7 +4169,7 @@
             "id": "66974cf0-b6e2-40fe-882d-dce61e38ab47",
             "links": {},
             "meta": {
-                "score": 0.37530422
+                "score": 0.37507764
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4205,7 +4205,7 @@
             "id": "40772553-5ed6-47d1-8e97-6f02e057e411",
             "links": {},
             "meta": {
-                "score": 0.37285343
+                "score": 0.3725568
             },
             "relationships": {},
             "type": "talentSearch"

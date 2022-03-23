@@ -22,7 +22,7 @@ for search_query in search_query_list:
             default[i["id"]] = i["meta"]["score"]
 
     new_mapping = {}
-    with open('new_mapping_no_b_no_1_no_weight\\'+search_query+'.json', 'r',encoding='utf-8') as file:
+    with open('new_mapping_no_weight\\'+search_query+'.json', 'r',encoding='utf-8') as file:
         data = json.load(file)
         try:
             for i in data['data']:
@@ -50,6 +50,6 @@ for search_query in search_query_list:
         "number of same results": same_results}
 
 df = pd.DataFrame(result)
-df.T.to_csv('result_with_new_mapping_no_b_no_1_no_weight.csv')
+df.T.to_csv('result_with_new_mapping_no_weight.csv')
 
 print()

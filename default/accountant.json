@@ -49,7 +49,7 @@
             "id": "c09568ca-68a6-4718-a98d-4fe3fb988775",
             "links": {},
             "meta": {
-                "score": 10.356948
+                "score": 10.355803
             },
             "relationships": {},
             "type": "talentSearch"
@@ -104,7 +104,7 @@
             "id": "9b419691-2d46-4e07-9b5c-4ea95f009322",
             "links": {},
             "meta": {
-                "score": 10.326945
+                "score": 10.325675
             },
             "relationships": {},
             "type": "talentSearch"
@@ -133,8 +133,8 @@
                             "Cost <em class=\"search-highlight\">Accountant</em>"
                         ],
                         "value": [
-                            "Accountant",
-                            "accountant"
+                            "accountant",
+                            "Accountant"
                         ]
                     },
                     {
@@ -160,7 +160,7 @@
             "id": "614ecbfb-4cdf-41ad-95e8-f5e41bc7174a",
             "links": {},
             "meta": {
-                "score": 10.3248005
+                "score": 10.323529
             },
             "relationships": {},
             "type": "talentSearch"
@@ -205,7 +205,7 @@
             "id": "9d3ae1dd-9aa8-4a0e-933d-853350925157",
             "links": {},
             "meta": {
-                "score": 10.303959
+                "score": 10.30272
             },
             "relationships": {},
             "type": "talentSearch"
@@ -251,7 +251,7 @@
             "id": "f41301d1-0239-4237-adf8-2fbd8e392c90",
             "links": {},
             "meta": {
-                "score": 10.301752
+                "score": 10.300504
             },
             "relationships": {},
             "type": "talentSearch"
@@ -305,7 +305,7 @@
             "id": "b0b72e7d-abfc-4dbf-aebc-29a0e18383a0",
             "links": {},
             "meta": {
-                "score": 10.296241
+                "score": 10.294852
             },
             "relationships": {},
             "type": "talentSearch"
@@ -359,7 +359,7 @@
             "id": "df322c6d-20ef-4992-8850-b367bf77b37d",
             "links": {},
             "meta": {
-                "score": 10.294532
+                "score": 10.293153
             },
             "relationships": {},
             "type": "talentSearch"
@@ -404,7 +404,7 @@
             "id": "b7442053-d5d6-4acf-b182-a1bb3eea7cbf",
             "links": {},
             "meta": {
-                "score": 10.261556
+                "score": 10.260145
             },
             "relationships": {},
             "type": "talentSearch"
@@ -458,7 +458,7 @@
             "id": "c8650982-423d-418d-bb51-593d8edd9e6f",
             "links": {},
             "meta": {
-                "score": 10.171969
+                "score": 10.17017
             },
             "relationships": {},
             "type": "talentSearch"
@@ -512,7 +512,7 @@
             "id": "90377fd2-6c0f-4d2c-9a38-2e42f4f86a5d",
             "links": {},
             "meta": {
-                "score": 10.162356
+                "score": 10.160557
             },
             "relationships": {},
             "type": "talentSearch"
@@ -541,8 +541,8 @@
                             "Treasury <em class=\"search-highlight\">Accountant</em>"
                         ],
                         "value": [
-                            "Accountant",
-                            "accountant"
+                            "accountant",
+                            "Accountant"
                         ]
                     },
                     {
@@ -559,7 +559,7 @@
             "id": "d80ef1a3-f755-45a0-893f-1d34f578a536",
             "links": {},
             "meta": {
-                "score": 10.105751
+                "score": 10.103852
             },
             "relationships": {},
             "type": "talentSearch"
@@ -613,7 +613,7 @@
             "id": "b30a25d8-10fe-4fd7-948e-ff88e995dee9",
             "links": {},
             "meta": {
-                "score": 10.074003
+                "score": 10.071974
             },
             "relationships": {},
             "type": "talentSearch"
@@ -667,7 +667,7 @@
             "id": "d11d7480-6122-4b23-8aca-a9511930e5f4",
             "links": {},
             "meta": {
-                "score": 10.068581
+                "score": 10.067483
             },
             "relationships": {},
             "type": "talentSearch"
@@ -712,7 +712,7 @@
             "id": "570b89f0-fa2c-493f-9859-eb939fbb47b9",
             "links": {},
             "meta": {
-                "score": 10.051805
+                "score": 10.050704
             },
             "relationships": {},
             "type": "talentSearch"
@@ -759,7 +759,43 @@
             "id": "ab09b34c-a956-4fe7-acb4-7d3ee16acadf",
             "links": {},
             "meta": {
-                "score": 10.050443
+                "score": 10.049367
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "46921368-c1ac-429c-a040-c7d3baeba699",
+            "links": {},
+            "meta": {
+                "score": 10.048635
             },
             "relationships": {},
             "type": "talentSearch"
@@ -804,43 +840,7 @@
             "id": "40301fbb-d588-4542-904a-c0eff64cb875",
             "links": {},
             "meta": {
-                "score": 10.050297
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior Treasury <em class=\"search-highlight\">Accountant</em>"
-                        ],
-                        "value": [
-                            "Accountant"
-                        ]
-                    }
-                ]
-            },
-            "id": "46921368-c1ac-429c-a040-c7d3baeba699",
-            "links": {},
-            "meta": {
-                "score": 10.049714
+                "score": 10.048257
             },
             "relationships": {},
             "type": "talentSearch"
@@ -885,7 +885,7 @@
             "id": "82241115-7c3e-4b9a-a3bd-579c0250c337",
             "links": {},
             "meta": {
-                "score": 10.048388
+                "score": 10.046343
             },
             "relationships": {},
             "type": "talentSearch"
@@ -931,7 +931,7 @@
             "id": "bcac0910-f3d3-4e20-96b7-769db3d882af",
             "links": {},
             "meta": {
-                "score": 10.033211
+                "score": 10.032098
             },
             "relationships": {},
             "type": "talentSearch"
@@ -967,7 +967,7 @@
             "id": "f544a199-2467-4354-a93d-c36d26ab075f",
             "links": {},
             "meta": {
-                "score": 10.031744
+                "score": 10.030669
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1003,7 +1003,7 @@
             "id": "a43886c3-44ce-4fd9-85b4-6ad81378cb79",
             "links": {},
             "meta": {
-                "score": 10.031254
+                "score": 10.030176
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1039,7 +1039,7 @@
             "id": "94b01e8a-dde6-4a3f-8755-eb55117bf8be",
             "links": {},
             "meta": {
-                "score": 10.031163
+                "score": 10.030086
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1075,7 +1075,7 @@
             "id": "ed367dd2-29f6-4367-bd52-a525dc8860f6",
             "links": {},
             "meta": {
-                "score": 10.031147
+                "score": 10.030068
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1111,7 +1111,7 @@
             "id": "1e9d1929-cd2c-44ce-88ec-eccf1661a58e",
             "links": {},
             "meta": {
-                "score": 10.030845
+                "score": 10.029765
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1147,7 +1147,7 @@
             "id": "1d7b5202-aaf9-4733-aa76-dc4c841f9ade",
             "links": {},
             "meta": {
-                "score": 10.030117
+                "score": 10.029034
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1183,7 +1183,7 @@
             "id": "e487f9c4-8d0a-447d-93f7-87275f4cf5f3",
             "links": {},
             "meta": {
-                "score": 10.028868
+                "score": 10.027779
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1219,7 +1219,7 @@
             "id": "3177f73b-3754-4136-afaf-7108971b6eb5",
             "links": {},
             "meta": {
-                "score": 10.028814
+                "score": 10.027724
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1268,8 +1268,8 @@
                             "to recommend tax strategies that comply with laws and promote our company’s financial well-being.Tax <em class=\"search-highlight\">Accountant</em>"
                         ],
                         "value": [
-                            "Accountant",
-                            "accountant"
+                            "accountant",
+                            "Accountant"
                         ]
                     },
                     {
@@ -1286,7 +1286,43 @@
             "id": "2124ee61-a782-4588-8d97-52a0640c5df9",
             "links": {},
             "meta": {
-                "score": 10.0285845
+                "score": 10.026398
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Nefertari International School"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em> - October Branch"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "aa6942c9-4481-446d-a944-0abc0b0f2667",
+            "links": {},
+            "meta": {
+                "score": 10.024887
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1341,43 +1377,7 @@
             "id": "dd4d475d-ff6c-4da2-b19a-1e593b6ee548",
             "links": {},
             "meta": {
-                "score": 10.02621
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Nefertari International School"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accountant</em> - October Branch"
-                        ],
-                        "value": [
-                            "Accountant"
-                        ]
-                    }
-                ]
-            },
-            "id": "aa6942c9-4481-446d-a944-0abc0b0f2667",
-            "links": {},
-            "meta": {
-                "score": 10.0259905
+                "score": 10.024037
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1422,7 +1422,7 @@
             "id": "5025fe70-abce-4a41-9eee-5cc346c60626",
             "links": {},
             "meta": {
-                "score": 10.0134115
+                "score": 10.011284
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1458,7 +1458,7 @@
             "id": "19665a81-6c20-41b1-a4c2-539c2e9b4fd8",
             "links": {},
             "meta": {
-                "score": 10.004295
+                "score": 10.003093
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1494,7 +1494,7 @@
             "id": "c1b749e7-3705-414f-8d57-ada9cf125035",
             "links": {},
             "meta": {
-                "score": 10.003201
+                "score": 10.001994
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1530,7 +1530,7 @@
             "id": "86dbcf23-9dac-4342-a38d-4aa7736e50b1",
             "links": {},
             "meta": {
-                "score": 10.001813
+                "score": 10.0006
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1566,7 +1566,43 @@
             "id": "556e337e-2008-40c8-8d98-c651cfcbb23d",
             "links": {},
             "meta": {
-                "score": 10.000458
+                "score": 9.99924
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "09ac3d3d-ce7d-40e9-b10d-3bdc7e38c17b",
+            "links": {},
+            "meta": {
+                "score": 9.997696
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1611,43 +1647,7 @@
             "id": "9e8c3669-02d2-4f36-bcf8-a65acde23b01",
             "links": {},
             "meta": {
-                "score": 9.999602
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Accountant</em>"
-                        ],
-                        "value": [
-                            "Accountant"
-                        ]
-                    }
-                ]
-            },
-            "id": "09ac3d3d-ce7d-40e9-b10d-3bdc7e38c17b",
-            "links": {},
-            "meta": {
-                "score": 9.99892
+                "score": 9.997443
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1683,7 +1683,7 @@
             "id": "e5c5bc27-f20c-4b48-b04e-d16938d3e212",
             "links": {},
             "meta": {
-                "score": 9.997181
+                "score": 9.995949
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1719,7 +1719,7 @@
             "id": "68d98dc4-51e3-447f-8418-3d67c88c0aea",
             "links": {},
             "meta": {
-                "score": 9.9961815
+                "score": 9.994945
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1755,7 +1755,7 @@
             "id": "0448ae7a-1ef5-4f87-9118-5b44125774be",
             "links": {},
             "meta": {
-                "score": 9.996155
+                "score": 9.994919
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1791,7 +1791,7 @@
             "id": "91481c70-e05d-4588-97d8-7a9aff5f6e9e",
             "links": {},
             "meta": {
-                "score": 9.995992
+                "score": 9.994755
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1827,7 +1827,7 @@
             "id": "62f1f897-5b9f-4c24-bb5a-758ac03ea6e6",
             "links": {},
             "meta": {
-                "score": 9.995098
+                "score": 9.993856
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1863,7 +1863,7 @@
             "id": "9fea14cd-b9aa-4f63-99c3-7b7cf541e85d",
             "links": {},
             "meta": {
-                "score": 9.993559
+                "score": 9.992311
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1917,7 +1917,7 @@
             "id": "bdb904c4-084e-46b5-ad72-b2cbd6201b3b",
             "links": {},
             "meta": {
-                "score": 9.983573
+                "score": 9.981297
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1953,7 +1953,7 @@
             "id": "767f5860-1bc3-4844-a692-84040cb66454",
             "links": {},
             "meta": {
-                "score": 9.980694
+                "score": 9.979394
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1989,7 +1989,7 @@
             "id": "d66c8508-8491-4ae2-8e62-0cd233fa5251",
             "links": {},
             "meta": {
-                "score": 9.976628
+                "score": 9.975312
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2025,7 +2025,7 @@
             "id": "4f5c68c7-a8ac-4977-969d-981746bb3d88",
             "links": {},
             "meta": {
-                "score": 9.974062
+                "score": 9.972735
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2061,7 +2061,7 @@
             "id": "bd80f5af-6a50-488c-8681-a11173f02f88",
             "links": {},
             "meta": {
-                "score": 9.972056
+                "score": 9.970722
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2097,7 +2097,7 @@
             "id": "399f168c-9221-40ad-9122-ce84761e8a73",
             "links": {},
             "meta": {
-                "score": 9.970169
+                "score": 9.968827
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2133,7 +2133,7 @@
             "id": "0b75fffa-8c33-48b8-bc42-f6d13545d512",
             "links": {},
             "meta": {
-                "score": 9.969701
+                "score": 9.968358
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2169,7 +2169,7 @@
             "id": "51ab800b-7828-4767-bd73-07ce241c2c7d",
             "links": {},
             "meta": {
-                "score": 9.968979
+                "score": 9.967633
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2205,7 +2205,7 @@
             "id": "6916ed36-f3a4-475c-8fd1-6e915bf6d8fa",
             "links": {},
             "meta": {
-                "score": 9.96777
+                "score": 9.966419
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2241,7 +2241,7 @@
             "id": "6cceabdd-0d0f-41a7-a4e3-0a6352c0ba8b",
             "links": {},
             "meta": {
-                "score": 9.967626
+                "score": 9.966275
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2277,7 +2277,7 @@
             "id": "a294ef19-a34a-4d51-86a7-f5ec68548e0c",
             "links": {},
             "meta": {
-                "score": 9.967226
+                "score": 9.965874
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2313,7 +2313,7 @@
             "id": "d7286458-e9b0-4539-8e2c-b1b02c3c16d6",
             "links": {},
             "meta": {
-                "score": 9.966022
+                "score": 9.964664
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2349,7 +2349,7 @@
             "id": "c95552c1-860b-454e-bd8c-43eb2694d44f",
             "links": {},
             "meta": {
-                "score": 9.964447
+                "score": 9.963084
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2394,7 +2394,7 @@
             "id": "aaf27a89-1bf3-4ada-8e76-aa19de49c139",
             "links": {},
             "meta": {
-                "score": 9.941456
+                "score": 9.939171
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2430,7 +2430,7 @@
             "id": "d8c161ed-7eb8-4143-af8c-bb1a8d2b940f",
             "links": {},
             "meta": {
-                "score": 9.937325
+                "score": 9.935863
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2466,7 +2466,7 @@
             "id": "0058cdef-98df-490d-b3bb-1b708adac8a9",
             "links": {},
             "meta": {
-                "score": 9.934671
+                "score": 9.9332
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2511,7 +2511,7 @@
             "id": "672b8fc1-661f-40bc-9a66-0061965e480b",
             "links": {},
             "meta": {
-                "score": 9.9271345
+                "score": 9.924819
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2540,8 +2540,8 @@
                             "Cost <em class=\"search-highlight\">Accountant</em>"
                         ],
                         "value": [
-                            "Accountant",
-                            "accountant"
+                            "accountant",
+                            "Accountant"
                         ]
                     },
                     {
@@ -2576,7 +2576,7 @@
             "id": "76c7d2ed-5827-4dbb-8bd8-be1557f9d31d",
             "links": {},
             "meta": {
-                "score": 9.906439
+                "score": 9.904007
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2621,7 +2621,7 @@
             "id": "78b5f095-5215-4189-9939-54a4933b3201",
             "links": {},
             "meta": {
-                "score": 9.880685
+                "score": 9.878277
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2657,7 +2657,7 @@
             "id": "c5a4ed26-76f3-4c49-9744-f27cd0693c56",
             "links": {},
             "meta": {
-                "score": 9.874783
+                "score": 9.873118
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2693,7 +2693,7 @@
             "id": "a33709f6-b912-45b0-8c81-615d3d8f9deb",
             "links": {},
             "meta": {
-                "score": 9.8558445
+                "score": 9.854124
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2729,7 +2729,7 @@
             "id": "8a08b7bb-cb03-49d7-b8e6-03f645058879",
             "links": {},
             "meta": {
-                "score": 9.854553
+                "score": 9.85283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2765,7 +2765,7 @@
             "id": "9223b1cb-c854-4fa7-b3ee-c18f2a97ba17",
             "links": {},
             "meta": {
-                "score": 9.854387
+                "score": 9.852663
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2801,7 +2801,7 @@
             "id": "336bb2ed-ad9b-4b5b-bc18-4d67f22a7040",
             "links": {},
             "meta": {
-                "score": 9.851814
+                "score": 9.850082
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2837,7 +2837,7 @@
             "id": "e58e38cd-55f3-4d0d-8da4-b44107ad46b8",
             "links": {},
             "meta": {
-                "score": 9.849191
+                "score": 9.847451
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2873,7 +2873,7 @@
             "id": "4e450757-93f2-4b0c-a9f5-2cbf9717187d",
             "links": {},
             "meta": {
-                "score": 9.830239
+                "score": 9.828398
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2918,7 +2918,7 @@
             "id": "54fb4bad-7a89-493e-add8-54b34f5ba35e",
             "links": {},
             "meta": {
-                "score": 9.819908
+                "score": 9.817929
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2963,7 +2963,7 @@
             "id": "d548f90c-237e-4d44-a4a4-756095514cf2",
             "links": {},
             "meta": {
-                "score": 9.816169
+                "score": 9.814293
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2999,7 +2999,7 @@
             "id": "d9983039-166f-4b6c-abf6-73c24ff73feb",
             "links": {},
             "meta": {
-                "score": 9.812159
+                "score": 9.810317
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3035,7 +3035,43 @@
             "id": "d63e2af3-9c83-4deb-8f08-76f2ffcf4e10",
             "links": {},
             "meta": {
-                "score": 9.811833
+                "score": 9.80999
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "ataya"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Chief <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "10005128-96d3-4dea-816d-e0e41fa520e3",
+            "links": {},
+            "meta": {
+                "score": 9.807037
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3098,43 +3134,7 @@
             "id": "1a727d91-2a1e-4853-ad01-ba016e271b3b",
             "links": {},
             "meta": {
-                "score": 9.809247
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "ataya"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Chief <em class=\"search-highlight\">Accountant</em>"
-                        ],
-                        "value": [
-                            "Accountant"
-                        ]
-                    }
-                ]
-            },
-            "id": "10005128-96d3-4dea-816d-e0e41fa520e3",
-            "links": {},
-            "meta": {
-                "score": 9.8088875
+                "score": 9.806603
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3170,7 +3170,7 @@
             "id": "229f05dc-9e23-47f9-a620-dda0a7587aa3",
             "links": {},
             "meta": {
-                "score": 9.804521
+                "score": 9.802658
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3206,7 +3206,7 @@
             "id": "6df1a94b-eb44-48ce-83c0-08286eac8236",
             "links": {},
             "meta": {
-                "score": 9.798024
+                "score": 9.796145
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3251,7 +3251,7 @@
             "id": "c6114440-4bb6-4b98-bd0d-7d2d73083aea",
             "links": {},
             "meta": {
-                "score": 9.7868185
+                "score": 9.784841
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3287,7 +3287,7 @@
             "id": "da108c0c-7a49-413d-9077-b3f862f682bc",
             "links": {},
             "meta": {
-                "score": 9.771523
+                "score": 9.769576
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3332,7 +3332,7 @@
             "id": "2f3d8c76-8fdf-4f7e-872b-dfefe198db65",
             "links": {},
             "meta": {
-                "score": 9.768056
+                "score": 9.766053
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3368,7 +3368,7 @@
             "id": "245b1048-3edf-4fb0-ba14-314ca6332bd3",
             "links": {},
             "meta": {
-                "score": 9.767279
+                "score": 9.765322
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3404,7 +3404,7 @@
             "id": "c44a8f63-95eb-4938-a4fb-705b082731c9",
             "links": {},
             "meta": {
-                "score": 9.762487
+                "score": 9.760519
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3440,7 +3440,7 @@
             "id": "f421fe2c-3a53-4403-ad3e-0c3751cebed2",
             "links": {},
             "meta": {
-                "score": 9.762158
+                "score": 9.760188
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3485,7 +3485,7 @@
             "id": "83c6bc95-1a5d-4af3-b882-68147bc63e01",
             "links": {},
             "meta": {
-                "score": 9.760826
+                "score": 9.758198
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3521,7 +3521,7 @@
             "id": "b0384787-faf0-48fc-b53c-0ada43dc62d6",
             "links": {},
             "meta": {
-                "score": 9.7554865
+                "score": 9.7535
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3557,7 +3557,7 @@
             "id": "277a696e-6eec-4e14-bdd0-c0e64fbdf74a",
             "links": {},
             "meta": {
-                "score": 9.755092
+                "score": 9.753104
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3602,7 +3602,7 @@
             "id": "9689cefb-199f-4ab0-aaf9-68f63fc0259e",
             "links": {},
             "meta": {
-                "score": 9.749664
+                "score": 9.747591
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3638,7 +3638,52 @@
             "id": "afb6c127-3b42-4b46-883a-a9e946ffeaf2",
             "links": {},
             "meta": {
-                "score": 9.73298
+                "score": 9.730941
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "TAQA Power"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "loans)Responsible for Following up with banks on processing daily transactionsAssist treasury senior <em class=\"search-highlight\">accountant</em>"
+                        ],
+                        "value": [
+                            "accountant"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Treasury <em class=\"search-highlight\">Accountant</em>"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "3a52437e-de04-4a9b-9c99-6b39542f7903",
+            "links": {},
+            "meta": {
+                "score": 9.727985
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3692,52 +3737,7 @@
             "id": "b4813d12-cd87-4f30-bf0e-374cda54ae4a",
             "links": {},
             "meta": {
-                "score": 9.730448
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "TAQA Power"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "loans)Responsible for Following up with banks on processing daily transactionsAssist treasury senior <em class=\"search-highlight\">accountant</em>"
-                        ],
-                        "value": [
-                            "accountant"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Treasury <em class=\"search-highlight\">Accountant</em>"
-                        ],
-                        "value": [
-                            "Accountant"
-                        ]
-                    }
-                ]
-            },
-            "id": "3a52437e-de04-4a9b-9c99-6b39542f7903",
-            "links": {},
-            "meta": {
-                "score": 9.730084
+                "score": 9.7277155
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3783,7 +3783,7 @@
             "id": "b085e458-5520-4d24-9dd3-7793ef7b63b3",
             "links": {},
             "meta": {
-                "score": 9.722578
+                "score": 9.720477
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3828,7 +3828,7 @@
             "id": "ab7f6e20-d60a-4ca2-b2b9-e51781b4da60",
             "links": {},
             "meta": {
-                "score": 9.721056
+                "score": 9.718952
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3864,7 +3864,7 @@
             "id": "d01b0771-4686-490f-98b0-c626ced0dfcb",
             "links": {},
             "meta": {
-                "score": 9.718216
+                "score": 9.716106
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3900,7 +3900,7 @@
             "id": "443a0642-c1fd-4e67-8c8d-2ff922a9e59e",
             "links": {},
             "meta": {
-                "score": 9.7161455
+                "score": 9.714067
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3936,7 +3936,7 @@
             "id": "4abd76fb-7c5a-42a9-9c27-4df66d87db96",
             "links": {},
             "meta": {
-                "score": 9.716018
+                "score": 9.713939
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3972,7 +3972,7 @@
             "id": "948c1d4d-8cb9-48c2-8072-f039d0666660",
             "links": {},
             "meta": {
-                "score": 9.71587
+                "score": 9.713791
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4008,7 +4008,43 @@
             "id": "083cdcd4-2b64-4a1a-b556-9b7aeb92f7df",
             "links": {},
             "meta": {
-                "score": 9.712663
+                "score": 9.710576
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            "Adamco Pharm"
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "Senior <em class=\"search-highlight\">Accountant</em> - Travel Abroad"
+                        ],
+                        "value": [
+                            "Accountant"
+                        ]
+                    }
+                ]
+            },
+            "id": "9a674bfd-4a25-4197-8324-050f0a0d2329",
+            "links": {},
+            "meta": {
+                "score": 9.7097225
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4063,43 +4099,7 @@
             "id": "99846ebb-578f-4007-82dc-177447c478a5",
             "links": {},
             "meta": {
-                "score": 9.711975
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            "Adamco Pharm"
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "Senior <em class=\"search-highlight\">Accountant</em> - Travel Abroad"
-                        ],
-                        "value": [
-                            "Accountant"
-                        ]
-                    }
-                ]
-            },
-            "id": "9a674bfd-4a25-4197-8324-050f0a0d2329",
-            "links": {},
-            "meta": {
-                "score": 9.711811
+                "score": 9.709211
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4144,7 +4144,7 @@
             "id": "9d2becc3-5996-4704-8e02-bf103a726f34",
             "links": {},
             "meta": {
-                "score": 9.709252
+                "score": 9.707087
             },
             "relationships": {},
             "type": "talentSearch"

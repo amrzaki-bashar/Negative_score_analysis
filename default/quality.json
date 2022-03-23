@@ -71,7 +71,7 @@
             "id": "bc8fbc92-0fb9-4cf7-939d-2d2d5cd62bd9",
             "links": {},
             "meta": {
-                "score": 7.115149
+                "score": 7.114363
             },
             "relationships": {},
             "type": "talentSearch"
@@ -145,7 +145,7 @@
             "id": "a21cf729-0571-4bf2-81af-284cd634991b",
             "links": {},
             "meta": {
-                "score": 7.1053815
+                "score": 7.104629
             },
             "relationships": {},
             "type": "talentSearch"
@@ -175,8 +175,8 @@
                             "<em class=\"search-highlight\">Quality</em> Control"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -222,7 +222,7 @@
             "id": "0e19fa23-9a2d-4095-96df-432dade9bfad",
             "links": {},
             "meta": {
-                "score": 7.0885715
+                "score": 7.08771
             },
             "relationships": {},
             "type": "talentSearch"
@@ -298,7 +298,7 @@
             "id": "29594d4b-3c24-49de-812f-f2448596d289",
             "links": {},
             "meta": {
-                "score": 7.087729
+                "score": 7.0868497
             },
             "relationships": {},
             "type": "talentSearch"
@@ -355,7 +355,7 @@
             "id": "a36ebf0f-3443-4eb2-b858-836c79da58ae",
             "links": {},
             "meta": {
-                "score": 7.084137
+                "score": 7.0833707
             },
             "relationships": {},
             "type": "talentSearch"
@@ -411,7 +411,7 @@
             "id": "d64bbd04-cef5-44c6-b3ec-91ec97f7566f",
             "links": {},
             "meta": {
-                "score": 7.0827074
+                "score": 7.0819507
             },
             "relationships": {},
             "type": "talentSearch"
@@ -468,7 +468,7 @@
             "id": "c7bf81e1-bf97-4a53-8444-0868e822f513",
             "links": {},
             "meta": {
-                "score": 7.081464
+                "score": 7.08069
             },
             "relationships": {},
             "type": "talentSearch"
@@ -533,7 +533,7 @@
             "id": "9c259472-ad59-4734-a5ce-a05fa9566432",
             "links": {},
             "meta": {
-                "score": 7.072666
+                "score": 7.071806
             },
             "relationships": {},
             "type": "talentSearch"
@@ -563,8 +563,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -608,7 +608,7 @@
             "id": "6dc25c3f-0b1e-4e28-824f-e0734ad45b5e",
             "links": {},
             "meta": {
-                "score": 7.0721
+                "score": 7.071224
             },
             "relationships": {},
             "type": "talentSearch"
@@ -673,7 +673,7 @@
             "id": "2f5af8c1-664e-4be2-ad45-f39ea0b80bd6",
             "links": {},
             "meta": {
-                "score": 7.06508
+                "score": 7.0642185
             },
             "relationships": {},
             "type": "talentSearch"
@@ -749,7 +749,7 @@
             "id": "3d84bae2-5527-4d25-9e4a-54acdef16945",
             "links": {},
             "meta": {
-                "score": 7.0603056
+                "score": 7.059352
             },
             "relationships": {},
             "type": "talentSearch"
@@ -779,8 +779,8 @@
                             "<em class=\"search-highlight\">Quality</em> Control"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -806,7 +806,7 @@
             "id": "f3f954de-b20e-4bbc-b0bb-8456d8df1b34",
             "links": {},
             "meta": {
-                "score": 7.0587845
+                "score": 7.0579104
             },
             "relationships": {},
             "type": "talentSearch"
@@ -870,7 +870,7 @@
             "id": "2a77a6fa-4bb6-43fe-a73f-ab8bc2b559ae",
             "links": {},
             "meta": {
-                "score": 7.056544
+                "score": 7.0556736
             },
             "relationships": {},
             "type": "talentSearch"
@@ -949,7 +949,7 @@
             "id": "d4f4600d-7d03-449f-9285-1c66ccf98f97",
             "links": {},
             "meta": {
-                "score": 7.0509973
+                "score": 7.0500517
             },
             "relationships": {},
             "type": "talentSearch"
@@ -979,8 +979,8 @@
                             "<em class=\"search-highlight\">Quality</em> Control"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -1015,7 +1015,7 @@
             "id": "e7447e08-aa84-4032-90ae-a26d4ed1bebe",
             "links": {},
             "meta": {
-                "score": 7.0422187
+                "score": 7.0412645
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1080,7 +1080,7 @@
             "id": "775dc0f4-8c6a-408e-a069-e71029bdec0c",
             "links": {},
             "meta": {
-                "score": 7.0376043
+                "score": 7.0366454
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1146,7 +1146,7 @@
             "id": "2761afe3-07a0-4a90-99d3-11a87d5d279a",
             "links": {},
             "meta": {
-                "score": 7.036973
+                "score": 7.0360107
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1176,8 +1176,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -1215,7 +1215,7 @@
             "id": "0f45f355-2573-4ee4-b4fa-23dcbbc06654",
             "links": {},
             "meta": {
-                "score": 7.0363197
+                "score": 7.035368
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1264,8 +1264,8 @@
                             "or assists with the editorial development, compliance of content to corporate' guidelines and global <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -1282,7 +1282,7 @@
             "id": "78e63c54-759d-498d-b6da-e26bcfbfa86a",
             "links": {},
             "meta": {
-                "score": 7.0308647
+                "score": 7.029898
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1356,7 +1356,7 @@
             "id": "17800b33-c241-4f03-9413-818cadf43b08",
             "links": {},
             "meta": {
-                "score": 7.0250854
+                "score": 7.0240245
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1432,7 +1432,7 @@
             "id": "267a8aa7-e597-493c-a005-d9b5a3c87f2d",
             "links": {},
             "meta": {
-                "score": 6.9806457
+                "score": 6.9794264
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1508,7 +1508,7 @@
             "id": "8e2dc7a1-0702-4d69-bafd-7432e7171fd7",
             "links": {},
             "meta": {
-                "score": 6.9721217
+                "score": 6.970813
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1556,8 +1556,8 @@
                             "Responsible for assuring that the <em class=\"search-highlight\">quality</em> of the work meets the project’s contractual requirements, and"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -1574,7 +1574,7 @@
             "id": "53c3fa21-5dd2-4b0d-99b5-4952bc1a1333",
             "links": {},
             "meta": {
-                "score": 6.959336
+                "score": 6.9581237
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1640,7 +1640,7 @@
             "id": "addb4f95-fb2d-48c0-bf75-06990c8de262",
             "links": {},
             "meta": {
-                "score": 6.9580545
+                "score": 6.9568405
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1670,8 +1670,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -1697,7 +1697,7 @@
             "id": "53f867a2-6956-43f9-9b34-3bd290ea4e09",
             "links": {},
             "meta": {
-                "score": 6.950415
+                "score": 6.9491825
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1769,7 +1769,7 @@
             "id": "8425f5f1-10ca-4dfa-a612-f64290e86191",
             "links": {},
             "meta": {
-                "score": 6.9499764
+                "score": 6.9487
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1799,8 +1799,8 @@
                             "<em class=\"search-highlight\">Quality</em> Assurance"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -1845,7 +1845,7 @@
             "id": "53a9d709-93b3-4b89-ab92-df7a43543b92",
             "links": {},
             "meta": {
-                "score": 6.9491253
+                "score": 6.947818
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1901,7 +1901,7 @@
             "id": "f21e7a84-8583-417d-a5ab-e80541290afe",
             "links": {},
             "meta": {
-                "score": 6.93515
+                "score": 6.933845
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1965,7 +1965,7 @@
             "id": "31a756e8-a6af-4317-a946-9f9788017bce",
             "links": {},
             "meta": {
-                "score": 6.928682
+                "score": 6.9273705
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2033,7 +2033,7 @@
             "id": "020b5262-aa11-4e3f-be70-2d071eb46592",
             "links": {},
             "meta": {
-                "score": 6.925366
+                "score": 6.924061
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2103,7 +2103,7 @@
             "id": "8e3cc5a3-e5e1-4c1c-9e59-6ed96f6f89d3",
             "links": {},
             "meta": {
-                "score": 6.9243436
+                "score": 6.9230375
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2170,7 +2170,7 @@
             "id": "6ce78984-dd48-466f-9175-8c6c05f4b824",
             "links": {},
             "meta": {
-                "score": 6.919888
+                "score": 6.918562
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2200,8 +2200,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -2249,7 +2249,7 @@
             "id": "a1541ee1-89ee-47e2-ad7c-10e14b8b821f",
             "links": {},
             "meta": {
-                "score": 6.916368
+                "score": 6.91497
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2328,7 +2328,7 @@
             "id": "5f89d977-796c-4b72-8d82-b249e8275ba0",
             "links": {},
             "meta": {
-                "score": 6.9071565
+                "score": 6.905766
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2358,8 +2358,8 @@
                             "<em class=\"search-highlight\">Quality</em> Assurance"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -2398,7 +2398,7 @@
             "id": "dc417111-dd38-437b-8349-fde51d94ee22",
             "links": {},
             "meta": {
-                "score": 6.897954
+                "score": 6.896581
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2452,7 +2452,7 @@
             "id": "fc9cd5ef-73d5-41ed-99d0-de7079947530",
             "links": {},
             "meta": {
-                "score": 6.8838415
+                "score": 6.8824296
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2482,8 +2482,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -2529,7 +2529,7 @@
             "id": "fa475499-6e32-4622-aaf8-e10622e6786c",
             "links": {},
             "meta": {
-                "score": 6.8766494
+                "score": 6.875158
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2593,7 +2593,7 @@
             "id": "3c624e9b-0305-4da0-9530-919fe4f54b6c",
             "links": {},
             "meta": {
-                "score": 6.8592772
+                "score": 6.857811
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2658,7 +2658,7 @@
             "id": "01fe10f1-c2a7-4866-87c4-5be7e23e8904",
             "links": {},
             "meta": {
-                "score": 6.857799
+                "score": 6.856318
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2723,7 +2723,7 @@
             "id": "986fa275-59f0-4b24-b822-93acb196cda1",
             "links": {},
             "meta": {
-                "score": 6.8564916
+                "score": 6.854999
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2799,7 +2799,7 @@
             "id": "4291fb65-c552-467f-a3bb-7dc6d2132239",
             "links": {},
             "meta": {
-                "score": 6.85099
+                "score": 6.849494
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2874,7 +2874,7 @@
             "id": "c3e7bb51-b907-4803-8afe-6e281e85e5f3",
             "links": {},
             "meta": {
-                "score": 6.837276
+                "score": 6.8356996
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2930,7 +2930,7 @@
             "id": "ba3bef22-38a2-4c72-a10b-2bcc020e888c",
             "links": {},
             "meta": {
-                "score": 6.8218083
+                "score": 6.820256
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2996,7 +2996,7 @@
             "id": "b2675241-6b4d-43f2-ae5b-6a284843d215",
             "links": {},
             "meta": {
-                "score": 6.812661
+                "score": 6.8110886
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3037,8 +3037,8 @@
                             "preferred”.Poultry industry-specific experienced.Advanced knowledge in food safety principles.Knowledge of <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -3077,7 +3077,7 @@
             "id": "f91646ae-fa3b-4a39-ab63-96ffea9585d7",
             "links": {},
             "meta": {
-                "score": 6.799193
+                "score": 6.7975674
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3138,8 +3138,8 @@
                             "documentationEnsure all legal standards are metCommunicate with external <em class=\"search-highlight\">quality</em> assurance officers"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -3156,7 +3156,7 @@
             "id": "88c9f076-b968-4835-b57e-bf98e867d689",
             "links": {},
             "meta": {
-                "score": 6.7913313
+                "score": 6.7896748
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3212,7 +3212,7 @@
             "id": "57d58d55-2a24-48fd-8ebb-766eee5c53d5",
             "links": {},
             "meta": {
-                "score": 6.7734575
+                "score": 6.771805
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3287,7 +3287,7 @@
             "id": "c008865d-3905-47ec-b90d-ad5637b23f9a",
             "links": {},
             "meta": {
-                "score": 6.75591
+                "score": 6.754196
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3351,7 +3351,7 @@
             "id": "a5e3b4e5-c9a4-42a4-b58a-7e0984f38eb2",
             "links": {},
             "meta": {
-                "score": 6.742819
+                "score": 6.7411084
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3417,7 +3417,7 @@
             "id": "a56f9679-00a9-43f6-95c1-132b6ca27e5d",
             "links": {},
             "meta": {
-                "score": 6.689254
+                "score": 6.6874404
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3472,7 +3472,7 @@
             "id": "8496c585-ccd7-40a2-9da9-800cfab881bd",
             "links": {},
             "meta": {
-                "score": 6.689131
+                "score": 6.6873236
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3527,7 +3527,7 @@
             "id": "f5448da5-dd4a-487d-8ee8-2d755e6e210c",
             "links": {},
             "meta": {
-                "score": 6.6853848
+                "score": 6.683574
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3602,7 +3602,7 @@
             "id": "753acf64-d615-43c4-a893-4f9fcea2c51c",
             "links": {},
             "meta": {
-                "score": 6.653264
+                "score": 6.6513805
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3643,8 +3643,8 @@
                             "onlyExcellent organizational and leadership skillsProficient in MS OfficeIn-depth understanding of <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -3663,8 +3663,8 @@
                             "provide guidance and feedback,Oversee all product development procedures to identify deviations from <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -3681,7 +3681,7 @@
             "id": "da1a13fb-5e2f-417b-912b-7e6dfef8e00a",
             "links": {},
             "meta": {
-                "score": 6.6101956
+                "score": 6.6082263
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3747,7 +3747,7 @@
             "id": "5d18e62e-59f1-4445-b6b3-b88c88f93b31",
             "links": {},
             "meta": {
-                "score": 6.597416
+                "score": 6.595464
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3802,7 +3802,7 @@
             "id": "832e7b38-0f76-4b88-a595-f6e8c9b51821",
             "links": {},
             "meta": {
-                "score": 6.5899014
+                "score": 6.5879383
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3871,7 +3871,7 @@
             "id": "b8627c0d-7d3a-49fe-a049-d8ef9523ab87",
             "links": {},
             "meta": {
-                "score": 6.5879445
+                "score": 6.5859785
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3931,8 +3931,8 @@
                             "and discuss issues and proposed solutions with superiorsDocument <em class=\"search-highlight\">quality</em> assurance activities and create"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -3949,7 +3949,7 @@
             "id": "e11fb21b-ff31-424f-9e43-5017effd6b1f",
             "links": {},
             "meta": {
-                "score": 6.5701437
+                "score": 6.568104
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4014,7 +4014,7 @@
             "id": "5342e174-2a4b-4c17-a478-4bfe0b05d397",
             "links": {},
             "meta": {
-                "score": 6.562456
+                "score": 6.5604568
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4079,7 +4079,7 @@
             "id": "6f3a8a29-bb89-4eb1-937b-6f485aa0e5b7",
             "links": {},
             "meta": {
-                "score": 6.551402
+                "score": 6.549378
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4109,8 +4109,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4157,7 +4157,7 @@
             "id": "0c8a57cb-eae0-4620-94ff-df03059302f6",
             "links": {},
             "meta": {
-                "score": 6.549499
+                "score": 6.5474534
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4225,7 +4225,7 @@
             "id": "17d67387-632a-4d1f-9f2f-1f163e977e3a",
             "links": {},
             "meta": {
-                "score": 6.5432324
+                "score": 6.5411997
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4271,7 +4271,7 @@
             "id": "c0b76afb-7b9d-486b-8b93-9a4a847ff405",
             "links": {},
             "meta": {
-                "score": 6.5396886
+                "score": 6.5376687
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4301,8 +4301,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4349,7 +4349,7 @@
             "id": "8ea1eb44-13f5-40e9-a7cd-ce75fa9f4d46",
             "links": {},
             "meta": {
-                "score": 6.502748
+                "score": 6.500638
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4397,8 +4397,8 @@
                             "health and bug reports to cross-functional team members and management.Ensure deliverables are up to <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4415,7 +4415,7 @@
             "id": "676d1d49-2ecf-48b3-80e7-543ef725d35a",
             "links": {},
             "meta": {
-                "score": 6.4844546
+                "score": 6.482343
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4478,7 +4478,7 @@
             "id": "036687a8-ec49-4149-b3e0-28c2a6902748",
             "links": {},
             "meta": {
-                "score": 6.436765
+                "score": 6.434591
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4556,7 +4556,7 @@
             "id": "1b57825c-9f9c-4e21-b393-ceee55433fe5",
             "links": {},
             "meta": {
-                "score": 6.3577685
+                "score": 6.355444
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4588,8 +4588,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4620,8 +4620,8 @@
                             "issues along the production steps.Responsible for the supervision of the <em class=\"search-highlight\">quality</em> from the raw material"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4638,7 +4638,7 @@
             "id": "8e92b97b-4d33-4f7d-9e4d-d3cc5e1b1b85",
             "links": {},
             "meta": {
-                "score": 6.3486166
+                "score": 6.3463078
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4714,7 +4714,7 @@
             "id": "a2b24593-e16a-40a7-b3d9-06fe89594f64",
             "links": {},
             "meta": {
-                "score": 6.341121
+                "score": 6.3388023
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4743,8 +4743,8 @@
                             "supplier <em class=\"search-highlight\">quality</em> engineer"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4775,8 +4775,8 @@
                             "in relaying supplier <em class=\"search-highlight\">quality</em> non-conformities.He / She will track and support supplier on proper root"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -4793,7 +4793,7 @@
             "id": "f371a76d-51e0-41af-be9d-76f91ae221e9",
             "links": {},
             "meta": {
-                "score": 6.3396053
+                "score": 6.337299
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4859,7 +4859,7 @@
             "id": "de82f7f4-34d2-4f09-b709-fed3f909a879",
             "links": {},
             "meta": {
-                "score": 6.324168
+                "score": 6.321864
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4923,7 +4923,7 @@
             "id": "afa6eb32-ebcb-4be7-96fb-f3d38a1e60d0",
             "links": {},
             "meta": {
-                "score": 6.321757
+                "score": 6.3194423
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4997,7 +4997,7 @@
             "id": "16c4d948-1019-4855-a197-5888abb7aea0",
             "links": {},
             "meta": {
-                "score": 6.276608
+                "score": 6.2742367
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5060,7 +5060,7 @@
             "id": "defe1f43-4264-4353-a980-19150e3ea05e",
             "links": {},
             "meta": {
-                "score": 6.2667212
+                "score": 6.2643404
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5124,7 +5124,7 @@
             "id": "6324ffa6-0049-4183-a245-d7ebea323038",
             "links": {},
             "meta": {
-                "score": 6.245854
+                "score": 6.2434187
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5199,7 +5199,7 @@
             "id": "3fab2b74-a430-4e57-931f-b47976c9acb2",
             "links": {},
             "meta": {
-                "score": 6.2354846
+                "score": 6.2330623
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5261,8 +5261,8 @@
                             "facility.Reporting on the performance of the <em class=\"search-highlight\">quality</em> system, as a basis for its improvement to the top"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -5279,7 +5279,7 @@
             "id": "c3d336c9-502a-4a2f-bb55-5c1ae5f33ba0",
             "links": {},
             "meta": {
-                "score": 6.2283125
+                "score": 6.2258887
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5320,8 +5320,8 @@
                             "Performance testing.Mastering Functional Verification Technologies.Write, maintain and execute product test/<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -5340,8 +5340,8 @@
                             "Performance testing.Mastering Functional Verification Technologies.Write, maintain and execute product test/<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -5358,7 +5358,7 @@
             "id": "d772a1c9-10ef-4f2a-9281-4ace9ccac8fb",
             "links": {},
             "meta": {
-                "score": 6.2263703
+                "score": 6.223951
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5432,7 +5432,7 @@
             "id": "39817e59-e3b4-4990-9427-676efa3cd322",
             "links": {},
             "meta": {
-                "score": 6.2157993
+                "score": 6.21336
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5497,7 +5497,7 @@
             "id": "8d827a40-b658-4202-8691-471f7ae638f8",
             "links": {},
             "meta": {
-                "score": 6.2150736
+                "score": 6.2126513
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5526,8 +5526,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -5577,7 +5577,7 @@
             "id": "a0b95111-afcd-4c9e-b8f0-972ec599e9ad",
             "links": {},
             "meta": {
-                "score": 6.1460977
+                "score": 6.143594
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5609,8 +5609,8 @@
                             "<em class=\"search-highlight\">quality</em> improvement"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -5659,7 +5659,7 @@
             "id": "be7743e6-9ad6-4d85-a333-cc819dd60771",
             "links": {},
             "meta": {
-                "score": 6.117658
+                "score": 6.1151133
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5736,7 +5736,7 @@
             "id": "71036ef3-20ae-4bb6-b966-0cda78ef7eb7",
             "links": {},
             "meta": {
-                "score": 6.114602
+                "score": 6.1120644
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5810,7 +5810,7 @@
             "id": "59e55da3-dc02-4d7f-a2ac-488d5fa78fac",
             "links": {},
             "meta": {
-                "score": 6.1117964
+                "score": 6.1092434
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5885,7 +5885,7 @@
             "id": "d8711614-2b98-4bdf-bb8a-bc23945f590d",
             "links": {},
             "meta": {
-                "score": 6.097673
+                "score": 6.0951114
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5963,7 +5963,7 @@
             "id": "c5231c13-5e07-414b-8ba6-b83881b97636",
             "links": {},
             "meta": {
-                "score": 6.0892706
+                "score": 6.0867114
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6028,7 +6028,7 @@
             "id": "6fde5989-08cb-46a0-9cc5-6277584824d1",
             "links": {},
             "meta": {
-                "score": 6.0783806
+                "score": 6.0758348
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6083,7 +6083,7 @@
             "id": "a4a3ecd0-9b9e-402e-ae5d-634460e66e2a",
             "links": {},
             "meta": {
-                "score": 6.0775776
+                "score": 6.0750303
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6150,7 +6150,7 @@
             "id": "b01980f5-97ac-4933-903a-daf53710b8f5",
             "links": {},
             "meta": {
-                "score": 6.074939
+                "score": 6.072391
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6218,7 +6218,7 @@
             "id": "84c836ca-0aff-4fd7-951f-6ea584f76458",
             "links": {},
             "meta": {
-                "score": 6.071441
+                "score": 6.0688915
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6294,7 +6294,7 @@
             "id": "76df39ac-20a0-4701-9c14-f91322e95c76",
             "links": {},
             "meta": {
-                "score": 6.000964
+                "score": 5.998316
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6359,8 +6359,8 @@
                             "measurement reports.Provide <em class=\"search-highlight\">quality</em> assurance support to customers, suppliers and other departments"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -6377,7 +6377,7 @@
             "id": "87c48819-f5d6-4502-8226-40115994a139",
             "links": {},
             "meta": {
-                "score": 5.9150443
+                "score": 5.9123607
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6437,8 +6437,8 @@
                             "issues along the production steps.Responsible for the supervision of the <em class=\"search-highlight\">quality</em> from the raw material"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -6455,7 +6455,7 @@
             "id": "77cb25bc-c0ab-4fc9-a196-0f3cf7451da2",
             "links": {},
             "meta": {
-                "score": 5.8956175
+                "score": 5.892907
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6521,7 +6521,7 @@
             "id": "8d652034-bc9e-4ba7-88bf-b809b9963cb1",
             "links": {},
             "meta": {
-                "score": 5.8928294
+                "score": 5.890135
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6551,8 +6551,8 @@
                             "<em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -6581,8 +6581,8 @@
                             "through workshops and Small Group Activities.Providing training of personnel to ensure awareness of <em class=\"search-highlight\">quality</em>"
                         ],
                         "value": [
-                            "Quality",
-                            "quality"
+                            "quality",
+                            "Quality"
                         ]
                     },
                     {
@@ -6599,7 +6599,7 @@
             "id": "450b78ed-62b7-4cac-b8d4-61a75937db44",
             "links": {},
             "meta": {
-                "score": 5.892399
+                "score": 5.8896894
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6656,7 +6656,7 @@
             "id": "9eebb9ca-f956-461c-b3e6-6a489fc3a6fd",
             "links": {},
             "meta": {
-                "score": 5.888701
+                "score": 5.8860044
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6720,7 +6720,7 @@
             "id": "e2dcda30-34bc-4f54-9758-28cb64892860",
             "links": {},
             "meta": {
-                "score": 5.8422294
+                "score": 5.8394847
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6788,7 +6788,7 @@
             "id": "ec75f818-a041-4682-a6da-ed406ffe790d",
             "links": {},
             "meta": {
-                "score": 5.819534
+                "score": 5.8167915
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6852,7 +6852,7 @@
             "id": "ac902ec0-4075-4682-adc4-35fd2fc6e8e7",
             "links": {},
             "meta": {
-                "score": 5.818712
+                "score": 5.815968
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6906,7 +6906,7 @@
             "id": "56001f72-2b3a-4665-ad62-7f69dd0ab082",
             "links": {},
             "meta": {
-                "score": 5.810197
+                "score": 5.8074503
             },
             "relationships": {},
             "type": "talentSearch"

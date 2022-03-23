@@ -27,9 +27,9 @@
                             "IT <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -61,8 +61,8 @@
                             "client till the closure of the <em class=\"search-highlight\">sales</em> cycle."
                         ],
                         "value": [
-                            "sales",
-                            "manager"
+                            "manager",
+                            "sales"
                         ]
                     },
                     {
@@ -71,8 +71,8 @@
                             "Senior <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> - System Integrator"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -80,7 +80,7 @@
             "id": "a995d63e-728e-4a5a-96d9-3e6164860b76",
             "links": {},
             "meta": {
-                "score": 11.754272
+                "score": 11.752991
             },
             "relationships": {},
             "type": "talentSearch"
@@ -112,9 +112,9 @@
                             "<em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -125,9 +125,9 @@
                             "and verbal communication skills.Dedication to providing great customer service.Ability to lead a <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "managing",
                             "management",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -137,8 +137,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -150,8 +150,8 @@
                             "on lead generation.The ongoing training of your salespeople.Developing your <em class=\"search-highlight\">sales</em> team through motivation"
                         ],
                         "value": [
-                            "sales",
-                            "Managing"
+                            "Managing",
+                            "sales"
                         ]
                     },
                     {
@@ -169,8 +169,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Giza"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -178,7 +178,7 @@
             "id": "df93b63f-cd3b-4b59-a5ac-58496c33e777",
             "links": {},
             "meta": {
-                "score": 11.750288
+                "score": 11.748867
             },
             "relationships": {},
             "type": "talentSearch"
@@ -209,9 +209,9 @@
                             "Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -249,8 +249,8 @@
                             "Corporate <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -258,7 +258,7 @@
             "id": "1651c6f7-6b52-47b4-b229-4b030548db26",
             "links": {},
             "meta": {
-                "score": 11.726833
+                "score": 11.725448
             },
             "relationships": {},
             "type": "talentSearch"
@@ -288,8 +288,8 @@
                             "Corporate <em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -326,8 +326,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -335,7 +335,7 @@
             "id": "d1c03240-bb94-47ce-b6bb-4746f27fe891",
             "links": {},
             "meta": {
-                "score": 11.72624
+                "score": 11.7248535
             },
             "relationships": {},
             "type": "talentSearch"
@@ -366,9 +366,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -378,8 +378,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -389,9 +389,9 @@
                             ", motivate, and advise a team of <em class=\"search-highlight\">sales</em> representatives.Perfect salary & commission "
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -409,8 +409,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -418,7 +418,7 @@
             "id": "9a667450-f9a2-459e-a8c5-1be539096905",
             "links": {},
             "meta": {
-                "score": 11.720328
+                "score": 11.718897
             },
             "relationships": {},
             "type": "talentSearch"
@@ -450,9 +450,9 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -485,8 +485,8 @@
                             ", business growth and expansion; while <em class=\"search-highlight\">managing</em> and delivering the optimum partner experience from a"
                         ],
                         "value": [
-                            "managing",
-                            "management"
+                            "management",
+                            "managing"
                         ]
                     },
                     {
@@ -495,8 +495,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -504,7 +504,7 @@
             "id": "f66dad84-8be7-435f-8ee2-abfbe7485613",
             "links": {},
             "meta": {
-                "score": 11.714493
+                "score": 11.712984
             },
             "relationships": {},
             "type": "talentSearch"
@@ -535,8 +535,8 @@
                         ],
                         "value": [
                             "Manager",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -547,8 +547,8 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -571,8 +571,8 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -590,8 +590,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>- Real Estate"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -599,7 +599,7 @@
             "id": "963b5f57-6873-4832-ba0f-0eb933509d20",
             "links": {},
             "meta": {
-                "score": 11.699618
+                "score": 11.698026
             },
             "relationships": {},
             "type": "talentSearch"
@@ -629,8 +629,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -642,8 +642,8 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -653,8 +653,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -664,9 +664,9 @@
                             "keep and maintenance of company equipmentMonitoring the cash collections of the <em class=\"search-highlight\">sales</em> teamCarries responsibility"
                         ],
                         "value": [
-                            "Sales",
+                            "Managing",
                             "sales",
-                            "Managing"
+                            "Sales"
                         ]
                     },
                     {
@@ -684,8 +684,8 @@
                             "Area <em class=\"search-highlight\">Manager</em> <em class=\"search-highlight\">Sales</em> - Alexandria"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -693,7 +693,7 @@
             "id": "0149d1e0-d2f6-44c0-b3f9-f8bbd3a627f1",
             "links": {},
             "meta": {
-                "score": 11.672468
+                "score": 11.670725
             },
             "relationships": {},
             "type": "talentSearch"
@@ -722,8 +722,8 @@
                             "<em class=\"search-highlight\">sales</em> process"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -759,8 +759,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -768,7 +768,7 @@
             "id": "2b2c5db0-a96b-4b1d-a2f1-8a8f78449f5a",
             "links": {},
             "meta": {
-                "score": 11.61674
+                "score": 11.615499
             },
             "relationships": {},
             "type": "talentSearch"
@@ -798,8 +798,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -831,8 +831,8 @@
                             "IT <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -840,7 +840,7 @@
             "id": "e718f16b-679f-44e3-bae7-fd63f68bf482",
             "links": {},
             "meta": {
-                "score": 11.59593
+                "score": 11.59469
             },
             "relationships": {},
             "type": "talentSearch"
@@ -870,8 +870,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -893,8 +893,8 @@
                         ],
                         "value": [
                             "Manager",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -903,8 +903,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -912,7 +912,7 @@
             "id": "8ec3dde6-2da4-4f98-b3ad-530e0892bb5b",
             "links": {},
             "meta": {
-                "score": 11.593734
+                "score": 11.59246
             },
             "relationships": {},
             "type": "talentSearch"
@@ -942,8 +942,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -974,11 +974,11 @@
                             "opportunity.<em class=\"search-highlight\">Manage</em> respective accounts, ensuring clients are satisfied, and generating new <em class=\"search-highlight\">sales</em> opportunitiesActively"
                         ],
                         "value": [
-                            "Manage",
-                            "manager",
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "manager",
+                            "Manage",
+                            "Sales"
                         ]
                     },
                     {
@@ -987,8 +987,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -996,7 +996,7 @@
             "id": "fc3d163d-9f3a-4263-8ffe-72e7507a62c8",
             "links": {},
             "meta": {
-                "score": 11.578172
+                "score": 11.576754
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1026,8 +1026,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1046,8 +1046,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1060,9 +1060,9 @@
                             "Representatives and to <em class=\"search-highlight\">Sales</em> Associates when needed.Maintain training in <em class=\"search-highlight\">sales</em> skills, product features"
                         ],
                         "value": [
-                            "Sales",
+                            "manage",
                             "sales",
-                            "manage"
+                            "Sales"
                         ]
                     },
                     {
@@ -1080,8 +1080,8 @@
                             "Trauma <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1089,7 +1089,7 @@
             "id": "4a97c9f4-ca9a-41d2-9e88-68e79a532e2a",
             "links": {},
             "meta": {
-                "score": 11.566379
+                "score": 11.564954
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1118,8 +1118,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1146,8 +1146,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> (Information Technology)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1155,7 +1155,7 @@
             "id": "251d35c1-30eb-4136-9dd6-21c8b9ab312a",
             "links": {},
             "meta": {
-                "score": 11.550499
+                "score": 11.549076
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1185,8 +1185,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1205,8 +1205,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1220,8 +1220,8 @@
                         ],
                         "value": [
                             "managers",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1239,8 +1239,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1248,7 +1248,7 @@
             "id": "feb1f5bb-b66a-4b1b-91b2-1592fce46a89",
             "links": {},
             "meta": {
-                "score": 11.54306
+                "score": 11.541515
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1279,8 +1279,8 @@
                             "Area <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1290,8 +1290,8 @@
                             "userCommercial background is a preferredExcellent communication, presentation and socializing skills.Excellent <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1313,9 +1313,9 @@
                             "figures.Extracting data and reports from SAP.Preparing concise weekly and monthly <em class=\"search-highlight\">sales</em> performance"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1333,8 +1333,8 @@
                             "Area <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1342,7 +1342,7 @@
             "id": "389e1002-b390-4ed6-ab70-bdc68577f037",
             "links": {},
             "meta": {
-                "score": 11.542976
+                "score": 11.54092
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1393,9 +1393,9 @@
                             "leadership/execution of the <em class=\"search-highlight\">sales</em> team in direct <em class=\"search-highlight\">sales</em> in a growing market job."
                         ],
                         "value": [
+                            "sales",
                             "managing",
-                            "Sales",
-                            "sales"
+                            "Sales"
                         ]
                     },
                     {
@@ -1413,8 +1413,8 @@
                             "District <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> /Cairo"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1422,7 +1422,7 @@
             "id": "aef9f309-b2ce-4772-8be8-59f204977d21",
             "links": {},
             "meta": {
-                "score": 11.525649
+                "score": 11.52409
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1452,8 +1452,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1480,8 +1480,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1489,7 +1489,7 @@
             "id": "8aa192c9-03e7-4f62-8c3e-f3b93d0681eb",
             "links": {},
             "meta": {
-                "score": 11.518592
+                "score": 11.51705
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1521,9 +1521,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -1535,9 +1535,9 @@
                             "plan to close.Strong business sense and industry expertise.Excellent mentoring, coaching, and people <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
+                            "manager",
                             "management",
-                            "sales",
-                            "manager"
+                            "sales"
                         ]
                     },
                     {
@@ -1547,8 +1547,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1560,11 +1560,11 @@
                             "and hit <em class=\"search-highlight\">sales</em> targets by successfully <em class=\"search-highlight\">managing</em> the <em class=\"search-highlight\">sales</em> digital teams.Design and implement a strategic"
                         ],
                         "value": [
-                            "managing",
-                            "Sales",
-                            "Manager",
                             "sales",
-                            "management"
+                            "managing",
+                            "management",
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -1582,8 +1582,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1591,7 +1591,7 @@
             "id": "c32a5b38-f2cd-4198-ab45-d84eb6b8ec1a",
             "links": {},
             "meta": {
-                "score": 11.51571
+                "score": 11.513539
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1622,9 +1622,9 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1643,8 +1643,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1657,8 +1657,8 @@
                             "your <em class=\"search-highlight\">sales</em> team through motivation, counseling and product knowledge education"
                         ],
                         "value": [
-                            "managing",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -1676,8 +1676,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Real Estate"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1685,91 +1685,7 @@
             "id": "df47ecae-f48a-4a6d-bb59-f519d2913ba1",
             "links": {},
             "meta": {
-                "score": 11.5154295
-            },
-            "relationships": {},
-            "type": "talentSearch"
-        },
-        {
-            "attributes": {
-                "computedFields": [
-                    {
-                        "name": "distance",
-                        "value": [
-                            -1.0
-                        ]
-                    },
-                    {
-                        "name": "company_name",
-                        "value": [
-                            ""
-                        ]
-                    }
-                ],
-                "highlightedFields": [
-                    {
-                        "name": "skills",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Sales</em>",
-                            "<em class=\"search-highlight\">sales</em> skills",
-                            "<em class=\"search-highlight\">Sales</em> Target"
-                        ],
-                        "value": [
-                            "Sales",
-                            "sales"
-                        ]
-                    },
-                    {
-                        "name": "roles",
-                        "snippets": [
-                            "Operations/<em class=\"search-highlight\">Management</em>",
-                            "<em class=\"search-highlight\">Sales</em>/Retail"
-                        ],
-                        "value": [
-                            "Sales",
-                            "Management"
-                        ]
-                    },
-                    {
-                        "name": "description",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Managing</em> customer accounts and <em class=\"search-highlight\">sales</em> activities.Developing the commercial relations of the existing accounts",
-                            "and follow-up of the <em class=\"search-highlight\">sales</em> process and after-<em class=\"search-highlight\">sales</em> services.Preparing presentations, a summary of customer",
-                            "' needs and work to gain their satisfaction.Achieving the material and moral <em class=\"search-highlight\">sales</em> target agreed with",
-                            "the <em class=\"search-highlight\">management</em> within the specified time period.Providing information and reports on customer accounts",
-                            "periodically.Carrying out any similar duties within the scope of the job description as requested by the <em class=\"search-highlight\">management</em>.Coordination"
-                        ],
-                        "value": [
-                            "management",
-                            "sales",
-                            "Managing"
-                        ]
-                    },
-                    {
-                        "name": "career_level",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Manager"
-                        ]
-                    },
-                    {
-                        "name": "job_title",
-                        "snippets": [
-                            "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
-                        ],
-                        "value": [
-                            "Sales",
-                            "Manager"
-                        ]
-                    }
-                ]
-            },
-            "id": "de4893eb-c1b7-45d0-8739-a4f939df1267",
-            "links": {},
-            "meta": {
-                "score": 11.514328
+                "score": 11.513264
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1807,8 +1723,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1841,8 +1757,8 @@
                             "Senior <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - International Ice Cream Brand (F&B Retail Background)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1850,7 +1766,91 @@
             "id": "5dcbcdcc-f244-4ce6-8ecf-c8c39cbb1c53",
             "links": {},
             "meta": {
-                "score": 11.51429
+                "score": 11.512866
+            },
+            "relationships": {},
+            "type": "talentSearch"
+        },
+        {
+            "attributes": {
+                "computedFields": [
+                    {
+                        "name": "distance",
+                        "value": [
+                            -1.0
+                        ]
+                    },
+                    {
+                        "name": "company_name",
+                        "value": [
+                            ""
+                        ]
+                    }
+                ],
+                "highlightedFields": [
+                    {
+                        "name": "skills",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Sales</em>",
+                            "<em class=\"search-highlight\">sales</em> skills",
+                            "<em class=\"search-highlight\">Sales</em> Target"
+                        ],
+                        "value": [
+                            "sales",
+                            "Sales"
+                        ]
+                    },
+                    {
+                        "name": "roles",
+                        "snippets": [
+                            "Operations/<em class=\"search-highlight\">Management</em>",
+                            "<em class=\"search-highlight\">Sales</em>/Retail"
+                        ],
+                        "value": [
+                            "Management",
+                            "Sales"
+                        ]
+                    },
+                    {
+                        "name": "description",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Managing</em> customer accounts and <em class=\"search-highlight\">sales</em> activities.Developing the commercial relations of the existing accounts",
+                            "and follow-up of the <em class=\"search-highlight\">sales</em> process and after-<em class=\"search-highlight\">sales</em> services.Preparing presentations, a summary of customer",
+                            "' needs and work to gain their satisfaction.Achieving the material and moral <em class=\"search-highlight\">sales</em> target agreed with",
+                            "the <em class=\"search-highlight\">management</em> within the specified time period.Providing information and reports on customer accounts",
+                            "periodically.Carrying out any similar duties within the scope of the job description as requested by the <em class=\"search-highlight\">management</em>.Coordination"
+                        ],
+                        "value": [
+                            "Managing",
+                            "management",
+                            "sales"
+                        ]
+                    },
+                    {
+                        "name": "career_level",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager"
+                        ]
+                    },
+                    {
+                        "name": "job_title",
+                        "snippets": [
+                            "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
+                        ],
+                        "value": [
+                            "Manager",
+                            "Sales"
+                        ]
+                    }
+                ]
+            },
+            "id": "de4893eb-c1b7-45d0-8739-a4f939df1267",
+            "links": {},
+            "meta": {
+                "score": 11.512759
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1879,8 +1879,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1890,8 +1890,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1909,8 +1909,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> | Digital Marketing Agency"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -1918,7 +1918,7 @@
             "id": "3f0e8adc-c7e8-4399-99ec-9b903d05045a",
             "links": {},
             "meta": {
-                "score": 11.504984
+                "score": 11.503339
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1948,8 +1948,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -1959,9 +1959,9 @@
                             "in customer relationship <em class=\"search-highlight\">management</em>.Experience <em class=\"search-highlight\">managing</em> and directing a <em class=\"search-highlight\">sales</em> team."
                         ],
                         "value": [
-                            "managing",
                             "management",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -1971,8 +1971,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1985,11 +1985,11 @@
                             ", revenue and expenses reports and realistic forecasts to the <em class=\"search-highlight\">management</em> teamIdentify emerging markets"
                         ],
                         "value": [
+                            "sales",
                             "managing",
                             "manager",
-                            "Sales",
-                            "sales",
-                            "management"
+                            "management",
+                            "Sales"
                         ]
                     },
                     {
@@ -1998,8 +1998,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2007,7 +2007,7 @@
             "id": "4bbf5233-adb5-4ab0-bece-a21d05c9ae3d",
             "links": {},
             "meta": {
-                "score": 11.436082
+                "score": 11.434078
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2039,9 +2039,9 @@
                             "Account <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2072,8 +2072,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2081,7 +2081,7 @@
             "id": "9297c1c4-4f1c-4073-b998-15e6f7ccbee4",
             "links": {},
             "meta": {
-                "score": 11.429798
+                "score": 11.427505
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2111,8 +2111,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2125,9 +2125,9 @@
                             "prioritize a portfolio in an advertising or media <em class=\"search-highlight\">sales</em> context, and ability to achieve goals to drive"
                         ],
                         "value": [
-                            "managing",
+                            "manage",
                             "sales",
-                            "manage"
+                            "managing"
                         ]
                     },
                     {
@@ -2165,8 +2165,8 @@
                             "Digital Advertising <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2174,7 +2174,7 @@
             "id": "ab554ef1-cf7c-49b4-b583-d6e8da528166",
             "links": {},
             "meta": {
-                "score": 11.412578
+                "score": 11.41059
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2204,8 +2204,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2218,9 +2218,9 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2242,11 +2242,11 @@
                             "review.Analyzing <em class=\"search-highlight\">sales</em> metrics and market trends to adapt or modify <em class=\"search-highlight\">sales</em> strategies and approaches accordingly.Assisting"
                         ],
                         "value": [
-                            "managing",
-                            "Sales",
-                            "Manager",
                             "sales",
-                            "management"
+                            "managing",
+                            "management",
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -2255,8 +2255,8 @@
                             "District <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> Giza"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2264,7 +2264,7 @@
             "id": "3cecb92a-5689-4ff4-b782-1981595f682b",
             "links": {},
             "meta": {
-                "score": 11.409795
+                "score": 11.407762
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2296,9 +2296,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2312,8 +2312,8 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2334,8 +2334,8 @@
                             "accounts running projects progress.Monitoring <em class=\"search-highlight\">Managed</em> accounts expenditures in accordance with the budget.Ensuring"
                         ],
                         "value": [
-                            "Managed",
-                            "management"
+                            "management",
+                            "Managed"
                         ]
                     },
                     {
@@ -2344,8 +2344,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2353,7 +2353,7 @@
             "id": "100b7e52-abbb-47f9-9c12-8062d59c13df",
             "links": {},
             "meta": {
-                "score": 11.395415
+                "score": 11.392958
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2383,8 +2383,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2411,8 +2411,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> Enterprise"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2420,7 +2420,7 @@
             "id": "eb5fe9c6-9ef4-434e-a24f-78705a99ea3f",
             "links": {},
             "meta": {
-                "score": 11.379664
+                "score": 11.377662
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2452,10 +2452,10 @@
                             "<em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
+                            "manager",
                             "Management",
                             "sales",
-                            "manager"
+                            "Sales"
                         ]
                     },
                     {
@@ -2498,8 +2498,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> (Digital Marketing)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2507,7 +2507,7 @@
             "id": "9b8c636f-6cab-4492-a280-a13d1a7ee887",
             "links": {},
             "meta": {
-                "score": 11.372498
+                "score": 11.370025
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2537,8 +2537,8 @@
                             "<em class=\"search-highlight\">Sales</em> Planning"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -2558,8 +2558,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -2570,10 +2570,10 @@
                             ", daily activities target achievement etc.Opening new markets and <em class=\"search-highlight\">sales</em> channels ."
                         ],
                         "value": [
-                            "Sales",
+                            "Managing",
                             "Manager",
                             "sales",
-                            "Managing"
+                            "Sales"
                         ]
                     },
                     {
@@ -2591,8 +2591,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - GST Firefighting System"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2600,7 +2600,7 @@
             "id": "0f38eccf-0f64-4337-be5a-3b45cce5ac59",
             "links": {},
             "meta": {
-                "score": 11.361023
+                "score": 11.358424
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2630,8 +2630,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2662,8 +2662,8 @@
                             "Cognative is looking for a B2B <em class=\"search-highlight\">sales</em> account <em class=\"search-highlight\">manager</em> who will be responsible to hit the market on all"
                         ],
                         "value": [
-                            "sales",
-                            "manager"
+                            "manager",
+                            "sales"
                         ]
                     },
                     {
@@ -2672,8 +2672,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2681,7 +2681,7 @@
             "id": "edd38580-0cfd-4bfc-b663-8bff010315e6",
             "links": {},
             "meta": {
-                "score": 11.356322
+                "score": 11.354167
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2713,9 +2713,9 @@
                             "Time <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2756,8 +2756,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2765,7 +2765,7 @@
             "id": "83538a1b-f047-447e-960c-84b282ea319e",
             "links": {},
             "meta": {
-                "score": 11.353011
+                "score": 11.350401
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2797,8 +2797,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -2818,8 +2818,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -2847,8 +2847,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2856,7 +2856,7 @@
             "id": "6e5065ea-d4f2-49c6-a2f7-ebab13231a49",
             "links": {},
             "meta": {
-                "score": 11.352128
+                "score": 11.349533
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2917,8 +2917,8 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2927,8 +2927,8 @@
                             "Senior <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> (IT)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -2936,7 +2936,7 @@
             "id": "4789ad29-0d13-4207-a082-7417c345e0e7",
             "links": {},
             "meta": {
-                "score": 11.345411
+                "score": 11.343254
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2966,8 +2966,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -2986,8 +2986,8 @@
                             "events.Provides training to end-user during and after the implementation process.Updating CRM with <em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3005,8 +3005,8 @@
                             "Software <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3014,7 +3014,7 @@
             "id": "cb6fa18e-cabc-4c50-937e-fa56c9e6564d",
             "links": {},
             "meta": {
-                "score": 11.343014
+                "score": 11.340879
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3071,9 +3071,9 @@
                             "You will be <em class=\"search-highlight\">managing</em> USA accounts and communicating with other team members as well.You will be assisting"
                         ],
                         "value": [
-                            "managing",
+                            "manager",
                             "sales",
-                            "manager"
+                            "managing"
                         ]
                     },
                     {
@@ -3091,8 +3091,8 @@
                             "<em class=\"search-highlight\">Sales</em> Project <em class=\"search-highlight\">Manager</em> / English Speaking"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3100,7 +3100,7 @@
             "id": "769ad994-4630-40da-864e-c446d5da3896",
             "links": {},
             "meta": {
-                "score": 11.34099
+                "score": 11.338764
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3157,9 +3157,9 @@
                             "You will be <em class=\"search-highlight\">managing</em> USA accounts and communicating with other team members as well.You will be assisting"
                         ],
                         "value": [
-                            "managing",
+                            "manager",
                             "sales",
-                            "manager"
+                            "managing"
                         ]
                     },
                     {
@@ -3177,8 +3177,8 @@
                             "<em class=\"search-highlight\">Sales</em> Project <em class=\"search-highlight\">Manager</em> - English Speaking"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3186,7 +3186,7 @@
             "id": "674d80c9-d2f9-4ac4-b7ec-c1406e039ce4",
             "links": {},
             "meta": {
-                "score": 11.340946
+                "score": 11.33872
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3216,8 +3216,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -3227,8 +3227,8 @@
                             "various training and teaching methods.Critical thinker and problem-solving skills.Team player, good time-<em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
-                            "management",
-                            "manager"
+                            "manager",
+                            "management"
                         ]
                     },
                     {
@@ -3238,8 +3238,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -3266,8 +3266,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> (Training Academy)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3275,7 +3275,7 @@
             "id": "67c8d52b-662f-4d73-8f8c-c30b9f3338e4",
             "links": {},
             "meta": {
-                "score": 11.335904
+                "score": 11.33333
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3306,9 +3306,9 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3318,8 +3318,8 @@
                             "Tele <em class=\"search-highlight\">Sales</em> in any environment is an advantage.No managerial experienced calibers are also welcome to"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3329,8 +3329,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -3343,10 +3343,10 @@
                             "Update and maintain accurate ‘<em class=\"search-highlight\">Sales</em> Force’ records"
                         ],
                         "value": [
+                            "manage",
                             "Manager",
-                            "Sales",
                             "sales",
-                            "manage"
+                            "Sales"
                         ]
                     },
                     {
@@ -3364,8 +3364,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> (BTL & Advertising Industry)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3373,7 +3373,7 @@
             "id": "fc9e94d8-2432-47c8-a5cc-370f0be8c15e",
             "links": {},
             "meta": {
-                "score": 11.334591
+                "score": 11.332012
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3405,9 +3405,9 @@
                             "<em class=\"search-highlight\">sales</em> trucking"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3449,8 +3449,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3458,7 +3458,7 @@
             "id": "9a8d17aa-1a10-453b-a1b9-412d4a3b9948",
             "links": {},
             "meta": {
-                "score": 11.327142
+                "score": 11.324554
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3490,9 +3490,9 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -3505,9 +3505,9 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3529,11 +3529,11 @@
                             "review.Analyzing <em class=\"search-highlight\">sales</em> metrics and market trends to adapt or modify <em class=\"search-highlight\">sales</em> strategies and approaches accordingly.Assisting"
                         ],
                         "value": [
-                            "managing",
-                            "Sales",
-                            "Manager",
                             "sales",
-                            "management"
+                            "managing",
+                            "management",
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -3551,8 +3551,8 @@
                             "District <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3560,7 +3560,7 @@
             "id": "42ea09f8-1140-4774-a8f2-9ac1c03c8e6f",
             "links": {},
             "meta": {
-                "score": 11.326354
+                "score": 11.323732
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3590,8 +3590,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -3623,8 +3623,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3632,7 +3632,7 @@
             "id": "a8396cbb-fb75-4924-8107-c899fd4ffd92",
             "links": {},
             "meta": {
-                "score": 11.311337
+                "score": 11.308757
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3672,10 +3672,10 @@
                             "skills Great time <em class=\"search-highlight\">management</em> skills are essential Be exceptionally well presented "
                         ],
                         "value": [
-                            "management",
-                            "Sales",
                             "Manages",
-                            "sales"
+                            "management",
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3697,11 +3697,11 @@
                             "performance reviews and performance reports to ensure maximum client retention Collect payment and <em class=\"search-highlight\">manage</em>"
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
                             "sales",
-                            "Manager",
-                            "management"
+                            "management",
+                            "manage",
+                            "Manage",
+                            "Manager"
                         ]
                     },
                     {
@@ -3710,8 +3710,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> - Cairo"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3719,7 +3719,7 @@
             "id": "03afd82c-c06f-4094-8c77-90c78d40f8b8",
             "links": {},
             "meta": {
-                "score": 11.30144
+                "score": 11.29913
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3749,8 +3749,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3781,8 +3781,8 @@
                             "Oracle ERP <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3790,7 +3790,7 @@
             "id": "b1d93981-d8a1-42ec-8983-81cc68724bfe",
             "links": {},
             "meta": {
-                "score": 11.283614
+                "score": 11.281357
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3820,8 +3820,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3843,9 +3843,9 @@
                             ", the respective marketing plans and budgets.Prepare comprehensive <em class=\"search-highlight\">sales</em>/development reports ” for all"
                         ],
                         "value": [
+                            "manage",
                             "management",
-                            "sales",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -3863,8 +3863,8 @@
                             "Account <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Egypt"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3872,7 +3872,7 @@
             "id": "fcc619d0-8ce9-4ec4-8368-e030051e082b",
             "links": {},
             "meta": {
-                "score": 11.271215
+                "score": 11.268912
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3902,8 +3902,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -3925,9 +3925,9 @@
                             ", the respective marketing plans and budgets.Prepare comprehensive <em class=\"search-highlight\">sales</em>/development reports ” for all"
                         ],
                         "value": [
+                            "manage",
                             "management",
-                            "sales",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -3945,8 +3945,8 @@
                             "Account <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - UAE"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -3954,7 +3954,7 @@
             "id": "2b421b8e-4f7e-402f-a4f5-3930391fae42",
             "links": {},
             "meta": {
-                "score": 11.271015
+                "score": 11.268711
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3984,8 +3984,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4007,9 +4007,9 @@
                             "Present new ideas / identify new business opportunities and prepare if accepted by top <em class=\"search-highlight\">management</em>, the"
                         ],
                         "value": [
+                            "manage",
                             "management",
-                            "sales",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -4027,8 +4027,8 @@
                             "Account <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Lebanon"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4036,7 +4036,7 @@
             "id": "37d7de6d-5050-4431-b499-42550443bc42",
             "links": {},
             "meta": {
-                "score": 11.270775
+                "score": 11.268471
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4068,8 +4068,8 @@
                             "<em class=\"search-highlight\">Sales</em> Skills"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -4098,8 +4098,8 @@
                             "activities tools and systems and update relevant information held in these systems.Follow set quality and <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "managed",
-                            "sales"
+                            "sales",
+                            "managed"
                         ]
                     },
                     {
@@ -4108,8 +4108,8 @@
                             "ERP <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4117,7 +4117,7 @@
             "id": "b70da1e5-695b-4322-a731-701aa508654a",
             "links": {},
             "meta": {
-                "score": 11.255725
+                "score": 11.25298
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4148,8 +4148,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4180,11 +4180,11 @@
                             "different shifts (including evenings, weekends, or holidays).Ability to multi-task, prioritize, and <em class=\"search-highlight\">manage</em>"
                         ],
                         "value": [
-                            "manage",
-                            "Sales",
                             "sales",
                             "Managing",
-                            "managers"
+                            "managers",
+                            "manage",
+                            "Sales"
                         ]
                     },
                     {
@@ -4202,8 +4202,8 @@
                             "Software <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4211,7 +4211,7 @@
             "id": "77cdb55c-21e3-458d-a747-4f6d0f9bb837",
             "links": {},
             "meta": {
-                "score": 11.225818
+                "score": 11.2233715
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4241,8 +4241,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4270,8 +4270,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> ( Outdoor )"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4279,7 +4279,7 @@
             "id": "400b7fcf-373c-45fd-9abb-c0e2da52c029",
             "links": {},
             "meta": {
-                "score": 11.209811
+                "score": 11.207375
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4311,9 +4311,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4332,8 +4332,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -4365,8 +4365,8 @@
                             "<em class=\"search-highlight\">Sales</em> Operations <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4374,7 +4374,7 @@
             "id": "8c3eaf5e-7948-4e06-8127-83b17f55d4cd",
             "links": {},
             "meta": {
-                "score": 11.1151905
+                "score": 11.112185
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4405,9 +4405,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4426,8 +4426,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -4457,8 +4457,8 @@
                             "Export <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4466,7 +4466,7 @@
             "id": "d68c038e-6ecb-455c-ad64-808fe954ef2c",
             "links": {},
             "meta": {
-                "score": 11.10703
+                "score": 11.104035
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4497,9 +4497,9 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4528,8 +4528,8 @@
                         ],
                         "value": [
                             "management",
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -4538,8 +4538,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4547,7 +4547,7 @@
             "id": "6cdd63ae-9143-4011-a034-b8965383a2ee",
             "links": {},
             "meta": {
-                "score": 11.057604
+                "score": 11.054479
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4579,8 +4579,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -4620,8 +4620,8 @@
                             "Software <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> (Egypt Branch)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4629,7 +4629,7 @@
             "id": "e27d161b-42f6-477a-bfb3-1fe93486fc35",
             "links": {},
             "meta": {
-                "score": 11.044275
+                "score": 11.041142
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4660,8 +4660,8 @@
                             "training <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4706,8 +4706,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4715,7 +4715,7 @@
             "id": "a4381e89-21bc-465c-a986-18085af00996",
             "links": {},
             "meta": {
-                "score": 10.996456
+                "score": 10.993488
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4745,8 +4745,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4757,9 +4757,9 @@
                             "and knowledge of <em class=\"search-highlight\">sales</em> performance metrics.Outstanding verbal and written communication skills.Excellent"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4769,8 +4769,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -4799,8 +4799,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Software Background"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4808,7 +4808,7 @@
             "id": "a67fdb75-304d-4a82-a7af-a040b7a193cd",
             "links": {},
             "meta": {
-                "score": 10.980161
+                "score": 10.977182
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4839,8 +4839,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4873,9 +4873,9 @@
                             "and exceed all agreed <em class=\"search-highlight\">sales</em> targets set by Upper ManagementProvide weekly and monthly <em class=\"search-highlight\">sales</em> activity"
                         ],
                         "value": [
-                            "Sales",
+                            "manager",
                             "sales",
-                            "manager"
+                            "Sales"
                         ]
                     },
                     {
@@ -4893,8 +4893,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> (confectionery or Horeca)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4902,7 +4902,7 @@
             "id": "43f1333b-4c96-4f2d-9836-48f270f31023",
             "links": {},
             "meta": {
-                "score": 10.971498
+                "score": 10.968513
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4931,8 +4931,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -4980,8 +4980,8 @@
                             "Export <em class=\"search-highlight\">Sales</em> Regional <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -4989,7 +4989,7 @@
             "id": "eb63d3ca-c941-48b1-aa97-d2ffad255481",
             "links": {},
             "meta": {
-                "score": 10.961177
+                "score": 10.958217
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5019,8 +5019,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5047,8 +5047,8 @@
                             "<em class=\"search-highlight\">Sales</em> Software Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5056,7 +5056,7 @@
             "id": "dce116ef-4857-4d5f-a9a6-622f8292aab8",
             "links": {},
             "meta": {
-                "score": 10.95081
+                "score": 10.947846
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5096,8 +5096,8 @@
                             "the technical components of the proposal before submission to the <em class=\"search-highlight\">sales</em> team for final compilation.Prepare"
                         ],
                         "value": [
-                            "sales",
-                            "manager"
+                            "manager",
+                            "sales"
                         ]
                     },
                     {
@@ -5115,8 +5115,8 @@
                             "Audio Visual Pre-<em class=\"search-highlight\">Sales</em> Engineer (<em class=\"search-highlight\">Manager</em>)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5124,7 +5124,7 @@
             "id": "b77d80b5-4368-4772-95f9-ffe35182872d",
             "links": {},
             "meta": {
-                "score": 10.946314
+                "score": 10.943358
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5154,8 +5154,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5176,8 +5176,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -5189,9 +5189,9 @@
                             ", contracting, revenue and expenses reports and realistic forecasts to the <em class=\"search-highlight\">management</em> teamIdentify emerging"
                         ],
                         "value": [
-                            "managing",
                             "management",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -5209,8 +5209,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5218,7 +5218,7 @@
             "id": "91e9cbf6-c904-4296-adc6-db1f8b54526e",
             "links": {},
             "meta": {
-                "score": 10.912117
+                "score": 10.909024
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5259,8 +5259,8 @@
                             "engage with clients and guide them through their buying cycleMust hold work experience in EgyptExcellent <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5270,8 +5270,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -5291,8 +5291,8 @@
                             "Senior <em class=\"search-highlight\">Sales</em> Officer (Business Development <em class=\"search-highlight\">Manager</em>)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5300,7 +5300,7 @@
             "id": "b43b34d6-348c-4c24-ba92-182f361661ba",
             "links": {},
             "meta": {
-                "score": 10.895839
+                "score": 10.892758
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5330,8 +5330,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5362,9 +5362,9 @@
                             "calling upon others to assist in solution development and proposal delivery, as needed, or as directed by <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
+                            "manager",
                             "management",
                             "sales",
-                            "manager",
                             "Managing"
                         ]
                     },
@@ -5374,8 +5374,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5383,7 +5383,7 @@
             "id": "dafd3d48-b938-4666-b45d-93ae362e77ad",
             "links": {},
             "meta": {
-                "score": 10.881657
+                "score": 10.878558
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5414,9 +5414,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5425,8 +5425,8 @@
                             "Experience in cosmetics is preferable.Minimum  3 years of experience as pharmacies <em class=\"search-highlight\">sales</em> <em class=\"search-highlight\">manager</em>."
                         ],
                         "value": [
-                            "sales",
-                            "manager"
+                            "manager",
+                            "sales"
                         ]
                     },
                     {
@@ -5448,9 +5448,9 @@
                             "target, etc.<em class=\"search-highlight\">Manage</em> <em class=\"search-highlight\">sales</em> deals and customer requirements such as extra discounts, incentive rates, marketing"
                         ],
                         "value": [
-                            "Manage",
+                            "manage",
                             "sales",
-                            "manage"
+                            "Manage"
                         ]
                     },
                     {
@@ -5468,8 +5468,8 @@
                             "Pharmacies <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Cairo"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5477,7 +5477,7 @@
             "id": "d465051f-29d6-4949-8db0-24e32259fee4",
             "links": {},
             "meta": {
-                "score": 10.817025
+                "score": 10.813511
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5509,8 +5509,8 @@
                             "Property <em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5521,8 +5521,8 @@
                             "in all aspects of planning and implementing <em class=\"search-highlight\">sales</em> strategyProblem analysis and problem-solvingFormal"
                         ],
                         "value": [
-                            "managing",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -5532,8 +5532,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -5555,8 +5555,8 @@
                             "the achievement of <em class=\"search-highlight\">sales</em> objectives by the <em class=\"search-highlight\">sales</em> team"
                         ],
                         "value": [
-                            "Manage",
-                            "sales"
+                            "sales",
+                            "Manage"
                         ]
                     },
                     {
@@ -5574,8 +5574,8 @@
                             "Real Estate <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5583,7 +5583,7 @@
             "id": "48558ecd-1f48-4c8e-87ca-15e8c675adfc",
             "links": {},
             "meta": {
-                "score": 10.815721
+                "score": 10.812354
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5613,8 +5613,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5645,9 +5645,9 @@
                             "mannerDeveloping long-term relationships with clients through <em class=\"search-highlight\">managing</em> and interpreting their requirements"
                         ],
                         "value": [
-                            "managing",
+                            "Managing",
                             "sales",
-                            "Managing"
+                            "managing"
                         ]
                     },
                     {
@@ -5665,8 +5665,8 @@
                             "<em class=\"search-highlight\">Sales</em> Engineering <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5674,7 +5674,7 @@
             "id": "aaeceec0-42c8-4986-b005-a15e7ccffcb2",
             "links": {},
             "meta": {
-                "score": 10.807732
+                "score": 10.804518
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5706,8 +5706,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5729,9 +5729,9 @@
                             "client engagements.Identify risks & establish controls on newly outsourced services / activitiesAttend <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
+                            "manage",
                             "management",
-                            "sales",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -5740,8 +5740,8 @@
                             "Senior <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>- Business Development IT Outsourcing"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5749,7 +5749,7 @@
             "id": "82bfc11c-7d9c-4e78-bf5e-30d838f2ba72",
             "links": {},
             "meta": {
-                "score": 10.801234
+                "score": 10.798044
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5780,9 +5780,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5794,9 +5794,9 @@
                             "from plan to closeStrong business sense and industry expertiseExcellent mentoring, coaching and people <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
+                            "manager",
                             "management",
-                            "sales",
-                            "manager"
+                            "sales"
                         ]
                     },
                     {
@@ -5818,11 +5818,11 @@
                             ", revenue, and expenses reports and realistic forecasts to the <em class=\"search-highlight\">management</em> teamIdentify emerging markets"
                         ],
                         "value": [
-                            "managing",
-                            "Sales",
-                            "Manager",
                             "sales",
-                            "management"
+                            "managing",
+                            "management",
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -5840,8 +5840,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5849,7 +5849,7 @@
             "id": "beddf6ec-cd4d-45be-85c8-9f039d759149",
             "links": {},
             "meta": {
-                "score": 10.800774
+                "score": 10.797289
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5880,9 +5880,9 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5894,8 +5894,8 @@
                         ],
                         "value": [
                             "managing",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -5917,12 +5917,12 @@
                             "process is adhered to and the <em class=\"search-highlight\">sales</em> funnel for your respective region is maintained, updated and <em class=\"search-highlight\">managed</em>"
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
-                            "managed",
-                            "manager",
                             "Management",
-                            "sales"
+                            "sales",
+                            "manager",
+                            "manage",
+                            "Manage",
+                            "managed"
                         ]
                     },
                     {
@@ -5940,8 +5940,8 @@
                             "Area <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -5949,7 +5949,7 @@
             "id": "bae586a9-f265-44ff-b6e2-0bd1ae693170",
             "links": {},
             "meta": {
-                "score": 10.795752
+                "score": 10.792283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5981,9 +5981,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6011,8 +6011,8 @@
                             "<em class=\"search-highlight\">Manager</em> – Furniture Projects Commission based 5% (with no fixed salary)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     },
                     {
@@ -6030,8 +6030,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Furniture Projects"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6039,7 +6039,7 @@
             "id": "7940daf7-a63f-42fc-add3-ea07532525e8",
             "links": {},
             "meta": {
-                "score": 10.793848
+                "score": 10.790342
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6068,8 +6068,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6079,8 +6079,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -6112,8 +6112,8 @@
                             "Regional <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Modern Trade"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6121,7 +6121,7 @@
             "id": "4a232815-70d5-444f-9c55-ee588a714932",
             "links": {},
             "meta": {
-                "score": 10.784693
+                "score": 10.781476
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6153,8 +6153,8 @@
                             "Relationship <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -6187,9 +6187,9 @@
                             "distributor's performance and monitor their work, so that relevant information can be provided to the <em class=\"search-highlight\">management</em>"
                         ],
                         "value": [
+                            "manager",
                             "management",
-                            "sales",
-                            "manager"
+                            "sales"
                         ]
                     },
                     {
@@ -6207,8 +6207,8 @@
                             "Export <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6216,7 +6216,7 @@
             "id": "868c1cf4-41f1-4fe5-abd8-26ffbaad0c11",
             "links": {},
             "meta": {
-                "score": 10.78047
+                "score": 10.776957
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6287,8 +6287,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6296,7 +6296,7 @@
             "id": "c54df121-e5f4-46a1-8e0f-19f562341fda",
             "links": {},
             "meta": {
-                "score": 10.736274
+                "score": 10.7329445
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6337,8 +6337,8 @@
                             "Professional Experience\n\nMinimum of 12 years in <em class=\"search-highlight\">Sales</em> and a background in FMCG industry."
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6348,8 +6348,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -6381,8 +6381,8 @@
                             "Regional <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Alexandria"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6390,7 +6390,7 @@
             "id": "634a346e-a9ff-4e60-b712-59132169a06e",
             "links": {},
             "meta": {
-                "score": 10.7284355
+                "score": 10.725108
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6422,8 +6422,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6453,8 +6453,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> (Engineering Background)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6462,7 +6462,7 @@
             "id": "cc02cc88-8fd0-4f08-a22c-41a28f7a6feb",
             "links": {},
             "meta": {
-                "score": 10.722275
+                "score": 10.71896
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6494,9 +6494,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
+                            "manager",
                             "sales",
-                            "manager"
+                            "Sales"
                         ]
                     },
                     {
@@ -6507,9 +6507,9 @@
                             "and verbal communication skills.Dedication to providing great customer service.Ability to lead a <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "managing",
                             "management",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -6519,8 +6519,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -6533,9 +6533,9 @@
                             "goals.Setting individual <em class=\"search-highlight\">sales</em> targets with the <em class=\"search-highlight\">sales</em> team.Tracking <em class=\"search-highlight\">sales</em> goals and reporting results"
                         ],
                         "value": [
+                            "manage",
                             "management",
-                            "sales",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -6553,8 +6553,8 @@
                             "Real Estate <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6562,7 +6562,7 @@
             "id": "575ea06d-519c-418d-becd-12c46280ff5d",
             "links": {},
             "meta": {
-                "score": 10.716896
+                "score": 10.713303
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6592,8 +6592,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6614,8 +6614,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -6644,8 +6644,8 @@
                             "Furniture <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6653,7 +6653,7 @@
             "id": "83adabb6-f781-45da-b7a8-eb0f000ac3c1",
             "links": {},
             "meta": {
-                "score": 10.668827
+                "score": 10.665392
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6693,8 +6693,8 @@
                             "arrangements on behalf of the <em class=\"search-highlight\">sales</em> managerSolve problems of any issue that may arise Maintain a good"
                         ],
                         "value": [
-                            "Manage",
-                            "sales"
+                            "sales",
+                            "Manage"
                         ]
                     },
                     {
@@ -6703,8 +6703,8 @@
                             "Assistant <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6712,7 +6712,7 @@
             "id": "d97e12de-ee87-414f-a797-41443544d759",
             "links": {},
             "meta": {
-                "score": 10.667871
+                "score": 10.664479
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6742,8 +6742,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6788,8 +6788,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Real Estate"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6797,7 +6797,7 @@
             "id": "1690d470-e7b0-4368-8cc9-1d34e96dd526",
             "links": {},
             "meta": {
-                "score": 10.655655
+                "score": 10.652211
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6827,8 +6827,8 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6838,8 +6838,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -6849,8 +6849,8 @@
                             "plans .<em class=\"search-highlight\">Manage</em> and Operate marketing team"
                         ],
                         "value": [
-                            "Sales",
-                            "Manage"
+                            "Manage",
+                            "Sales"
                         ]
                     },
                     {
@@ -6868,8 +6868,8 @@
                             "<em class=\"search-highlight\">Sales</em> & Marketing <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6877,7 +6877,7 @@
             "id": "32b03ca4-26b9-477c-a7b0-e09cbdf5b3e1",
             "links": {},
             "meta": {
-                "score": 10.652042
+                "score": 10.648621
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6908,8 +6908,8 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -6940,9 +6940,9 @@
                             "revenue targets, by providing quality account <em class=\"search-highlight\">management</em> to new and existing customers within agreed"
                         ],
                         "value": [
-                            "managers",
-                            "management",
                             "Manages",
+                            "management",
+                            "managers",
                             "sales"
                         ]
                     },
@@ -6952,8 +6952,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -6961,7 +6961,7 @@
             "id": "3ca35ae8-e933-4351-847e-f4ffee9febda",
             "links": {},
             "meta": {
-                "score": 10.638804
+                "score": 10.63536
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6993,9 +6993,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7032,8 +7032,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> ( B2B )"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7041,7 +7041,7 @@
             "id": "849df6b8-505d-4c32-a4f0-78677acf81fd",
             "links": {},
             "meta": {
-                "score": 10.512155
+                "score": 10.508341
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7072,9 +7072,9 @@
                             "account <em class=\"search-highlight\">manager</em>"
                         ],
                         "value": [
-                            "Sales",
+                            "manager",
                             "sales",
-                            "manager"
+                            "Sales"
                         ]
                     },
                     {
@@ -7085,8 +7085,8 @@
                             "interpersonal skills.Knowledge of <em class=\"search-highlight\">sales</em> metrics.Ability to problem-solve."
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7108,9 +7108,9 @@
                             "account targets.Monitoring <em class=\"search-highlight\">sales</em>."
                         ],
                         "value": [
-                            "Sales",
+                            "Managing",
                             "sales",
-                            "Managing"
+                            "Sales"
                         ]
                     },
                     {
@@ -7119,8 +7119,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> - Cairo"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7128,7 +7128,7 @@
             "id": "ce930acc-de9a-4c68-884f-6f6b38cdef1c",
             "links": {},
             "meta": {
-                "score": 10.498249
+                "score": 10.494411
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7159,8 +7159,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7206,8 +7206,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7215,7 +7215,7 @@
             "id": "5888f484-db01-4189-b603-675d68771d80",
             "links": {},
             "meta": {
-                "score": 10.497749
+                "score": 10.494114
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7247,9 +7247,9 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7273,8 +7273,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -7284,8 +7284,8 @@
                             ", developing, and maintaining positive business and customer relationships.Actively seeking out new <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "sales",
-                            "Managing"
+                            "Managing",
+                            "sales"
                         ]
                     },
                     {
@@ -7303,8 +7303,8 @@
                             "Area/Regional <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> - Medical Devices"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7312,7 +7312,7 @@
             "id": "b6cd7831-cafb-4fbf-956a-37d3600b061c",
             "links": {},
             "meta": {
-                "score": 10.420415
+                "score": 10.416474
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7344,9 +7344,9 @@
                             "<em class=\"search-highlight\">sales</em> skills"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7357,9 +7357,9 @@
                             "written and verbal communication skills.Dedication to providing great customer service.Ability to lead a <em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "managing",
                             "management",
-                            "sales"
+                            "sales",
+                            "managing"
                         ]
                     },
                     {
@@ -7369,8 +7369,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -7383,11 +7383,11 @@
                             "You will work with <em class=\"search-highlight\">Sales</em> Inventory Operations Planning (SIOP) to strategically align sellers and customer"
                         ],
                         "value": [
-                            "Manage",
-                            "manage",
-                            "Sales",
                             "sales",
-                            "management"
+                            "management",
+                            "manage",
+                            "Manage",
+                            "Sales"
                         ]
                     },
                     {
@@ -7405,8 +7405,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7414,7 +7414,7 @@
             "id": "4617a750-2e60-4b70-9753-a0c71d0dd4db",
             "links": {},
             "meta": {
-                "score": 10.415551
+                "score": 10.411607
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7479,8 +7479,8 @@
                             "and track key account metrics (e.g. quarterly <em class=\"search-highlight\">sales</em> results and annual forecasts) ,Correspondences Emails"
                         ],
                         "value": [
-                            "management",
                             "Manages",
+                            "management",
                             "sales"
                         ]
                     },
@@ -7490,8 +7490,8 @@
                             "Junior <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7499,7 +7499,7 @@
             "id": "51312790-e1c1-4664-882a-a735a425aeb8",
             "links": {},
             "meta": {
-                "score": 10.402238
+                "score": 10.398485
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7541,8 +7541,8 @@
                             "presentation and negotiation skills\nBasic selling and Influencing skills\nGood communication skills\nTime <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -7564,8 +7564,8 @@
                             "Providing training and producing support material for the <em class=\"search-highlight\">sales</em> team\n\nWorking Conditions :\n\nWorking"
                         ],
                         "value": [
-                            "sales",
-                            "Managing"
+                            "Managing",
+                            "sales"
                         ]
                     },
                     {
@@ -7574,8 +7574,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> (Indoor)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7583,7 +7583,7 @@
             "id": "27517eb4-4d8d-4504-93c4-1d17f32392a9",
             "links": {},
             "meta": {
-                "score": 10.38287
+                "score": 10.379097
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7613,8 +7613,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7624,8 +7624,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -7652,8 +7652,8 @@
                             "Industrial <em class=\"search-highlight\">Sales</em> Area <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7661,7 +7661,7 @@
             "id": "49be776e-8020-4cdb-bebd-ffce1a5f7e8f",
             "links": {},
             "meta": {
-                "score": 10.347259
+                "score": 10.343472
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7693,8 +7693,8 @@
                             "<em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -7721,8 +7721,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7730,7 +7730,7 @@
             "id": "b19d5a5e-3a2a-4abb-a27c-beb9b7f2d1c8",
             "links": {},
             "meta": {
-                "score": 10.345975
+                "score": 10.341985
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7762,8 +7762,8 @@
                         ],
                         "value": [
                             "Manager",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7782,8 +7782,8 @@
                             "systems Monitor and review the weekly and monthly branches achievement reports provided by the branch <em class=\"search-highlight\">managers</em>"
                         ],
                         "value": [
-                            "managers",
-                            "Manager"
+                            "Manager",
+                            "managers"
                         ]
                     },
                     {
@@ -7801,8 +7801,8 @@
                             "Area <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> ( Cairo - Giza - Delta - North Upper Egypt)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7810,7 +7810,7 @@
             "id": "348d822b-91fb-4c59-b9b9-550cc1a10e2a",
             "links": {},
             "meta": {
-                "score": 10.294977
+                "score": 10.290948
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7840,8 +7840,8 @@
                             "<em class=\"search-highlight\">Sales</em> Target"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7877,8 +7877,8 @@
                             "Assistant <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7886,7 +7886,7 @@
             "id": "67022389-d6bb-4b9a-8a86-36e7cbf35af5",
             "links": {},
             "meta": {
-                "score": 10.284525
+                "score": 10.280647
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7928,8 +7928,8 @@
                         ],
                         "value": [
                             "managers",
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -7950,10 +7950,10 @@
                             "the assistant <em class=\"search-highlight\">sales</em> <em class=\"search-highlight\">manager</em> should be an expert on all the technical features and benefits of each product"
                         ],
                         "value": [
+                            "Managing",
                             "manager",
-                            "Sales",
                             "sales",
-                            "Managing"
+                            "Sales"
                         ]
                     },
                     {
@@ -7971,8 +7971,8 @@
                             "Assistant <em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>-Giza"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -7980,7 +7980,7 @@
             "id": "4ad66e1b-64c6-4388-a508-e5041c3a68e6",
             "links": {},
             "meta": {
-                "score": 10.275596
+                "score": 10.271704
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8036,8 +8036,8 @@
                             "ERP Systems <em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -8045,7 +8045,7 @@
             "id": "84753157-170b-48ad-8f5a-cfdcf527569f",
             "links": {},
             "meta": {
-                "score": 10.192597
+                "score": 10.188654
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8077,9 +8077,9 @@
                             "<em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -8110,9 +8110,9 @@
                             "Promote new products and any special offers.Advise customers about delivery schedules and after-<em class=\"search-highlight\">sales</em>"
                         ],
                         "value": [
-                            "sales",
+                            "manage",
                             "Manage",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -8121,8 +8121,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -8130,7 +8130,7 @@
             "id": "6cd1f931-471d-4732-8bea-5792fc843133",
             "links": {},
             "meta": {
-                "score": 10.099411
+                "score": 10.095199
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8162,9 +8162,9 @@
                             "<em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
-                            "Sales",
+                            "manager",
                             "sales",
-                            "manager"
+                            "Sales"
                         ]
                     },
                     {
@@ -8196,8 +8196,8 @@
                             "support for customers to support pre-<em class=\"search-highlight\">sales</em> and post-<em class=\"search-highlight\">sales</em> processesAddress all product-related queries"
                         ],
                         "value": [
-                            "sale",
-                            "sales"
+                            "sales",
+                            "sale"
                         ]
                     },
                     {
@@ -8206,8 +8206,8 @@
                             "<em class=\"search-highlight\">Sales</em> Account <em class=\"search-highlight\">Manager</em> - Software"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -8215,7 +8215,7 @@
             "id": "8131e341-1b07-4476-8620-8412b0e5a76f",
             "links": {},
             "meta": {
-                "score": 10.090185
+                "score": 10.085962
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8275,9 +8275,9 @@
                             "teams.Design, suggest and execute Key Account <em class=\"search-highlight\">sales</em> programs to maximize <em class=\"search-highlight\">sales</em> growth and customer satisfaction.Responsible"
                         ],
                         "value": [
-                            "Sales",
                             "Manager",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -8286,8 +8286,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> (Automotive Spare Parts (Experienced))"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -8295,7 +8295,7 @@
             "id": "bf6dc5e1-d76f-43e3-851c-78d367e154f5",
             "links": {},
             "meta": {
-                "score": 10.066158
+                "score": 10.062076
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8337,9 +8337,9 @@
                             "sense, with the ability to find creative business oriented solutions to problems  Strong and Solid <em class=\"search-highlight\">Sales</em>"
                         ],
                         "value": [
+                            "sales",
                             "managing",
-                            "Sales",
-                            "sales"
+                            "Sales"
                         ]
                     },
                     {
@@ -8349,8 +8349,8 @@
                             "<em class=\"search-highlight\">Sales</em>/Retail"
                         ],
                         "value": [
-                            "Sales",
-                            "Management"
+                            "Management",
+                            "Sales"
                         ]
                     },
                     {
@@ -8363,10 +8363,10 @@
                             "to be reported to the board of directors  Staff <em class=\"search-highlight\">Management</em> and Performance EvaluationSupervising the"
                         ],
                         "value": [
-                            "managing",
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "managing",
+                            "Sales"
                         ]
                     },
                     {
@@ -8384,8 +8384,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em>"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -8393,7 +8393,7 @@
             "id": "a4f97d8c-65fd-4e9d-91e5-c01432dd9bc7",
             "links": {},
             "meta": {
-                "score": 10.065614
+                "score": 10.061525
             },
             "relationships": {},
             "type": "talentSearch"
@@ -8425,9 +8425,9 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Management</em>"
                         ],
                         "value": [
-                            "Sales",
                             "Management",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -8440,9 +8440,9 @@
                             ", and problem-solving skillsAdvanced time <em class=\"search-highlight\">management</em> skills"
                         ],
                         "value": [
+                            "manage",
                             "management",
-                            "sales",
-                            "manage"
+                            "sales"
                         ]
                     },
                     {
@@ -8462,8 +8462,8 @@
                             "<em class=\"search-highlight\">sales</em> budgets and projections and approving expendituresTracking and analyzing <em class=\"search-highlight\">sales</em> statistics based"
                         ],
                         "value": [
-                            "Sales",
-                            "sales"
+                            "sales",
+                            "Sales"
                         ]
                     },
                     {
@@ -8481,8 +8481,8 @@
                             "<em class=\"search-highlight\">Sales</em> <em class=\"search-highlight\">Manager</em> (Textile)"
                         ],
                         "value": [
-                            "Sales",
-                            "Manager"
+                            "Manager",
+                            "Sales"
                         ]
                     }
                 ]
@@ -8490,7 +8490,7 @@
             "id": "1a6a6c63-e686-4a46-9be8-b389b9fcdd82",
             "links": {},
             "meta": {
-                "score": 10.054505
+                "score": 10.050223
             },
             "relationships": {},
             "type": "talentSearch"

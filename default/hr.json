@@ -73,7 +73,7 @@
             "id": "64a75a5a-933a-442d-816c-6c25d277b48d",
             "links": {},
             "meta": {
-                "score": 10.101149
+                "score": 10.099781
             },
             "relationships": {},
             "type": "talentSearch"
@@ -138,7 +138,7 @@
             "id": "110ecb17-4e33-4f00-b674-0a9446af7db7",
             "links": {},
             "meta": {
-                "score": 10.028359
+                "score": 10.027283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -203,7 +203,7 @@
             "id": "149e7fc8-431a-4fce-aece-f9f85d2b4df6",
             "links": {},
             "meta": {
-                "score": 10.013088
+                "score": 10.01198
             },
             "relationships": {},
             "type": "talentSearch"
@@ -269,7 +269,7 @@
             "id": "275631f5-4a92-4af7-bd21-bf28551990e7",
             "links": {},
             "meta": {
-                "score": 9.99849
+                "score": 9.997272
             },
             "relationships": {},
             "type": "talentSearch"
@@ -326,7 +326,7 @@
             "id": "f52da919-b67e-444e-ab8c-0be7d5fc6c96",
             "links": {},
             "meta": {
-                "score": 9.99753
+                "score": 9.996428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -395,7 +395,7 @@
             "id": "bccb1967-9c44-456b-8f57-03c797c99bb3",
             "links": {},
             "meta": {
-                "score": 9.982271
+                "score": 9.981065
             },
             "relationships": {},
             "type": "talentSearch"
@@ -451,7 +451,7 @@
             "id": "3a0c4332-eede-47ff-b166-934b0953d1c9",
             "links": {},
             "meta": {
-                "score": 9.979923
+                "score": 9.978777
             },
             "relationships": {},
             "type": "talentSearch"
@@ -481,8 +481,8 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "hr",
-                            "HR"
+                            "HR",
+                            "hr"
                         ]
                     },
                     {
@@ -509,7 +509,7 @@
             "id": "1f604fe2-a3fe-4577-844f-1aef6239de0a",
             "links": {},
             "meta": {
-                "score": 9.97496
+                "score": 9.973746
             },
             "relationships": {},
             "type": "talentSearch"
@@ -575,7 +575,7 @@
             "id": "c98996e3-4049-45af-bdc9-03a80c676433",
             "links": {},
             "meta": {
-                "score": 9.97478
+                "score": 9.973558
             },
             "relationships": {},
             "type": "talentSearch"
@@ -620,7 +620,7 @@
             "id": "596e5696-2e16-45bc-b438-3f02cb5c6cc0",
             "links": {},
             "meta": {
-                "score": 9.971365
+                "score": 9.970272
             },
             "relationships": {},
             "type": "talentSearch"
@@ -675,7 +675,7 @@
             "id": "797605e9-b89a-415b-af2a-00aa90014e18",
             "links": {},
             "meta": {
-                "score": 9.968044
+                "score": 9.966825
             },
             "relationships": {},
             "type": "talentSearch"
@@ -730,7 +730,7 @@
             "id": "6d12877b-4cca-4bd5-821b-8ac6a2af1759",
             "links": {},
             "meta": {
-                "score": 9.964022
+                "score": 9.962816
             },
             "relationships": {},
             "type": "talentSearch"
@@ -796,7 +796,7 @@
             "id": "971dc333-ac38-4424-a48f-d1b3e7793aea",
             "links": {},
             "meta": {
-                "score": 9.957297
+                "score": 9.955943
             },
             "relationships": {},
             "type": "talentSearch"
@@ -850,7 +850,7 @@
             "id": "1d494750-58c8-4624-a3e2-47d2edbb5533",
             "links": {},
             "meta": {
-                "score": 9.952107
+                "score": 9.950775
             },
             "relationships": {},
             "type": "talentSearch"
@@ -905,7 +905,7 @@
             "id": "30350d17-d3b8-459a-9444-bf8aa922fa4a",
             "links": {},
             "meta": {
-                "score": 9.943764
+                "score": 9.942408
             },
             "relationships": {},
             "type": "talentSearch"
@@ -976,7 +976,7 @@
             "id": "51eef258-5eb6-4cab-b552-cd80a06538ab",
             "links": {},
             "meta": {
-                "score": 9.94061
+                "score": 9.939248
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1043,7 +1043,7 @@
             "id": "59fa178a-6991-43f8-b114-1541a9231ff2",
             "links": {},
             "meta": {
-                "score": 9.932323
+                "score": 9.93096
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1102,7 +1102,7 @@
             "id": "905a9964-1ad8-4640-bd68-4cc93f2f355f",
             "links": {},
             "meta": {
-                "score": 9.927218
+                "score": 9.9258585
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1168,7 +1168,7 @@
             "id": "f7730b04-b556-4128-b99e-223eab785fc2",
             "links": {},
             "meta": {
-                "score": 9.9183655
+                "score": 9.916872
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1222,7 +1222,7 @@
             "id": "bcc47d84-fa11-4e60-9cf5-91044b6eace2",
             "links": {},
             "meta": {
-                "score": 9.898759
+                "score": 9.897287
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1278,7 +1278,7 @@
             "id": "32da08b3-75df-4793-85fa-62a2cbf095be",
             "links": {},
             "meta": {
-                "score": 9.838555
+                "score": 9.836831
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1347,7 +1347,7 @@
             "id": "8b5e79af-0c66-4220-ad45-48836a6e328e",
             "links": {},
             "meta": {
-                "score": 9.831062
+                "score": 9.829321
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1418,7 +1418,7 @@
             "id": "8e838ffc-b829-48aa-9781-8c781b52e8db",
             "links": {},
             "meta": {
-                "score": 9.830817
+                "score": 9.829085
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1485,7 +1485,7 @@
             "id": "5004772b-f5d7-44ff-9bba-8d7db613e968",
             "links": {},
             "meta": {
-                "score": 9.827365
+                "score": 9.825527
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1530,7 +1530,7 @@
             "id": "32aa591e-c653-42ba-8280-f68af3e4d222",
             "links": {},
             "meta": {
-                "score": 9.800447
+                "score": 9.798734
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1598,7 +1598,7 @@
             "id": "42e5fd9c-cd25-4b1e-8967-51257ebfceaf",
             "links": {},
             "meta": {
-                "score": 9.798315
+                "score": 9.796469
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1643,7 +1643,7 @@
             "id": "968e6af5-2cca-4747-b009-2533419d2ed7",
             "links": {},
             "meta": {
-                "score": 9.796208
+                "score": 9.794482
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1709,7 +1709,7 @@
             "id": "092b2e9e-db8b-4f1f-94c8-abbabfe2a766",
             "links": {},
             "meta": {
-                "score": 9.792374
+                "score": 9.79052
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1754,7 +1754,7 @@
             "id": "56b2eff5-672b-4bad-a99b-57a7ce46e6ba",
             "links": {},
             "meta": {
-                "score": 9.792209
+                "score": 9.790471
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1819,7 +1819,7 @@
             "id": "7eaf36c8-2802-4d18-95b3-30c4f563386c",
             "links": {},
             "meta": {
-                "score": 9.781945
+                "score": 9.780075
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1883,7 +1883,7 @@
             "id": "711eacc7-0fb6-48c0-8f40-7f6c65a6f9f3",
             "links": {},
             "meta": {
-                "score": 9.768187
+                "score": 9.766234
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1941,7 +1941,7 @@
             "id": "3a54ff65-05a9-4f48-a976-1abf3f5cdb12",
             "links": {},
             "meta": {
-                "score": 9.765926
+                "score": 9.764081
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1996,7 +1996,7 @@
             "id": "f9c4af15-b41a-4af0-b819-9a41851ed297",
             "links": {},
             "meta": {
-                "score": 9.759966
+                "score": 9.75806
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2060,7 +2060,7 @@
             "id": "3036e478-76cc-4fd2-b6cf-51735c2a8a3e",
             "links": {},
             "meta": {
-                "score": 9.750335
+                "score": 9.74835
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2114,7 +2114,7 @@
             "id": "217c4766-acfb-4406-b2fa-d18401f37ec5",
             "links": {},
             "meta": {
-                "score": 9.723919
+                "score": 9.721963
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2168,7 +2168,7 @@
             "id": "20b45220-3023-4412-bfb6-01a0e1021c59",
             "links": {},
             "meta": {
-                "score": 9.720188
+                "score": 9.7182045
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2222,7 +2222,7 @@
             "id": "46cc90c7-a5c0-44d8-bfa7-9704f8d4c136",
             "links": {},
             "meta": {
-                "score": 9.713803
+                "score": 9.711822
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2268,7 +2268,7 @@
             "id": "0d04d8f4-d5d9-48ca-a694-e63bf97ffb37",
             "links": {},
             "meta": {
-                "score": 9.700077
+                "score": 9.698098
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2314,7 +2314,7 @@
             "id": "389ac9a9-9c71-4f24-ba54-ca561660e4a9",
             "links": {},
             "meta": {
-                "score": 9.699429
+                "score": 9.697448
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2383,7 +2383,7 @@
             "id": "41cc0faf-e005-42c8-b766-91d16918c667",
             "links": {},
             "meta": {
-                "score": 9.694604
+                "score": 9.692509
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2453,7 +2453,7 @@
             "id": "23321f37-1fd1-461f-a707-2b971bacc1fb",
             "links": {},
             "meta": {
-                "score": 9.690521
+                "score": 9.688457
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2507,7 +2507,7 @@
             "id": "aa69f6e4-eb2c-4d7a-8a09-dc6a3d08b84e",
             "links": {},
             "meta": {
-                "score": 9.677511
+                "score": 9.675428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2565,7 +2565,7 @@
             "id": "e290230f-cfaf-4497-bed3-9dcd7249e7f0",
             "links": {},
             "meta": {
-                "score": 9.663784
+                "score": 9.661688
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2623,7 +2623,7 @@
             "id": "1a307a3a-7052-40d3-84e4-2b4b0d892c2f",
             "links": {},
             "meta": {
-                "score": 9.662886
+                "score": 9.660781
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2680,7 +2680,7 @@
             "id": "8657480c-a1d7-4b0b-8bd9-0c56c8d11180",
             "links": {},
             "meta": {
-                "score": 9.66036
+                "score": 9.658266
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2744,7 +2744,7 @@
             "id": "5c7a239f-ca0d-4262-a7a0-22073907051f",
             "links": {},
             "meta": {
-                "score": 9.649782
+                "score": 9.647572
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2800,7 +2800,7 @@
             "id": "183a28c3-a24a-4dc2-8a4c-7ce87c4b2297",
             "links": {},
             "meta": {
-                "score": 9.634559
+                "score": 9.632376
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2856,7 +2856,7 @@
             "id": "e9be0402-a75f-4f1d-9cf9-cd571afe6066",
             "links": {},
             "meta": {
-                "score": 9.628209
+                "score": 9.626006
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2913,7 +2913,7 @@
             "id": "f0ff33c6-bd5d-494b-86e3-22e30e0cd312",
             "links": {},
             "meta": {
-                "score": 9.614526
+                "score": 9.612323
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2967,7 +2967,7 @@
             "id": "73300b58-9a01-4b30-a7c6-0c21bc1af0b6",
             "links": {},
             "meta": {
-                "score": 9.603484
+                "score": 9.601201
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3012,7 +3012,7 @@
             "id": "061e1977-75a5-4820-8a3b-247f1e0af2a6",
             "links": {},
             "meta": {
-                "score": 9.597867
+                "score": 9.595658
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3058,7 +3058,7 @@
             "id": "2592de10-5c99-4978-ade2-95c283ec7cc3",
             "links": {},
             "meta": {
-                "score": 9.591844
+                "score": 9.5896225
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3113,7 +3113,7 @@
             "id": "d03403fe-3777-4cb1-9515-7318369a00f8",
             "links": {},
             "meta": {
-                "score": 9.579179
+                "score": 9.576861
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3158,7 +3158,7 @@
             "id": "0428b6bb-ef28-45e4-bc5b-11dfa4bc68df",
             "links": {},
             "meta": {
-                "score": 9.565841
+                "score": 9.563566
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3223,7 +3223,7 @@
             "id": "52802eb6-0b1d-4a84-ab14-2bb67f281fab",
             "links": {},
             "meta": {
-                "score": 9.518826
+                "score": 9.516309
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3288,7 +3288,7 @@
             "id": "107712cf-9653-4ffb-8c6b-fdc950fd607b",
             "links": {},
             "meta": {
-                "score": 9.483014
+                "score": 9.480477
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3343,7 +3343,7 @@
             "id": "972f5251-fb47-4c29-be06-40a2645cdc39",
             "links": {},
             "meta": {
-                "score": 9.479215
+                "score": 9.476691
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3412,7 +3412,7 @@
             "id": "03c108ef-6c2d-461e-88d3-e8f0bfba6bf6",
             "links": {},
             "meta": {
-                "score": 9.472192
+                "score": 9.469653
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3479,7 +3479,7 @@
             "id": "b10069cc-1da3-4ebb-b229-60f9f11a04a6",
             "links": {},
             "meta": {
-                "score": 9.472088
+                "score": 9.469521
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3546,7 +3546,7 @@
             "id": "d8179f73-2b91-4f8f-b98a-bd92599226d5",
             "links": {},
             "meta": {
-                "score": 9.471428
+                "score": 9.468881
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3600,7 +3600,7 @@
             "id": "941f1f6c-23b4-430a-a26a-154412e2f3f1",
             "links": {},
             "meta": {
-                "score": 9.467743
+                "score": 9.465256
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3654,7 +3654,7 @@
             "id": "c103a2b0-a9ed-4696-ad6d-6f93a8c164c8",
             "links": {},
             "meta": {
-                "score": 9.445427
+                "score": 9.442891
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3699,7 +3699,7 @@
             "id": "904ca509-3ab6-47ed-9f75-7c26f4f040f9",
             "links": {},
             "meta": {
-                "score": 9.419037
+                "score": 9.416491
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3744,7 +3744,7 @@
             "id": "18c05ca5-1b04-4e79-83ca-8a846140aba7",
             "links": {},
             "meta": {
-                "score": 9.409576
+                "score": 9.407014
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3800,7 +3800,7 @@
             "id": "ba518736-5722-4205-a374-97f40d80cca6",
             "links": {},
             "meta": {
-                "score": 9.381923
+                "score": 9.379273
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3855,7 +3855,7 @@
             "id": "a9c8ee4f-9cbf-49d9-a243-4ae72caa81d4",
             "links": {},
             "meta": {
-                "score": 9.348814
+                "score": 9.346056
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3901,7 +3901,7 @@
             "id": "f5a8a840-7379-4770-922e-b236ec026bef",
             "links": {},
             "meta": {
-                "score": 9.309641
+                "score": 9.306916
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3968,7 +3968,7 @@
             "id": "da4a46bd-5428-4d7f-a915-516b5ffdaa5e",
             "links": {},
             "meta": {
-                "score": 9.302636
+                "score": 9.299626
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4023,7 +4023,7 @@
             "id": "902359ab-3782-4f03-85ec-1256aa097cc5",
             "links": {},
             "meta": {
-                "score": 9.252579
+                "score": 9.249734
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4090,7 +4090,7 @@
             "id": "16729afd-601c-417f-97fc-7a4ff118af83",
             "links": {},
             "meta": {
-                "score": 9.246926
+                "score": 9.244062
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4147,7 +4147,7 @@
             "id": "2852c6df-61e3-44c8-85d7-2ad2d4205737",
             "links": {},
             "meta": {
-                "score": 9.237497
+                "score": 9.234644
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4192,7 +4192,7 @@
             "id": "cd653915-b163-4ef6-88d3-8d953622f3e8",
             "links": {},
             "meta": {
-                "score": 9.226831
+                "score": 9.223984
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4258,7 +4258,7 @@
             "id": "2fb92992-8a03-4e64-a489-03a42953954b",
             "links": {},
             "meta": {
-                "score": 9.200644
+                "score": 9.197667
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4313,7 +4313,7 @@
             "id": "13c13960-7934-40b2-86bc-962e9953a94e",
             "links": {},
             "meta": {
-                "score": 9.175239
+                "score": 9.172283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4368,7 +4368,7 @@
             "id": "1f351e53-6d40-4839-9507-6743461d2ca2",
             "links": {},
             "meta": {
-                "score": 9.173817
+                "score": 9.170847
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4422,7 +4422,7 @@
             "id": "cde0110a-8805-4b6a-9e4b-fbbb3de2dede",
             "links": {},
             "meta": {
-                "score": 9.153452
+                "score": 9.150472
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4476,7 +4476,7 @@
             "id": "bf55f8ec-1d45-4a9c-b1db-a04d1a5fa2af",
             "links": {},
             "meta": {
-                "score": 9.153388
+                "score": 9.150408
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4521,7 +4521,7 @@
             "id": "1eeea0bf-f272-4c28-b434-a38611541f4b",
             "links": {},
             "meta": {
-                "score": 9.15169
+                "score": 9.148739
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4579,7 +4579,7 @@
             "id": "b455303b-6c22-4db6-96bb-8c8ff2e509ac",
             "links": {},
             "meta": {
-                "score": 9.148402
+                "score": 9.145428
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4626,7 +4626,7 @@
             "id": "6139733d-c624-4ee0-b01e-1b35fb91a4e3",
             "links": {},
             "meta": {
-                "score": 9.137583
+                "score": 9.134613
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4682,7 +4682,7 @@
             "id": "a458241b-8693-4737-8b97-a0feb67643bb",
             "links": {},
             "meta": {
-                "score": 9.105015
+                "score": 9.10196
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4748,7 +4748,7 @@
             "id": "76ee646b-87df-4842-b4f0-ecd378ce95ea",
             "links": {},
             "meta": {
-                "score": 8.979049
+                "score": 8.975773
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4817,7 +4817,7 @@
             "id": "11c604fe-9e2e-4f78-a383-415b6221cc1f",
             "links": {},
             "meta": {
-                "score": 8.946906
+                "score": 8.943658
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4883,7 +4883,7 @@
             "id": "f180bfdc-257c-447e-bd3a-21fe2b9e9c2e",
             "links": {},
             "meta": {
-                "score": 8.944769
+                "score": 8.941515
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4948,7 +4948,7 @@
             "id": "ed419edf-539b-4bde-845f-989d84e9206e",
             "links": {},
             "meta": {
-                "score": 8.938464
+                "score": 8.935185
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5014,7 +5014,7 @@
             "id": "d6d27805-925d-4566-9eb7-baa0f36761bc",
             "links": {},
             "meta": {
-                "score": 8.937769
+                "score": 8.93451
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5079,7 +5079,7 @@
             "id": "e57ff5c2-c9af-43d7-9821-115fa0d99df1",
             "links": {},
             "meta": {
-                "score": 8.937305
+                "score": 8.934041
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5148,7 +5148,7 @@
             "id": "be999336-2628-4bfd-81e5-959596d09e25",
             "links": {},
             "meta": {
-                "score": 8.927008
+                "score": 8.923737
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5208,7 +5208,7 @@
             "id": "5e82350b-3d0b-4d67-9e5f-bbdeaf6d8550",
             "links": {},
             "meta": {
-                "score": 8.922393
+                "score": 8.919142
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5263,7 +5263,7 @@
             "id": "998c5f00-c763-4bcd-b6cc-6e07138c4dc8",
             "links": {},
             "meta": {
-                "score": 8.8466425
+                "score": 8.843317
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5292,8 +5292,8 @@
                             "Human Resources (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "hr",
-                            "HR"
+                            "HR",
+                            "hr"
                         ]
                     },
                     {
@@ -5322,7 +5322,7 @@
             "id": "0f3cc459-ceae-43d1-95ff-983e3202e1f7",
             "links": {},
             "meta": {
-                "score": 8.840505
+                "score": 8.837168
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5380,7 +5380,7 @@
             "id": "e6c2240a-5969-43e8-8465-16da99707a99",
             "links": {},
             "meta": {
-                "score": 8.832157
+                "score": 8.828814
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5434,7 +5434,7 @@
             "id": "6641685b-a34e-4de7-81d9-f64d58b0947f",
             "links": {},
             "meta": {
-                "score": 8.828179
+                "score": 8.824831
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5488,7 +5488,7 @@
             "id": "0d4d4eb1-c27a-433e-821a-40ae72da74ed",
             "links": {},
             "meta": {
-                "score": 8.827932
+                "score": 8.824518
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5554,7 +5554,7 @@
             "id": "51083f65-a1d5-490c-a57a-8255b93c7719",
             "links": {},
             "meta": {
-                "score": 8.778349
+                "score": 8.774913
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5619,7 +5619,7 @@
             "id": "c7559dd7-1aa7-44df-af2a-cfb994a13136",
             "links": {},
             "meta": {
-                "score": 8.772093
+                "score": 8.768665
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5686,7 +5686,7 @@
             "id": "35e4d4e1-3668-451e-98af-21afc2259984",
             "links": {},
             "meta": {
-                "score": 8.771915
+                "score": 8.768468
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5750,7 +5750,7 @@
             "id": "13a581f8-8ea0-4177-8071-8ca4413b1a35",
             "links": {},
             "meta": {
-                "score": 8.76648
+                "score": 8.763035
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5804,7 +5804,7 @@
             "id": "8adc235d-1c6c-476b-a969-4d1e0415beec",
             "links": {},
             "meta": {
-                "score": 8.744737
+                "score": 8.741301
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5869,7 +5869,7 @@
             "id": "aba30ccb-4379-453b-a3a8-b7da4af28833",
             "links": {},
             "meta": {
-                "score": 8.70674
+                "score": 8.70321
             },
             "relationships": {},
             "type": "talentSearch"

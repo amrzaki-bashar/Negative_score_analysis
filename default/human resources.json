@@ -24,9 +24,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -35,8 +35,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -47,10 +47,10 @@
                             "for new employees.Ensure that <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> files and records are maintained in accordance with legal"
                         ],
                         "value": [
-                            "human",
-                            "resources",
+                            "Resources",
                             "Human",
-                            "Resources"
+                            "resources",
+                            "human"
                         ]
                     },
                     {
@@ -59,8 +59,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Recruiter"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -68,7 +68,7 @@
             "id": "0249c84e-b2e2-4ff3-baa3-80aa9faa2d22",
             "links": {},
             "meta": {
-                "score": 36.588913
+                "score": 36.584896
             },
             "relationships": {},
             "type": "talentSearch"
@@ -96,9 +96,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -107,8 +107,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -132,8 +132,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist - Alexandria"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -141,7 +141,7 @@
             "id": "84685c9f-b5ef-4253-9cd4-2f3146ec54fa",
             "links": {},
             "meta": {
-                "score": 36.394184
+                "score": 36.389313
             },
             "relationships": {},
             "type": "talentSearch"
@@ -171,9 +171,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -186,12 +186,12 @@
                             "<em class=\"search-highlight\">resources</em>, business administration or relevant field; MSc/MA in <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> will be a plusStrong"
                         ],
                         "value": [
-                            "Human",
                             "Resources",
+                            "Human",
                             "resource",
-                            "resources",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -200,8 +200,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -224,8 +224,8 @@
                             "Chief <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Officer"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -233,7 +233,7 @@
             "id": "61173448-9dad-4b0d-9178-7befdfdbcaba",
             "links": {},
             "meta": {
-                "score": 36.0054
+                "score": 35.999084
             },
             "relationships": {},
             "type": "talentSearch"
@@ -261,9 +261,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -272,8 +272,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -282,8 +282,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Personnel"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -291,7 +291,7 @@
             "id": "a8e72ef0-3de6-4406-8642-7ba444ad688d",
             "links": {},
             "meta": {
-                "score": 35.984657
+                "score": 35.978394
             },
             "relationships": {},
             "type": "talentSearch"
@@ -321,9 +321,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -332,8 +332,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -355,8 +355,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Manager"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -364,7 +364,7 @@
             "id": "e7f551f6-5fb7-46fb-9a5d-e5c246bd86cc",
             "links": {},
             "meta": {
-                "score": 35.969044
+                "score": 35.962784
             },
             "relationships": {},
             "type": "talentSearch"
@@ -392,9 +392,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -403,8 +403,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -413,8 +413,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> & OD Manager"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -422,7 +422,7 @@
             "id": "c5ac6558-a866-437b-b6f1-af3af2e038c4",
             "links": {},
             "meta": {
-                "score": 35.947582
+                "score": 35.94127
             },
             "relationships": {},
             "type": "talentSearch"
@@ -452,9 +452,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -464,8 +464,8 @@
                             "skills.Excellent communication and people skillsGood knowledge of employment/labor lawsProven experience as an <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -475,8 +475,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -486,8 +486,8 @@
                             "<em class=\"search-highlight\">Resources</em> Information System (HRIS) to get insightful analytics and take actions accordingly.Recruitment"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -496,8 +496,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Generalist"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -505,7 +505,7 @@
             "id": "d2c3a4e7-3592-45ad-9224-8103dca09311",
             "links": {},
             "meta": {
-                "score": 35.917923
+                "score": 35.9112
             },
             "relationships": {},
             "type": "talentSearch"
@@ -533,9 +533,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -544,8 +544,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -564,8 +564,8 @@
                             "Personnel Officer - <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -573,7 +573,7 @@
             "id": "abc435d5-da68-4416-b2e5-7bdd06109949",
             "links": {},
             "meta": {
-                "score": 35.653038
+                "score": 35.64587
             },
             "relationships": {},
             "type": "talentSearch"
@@ -602,9 +602,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -617,8 +617,8 @@
                         ],
                         "value": [
                             "resourceful",
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -628,8 +628,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -650,8 +650,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -659,7 +659,7 @@
             "id": "48d7816a-5f2d-4a24-8128-682f37ee0146",
             "links": {},
             "meta": {
-                "score": 35.539623
+                "score": 35.532017
             },
             "relationships": {},
             "type": "talentSearch"
@@ -688,9 +688,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -709,8 +709,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -729,8 +729,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Specialist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -738,7 +738,7 @@
             "id": "0fe067d3-24ae-4cbf-bef5-5d27fec5e111",
             "links": {},
             "meta": {
-                "score": 35.277157
+                "score": 35.26903
             },
             "relationships": {},
             "type": "talentSearch"
@@ -768,9 +768,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -788,8 +788,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -798,8 +798,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Section Head"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -807,7 +807,7 @@
             "id": "a1e20822-2aff-45bc-85fb-245423cab0bf",
             "links": {},
             "meta": {
-                "score": 35.26043
+                "score": 35.252316
             },
             "relationships": {},
             "type": "talentSearch"
@@ -835,9 +835,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -846,8 +846,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -856,8 +856,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Recruiter"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -865,7 +865,7 @@
             "id": "178679e2-93f4-4596-8851-835fa37ba38d",
             "links": {},
             "meta": {
-                "score": 35.231182
+                "score": 35.2231
             },
             "relationships": {},
             "type": "talentSearch"
@@ -895,9 +895,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -906,8 +906,8 @@
                             "Proven experience as an <em class=\"search-highlight\">HR</em> GeneralistUnderstanding of general <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> policies and proceduresGood"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -917,8 +917,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -930,8 +930,8 @@
                             "tasks around performance managementGather and analyze data with useful <em class=\"search-highlight\">HR</em> metrics, like time to hire"
                         ],
                         "value": [
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -941,8 +941,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -950,7 +950,7 @@
             "id": "5127254f-56b8-4bde-a947-a270cc6eab00",
             "links": {},
             "meta": {
-                "score": 35.149124
+                "score": 35.14063
             },
             "relationships": {},
             "type": "talentSearch"
@@ -979,9 +979,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -999,8 +999,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1018,8 +1018,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1027,7 +1027,7 @@
             "id": "c2cb483d-cb32-4163-a728-9d00d841b17f",
             "links": {},
             "meta": {
-                "score": 35.075836
+                "score": 35.067375
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1055,9 +1055,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1066,8 +1066,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1076,8 +1076,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Recruitment Administrator"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1085,7 +1085,7 @@
             "id": "77254b37-1ffa-436c-b2b7-34edb3fbb741",
             "links": {},
             "meta": {
-                "score": 34.853992
+                "score": 34.84518
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1116,10 +1116,10 @@
                             "<em class=\"search-highlight\">HR</em> Systems"
                         ],
                         "value": [
-                            "resources",
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human",
+                            "resources"
                         ]
                     },
                     {
@@ -1138,8 +1138,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1161,8 +1161,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Manager"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1170,7 +1170,7 @@
             "id": "77c671be-32ec-4242-9dfa-f3ad570d1214",
             "links": {},
             "meta": {
-                "score": 34.847763
+                "score": 34.83887
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1199,9 +1199,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1220,8 +1220,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1231,8 +1231,8 @@
                             "site leader on topics/requests that are site specific like policies, labor law changes impacting local <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "HRS",
-                            "HR"
+                            "HR",
+                            "HRS"
                         ]
                     },
                     {
@@ -1241,8 +1241,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Business Partner - Alexandria"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -1250,7 +1250,7 @@
             "id": "24d84f27-f123-4cdd-8c89-caf7b13440cd",
             "links": {},
             "meta": {
-                "score": 34.578346
+                "score": 34.568996
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1279,9 +1279,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -1299,8 +1299,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1320,8 +1320,8 @@
                             "Junior <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Coordinator"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1329,7 +1329,7 @@
             "id": "6924f2e4-b85a-4f91-bbae-5aa38374a2df",
             "links": {},
             "meta": {
-                "score": 34.41523
+                "score": 34.405544
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1358,9 +1358,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1378,8 +1378,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1390,8 +1390,8 @@
                             "<em class=\"search-highlight\">resources</em> policies, procedures, laws, and standards to new and existing employeesEnsuring new hire paperwork"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -1401,8 +1401,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Supervisor"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1410,7 +1410,7 @@
             "id": "aa195b8d-dca0-4a16-9622-9bfc48364a57",
             "links": {},
             "meta": {
-                "score": 34.140232
+                "score": 34.13011
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1439,9 +1439,9 @@
                             "<em class=\"search-highlight\">HR</em> Systems"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1452,9 +1452,9 @@
                             "skills.Excellent active listening, negotiation and presentation skills.In-depth knowledge of labor law and <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -1463,8 +1463,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1477,9 +1477,9 @@
                             "<em class=\"search-highlight\">resource</em> management.Advice and assist management on matters relating to <em class=\"search-highlight\">HR</em> best practices (procedures"
                         ],
                         "value": [
+                            "HR",
                             "resources",
                             "resource",
-                            "HR",
                             "human"
                         ]
                     },
@@ -1489,8 +1489,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Manager"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1498,7 +1498,7 @@
             "id": "c334409e-09df-493a-8b1e-f1c6d7b3e88f",
             "links": {},
             "meta": {
-                "score": 33.883144
+                "score": 33.87259
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1528,9 +1528,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -1548,8 +1548,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1562,9 +1562,9 @@
                             "Programs and PolicesEnsure smooth flow of information between employees and <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> department"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -1573,8 +1573,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Supervisor"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1582,7 +1582,7 @@
             "id": "13e5ab51-5945-455d-b53a-fb8712713071",
             "links": {},
             "meta": {
-                "score": 33.82995
+                "score": 33.81941
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1612,9 +1612,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1637,8 +1637,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1651,8 +1651,8 @@
                             "employees.Daily & Monthly Responsibilities:Prepare paperwork, schedule, and facilitate smooth daily <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -1662,8 +1662,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Coordinator"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1671,7 +1671,7 @@
             "id": "27cc9658-51b9-40ff-9426-7cf1fe6b1fb0",
             "links": {},
             "meta": {
-                "score": 33.52838
+                "score": 33.517445
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1702,9 +1702,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -1715,9 +1715,9 @@
                             "of experience5 years of <em class=\"search-highlight\">HR</em> Administration work experience at medium to large enterprises preferably"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1726,8 +1726,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1749,8 +1749,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1758,7 +1758,7 @@
             "id": "8bd20bb4-aa63-49e5-bb37-b48f0d39db8b",
             "links": {},
             "meta": {
-                "score": 32.775547
+                "score": 32.763596
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1787,9 +1787,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1810,8 +1810,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1829,8 +1829,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1838,7 +1838,7 @@
             "id": "ec185db6-dbc3-46a5-9e2f-0eaf980edcda",
             "links": {},
             "meta": {
-                "score": 32.566456
+                "score": 32.554302
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1868,9 +1868,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1884,9 +1884,9 @@
                         "value": [
                             "Resources",
                             "Human",
-                            "resources",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -1895,8 +1895,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1914,8 +1914,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Manager"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -1923,7 +1923,7 @@
             "id": "99387645-d0ce-424a-8197-60cb35b61717",
             "links": {},
             "meta": {
-                "score": 32.461777
+                "score": 32.449474
             },
             "relationships": {},
             "type": "talentSearch"
@@ -1951,9 +1951,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1962,8 +1962,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -1981,8 +1981,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Manager"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -1990,7 +1990,7 @@
             "id": "f511b1c7-8f97-4b3c-8fc3-818ffd6aadbe",
             "links": {},
             "meta": {
-                "score": 32.13918
+                "score": 32.12668
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2018,9 +2018,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2030,9 +2030,9 @@
                             "as an <em class=\"search-highlight\">HR</em>.Exposure to Labor Law.Full understanding of <em class=\"search-highlight\">HR</em> functions and best practices.Excellent written"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2041,8 +2041,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2064,8 +2064,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Specialist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2073,7 +2073,7 @@
             "id": "9502e6d4-bdb5-4f65-ad11-951628bc3b20",
             "links": {},
             "meta": {
-                "score": 31.541212
+                "score": 31.528065
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2102,9 +2102,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2113,8 +2113,8 @@
                             "Bachelor’s Degree In <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>, Business, Communications Or Similar FieldFrom 0 To 1 Years Experience"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2123,8 +2123,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2142,8 +2142,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Administrator - Recruitment"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2151,7 +2151,7 @@
             "id": "52d57ce5-00ce-45e5-9120-5e729d364d51",
             "links": {},
             "meta": {
-                "score": 30.877823
+                "score": 30.864119
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2179,9 +2179,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2192,9 +2192,9 @@
                             "pressure and meets tight deadlines.Desire to work as a team with a result driven approach.Additional <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
+                            "HR",
                             "resources",
                             "resource",
-                            "HR",
                             "human"
                         ]
                     },
@@ -2204,8 +2204,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2218,12 +2218,12 @@
                             "the latest <em class=\"search-highlight\">HR</em> trends and best practices.Conduct employee onboarding and help organize training & development"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
                             "resource",
-                            "Resources",
-                            "resources",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -2232,8 +2232,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2241,7 +2241,7 @@
             "id": "8f159bb7-5ecd-45c1-8489-226448457648",
             "links": {},
             "meta": {
-                "score": 30.504066
+                "score": 30.490114
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2270,9 +2270,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -2290,8 +2290,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2309,8 +2309,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> & Admin Specialist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2318,7 +2318,7 @@
             "id": "663b8be3-edb4-4849-aa1f-0b2aaeeca372",
             "links": {},
             "meta": {
-                "score": 30.106306
+                "score": 30.092068
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2348,9 +2348,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2369,8 +2369,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2389,8 +2389,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Supervisor"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2398,7 +2398,7 @@
             "id": "abb2fd86-0828-4ac7-9aa9-1362af8c51cf",
             "links": {},
             "meta": {
-                "score": 30.08125
+                "score": 30.067019
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2444,8 +2444,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2465,8 +2465,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Administrative Assistant"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -2474,7 +2474,7 @@
             "id": "4ab91621-dba7-471a-8dbc-936df444ff65",
             "links": {},
             "meta": {
-                "score": 29.986052
+                "score": 29.972328
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2502,9 +2502,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2523,8 +2523,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2542,8 +2542,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2551,7 +2551,7 @@
             "id": "2c25c9b3-7afb-4c94-9da8-e35cf542a0a2",
             "links": {},
             "meta": {
-                "score": 29.422783
+                "score": 29.408178
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2579,9 +2579,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2590,8 +2590,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2611,8 +2611,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2620,7 +2620,7 @@
             "id": "63631a42-c062-422a-9ed5-6fd7ebb4772f",
             "links": {},
             "meta": {
-                "score": 29.35835
+                "score": 29.343739
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2650,9 +2650,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -2663,8 +2663,8 @@
                             "Specialist or <em class=\"search-highlight\">HR</em> GeneralistHR diploma or certificate is a plus.Excellent interpersonal skills.Good knowledge"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -2674,8 +2674,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2693,8 +2693,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Recruiter"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2702,7 +2702,7 @@
             "id": "c0f84aa9-613d-49cb-b9fb-54cd70e0007f",
             "links": {},
             "meta": {
-                "score": 29.072134
+                "score": 29.057283
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2732,11 +2732,11 @@
                             "<em class=\"search-highlight\">Human</em>"
                         ],
                         "value": [
-                            "resource",
-                            "Human",
                             "Resources",
-                            "HR",
-                            "human"
+                            "Human",
+                            "resource",
+                            "human",
+                            "HR"
                         ]
                     },
                     {
@@ -2745,8 +2745,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2755,8 +2755,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> \\ Personal \\ PayrollOne of the leading global textiles and apparel manufacturer and retailer"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     },
                     {
@@ -2765,8 +2765,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Specialist (Personal & Payroll)"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -2774,7 +2774,7 @@
             "id": "436783b8-f596-4cf6-95f9-37dcab6e2e92",
             "links": {},
             "meta": {
-                "score": 29.042057
+                "score": 29.027246
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2804,9 +2804,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2815,8 +2815,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2829,11 +2829,11 @@
                             "Maintaining a database of all information related to <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> and personnel."
                         ],
                         "value": [
-                            "Human",
                             "Resources",
-                            "resources",
+                            "Human",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -2842,8 +2842,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Coordinator"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2851,7 +2851,7 @@
             "id": "46604afb-b12a-47d9-8167-91d157e1bf53",
             "links": {},
             "meta": {
-                "score": 28.994596
+                "score": 28.979776
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2881,9 +2881,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2892,8 +2892,8 @@
                             "Bachelor’s in <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> managementPreferred 3 years <em class=\"search-highlight\">HR</em> experience, minimum 1 year in CONSTRUCTION"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -2903,8 +2903,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2923,8 +2923,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -2932,7 +2932,7 @@
             "id": "993221bf-6655-4fb0-b431-b1ff7f50e99e",
             "links": {},
             "meta": {
-                "score": 28.40182
+                "score": 28.386591
             },
             "relationships": {},
             "type": "talentSearch"
@@ -2960,9 +2960,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2971,8 +2971,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -2981,8 +2981,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Advisor - Maadi"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -2990,7 +2990,7 @@
             "id": "54715c43-d596-498a-9301-3d3febe2be2b",
             "links": {},
             "meta": {
-                "score": 28.366535
+                "score": 28.351406
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3021,9 +3021,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Management"
                         ],
                         "value": [
-                            "Resource",
-                            "Human",
                             "Resources",
+                            "Human",
+                            "Resource",
                             "Hr",
                             "HR"
                         ]
@@ -3044,8 +3044,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3058,12 +3058,12 @@
                             "metricsEnsure legal compliance throughout <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resource</em> management"
                         ],
                         "value": [
-                            "Human",
                             "Resources",
+                            "Human",
                             "resource",
-                            "resources",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -3072,8 +3072,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Manager"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3081,7 +3081,7 @@
             "id": "521afddc-d95b-4303-8512-6df6e198d3bd",
             "links": {},
             "meta": {
-                "score": 27.867056
+                "score": 27.85167
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3111,9 +3111,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -3124,11 +3124,11 @@
                             "a proven ability to meet deadlines.Strong analytical and problem-solving skills.An understanding of <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resource",
-                            "Human",
                             "Resources",
-                            "HR",
-                            "human"
+                            "Human",
+                            "resource",
+                            "human",
+                            "HR"
                         ]
                     },
                     {
@@ -3137,8 +3137,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3150,11 +3150,11 @@
                             "<em class=\"search-highlight\">resources</em>, talent management, and employment law.Assist in the performance evaluation process.Performs"
                         ],
                         "value": [
-                            "Human",
                             "Resources",
-                            "resources",
+                            "Human",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -3163,8 +3163,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3172,7 +3172,7 @@
             "id": "eff4727f-0fbd-4233-9f4c-f361c0e0825c",
             "links": {},
             "meta": {
-                "score": 27.537207
+                "score": 27.521666
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3202,9 +3202,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -3222,8 +3222,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3241,8 +3241,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Recruiter"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -3250,7 +3250,7 @@
             "id": "2a157293-9f62-4525-af17-3b61055f2ba2",
             "links": {},
             "meta": {
-                "score": 27.485281
+                "score": 27.469732
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3279,9 +3279,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3299,8 +3299,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3318,8 +3318,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Supervisor"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3327,7 +3327,7 @@
             "id": "0f180fa4-bb1d-4424-a191-3dae507889a3",
             "links": {},
             "meta": {
-                "score": 27.146944
+                "score": 27.131266
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3357,9 +3357,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -3377,8 +3377,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3391,8 +3391,8 @@
                             "<em class=\"search-highlight\">resources</em> department to guide the utilization, development, or hiring of personnel.Leading business"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -3402,8 +3402,8 @@
                             "Senior <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Specialist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3411,7 +3411,7 @@
             "id": "f6650f26-c46e-41b9-ab98-a1acf213d34f",
             "links": {},
             "meta": {
-                "score": 27.130838
+                "score": 27.115177
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3440,9 +3440,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -3461,8 +3461,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3483,8 +3483,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Supervisor"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3492,7 +3492,7 @@
             "id": "c05fdbd1-1ece-437c-accc-5d8398309887",
             "links": {},
             "meta": {
-                "score": 27.054077
+                "score": 27.038385
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3524,9 +3524,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -3536,9 +3536,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> metricsKnowledge of <em class=\"search-highlight\">HR</em> systems and databasesAbility to architect strategy along with"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -3547,8 +3547,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3561,8 +3561,8 @@
                             "metricsEnsure legal compliance throughout <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resource</em> management"
                         ],
                         "value": [
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -3572,8 +3572,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Specialist"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -3581,7 +3581,7 @@
             "id": "6186be28-5501-43c9-a700-1f62190de823",
             "links": {},
             "meta": {
-                "score": 26.885317
+                "score": 26.869513
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3610,9 +3610,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3621,8 +3621,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3640,8 +3640,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Intern"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3649,7 +3649,7 @@
             "id": "5c7bb405-1192-4bb9-bbbc-d82f9a1fa136",
             "links": {},
             "meta": {
-                "score": 26.307894
+                "score": 26.291979
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3677,9 +3677,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3688,8 +3688,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3701,8 +3701,8 @@
                         ],
                         "value": [
                             "Hr",
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -3712,8 +3712,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Recruiter"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3721,7 +3721,7 @@
             "id": "e9a6199c-2b06-41cd-871a-4b481ff33a60",
             "links": {},
             "meta": {
-                "score": 26.23924
+                "score": 26.223305
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3750,9 +3750,9 @@
                             "<em class=\"search-highlight\">HR</em> Management"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3761,8 +3761,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3782,8 +3782,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3791,7 +3791,7 @@
             "id": "f07337c4-5087-4824-a535-3aefa5e9589a",
             "links": {},
             "meta": {
-                "score": 25.064548
+                "score": 25.048363
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3820,9 +3820,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3840,8 +3840,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3852,8 +3852,8 @@
                             "new hires, changes and terminationsDeliver needed monthly payroll reports on timeProvide full service <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resource",
-                            "HR"
+                            "HR",
+                            "resource"
                         ]
                     },
                     {
@@ -3862,8 +3862,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Supervisor"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3871,7 +3871,7 @@
             "id": "c9122012-c53b-462c-a1e7-b4d1be84e053",
             "links": {},
             "meta": {
-                "score": 25.037447
+                "score": 25.021238
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3900,9 +3900,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3920,8 +3920,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3930,8 +3930,8 @@
                             "Senior <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Specialist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -3939,7 +3939,7 @@
             "id": "1e343c0c-c6cd-4432-95f5-bc09cd764190",
             "links": {},
             "meta": {
-                "score": 24.724936
+                "score": 24.708673
             },
             "relationships": {},
             "type": "talentSearch"
@@ -3969,9 +3969,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -3989,8 +3989,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4010,8 +4010,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resource</em> Specialist"
                         ],
                         "value": [
-                            "Resource",
-                            "Human"
+                            "Human",
+                            "Resource"
                         ]
                     }
                 ]
@@ -4019,7 +4019,7 @@
             "id": "a4e0fc1c-9381-429d-a1ad-dd0482c8a28d",
             "links": {},
             "meta": {
-                "score": 24.25435
+                "score": 24.238018
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4048,9 +4048,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4060,8 +4060,8 @@
                             "<em class=\"search-highlight\">HR</em> from AUC or PHR certification.Able to work with minimal supervisionExcellent communication skills.Accuracy"
                         ],
                         "value": [
-                            "Resource",
-                            "HR"
+                            "HR",
+                            "Resource"
                         ]
                     },
                     {
@@ -4070,8 +4070,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4084,9 +4084,9 @@
                             "metricsEnsure legal compliance throughout <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resource</em> managementPrepare a plan of <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em>"
                         ],
                         "value": [
+                            "HR",
                             "resources",
                             "resource",
-                            "HR",
                             "human"
                         ]
                     },
@@ -4096,8 +4096,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Business Partner (IT Background)"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -4105,7 +4105,7 @@
             "id": "4c92ccbd-fbaf-4a8b-ab2c-42c2c815b7e8",
             "links": {},
             "meta": {
-                "score": 23.89807
+                "score": 23.88171
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4133,9 +4133,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4144,8 +4144,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4154,8 +4154,8 @@
                             "Junior <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Specialist"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -4163,7 +4163,7 @@
             "id": "9ea88198-c2c1-4f19-86b5-e1030cf479c9",
             "links": {},
             "meta": {
-                "score": 23.368284
+                "score": 23.35189
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4194,9 +4194,9 @@
                             "<em class=\"search-highlight\">HR</em> Certificate"
                         ],
                         "value": [
+                            "Hr",
                             "Human",
                             "HR",
-                            "Hr",
                             "Resources"
                         ]
                     },
@@ -4216,8 +4216,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4236,8 +4236,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Coordinator"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -4245,7 +4245,7 @@
             "id": "2d1d9480-ae1a-4585-9b46-3393e17c5a22",
             "links": {},
             "meta": {
-                "score": 22.211279
+                "score": 22.19484
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4275,9 +4275,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -4288,9 +4288,9 @@
                             "will interact with both the <em class=\"search-highlight\">HR</em> Manager, along TP’s respective departments."
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4299,8 +4299,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4312,9 +4312,9 @@
                             "issues.Provides advice and assistance in developing <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resource</em> plans.Ensure employees' satisfaction"
                         ],
                         "value": [
+                            "HR",
                             "resources",
                             "resource",
-                            "HR",
                             "human"
                         ]
                     },
@@ -4324,8 +4324,8 @@
                             "Senior <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> Generalist - Giza"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     }
                 ]
@@ -4333,7 +4333,7 @@
             "id": "32a12a8b-1573-4c5f-9858-7fea73df17e9",
             "links": {},
             "meta": {
-                "score": 21.913025
+                "score": 21.896566
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4363,9 +4363,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4376,8 +4376,8 @@
                             "deadlines.Developed relationshipAbility to support multiple countries.Expert in specific content areas of <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -4387,8 +4387,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4410,8 +4410,8 @@
                             "senior team members on <em class=\"search-highlight\">HR</em> processes and implementation, and is responsible for end-to-end country <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -4429,7 +4429,7 @@
             "id": "64a75a5a-933a-442d-816c-6c25d277b48d",
             "links": {},
             "meta": {
-                "score": 21.882982
+                "score": 21.880018
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4461,9 +4461,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4473,9 +4473,9 @@
                             "Knowledge of Personnel and <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> principles\nKnowledge of administrative procedures and systems"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -4484,8 +4484,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4495,10 +4495,10 @@
                             "Ensure that <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> files and records are maintained in accordance with legal requirements and"
                         ],
                         "value": [
-                            "human",
-                            "resources",
+                            "Resources",
                             "Human",
-                            "Resources"
+                            "resources",
+                            "human"
                         ]
                     },
                     {
@@ -4515,7 +4515,7 @@
             "id": "f52da919-b67e-444e-ab8c-0be7d5fc6c96",
             "links": {},
             "meta": {
-                "score": 21.87153
+                "score": 21.869118
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4544,9 +4544,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -4555,8 +4555,8 @@
                             "5+ years of <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> experience in IT companyPrevious experience with distributed teams, outsource"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4565,8 +4565,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4593,7 +4593,7 @@
             "id": "3a0c4332-eede-47ff-b166-934b0953d1c9",
             "links": {},
             "meta": {
-                "score": 21.859806
+                "score": 21.857294
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4623,9 +4623,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4643,8 +4643,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4670,7 +4670,7 @@
             "id": "110ecb17-4e33-4f00-b674-0a9446af7db7",
             "links": {},
             "meta": {
-                "score": 21.850464
+                "score": 21.84812
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4700,11 +4700,11 @@
                             "<em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resources</em> management"
                         ],
                         "value": [
-                            "Human",
                             "Resources",
-                            "resources",
+                            "Human",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -4714,8 +4714,8 @@
                             "<em class=\"search-highlight\">Resources</em> Management.Excellent negotiation & persuasion skills,Effective interactive communication skillsExcellent"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4724,8 +4724,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4753,7 +4753,7 @@
             "id": "596e5696-2e16-45bc-b438-3f02cb5c6cc0",
             "links": {},
             "meta": {
-                "score": 21.83059
+                "score": 21.828196
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4782,9 +4782,9 @@
                             "<em class=\"search-highlight\">HR</em> Certificate"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4802,8 +4802,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4814,8 +4814,8 @@
                             "<em class=\"search-highlight\">resources</em> issues, rules, and complains.Manage and organize the <em class=\"search-highlight\">HR</em> filling Systems.Employee Files’ preparation"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -4833,7 +4833,7 @@
             "id": "149e7fc8-431a-4fce-aece-f9f85d2b4df6",
             "links": {},
             "meta": {
-                "score": 21.814877
+                "score": 21.812464
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4863,9 +4863,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4874,9 +4874,9 @@
                             "Minimum 7 years of <em class=\"search-highlight\">HR</em> experience.Bachelor’s degree in Business, <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>, or a related field.Master"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -4885,8 +4885,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4914,7 +4914,7 @@
             "id": "797605e9-b89a-415b-af2a-00aa90014e18",
             "links": {},
             "meta": {
-                "score": 21.798542
+                "score": 21.795874
             },
             "relationships": {},
             "type": "talentSearch"
@@ -4943,9 +4943,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -4958,12 +4958,12 @@
                             "<em class=\"search-highlight\">resource</em> information system (HRIS), and similar computer applications.Prefer Nearby residents.Females"
                         ],
                         "value": [
-                            "Human",
                             "Resources",
+                            "Human",
                             "resource",
-                            "resources",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -4972,8 +4972,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -4988,9 +4988,9 @@
                         "value": [
                             "Resources",
                             "Human",
-                            "resources",
+                            "human",
                             "HR",
-                            "human"
+                            "resources"
                         ]
                     },
                     {
@@ -5007,7 +5007,7 @@
             "id": "c98996e3-4049-45af-bdc9-03a80c676433",
             "links": {},
             "meta": {
-                "score": 21.791443
+                "score": 21.788774
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5037,9 +5037,9 @@
                             "<em class=\"search-highlight\">HR</em> Certificate"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5058,8 +5058,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5085,7 +5085,7 @@
             "id": "275631f5-4a92-4af7-bd21-bf28551990e7",
             "links": {},
             "meta": {
-                "score": 21.787304
+                "score": 21.784647
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5114,9 +5114,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -5135,8 +5135,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5149,9 +5149,9 @@
                             "<em class=\"search-highlight\">resources</em>, talent management, and employment law.Performs other duties as assigned"
                         ],
                         "value": [
+                            "HR",
                             "resources",
                             "resource",
-                            "HR",
                             "human"
                         ]
                     },
@@ -5169,7 +5169,7 @@
             "id": "bccb1967-9c44-456b-8f57-03c797c99bb3",
             "links": {},
             "meta": {
-                "score": 21.75321
+                "score": 21.750582
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5197,9 +5197,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5208,8 +5208,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5236,7 +5236,7 @@
             "id": "6d12877b-4cca-4bd5-821b-8ac6a2af1759",
             "links": {},
             "meta": {
-                "score": 21.748436
+                "score": 21.745806
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5266,10 +5266,10 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "hr",
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human",
+                            "hr"
                         ]
                     },
                     {
@@ -5288,8 +5288,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5306,7 +5306,7 @@
             "id": "1f604fe2-a3fe-4577-844f-1aef6239de0a",
             "links": {},
             "meta": {
-                "score": 21.746082
+                "score": 21.743437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5335,9 +5335,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5356,8 +5356,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5383,7 +5383,7 @@
             "id": "bcc47d84-fa11-4e60-9cf5-91044b6eace2",
             "links": {},
             "meta": {
-                "score": 21.72272
+                "score": 21.71949
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5411,9 +5411,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5431,8 +5431,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5459,7 +5459,7 @@
             "id": "1d494750-58c8-4624-a3e2-47d2edbb5533",
             "links": {},
             "meta": {
-                "score": 21.69749
+                "score": 21.694588
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5489,9 +5489,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5502,8 +5502,8 @@
                             ", or a related field, additional <em class=\"search-highlight\">HR</em> education and certification will be a plusUnderstanding of labor"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -5513,8 +5513,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5542,7 +5542,7 @@
             "id": "59fa178a-6991-43f8-b114-1541a9231ff2",
             "links": {},
             "meta": {
-                "score": 21.694416
+                "score": 21.691437
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5572,9 +5572,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -5592,8 +5592,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5605,8 +5605,8 @@
                             "<em class=\"search-highlight\">resources</em> department such as (labor offices - insurance office - health insurance authority). "
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -5624,7 +5624,7 @@
             "id": "971dc333-ac38-4424-a48f-d1b3e7793aea",
             "links": {},
             "meta": {
-                "score": 21.692862
+                "score": 21.68991
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5653,9 +5653,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5673,8 +5673,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5691,7 +5691,7 @@
             "id": "30350d17-d3b8-459a-9444-bf8aa922fa4a",
             "links": {},
             "meta": {
-                "score": 21.680687
+                "score": 21.67773
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5721,9 +5721,9 @@
                             "<em class=\"search-highlight\">HR</em> Diploma"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5743,8 +5743,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5774,7 +5774,7 @@
             "id": "51eef258-5eb6-4cab-b552-cd80a06538ab",
             "links": {},
             "meta": {
-                "score": 21.670792
+                "score": 21.667824
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5805,9 +5805,9 @@
                             "<em class=\"search-highlight\">HR</em> Coordination"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5816,8 +5816,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5846,7 +5846,7 @@
             "id": "905a9964-1ad8-4640-bd68-4cc93f2f355f",
             "links": {},
             "meta": {
-                "score": 21.668953
+                "score": 21.665985
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5876,9 +5876,9 @@
                             "<em class=\"search-highlight\">HR</em> Systems"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5897,8 +5897,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5924,7 +5924,7 @@
             "id": "f7730b04-b556-4128-b99e-223eab785fc2",
             "links": {},
             "meta": {
-                "score": 21.611721
+                "score": 21.608467
             },
             "relationships": {},
             "type": "talentSearch"
@@ -5955,9 +5955,9 @@
                             "<em class=\"search-highlight\">HR</em> Systems"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5969,9 +5969,9 @@
                             "best practicesDegree in <em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> or related field"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -5980,8 +5980,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -5994,8 +5994,8 @@
                             "metricsEnsure legal compliance throughout <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resource</em> management"
                         ],
                         "value": [
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -6013,7 +6013,7 @@
             "id": "8b5e79af-0c66-4220-ad45-48836a6e328e",
             "links": {},
             "meta": {
-                "score": 21.487947
+                "score": 21.48414
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6043,9 +6043,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6058,9 +6058,9 @@
                             "information websites.Assist in the design and the development of diverse new <em class=\"search-highlight\">HR</em> projects in the field"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6069,8 +6069,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6099,7 +6099,7 @@
             "id": "8e838ffc-b829-48aa-9781-8c781b52e8db",
             "links": {},
             "meta": {
-                "score": 21.479866
+                "score": 21.476082
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6129,9 +6129,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -6149,8 +6149,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6167,7 +6167,7 @@
             "id": "32da08b3-75df-4793-85fa-62a2cbf095be",
             "links": {},
             "meta": {
-                "score": 21.444826
+                "score": 21.441069
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6195,9 +6195,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6206,8 +6206,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6224,7 +6224,7 @@
             "id": "32aa591e-c653-42ba-8280-f68af3e4d222",
             "links": {},
             "meta": {
-                "score": 21.421654
+                "score": 21.417908
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6253,9 +6253,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6266,9 +6266,9 @@
                             "track record of leading and motivating medical salesforce.Post graduate certificate in <em class=\"search-highlight\">HR</em> is a preferable.Strong"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6277,8 +6277,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6306,7 +6306,7 @@
             "id": "42e5fd9c-cd25-4b1e-8967-51257ebfceaf",
             "links": {},
             "meta": {
-                "score": 21.420912
+                "score": 21.416876
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6334,9 +6334,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6345,8 +6345,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6375,7 +6375,7 @@
             "id": "968e6af5-2cca-4747-b009-2533419d2ed7",
             "links": {},
             "meta": {
-                "score": 21.401108
+                "score": 21.397337
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6403,9 +6403,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6414,8 +6414,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6432,7 +6432,7 @@
             "id": "56b2eff5-672b-4bad-a99b-57a7ce46e6ba",
             "links": {},
             "meta": {
-                "score": 21.393806
+                "score": 21.39001
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6460,9 +6460,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6480,8 +6480,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6511,7 +6511,7 @@
             "id": "5004772b-f5d7-44ff-9bba-8d7db613e968",
             "links": {},
             "meta": {
-                "score": 21.379139
+                "score": 21.37514
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6541,9 +6541,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6562,8 +6562,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6575,8 +6575,8 @@
                             "capital.Conduct exit interviews to identify reasons for employee termination.Develop and monitor overall <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -6594,7 +6594,7 @@
             "id": "092b2e9e-db8b-4f1f-94c8-abbabfe2a766",
             "links": {},
             "meta": {
-                "score": 21.336401
+                "score": 21.332363
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6624,9 +6624,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6644,8 +6644,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6671,7 +6671,7 @@
             "id": "7eaf36c8-2802-4d18-95b3-30c4f563386c",
             "links": {},
             "meta": {
-                "score": 21.32047
+                "score": 21.316395
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6701,9 +6701,9 @@
                             "<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6712,8 +6712,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6741,7 +6741,7 @@
             "id": "3a54ff65-05a9-4f48-a976-1abf3f5cdb12",
             "links": {},
             "meta": {
-                "score": 21.313375
+                "score": 21.309347
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6770,9 +6770,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -6790,8 +6790,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6808,7 +6808,7 @@
             "id": "f9c4af15-b41a-4af0-b819-9a41851ed297",
             "links": {},
             "meta": {
-                "score": 21.295847
+                "score": 21.291689
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6837,9 +6837,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6858,8 +6858,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6885,7 +6885,7 @@
             "id": "46cc90c7-a5c0-44d8-bfa7-9704f8d4c136",
             "links": {},
             "meta": {
-                "score": 21.286358
+                "score": 21.282015
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6914,9 +6914,9 @@
                             "<em class=\"search-highlight\">HR</em> Certificate"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6934,8 +6934,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -6946,8 +6946,8 @@
                             "Assisting with completing background investigations\nProcessing transfers, promotions, and terminations\n\n<em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resources",
                             "HR",
+                            "resources",
                             "human"
                         ]
                     },
@@ -6965,7 +6965,7 @@
             "id": "711eacc7-0fb6-48c0-8f40-7f6c65a6f9f3",
             "links": {},
             "meta": {
-                "score": 21.26935
+                "score": 21.2651
             },
             "relationships": {},
             "type": "talentSearch"
@@ -6994,9 +6994,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -7014,8 +7014,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7041,7 +7041,7 @@
             "id": "3036e478-76cc-4fd2-b6cf-51735c2a8a3e",
             "links": {},
             "meta": {
-                "score": 21.238333
+                "score": 21.23401
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7069,9 +7069,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7080,8 +7080,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7107,7 +7107,7 @@
             "id": "217c4766-acfb-4406-b2fa-d18401f37ec5",
             "links": {},
             "meta": {
-                "score": 21.22239
+                "score": 21.21812
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7135,9 +7135,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7146,8 +7146,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7173,7 +7173,7 @@
             "id": "20b45220-3023-4412-bfb6-01a0e1021c59",
             "links": {},
             "meta": {
-                "score": 21.218784
+                "score": 21.214453
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7204,9 +7204,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7215,8 +7215,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7233,7 +7233,7 @@
             "id": "0d04d8f4-d5d9-48ca-a694-e63bf97ffb37",
             "links": {},
             "meta": {
-                "score": 21.189854
+                "score": 21.185532
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7262,9 +7262,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -7273,8 +7273,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7291,7 +7291,7 @@
             "id": "389ac9a9-9c71-4f24-ba54-ca561660e4a9",
             "links": {},
             "meta": {
-                "score": 21.189678
+                "score": 21.185352
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7319,9 +7319,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7340,8 +7340,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7354,8 +7354,8 @@
                             "various sources.Ensure legal compliance throughout <em class=\"search-highlight\">human</em> <em class=\"search-highlight\">resource</em> management"
                         ],
                         "value": [
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -7373,7 +7373,7 @@
             "id": "e290230f-cfaf-4497-bed3-9dcd7249e7f0",
             "links": {},
             "meta": {
-                "score": 21.182121
+                "score": 21.177526
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7401,9 +7401,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7416,9 +7416,9 @@
                             "Personnel) from 1 to 2 years is a mustExcellent interpersonal and problem-solving skillsFamiliarity with <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -7427,8 +7427,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7457,7 +7457,7 @@
             "id": "23321f37-1fd1-461f-a707-2b971bacc1fb",
             "links": {},
             "meta": {
-                "score": 21.165907
+                "score": 21.161396
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7485,9 +7485,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
-                            "Human",
                             "HR",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7496,8 +7496,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7523,7 +7523,7 @@
             "id": "aa69f6e4-eb2c-4d7a-8a09-dc6a3d08b84e",
             "links": {},
             "meta": {
-                "score": 21.12539
+                "score": 21.120842
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7577,8 +7577,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7589,8 +7589,8 @@
                             "capitalConduct exit interviews to identify reasons for employee termination.Develop and monitor overall <em class=\"search-highlight\">HR</em>"
                         ],
                         "value": [
-                            "resource",
                             "HR",
+                            "resource",
                             "human"
                         ]
                     },
@@ -7608,7 +7608,7 @@
             "id": "41cc0faf-e005-42c8-b766-91d16918c667",
             "links": {},
             "meta": {
-                "score": 21.124544
+                "score": 21.119982
             },
             "relationships": {},
             "type": "talentSearch"
@@ -7637,9 +7637,9 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em> (<em class=\"search-highlight\">HR</em>)"
                         ],
                         "value": [
+                            "Resources",
                             "Human",
-                            "HR",
-                            "Resources"
+                            "HR"
                         ]
                     },
                     {
@@ -7648,8 +7648,8 @@
                             "<em class=\"search-highlight\">Human</em> <em class=\"search-highlight\">Resources</em>"
                         ],
                         "value": [
-                            "Human",
-                            "Resources"
+                            "Resources",
+                            "Human"
                         ]
                     },
                     {
@@ -7678,7 +7678,7 @@
             "id": "1a307a3a-7052-40d3-84e4-2b4b0d892c2f",
             "links": {},
             "meta": {
-                "score": 21.090477
+                "score": 21.085884
             },
             "relationships": {},
             "type": "talentSearch"
